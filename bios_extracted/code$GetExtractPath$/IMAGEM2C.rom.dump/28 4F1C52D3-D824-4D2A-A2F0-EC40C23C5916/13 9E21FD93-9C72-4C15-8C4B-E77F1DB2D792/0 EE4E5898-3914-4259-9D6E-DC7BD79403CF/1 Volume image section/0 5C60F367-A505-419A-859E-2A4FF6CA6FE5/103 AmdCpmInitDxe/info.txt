@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdCpmInitDxe
+Offset: 1F72B0h
+Full size: 5842h (22594)
+Header size: 18h (24)
+Body size: 582Ah (22570)
+File GUID: 162793AA-0FE7-4010-9818-45F55C5CCC3E
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: F3h, valid
+Data checksum: AAh, valid

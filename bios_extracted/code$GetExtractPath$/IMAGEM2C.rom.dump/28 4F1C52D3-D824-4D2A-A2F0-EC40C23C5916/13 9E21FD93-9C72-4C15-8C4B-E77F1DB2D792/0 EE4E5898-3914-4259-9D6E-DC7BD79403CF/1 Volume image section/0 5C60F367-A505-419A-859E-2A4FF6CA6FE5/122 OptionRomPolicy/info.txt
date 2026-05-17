@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: OptionRomPolicy
+Offset: 2E5638h
+Full size: 74BEh (29886)
+Header size: 18h (24)
+Body size: 74A6h (29862)
+File GUID: 734E8BE9-4801-4A31-A3FA-D61CCB601CA9
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 4Fh, valid
+Data checksum: AAh, valid

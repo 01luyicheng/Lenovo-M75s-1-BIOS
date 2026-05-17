@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: PspResource
+Offset: 3772A0h
+Full size: 1F82h (8066)
+Header size: 18h (24)
+Body size: 1F6Ah (8042)
+File GUID: 369DE372-AB36-4CE1-8E45-8806B76DD70F
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: B7h, valid
+Data checksum: AAh, valid

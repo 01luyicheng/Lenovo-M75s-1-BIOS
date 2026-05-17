@@ -1,0 +1,17 @@
+Type: Section
+Subtype: PEI dependency
+Base: 1D2EED8h
+Header address: FFD2EED8h
+Data address: FFD2EEDCh
+Offset: 18h
+Full size: 3Ah (58)
+Header size: 4h (4)
+Body size: 36h (54)
+Type: 1Bh
+Parsed expression:
+PUSH E37AE8DF-568A-4DCC-9371-3DCBDAA4618A
+PUSH 5E133105-E9B6-4D52-9694-6054D5B44AE6
+PUSH 01F34D25-4DE2-23AD-3FF3-36353FF323F1
+AND
+AND
+END

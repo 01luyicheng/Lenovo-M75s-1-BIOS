@@ -1,0 +1,13 @@
+Type: NVAR entry
+Subtype: Full
+Text: PlatformLang
+Base: 10372C5h
+Header address: FF0372C5h
+Data address: FF0372DDh
+Offset: 235h
+Full size: 1Eh (30)
+Header size: 18h (24)
+Body size: 6h (6)
+Variable GUID: 8BE4DF61-93CA-11D2-AA0D-00E098032B8C
+GUID index: 1
+Attributes: 83h (Runtime, AsciiName, Valid)

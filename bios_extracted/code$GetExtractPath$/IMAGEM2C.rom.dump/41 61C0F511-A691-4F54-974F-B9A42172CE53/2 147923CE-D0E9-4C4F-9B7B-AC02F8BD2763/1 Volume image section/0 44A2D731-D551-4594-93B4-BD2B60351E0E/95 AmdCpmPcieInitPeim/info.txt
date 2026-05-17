@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdCpmPcieInitPeim
+Base: 1D9F910h
+Header address: FFD9F910h
+Data address: FFD9F928h
+Offset: 9D910h
+Full size: E0Eh (3598)
+Header size: 18h (24)
+Body size: DF6h (3574)
+File GUID: DE3D7A9C-A218-4891-7469-4FC0AE853298
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 31h, valid
+Data checksum: AAh, valid

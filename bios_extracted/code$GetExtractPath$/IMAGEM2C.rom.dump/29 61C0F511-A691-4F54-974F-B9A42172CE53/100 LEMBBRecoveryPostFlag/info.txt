@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: LEMBBRecoveryPostFlag
+Base: E20300h
+Header address: FEE20300h
+Data address: FEE20318h
+Offset: 120300h
+Full size: 256h (598)
+Header size: 18h (24)
+Body size: 23Eh (574)
+File GUID: C7C27153-E7FD-4D67-9670-CB214EEF0F0E
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 71h, valid
+Data checksum: AAh, valid

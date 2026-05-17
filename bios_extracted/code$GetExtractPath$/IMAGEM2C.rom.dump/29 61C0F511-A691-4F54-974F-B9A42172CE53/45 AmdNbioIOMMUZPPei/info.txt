@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdNbioIOMMUZPPei
+Base: D9A698h
+Header address: FED9A698h
+Data address: FED9A6B0h
+Offset: 9A698h
+Full size: 45Eh (1118)
+Header size: 18h (24)
+Body size: 446h (1094)
+File GUID: C59716EE-2D90-4B1D-9C36-16523E105689
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: ACh, valid
+Data checksum: AAh, valid

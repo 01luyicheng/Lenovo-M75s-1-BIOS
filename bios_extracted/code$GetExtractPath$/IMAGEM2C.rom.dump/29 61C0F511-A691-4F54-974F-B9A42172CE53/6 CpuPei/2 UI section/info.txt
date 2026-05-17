@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: D0E51Ch
+Header address: FED0E51Ch
+Data address: FED0E520h
+Offset: 203Ch
+Full size: 12h (18)
+Header size: 4h (4)
+Body size: Eh (14)
+Type: 15h
+Text: CpuPei

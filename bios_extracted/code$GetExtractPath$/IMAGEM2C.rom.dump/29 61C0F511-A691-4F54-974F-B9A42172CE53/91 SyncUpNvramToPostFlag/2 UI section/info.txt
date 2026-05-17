@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E1DCA8h
+Header address: FEE1DCA8h
+Data address: FEE1DCACh
+Offset: 258h
+Full size: 30h (48)
+Header size: 4h (4)
+Body size: 2Ch (44)
+Type: 15h
+Text: SyncUpNvramToPostFlag

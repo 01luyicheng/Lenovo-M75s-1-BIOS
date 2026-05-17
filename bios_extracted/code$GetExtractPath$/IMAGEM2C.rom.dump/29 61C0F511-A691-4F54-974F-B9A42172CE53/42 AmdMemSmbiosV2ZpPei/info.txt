@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdMemSmbiosV2ZpPei
+Base: D92940h
+Header address: FED92940h
+Data address: FED92958h
+Offset: 92940h
+Full size: 2706h (9990)
+Header size: 18h (24)
+Body size: 26EEh (9966)
+File GUID: A490D6C3-A8DF-4235-B756-3A2ECF32BC24
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: ACh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,8 @@
+Type: Padding
+Subtype: Empty (FFh)
+Base: 4FE980h
+Address: FE4FE980h
+Offset: 4FE980h
+Full size: 80h (128)
+Body size: 80h (128)
+

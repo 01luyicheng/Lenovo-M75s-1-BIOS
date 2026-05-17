@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: D14D60h
+Header address: FED14D60h
+Data address: FED14D64h
+Offset: 3B8h
+Full size: 30h (48)
+Header size: 4h (4)
+Body size: 2Ch (44)
+Type: 15h
+Text: PiSmmCommunicationPei

@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D50DCCh
+Header address: FFD50DCCh
+Data address: FFD50DD0h
+Offset: 3D8Ch
+Full size: 18h (24)
+Header size: 4h (4)
+Body size: 14h (20)
+Type: 15h
+Text: SmuV11Pei

@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: CptSwSmi
+Offset: 9C9258h
+Full size: 218Eh (8590)
+Header size: 18h (24)
+Body size: 2176h (8566)
+File GUID: 75189FA6-7BCF-4F4F-81BD-A4F1C3BEA95A
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 36h, valid
+Data checksum: AAh, valid

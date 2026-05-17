@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: NbDxe
+Offset: 69AF8h
+Full size: 255Ah (9562)
+Header size: 18h (24)
+Body size: 2542h (9538)
+File GUID: E4ECD0B2-E277-4F2B-BECB-E4D75C9A812E
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 6Ch, valid
+Data checksum: AAh, valid

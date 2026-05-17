@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: WarmResetFlagDxe
+Offset: 67BC78h
+Full size: 5DAh (1498)
+Header size: 18h (24)
+Body size: 5C2h (1474)
+File GUID: 7D86C03A-B1F6-4F0F-AB43-81D925F19481
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: A5h, valid
+Data checksum: AAh, valid

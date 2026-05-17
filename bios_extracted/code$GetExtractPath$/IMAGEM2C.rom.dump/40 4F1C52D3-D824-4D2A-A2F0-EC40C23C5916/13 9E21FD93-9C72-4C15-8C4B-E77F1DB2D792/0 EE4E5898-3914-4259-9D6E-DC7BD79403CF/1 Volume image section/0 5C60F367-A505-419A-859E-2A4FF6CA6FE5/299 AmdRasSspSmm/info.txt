@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: AmdRasSspSmm
+Offset: 8F7E90h
+Full size: 55BEh (21950)
+Header size: 18h (24)
+Body size: 55A6h (21926)
+File GUID: EE8175EF-4C60-82AF-F5E2-8A9EF1FC0A9A
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: A3h, valid
+Data checksum: AAh, valid

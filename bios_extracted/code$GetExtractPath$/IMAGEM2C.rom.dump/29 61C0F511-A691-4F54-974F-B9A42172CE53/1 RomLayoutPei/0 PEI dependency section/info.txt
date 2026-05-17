@@ -1,0 +1,13 @@
+Type: Section
+Subtype: PEI dependency
+Base: D001A0h
+Header address: FED001A0h
+Data address: FED001A4h
+Offset: 18h
+Full size: 16h (22)
+Header size: 4h (4)
+Body size: 12h (18)
+Type: 1Bh
+Parsed expression:
+PUSH 01F34D25-4DE2-23AD-3FF3-36353FF323F1
+END

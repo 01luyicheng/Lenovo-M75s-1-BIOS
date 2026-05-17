@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E58244h
+Header address: FEE58244h
+Data address: FEE58248h
+Offset: 1D4h
+Full size: 14h (20)
+Header size: 4h (4)
+Body size: 10h (16)
+Type: 15h
+Text: DMBMPEI

@@ -1,0 +1,19 @@
+Type: Section
+Subtype: TE image
+Base: DB3CBCh
+Header address: FEDB3CBCh
+Data address: FEDB3CC0h
+Offset: 64h
+Full size: 4E6Ch (20076)
+Header size: 4h (4)
+Body size: 4E68h (20072)
+Type: 12h
+Signature: 5A56h
+Machine type: x86
+Number of sections: 3
+Subsystem: 0Bh
+Stripped size: 1C0h (448)
+Base of code: 240h
+Address of entry point: 380h
+Image base: FFDB3B28h
+Adjusted image base: FFDB3CC0h

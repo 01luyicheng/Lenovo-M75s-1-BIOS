@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: LenovoSpecialSwSmi
+Offset: 9B37F8h
+Full size: 1716h (5910)
+Header size: 18h (24)
+Body size: 16FEh (5886)
+File GUID: 80752470-6EDE-485D-AC36-DC1BA66091EE
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: F1h, valid
+Data checksum: AAh, valid

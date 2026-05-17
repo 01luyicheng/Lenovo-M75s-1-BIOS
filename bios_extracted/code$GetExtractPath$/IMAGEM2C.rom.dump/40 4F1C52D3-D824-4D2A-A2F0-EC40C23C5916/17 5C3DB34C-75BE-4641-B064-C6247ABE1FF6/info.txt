@@ -1,0 +1,15 @@
+Type: File
+Subtype: Volume image
+Base: 191B118h
+Header address: FF91B118h
+Data address: FF91B130h
+Offset: 50A118h
+Full size: 9EB3h (40627)
+Header size: 18h (24)
+Body size: 9E9Bh (40603)
+File GUID: 5C3DB34C-75BE-4641-B064-C6247ABE1FF6
+Type: 0Bh
+Attributes: 00h
+State: F8h
+Header checksum: 07h, valid
+Data checksum: AAh, valid

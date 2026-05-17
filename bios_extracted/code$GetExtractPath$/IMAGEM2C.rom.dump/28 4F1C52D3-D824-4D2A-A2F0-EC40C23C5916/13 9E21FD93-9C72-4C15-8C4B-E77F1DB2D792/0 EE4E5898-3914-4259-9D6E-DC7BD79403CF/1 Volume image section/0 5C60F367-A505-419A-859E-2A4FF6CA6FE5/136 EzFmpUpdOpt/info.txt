@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: EzFmpUpdOpt
+Offset: 347F50h
+Full size: ED5Eh (60766)
+Header size: 18h (24)
+Body size: ED46h (60742)
+File GUID: 56CD6FEF-9038-49DA-8275-1B2F5B9791A9
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: D5h, valid
+Data checksum: AAh, valid

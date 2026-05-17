@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: FchMultiFchDxe
+Offset: DC7C8h
+Full size: 29FAh (10746)
+Header size: 18h (24)
+Body size: 29E2h (10722)
+File GUID: 056623DC-1285-4EAF-9446-75C3B00F78C6
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: C9h, valid
+Data checksum: AAh, valid

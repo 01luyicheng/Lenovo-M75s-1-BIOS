@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: ResetDateTimePei
+Base: E1DCE8h
+Header address: FEE1DCE8h
+Data address: FEE1DD00h
+Offset: 11DCE8h
+Full size: 25Ah (602)
+Header size: 18h (24)
+Body size: 242h (578)
+File GUID: D485A971-B6DC-4E1C-8730-C4455460A6FF
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 16h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SbSocRavenDxe
+Offset: 891B0h
+Full size: 8396h (33686)
+Header size: 18h (24)
+Body size: 837Eh (33662)
+File GUID: 17119241-1153-970D-6509-75DCDFA41774
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 10h, valid
+Data checksum: AAh, valid

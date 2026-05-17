@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: UltraFunctionSwSmi
+Offset: 9CC340h
+Full size: FF2h (4082)
+Header size: 18h (24)
+Body size: FDAh (4058)
+File GUID: 5D1C5BFF-3B25-4983-9A33-D4691BB3E9A3
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 92h, valid
+Data checksum: AAh, valid

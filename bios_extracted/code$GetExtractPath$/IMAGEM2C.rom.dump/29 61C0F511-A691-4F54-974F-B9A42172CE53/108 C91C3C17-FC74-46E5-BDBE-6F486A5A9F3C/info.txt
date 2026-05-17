@@ -1,0 +1,15 @@
+Type: File
+Subtype: Freeform
+Base: E26B40h
+Header address: FEE26B40h
+Data address: FEE26B58h
+Offset: 126B40h
+Full size: 1F4h (500)
+Header size: 18h (24)
+Body size: 1DCh (476)
+File GUID: C91C3C17-FC74-46E5-BDBE-6F486A5A9F3C
+Type: 02h
+Attributes: 00h
+State: F8h
+Header checksum: 65h, valid
+Data checksum: AAh, valid

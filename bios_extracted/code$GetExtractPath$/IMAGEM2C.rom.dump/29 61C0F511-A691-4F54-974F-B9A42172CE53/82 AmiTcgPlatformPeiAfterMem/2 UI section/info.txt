@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E18F50h
+Header address: FEE18F50h
+Data address: FEE18F54h
+Offset: 12F8h
+Full size: 38h (56)
+Header size: 4h (4)
+Body size: 34h (52)
+Type: 15h
+Text: AmiTcgPlatformPeiAfterMem

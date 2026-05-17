@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: D0E9B4h
+Header address: FED0E9B4h
+Data address: FED0E9B8h
+Offset: 474h
+Full size: 22h (34)
+Header size: 4h (4)
+Body size: 1Eh (30)
+Type: 15h
+Text: CpuSetAgesaPcd

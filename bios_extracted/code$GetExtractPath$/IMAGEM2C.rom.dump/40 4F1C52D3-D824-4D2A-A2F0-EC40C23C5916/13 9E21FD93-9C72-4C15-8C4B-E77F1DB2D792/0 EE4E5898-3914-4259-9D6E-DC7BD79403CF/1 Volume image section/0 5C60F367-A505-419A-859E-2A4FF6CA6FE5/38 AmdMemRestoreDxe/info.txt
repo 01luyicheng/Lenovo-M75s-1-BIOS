@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdMemRestoreDxe
+Offset: A2770h
+Full size: FBAh (4026)
+Header size: 18h (24)
+Body size: FA2h (4002)
+File GUID: 95DE95F8-A215-48C3-814A-40F07B925D24
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: E5h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,12 @@
+Type: File
+Subtype: Freeform
+Offset: CABE50h
+Full size: CB4h (3252)
+Header size: 18h (24)
+Body size: C9Ch (3228)
+File GUID: 29BB7673-86DF-423B-962C-553B01146D1B
+Type: 02h
+Attributes: 00h
+State: F8h
+Header checksum: A0h, valid
+Data checksum: AAh, valid

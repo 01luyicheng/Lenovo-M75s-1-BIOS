@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: Tpm20PlatformDxe
+Offset: 429788h
+Full size: 10A42h (68162)
+Header size: 18h (24)
+Body size: 10A2Ah (68138)
+File GUID: 0718AD81-F26A-4850-A6EC-F268E309D707
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: B5h, valid
+Data checksum: AAh, valid

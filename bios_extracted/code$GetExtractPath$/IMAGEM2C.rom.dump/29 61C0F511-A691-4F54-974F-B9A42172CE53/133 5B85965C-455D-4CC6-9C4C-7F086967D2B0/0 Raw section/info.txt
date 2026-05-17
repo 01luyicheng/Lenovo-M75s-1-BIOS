@@ -1,0 +1,10 @@
+Type: Section
+Subtype: Raw
+Base: E566E0h
+Header address: FEE566E0h
+Data address: FEE566E4h
+Offset: 18h
+Full size: 24h (36)
+Header size: 4h (4)
+Body size: 20h (32)
+Type: 19h

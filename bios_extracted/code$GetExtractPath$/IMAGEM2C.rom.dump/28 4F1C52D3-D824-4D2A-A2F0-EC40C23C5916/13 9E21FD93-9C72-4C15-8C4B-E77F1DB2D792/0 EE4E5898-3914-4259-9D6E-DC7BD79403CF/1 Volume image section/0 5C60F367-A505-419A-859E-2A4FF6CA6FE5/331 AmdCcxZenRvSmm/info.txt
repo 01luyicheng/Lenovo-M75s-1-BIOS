@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: AmdCcxZenRvSmm
+Offset: 9A4668h
+Full size: 20DEh (8414)
+Header size: 18h (24)
+Body size: 20C6h (8390)
+File GUID: B759169B-61E2-4F92-9447-23E3DCD33CEC
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 5Bh, valid
+Data checksum: AAh, valid

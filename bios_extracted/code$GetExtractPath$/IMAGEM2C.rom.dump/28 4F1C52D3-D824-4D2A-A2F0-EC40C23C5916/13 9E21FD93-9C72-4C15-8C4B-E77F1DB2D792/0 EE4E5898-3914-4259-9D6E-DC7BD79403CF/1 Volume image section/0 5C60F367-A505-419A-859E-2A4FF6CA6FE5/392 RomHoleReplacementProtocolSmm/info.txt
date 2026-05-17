@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: RomHoleReplacementProtocolSmm
+Offset: A9B008h
+Full size: 1292h (4754)
+Header size: 18h (24)
+Body size: 127Ah (4730)
+File GUID: E44FC862-12DF-4D4B-9511-93802514AAF8
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: D8h, valid
+Data checksum: AAh, valid

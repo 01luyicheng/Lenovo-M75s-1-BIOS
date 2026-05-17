@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdCpmOemRvInitPeim
+Base: E34270h
+Header address: FEE34270h
+Data address: FEE34288h
+Offset: 134270h
+Full size: 5FB2h (24498)
+Header size: 18h (24)
+Body size: 5F9Ah (24474)
+File GUID: 4DF17188-F320-4715-82DA-A05DEF51F1D8
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: E1h, valid
+Data checksum: AAh, valid

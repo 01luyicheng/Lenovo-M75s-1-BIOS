@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D525A4h
+Header address: FFD525A4h
+Data address: FFD525A8h
+Offset: 17ACh
+Full size: 20h (32)
+Header size: 4h (4)
+Body size: 1Ch (28)
+Type: 15h
+Text: AmdPspFtpmPei

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: EcFwUpd
+Offset: 699168h
+Full size: 2576h (9590)
+Header size: 18h (24)
+Body size: 255Eh (9566)
+File GUID: D903BF23-E1DE-4DF0-8B96-73B6F2C2B797
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 58h, valid
+Data checksum: AAh, valid

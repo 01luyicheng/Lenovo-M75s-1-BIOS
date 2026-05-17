@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: DD1E8Ch
+Header address: FEDD1E8Ch
+Data address: FEDD1E90h
+Offset: 2D4Ch
+Full size: 26h (38)
+Header size: 4h (4)
+Body size: 22h (34)
+Type: 15h
+Text: AmdNbioSmuV10Pei

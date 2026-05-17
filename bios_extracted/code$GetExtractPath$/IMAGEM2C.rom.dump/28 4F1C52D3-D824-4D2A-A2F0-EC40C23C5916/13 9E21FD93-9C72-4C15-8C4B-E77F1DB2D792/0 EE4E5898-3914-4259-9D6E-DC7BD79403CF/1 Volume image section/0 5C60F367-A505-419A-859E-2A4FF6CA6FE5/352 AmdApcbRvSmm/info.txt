@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: AmdApcbRvSmm
+Offset: 9EB050h
+Full size: 586Eh (22638)
+Header size: 18h (24)
+Body size: 5856h (22614)
+File GUID: 97A03375-250D-4C59-93A8-F76796725E18
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 63h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdPspFtpmPei
+Base: 1D50DF8h
+Header address: FFD50DF8h
+Data address: FFD50E10h
+Offset: 4EDF8h
+Full size: 17DAh (6106)
+Header size: 18h (24)
+Body size: 17C2h (6082)
+File GUID: 2FC61DE6-1791-479C-8A32-7ABB69A4D8D0
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: E0h, valid
+Data checksum: AAh, valid

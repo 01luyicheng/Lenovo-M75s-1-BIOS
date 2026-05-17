@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AsfPei
+Base: D14DA0h
+Header address: FED14DA0h
+Data address: FED14DB8h
+Offset: 14DA0h
+Full size: 83Ah (2106)
+Header size: 18h (24)
+Body size: 822h (2082)
+File GUID: 03417BF3-6D95-41DF-88EF-0DDA6E86DC34
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 82h, valid
+Data checksum: AAh, valid

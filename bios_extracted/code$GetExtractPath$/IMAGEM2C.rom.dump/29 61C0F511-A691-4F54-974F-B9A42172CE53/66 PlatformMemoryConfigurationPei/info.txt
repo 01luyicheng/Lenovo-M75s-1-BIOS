@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: PlatformMemoryConfigurationPei
+Base: E00AB0h
+Header address: FEE00AB0h
+Data address: FEE00AC8h
+Offset: 100AB0h
+Full size: 476h (1142)
+Header size: 18h (24)
+Body size: 45Eh (1118)
+File GUID: FF30FA10-EE1D-455D-971F-34B97D20679C
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 57h, valid
+Data checksum: AAh, valid

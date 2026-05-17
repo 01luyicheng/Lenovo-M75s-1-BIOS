@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdMemSmbiosV2RvPei
+Base: D90238h
+Header address: FED90238h
+Data address: FED90250h
+Offset: 90238h
+Full size: 2706h (9990)
+Header size: 18h (24)
+Body size: 26EEh (9966)
+File GUID: F6663081-02D1-4F52-B57C-FDAD224941D4
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: F1h, valid
+Data checksum: AAh, valid

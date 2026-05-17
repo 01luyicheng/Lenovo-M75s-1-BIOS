@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdSocAm4MtsPei
+Base: 1D5A670h
+Header address: FFD5A670h
+Data address: FFD5A688h
+Offset: 58670h
+Full size: 6D06h (27910)
+Header size: 18h (24)
+Body size: 6CEEh (27886)
+File GUID: D952A0C4-4D96-6853-DECD-058DC9DC5FCF
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 4Ah, valid
+Data checksum: AAh, valid

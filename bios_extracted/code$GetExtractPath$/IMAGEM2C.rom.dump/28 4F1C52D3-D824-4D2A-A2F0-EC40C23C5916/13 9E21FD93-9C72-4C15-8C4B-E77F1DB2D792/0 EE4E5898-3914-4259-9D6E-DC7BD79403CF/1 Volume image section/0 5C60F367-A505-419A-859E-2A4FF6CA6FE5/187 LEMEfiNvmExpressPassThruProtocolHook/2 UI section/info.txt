@@ -1,0 +1,8 @@
+Type: Section
+Subtype: UI
+Offset: FB4h
+Full size: 4Eh (78)
+Header size: 4h (4)
+Body size: 4Ah (74)
+Type: 15h
+Text: LEMEfiNvmExpressPassThruProtocolHook

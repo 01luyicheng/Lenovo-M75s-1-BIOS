@@ -1,0 +1,19 @@
+Type: Section
+Subtype: TE image
+Base: DE6604h
+Header address: FEDE6604h
+Data address: FEDE6608h
+Offset: 64h
+Full size: 2BA4h (11172)
+Header size: 4h (4)
+Body size: 2BA0h (11168)
+Type: 12h
+Signature: 5A56h
+Machine type: x86
+Number of sections: 3
+Subsystem: 0Bh
+Stripped size: 1C8h (456)
+Base of code: 240h
+Address of entry point: 380h
+Image base: FFDE6468h
+Adjusted image base: FFDE6608h

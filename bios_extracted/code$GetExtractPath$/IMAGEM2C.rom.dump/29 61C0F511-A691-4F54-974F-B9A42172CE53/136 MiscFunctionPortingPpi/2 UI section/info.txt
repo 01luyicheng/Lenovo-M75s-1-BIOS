@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E57B94h
+Header address: FEE57B94h
+Data address: FEE57B98h
+Offset: 454h
+Full size: 32h (50)
+Header size: 4h (4)
+Body size: 2Eh (46)
+Type: 15h
+Text: MiscFunctionPortingPpi

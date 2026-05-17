@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdNbioAlibRVDxe
+Offset: 10F680h
+Full size: 74DEh (29918)
+Header size: 18h (24)
+Body size: 74C6h (29894)
+File GUID: 28AB63A9-5FB0-4C93-9C44-0DD8A1E9101D
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 5Eh, valid
+Data checksum: AAh, valid

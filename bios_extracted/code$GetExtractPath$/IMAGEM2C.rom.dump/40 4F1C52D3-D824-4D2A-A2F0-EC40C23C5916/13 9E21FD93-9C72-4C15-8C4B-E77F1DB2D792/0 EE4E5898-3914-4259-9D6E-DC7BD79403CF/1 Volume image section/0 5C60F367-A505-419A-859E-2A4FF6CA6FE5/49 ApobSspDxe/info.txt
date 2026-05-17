@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: ApobSspDxe
+Offset: E47D8h
+Full size: 2AA2h (10914)
+Header size: 18h (24)
+Body size: 2A8Ah (10890)
+File GUID: 49FC00CF-BBD2-4FD4-B9D1-F084A51EB708
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: E9h, valid
+Data checksum: AAh, valid

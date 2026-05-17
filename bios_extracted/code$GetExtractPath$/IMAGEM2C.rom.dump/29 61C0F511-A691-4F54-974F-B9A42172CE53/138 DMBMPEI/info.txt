@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: DMBMPEI
+Base: E58070h
+Header address: FEE58070h
+Data address: FEE58088h
+Offset: 158070h
+Full size: 1F6h (502)
+Header size: 18h (24)
+Body size: 1DEh (478)
+File GUID: 271565A5-6E05-4948-BAE7-39AF389FFB97
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: C7h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: D227A0h
+Header address: FED227A0h
+Data address: FED227A4h
+Offset: 3700h
+Full size: 22h (34)
+Header size: 4h (4)
+Body size: 1Eh (30)
+Type: 15h
+Text: AmdCcxZenZpPei

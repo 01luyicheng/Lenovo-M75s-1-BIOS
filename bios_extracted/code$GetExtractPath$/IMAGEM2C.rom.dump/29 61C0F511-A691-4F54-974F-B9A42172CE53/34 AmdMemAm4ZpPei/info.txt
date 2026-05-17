@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdMemAm4ZpPei
+Base: D44DB8h
+Header address: FED44DB8h
+Data address: FED44DD0h
+Offset: 44DB8h
+Full size: 15B6h (5558)
+Header size: 18h (24)
+Body size: 159Eh (5534)
+File GUID: 9FF8B817-D14C-4A43-9314-123DA3960AD6
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 10h, valid
+Data checksum: AAh, valid

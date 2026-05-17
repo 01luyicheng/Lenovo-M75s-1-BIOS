@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: Fat
+Offset: 874770h
+Full size: 71D6h (29142)
+Header size: 18h (24)
+Body size: 71BEh (29118)
+File GUID: 961578FE-B6B7-44C3-AF35-6BC705CD2B1F
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: EBh, valid
+Data checksum: AAh, valid

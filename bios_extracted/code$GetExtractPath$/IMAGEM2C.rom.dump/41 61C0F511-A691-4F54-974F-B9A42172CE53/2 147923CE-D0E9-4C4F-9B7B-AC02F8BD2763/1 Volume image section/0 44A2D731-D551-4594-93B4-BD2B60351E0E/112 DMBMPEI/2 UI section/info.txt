@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1DB86C4h
+Header address: FFDB86C4h
+Data address: FFDB86C8h
+Offset: 1D4h
+Full size: 14h (20)
+Header size: 4h (4)
+Body size: 10h (16)
+Type: 15h
+Text: DMBMPEI

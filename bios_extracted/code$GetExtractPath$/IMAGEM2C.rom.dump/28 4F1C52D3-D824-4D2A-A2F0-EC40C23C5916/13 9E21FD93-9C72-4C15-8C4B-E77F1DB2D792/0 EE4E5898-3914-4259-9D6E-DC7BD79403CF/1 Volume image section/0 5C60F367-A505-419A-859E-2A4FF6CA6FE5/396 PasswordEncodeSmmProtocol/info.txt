@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: PasswordEncodeSmmProtocol
+Offset: AA0118h
+Full size: 2062h (8290)
+Header size: 18h (24)
+Body size: 204Ah (8266)
+File GUID: 3A18A5AF-F25B-42EE-8606-8D30A974916B
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: EFh, valid
+Data checksum: AAh, valid

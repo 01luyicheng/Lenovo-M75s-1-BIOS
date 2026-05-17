@@ -1,0 +1,380 @@
+BIOS Patch Log
+======================================================================
+
+Original ROM: /workspace/bios_extracted/code$GetExtractPath$/IMAGEM2C.rom
+Patched ROM: /workspace/bios_extracted/IMAGEM2C_patched.rom
+ROM size: 33554432 bytes
+
+PSP regions found: 4
+  0x000C8000 - 0x000C8130
+  0x000D8000 - 0x000D8110
+  0x001A8000 - 0x001A8160
+  0x00589CC4 - 0x0E944DD4
+
+Form packages: 26
+Total conditions: 25814
+Patchable conditions: 90
+Patches applied: 90
+Patches skipped: 0
+
+All patches applied:
+  Offset: 0x00030877
+    Change: 0x01 -> 0x00
+    Reason: GRAY_OUT_IF with TRUE -> FALSE
+    Context: 0b162901e2e722021b10fa10e4c771a85f12e2c72202
+  Offset: 0x00032002
+    Change: 0x8A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 8a03b5
+  Offset: 0x0007DD2F
+    Change: 0x01 -> 0x00
+    Reason: SUPPRESS_IF with TRUE -> FALSE
+    Context: 8a33b2018b0f0af6750f43518bc4506a00ff33e8df03000059e30c508a0034b58806584640e2f40af67508fec28aca3b0f7cd3
+  Offset: 0x0007F591
+    Change: 0x18 -> 0x19
+    Reason: SUPPRESS_IF access check invert
+    Context: 8a1beb2a83e80403450c8a18eb20035d0c8a1beb198a5e1aeb1e8a
+  Offset: 0x0007F79E
+    Change: 0x8A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 8a0383
+  Offset: 0x00081956
+    Change: 0x01 -> 0x00
+    Reason: SUPPRESS_IF with TRUE -> FALSE
+    Context: 0a2b06010401823702011b040830060101000101ff300d06092a864886f70d010105050003820101000b7f
+  Offset: 0x00082712
+    Change: 0x01 -> 0x00
+    Reason: SUPPRESS_IF with TRUE -> FALSE
+    Context: 0a2b06010401823702010c31023000301906092a864886f70d010903310c060a2b06010401823702010430
+  Offset: 0x0008273F
+    Change: 0x01 -> 0x00
+    Reason: SUPPRESS_IF with TRUE -> FALSE
+    Context: 0a2b06010401823702010b310e300c060a2b060104018237020115302306092a864886f70d010904311604
+  Offset: 0x000837B0
+    Change: 0x8A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 8a0348
+  Offset: 0x000851F2
+    Change: 0x8B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 8b0341
+  Offset: 0x0008690E
+    Change: 0x8A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 8a0384
+  Offset: 0x00086928
+    Change: 0x8A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 8a033c
+  Offset: 0x0008734E
+    Change: 0x8B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 8b0380
+  Offset: 0x00087363
+    Change: 0x01 -> 0x00
+    Reason: GRAY_OUT_IF with TRUE -> FALSE
+    Context: 8b05b601ff
+  Offset: 0x000873C8
+    Change: 0x01 -> 0x00
+    Reason: GRAY_OUT_IF with TRUE -> FALSE
+    Context: 8b055101ff
+  Offset: 0x000873DF
+    Change: 0x01 -> 0x00
+    Reason: GRAY_OUT_IF with TRUE -> FALSE
+    Context: 8b353a01ffff488b134803742468448bc7488bcee88fc7ffff33c038460f88460874038846204803fe418bdc4803df4c3be8488bcf
+  Offset: 0x00087656
+    Change: 0x8B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 8b0333
+  Offset: 0x000DA95D
+    Change: 0x0A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 0a0396
+  Offset: 0x000DC0AA
+    Change: 0x01 -> 0x00
+    Reason: GRAY_OUT_IF with TRUE -> FALSE
+    Context: 0b085801f075fa88
+  Offset: 0x000DC626
+    Change: 0x01 -> 0x00
+    Reason: GRAY_OUT_IF with TRUE -> FALSE
+    Context: 0b40ea0150090b30bd0801010370470000064a10b5064cd2f8103123440b60d2f81011034a40321144016010bd00c100000090110012491248891e10b5007809
+  Offset: 0x000DCEDA
+    Change: 0x01 -> 0x00
+    Reason: SUPPRESS_IF with TRUE -> FALSE
+    Context: 0a3846012102f090fc3f1d5745f8d91b4f24370321384602f087fc3f1d4745f8d906e00121384602f07ffc3f1d4745f8d9d6f8000158b112
+  Offset: 0x000E15F3
+    Change: 0x0B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 0b0346
+  Offset: 0x000EDCFF
+    Change: 0x8A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 8a0313
+  Offset: 0x000F3ABD
+    Change: 0x8B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 8b0396
+  Offset: 0x000F4B78
+    Change: 0x0B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 0b0317
+  Offset: 0x000FDF3B
+    Change: 0x8B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 8b03fb
+  Offset: 0x00101E49
+    Change: 0x0A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 0a033d
+  Offset: 0x0010310A
+    Change: 0x0B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 0b03d6
+  Offset: 0x00107ABD
+    Change: 0x18 -> 0x19
+    Reason: GRAY_OUT_IF access check invert
+    Context: 8b3a88068e81f5c9e5a2eaeaa5d0c2d5410418b750af5f7717e47c63e0cac3f2db26aa36d5ab5a79a6c8092b9e53f5502baf5ecdce9d00c14d85
+  Offset: 0x0010801B
+    Change: 0x01 -> 0x00
+    Reason: GRAY_OUT_IF with TRUE -> FALSE
+    Context: 0b133e01c2202e70021686f10f4fa259f810e1
+  Offset: 0x0010A4F7
+    Change: 0x01 -> 0x00
+    Reason: SUPPRESS_IF with TRUE -> FALSE
+    Context: 8a0e3a015df964e8c494d537ea00
+  Offset: 0x00114849
+    Change: 0x18 -> 0x19
+    Reason: SUPPRESS_IF access check invert
+    Context: 0a2610181224bb439f06f60949bddff40a6a8bda5a14822b5ef7af44432bd37649e9eb57c75a
+  Offset: 0x00115124
+    Change: 0x18 -> 0x19
+    Reason: GRAY_OUT_IF access check invert
+    Context: 8b36150f8c6af8613ff7b507479d9d3b19cb1a4310b991c94f9cada35ebe05a32eecec514a5d7beac27e2cfbfe01718b1aba1847156d
+  Offset: 0x00119401
+    Change: 0x8A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 8a036d
+  Offset: 0x0011A181
+    Change: 0x8B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 8b0313
+  Offset: 0x0011E184
+    Change: 0x18 -> 0x19
+    Reason: SUPPRESS_IF access check invert
+    Context: 0a13c5ab4d715e5a20ba8e4a5b780b2d2c18d5
+  Offset: 0x001220CB
+    Change: 0x8B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 8b03a7
+  Offset: 0x0012549F
+    Change: 0x8B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 8b0336
+  Offset: 0x003DD79A
+    Change: 0x0A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 0a0310
+  Offset: 0x003DDBC6
+    Change: 0x0B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 0b0308
+  Offset: 0x003DDBCC
+    Change: 0x0B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 0b0303
+  Offset: 0x003E2D5B
+    Change: 0x0A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 0a03a8
+  Offset: 0x003E5398
+    Change: 0x01 -> 0x00
+    Reason: GRAY_OUT_IF with TRUE -> FALSE
+    Context: 0b12d201992a46304600f05ef8a54246f825
+  Offset: 0x003E53D4
+    Change: 0x01 -> 0x00
+    Reason: SUPPRESS_IF with TRUE -> FALSE
+    Context: 0a11dd01992b460246304600f03ff946f8
+  Offset: 0x003F1C17
+    Change: 0x0A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 0a0300
+  Offset: 0x004082C9
+    Change: 0x0A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 0a0300
+  Offset: 0x00408457
+    Change: 0x0A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 0a03d0
+  Offset: 0x0040EACF
+    Change: 0x0A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 0a0300
+  Offset: 0x0041249E
+    Change: 0x8B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 8b038f
+  Offset: 0x004182CC
+    Change: 0x8A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 8a0300
+  Offset: 0x0041B539
+    Change: 0x01 -> 0x00
+    Reason: GRAY_OUT_IF with TRUE -> FALSE
+    Context: 0b20800120184069810703d4c10601d4c00304d5164805b0f0bd1548fbe7a01c
+  Offset: 0x0041C545
+    Change: 0x8A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 8a03f0
+  Offset: 0x004205E7
+    Change: 0x8B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 8b0369
+  Offset: 0x00423774
+    Change: 0x8B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 8b0301
+  Offset: 0x00426B58
+    Change: 0x8A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 8a0306
+  Offset: 0x0042D21F
+    Change: 0x0A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 0a0300
+  Offset: 0x0042D92A
+    Change: 0x8B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 8b038f
+  Offset: 0x0042F895
+    Change: 0x01 -> 0x00
+    Reason: SUPPRESS_IF with TRUE -> FALSE
+    Context: 0a200001820800822412044040a04090100490224010202c8010284300045800
+  Offset: 0x0043AEFF
+    Change: 0x8A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 8a0313
+  Offset: 0x00440CBD
+    Change: 0x8B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 8b0396
+  Offset: 0x00441D78
+    Change: 0x0B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 0b0317
+  Offset: 0x0044B13B
+    Change: 0x8B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 8b03fb
+  Offset: 0x0044F049
+    Change: 0x0A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 0a033d
+  Offset: 0x0045030A
+    Change: 0x0B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 0b03d6
+  Offset: 0x00454CBD
+    Change: 0x18 -> 0x19
+    Reason: GRAY_OUT_IF access check invert
+    Context: 8b3a88068e81f5c9e5a2eaeaa5d0c2d5410418b750af5f7717e47c63e0cac3f2db26aa36d5ab5a79a6c8092b9e53f5502baf5ecdce9d00c14d85
+  Offset: 0x0045521B
+    Change: 0x01 -> 0x00
+    Reason: GRAY_OUT_IF with TRUE -> FALSE
+    Context: 0b133e01c2202e70021686f10f4fa259f810e1
+  Offset: 0x004576F7
+    Change: 0x01 -> 0x00
+    Reason: SUPPRESS_IF with TRUE -> FALSE
+    Context: 8a0e3a015df964e8c494d537ea00
+  Offset: 0x00461A49
+    Change: 0x18 -> 0x19
+    Reason: SUPPRESS_IF access check invert
+    Context: 0a2610181224bb439f06f60949bddff40a6a8bda5a14822b5ef7af44432bd37649e9eb57c75a
+  Offset: 0x00462324
+    Change: 0x18 -> 0x19
+    Reason: GRAY_OUT_IF access check invert
+    Context: 8b36150f8c6af8613ff7b507479d9d3b19cb1a4310b991c94f9cada35ebe05a32eecec514a5d7beac27e2cfbfe01718b1aba1847156d
+  Offset: 0x00466601
+    Change: 0x8A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 8a036d
+  Offset: 0x00467381
+    Change: 0x8B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 8b0313
+  Offset: 0x00474E84
+    Change: 0x18 -> 0x19
+    Reason: SUPPRESS_IF access check invert
+    Context: 0a13c5ab4d715e5a20ba8e4a5b780b2d2c18d5
+  Offset: 0x00478DCB
+    Change: 0x8B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 8b03a7
+  Offset: 0x0047C19F
+    Change: 0x8B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 8b0336
+  Offset: 0x004835A7
+    Change: 0x0B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 0b03a9
+  Offset: 0x00486A8C
+    Change: 0x8A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 8a0351
+  Offset: 0x0048B4F4
+    Change: 0x8B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 8b030e
+  Offset: 0x0048BB03
+    Change: 0x8A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 8a035d
+  Offset: 0x004969AD
+    Change: 0x0B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 0b03ec
+  Offset: 0x00499681
+    Change: 0x8A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 8a03c4
+  Offset: 0x0049A1A9
+    Change: 0x0B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 0b0308
+  Offset: 0x0049BA71
+    Change: 0x18 -> 0x19
+    Reason: GRAY_OUT_IF access check invert
+    Context: 0b1a9aee8748fe5ce1add31ae223262112f91d1861851b045e30
+  Offset: 0x0049E5D4
+    Change: 0x01 -> 0x00
+    Reason: GRAY_OUT_IF with TRUE -> FALSE
+    Context: 0b05c80101
+  Offset: 0x004A5D26
+    Change: 0x18 -> 0x19
+    Reason: SUPPRESS_IF access check invert
+    Context: 0a39f7abc5e44038cd5e4c1905c5d48078cb72f4adac88f672bc1af12af4773dc29a223ac0bc6d88d7159117f14c5b1129014dd622aa061801
+  Offset: 0x004ADFAE
+    Change: 0x8B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 8b039e
+  Offset: 0x004B1AF4
+    Change: 0x18 -> 0x19
+    Reason: SUPPRESS_IF access check invert
+    Context: 8a351a8517e2e1b3e3b8d563b8219d1cc16d1315e4c4c1fc367a4c3fe0f1af180dd8601ed1472fc98d472f1d5b88a4fa8b1fe88e5e
+  Offset: 0x004B319F
+    Change: 0x0B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 0b03b4
+  Offset: 0x004B4293
+    Change: 0x0B -> 0x39
+    Reason: GRAY_OUT_IF empty -> END_IF
+    Context: 0b0381
+  Offset: 0x00584CE8
+    Change: 0x0A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 0a0300
+  Offset: 0x00585F97
+    Change: 0x0A -> 0x39
+    Reason: SUPPRESS_IF empty -> END_IF
+    Context: 0a03d0

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdNbioIOMMUDxe
+Offset: A4550h
+Full size: 65FEh (26110)
+Header size: 18h (24)
+Body size: 65E6h (26086)
+File GUID: 41EF54AD-E2CA-4433-FD27-D9CACA621EAE
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 83h, valid
+Data checksum: AAh, valid

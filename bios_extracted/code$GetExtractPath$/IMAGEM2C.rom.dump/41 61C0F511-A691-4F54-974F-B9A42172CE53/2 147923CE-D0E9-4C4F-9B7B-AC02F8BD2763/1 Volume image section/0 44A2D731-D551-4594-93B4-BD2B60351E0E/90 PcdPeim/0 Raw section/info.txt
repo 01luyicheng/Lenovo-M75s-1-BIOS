@@ -1,0 +1,10 @@
+Type: Section
+Subtype: Raw
+Base: 1D93608h
+Header address: FFD93608h
+Data address: FFD9360Ch
+Offset: 18h
+Full size: ADCh (2780)
+Header size: 4h (4)
+Body size: AD8h (2776)
+Type: 19h

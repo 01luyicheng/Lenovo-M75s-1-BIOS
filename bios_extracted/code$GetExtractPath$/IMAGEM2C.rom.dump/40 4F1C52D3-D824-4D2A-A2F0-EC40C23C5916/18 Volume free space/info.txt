@@ -1,0 +1,8 @@
+Type: Free space
+Subtype: 
+Base: 1924FD0h
+Address: FF924FD0h
+Offset: 513FD0h
+Full size: 3DB030h (4042800)
+Body size: 3DB030h (4042800)
+

@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdNbioSmuV9Pei
+Base: DE0490h
+Header address: FEDE0490h
+Data address: FEDE04A8h
+Offset: E0490h
+Full size: 3552h (13650)
+Header size: 18h (24)
+Body size: 353Ah (13626)
+File GUID: 72133706-A922-43F1-9C75-581D9AE8F666
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 4Eh, valid
+Data checksum: AAh, valid

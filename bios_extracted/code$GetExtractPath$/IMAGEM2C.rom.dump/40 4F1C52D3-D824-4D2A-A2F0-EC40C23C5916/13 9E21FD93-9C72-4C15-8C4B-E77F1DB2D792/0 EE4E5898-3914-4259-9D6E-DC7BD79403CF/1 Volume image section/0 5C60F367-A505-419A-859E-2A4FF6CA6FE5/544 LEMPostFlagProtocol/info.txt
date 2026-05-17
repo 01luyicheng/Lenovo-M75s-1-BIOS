@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: LEMPostFlagProtocol
+Offset: BF2AB0h
+Full size: B8Eh (2958)
+Header size: 18h (24)
+Body size: B76h (2934)
+File GUID: 9B69E973-CBDC-4035-9AE8-EC9C7617FA28
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 2Bh, valid
+Data checksum: AAh, valid

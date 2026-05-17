@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: DashManagement
+Offset: 208690h
+Full size: 1446h (5190)
+Header size: 18h (24)
+Body size: 142Eh (5166)
+File GUID: ABC6BAEB-AA8D-401D-9B17-C6DA6AF4F48E
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: C3h, valid
+Data checksum: AAh, valid

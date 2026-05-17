@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: RuntimeSmm
+Offset: A6A240h
+Full size: D4Eh (3406)
+Header size: 18h (24)
+Body size: D36h (3382)
+File GUID: 4A6D890F-93C3-4B6D-A67D-5F2C4DCE347B
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: C6h, valid
+Data checksum: AAh, valid

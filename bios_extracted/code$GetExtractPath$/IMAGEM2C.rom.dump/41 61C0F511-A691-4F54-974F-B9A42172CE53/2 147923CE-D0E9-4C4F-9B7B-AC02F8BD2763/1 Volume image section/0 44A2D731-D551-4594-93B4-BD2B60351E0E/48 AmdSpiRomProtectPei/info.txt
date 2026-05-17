@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdSpiRomProtectPei
+Base: 1D6B650h
+Header address: FFD6B650h
+Data address: FFD6B668h
+Offset: 69650h
+Full size: 1AEh (430)
+Header size: 18h (24)
+Body size: 196h (406)
+File GUID: 9D5FD24C-53DF-44AC-A336-B4879CDB29D9
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 82h, valid
+Data checksum: AAh, valid

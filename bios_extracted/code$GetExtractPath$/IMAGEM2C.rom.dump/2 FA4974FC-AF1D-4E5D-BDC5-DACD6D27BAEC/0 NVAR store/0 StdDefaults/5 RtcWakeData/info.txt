@@ -1,0 +1,13 @@
+Type: NVAR entry
+Subtype: Full
+Text: RtcWakeData
+Base: 374AAh
+Header address: FE0374AAh
+Data address: FE0374C1h
+Offset: 41Ah
+Full size: 2Bh (43)
+Header size: 17h (23)
+Body size: 14h (20)
+Variable GUID: EC87D643-EBA4-4BB5-A1E5-3F3E36B20DA9
+GUID index: 0
+Attributes: 83h (Runtime, AsciiName, Valid)

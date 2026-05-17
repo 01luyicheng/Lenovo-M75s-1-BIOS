@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D13490h
+Header address: FFD13490h
+Data address: FFD13494h
+Offset: B48h
+Full size: 18h (24)
+Header size: 4h (4)
+Body size: 14h (20)
+Type: 15h
+Text: MemDetect

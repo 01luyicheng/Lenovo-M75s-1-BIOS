@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: PciDxeInit
+Offset: 6B008h
+Full size: 2C1Eh (11294)
+Header size: 18h (24)
+Body size: 2C06h (11270)
+File GUID: DD9D5646-BB53-4199-9B27-2A1696D9BE4E
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 34h, valid
+Data checksum: AAh, valid

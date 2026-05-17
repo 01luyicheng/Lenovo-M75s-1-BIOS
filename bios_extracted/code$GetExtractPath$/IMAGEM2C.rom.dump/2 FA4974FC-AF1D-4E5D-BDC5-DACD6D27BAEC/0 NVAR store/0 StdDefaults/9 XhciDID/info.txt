@@ -1,0 +1,13 @@
+Type: NVAR entry
+Subtype: Full
+Text: XhciDID
+Base: 37544h
+Header address: FE037544h
+Data address: FE037557h
+Offset: 4B4h
+Full size: 15h (21)
+Header size: 13h (19)
+Body size: 2h (2)
+Variable GUID: A7E92950-4EC9-4502-8576-F851308F8C18
+GUID index: 7
+Attributes: 83h (Runtime, AsciiName, Valid)

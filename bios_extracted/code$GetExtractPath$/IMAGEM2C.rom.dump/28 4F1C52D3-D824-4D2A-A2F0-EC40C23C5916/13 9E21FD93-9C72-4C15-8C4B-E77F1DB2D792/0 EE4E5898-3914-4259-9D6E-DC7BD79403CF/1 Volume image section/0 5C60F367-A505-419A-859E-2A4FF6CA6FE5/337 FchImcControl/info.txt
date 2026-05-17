@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: FchImcControl
+Offset: 9B7DC8h
+Full size: FEEh (4078)
+Header size: 18h (24)
+Body size: FD6h (4054)
+File GUID: E646CA5D-6D6B-4773-879B-8B4DA2775E09
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 9Ah, valid
+Data checksum: AAh, valid

@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: D10C70h
+Header address: FED10C70h
+Data address: FED10C74h
+Offset: 588h
+Full size: 10h (16)
+Header size: 4h (4)
+Body size: Ch (12)
+Type: 15h
+Text: NbPei

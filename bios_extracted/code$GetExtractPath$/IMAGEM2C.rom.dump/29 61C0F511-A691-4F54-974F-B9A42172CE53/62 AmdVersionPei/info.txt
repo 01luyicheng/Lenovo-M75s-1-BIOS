@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdVersionPei
+Base: DF7010h
+Header address: FEDF7010h
+Data address: FEDF7028h
+Offset: F7010h
+Full size: 2C2h (706)
+Header size: 18h (24)
+Body size: 2AAh (682)
+File GUID: 70456853-D70E-496C-B6B1-CF88A30BE1A9
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 36h, valid
+Data checksum: AAh, valid

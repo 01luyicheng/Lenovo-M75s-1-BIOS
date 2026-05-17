@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D14A1Ch
+Header address: FFD14A1Ch
+Data address: FFD14A20h
+Offset: 504h
+Full size: 16h (22)
+Header size: 4h (4)
+Body size: 12h (18)
+Type: 15h
+Text: SbPcdPei

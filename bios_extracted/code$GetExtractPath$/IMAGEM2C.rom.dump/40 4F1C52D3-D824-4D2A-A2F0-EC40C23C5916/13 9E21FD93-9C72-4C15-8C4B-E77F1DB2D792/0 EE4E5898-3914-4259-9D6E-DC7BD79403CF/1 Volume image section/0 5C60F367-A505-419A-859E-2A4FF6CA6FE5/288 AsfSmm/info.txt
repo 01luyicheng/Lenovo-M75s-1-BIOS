@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: AsfSmm
+Offset: 8CCFB0h
+Full size: CEEh (3310)
+Header size: 18h (24)
+Body size: CD6h (3286)
+File GUID: EF52F4D8-4B2E-4A2D-B888-DAC5421D73F7
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 57h, valid
+Data checksum: AAh, valid

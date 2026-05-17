@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D825E4h
+Header address: FFD825E4h
+Data address: FFD825E8h
+Offset: 504h
+Full size: 22h (34)
+Header size: 4h (4)
+Body size: 1Eh (30)
+Type: 15h
+Text: TcgPeiplatform

@@ -1,0 +1,8 @@
+Type: Padding
+Subtype: Empty (FFh)
+Base: 500380h
+Address: FE500380h
+Offset: 500380h
+Full size: 80h (128)
+Body size: 80h (128)
+

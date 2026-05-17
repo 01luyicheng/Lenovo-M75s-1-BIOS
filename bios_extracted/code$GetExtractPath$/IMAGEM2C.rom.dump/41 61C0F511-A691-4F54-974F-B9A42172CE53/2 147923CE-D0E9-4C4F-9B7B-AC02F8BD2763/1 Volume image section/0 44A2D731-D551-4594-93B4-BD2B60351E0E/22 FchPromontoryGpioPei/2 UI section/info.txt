@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D286E4h
+Header address: FFD286E4h
+Data address: FFD286E8h
+Offset: 167Ch
+Full size: 2Eh (46)
+Header size: 4h (4)
+Body size: 2Ah (42)
+Type: 15h
+Text: FchPromontoryGpioPei

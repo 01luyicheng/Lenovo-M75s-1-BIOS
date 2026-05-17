@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: PeiRamBootCacheRdy
+Base: E56518h
+Header address: FEE56518h
+Data address: FEE56530h
+Offset: 156518h
+Full size: 1AEh (430)
+Header size: 18h (24)
+Body size: 196h (406)
+File GUID: A6A3A962-C591-4701-9D25-73D0226D89DC
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 60h, valid
+Data checksum: AAh, valid

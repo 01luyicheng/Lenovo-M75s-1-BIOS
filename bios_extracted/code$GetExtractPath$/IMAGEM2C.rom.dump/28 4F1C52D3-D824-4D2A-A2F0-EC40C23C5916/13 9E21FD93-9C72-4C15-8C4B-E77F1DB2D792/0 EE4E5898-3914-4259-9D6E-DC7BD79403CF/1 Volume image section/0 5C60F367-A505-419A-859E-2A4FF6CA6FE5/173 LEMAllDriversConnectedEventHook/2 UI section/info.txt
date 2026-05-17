@@ -1,0 +1,8 @@
+Type: Section
+Subtype: UI
+Offset: 2E58h
+Full size: 44h (68)
+Header size: 4h (4)
+Body size: 40h (64)
+Type: 15h
+Text: LEMAllDriversConnectedEventHook

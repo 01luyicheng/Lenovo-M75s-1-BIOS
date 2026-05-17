@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: CbsBaseDxeZP
+Offset: 1A64E0h
+Full size: 25C2h (9666)
+Header size: 18h (24)
+Body size: 25AAh (9642)
+File GUID: FEC445CC-2466-4DCE-9052-7400E044554F
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 7Ch, valid
+Data checksum: AAh, valid

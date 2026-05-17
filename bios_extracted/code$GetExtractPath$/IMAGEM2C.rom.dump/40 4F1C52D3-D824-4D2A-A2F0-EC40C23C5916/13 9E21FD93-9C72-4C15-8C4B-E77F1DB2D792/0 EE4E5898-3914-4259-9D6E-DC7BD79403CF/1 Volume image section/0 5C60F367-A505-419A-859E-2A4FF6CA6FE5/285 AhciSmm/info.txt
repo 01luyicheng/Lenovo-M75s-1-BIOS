@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: AhciSmm
+Offset: 8C7818h
+Full size: 2946h (10566)
+Header size: 18h (24)
+Body size: 292Eh (10542)
+File GUID: BC3245BD-B982-4F55-9F79-056AD7E987C5
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 25h, valid
+Data checksum: AAh, valid

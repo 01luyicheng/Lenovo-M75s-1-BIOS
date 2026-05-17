@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E1C6ACh
+Header address: FEE1C6ACh
+Data address: FEE1C6B0h
+Offset: 3C4h
+Full size: 20h (32)
+Header size: 4h (4)
+Body size: 1Ch (28)
+Type: 15h
+Text: AmiPspFtpmPei

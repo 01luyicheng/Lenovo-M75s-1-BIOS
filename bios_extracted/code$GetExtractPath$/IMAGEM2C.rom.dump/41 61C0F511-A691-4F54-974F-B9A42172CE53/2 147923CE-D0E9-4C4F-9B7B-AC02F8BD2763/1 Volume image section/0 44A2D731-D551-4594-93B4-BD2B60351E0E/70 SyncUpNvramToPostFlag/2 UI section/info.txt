@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D86F10h
+Header address: FFD86F10h
+Data address: FFD86F14h
+Offset: 258h
+Full size: 30h (48)
+Header size: 4h (4)
+Body size: 2Ch (44)
+Type: 15h
+Text: SyncUpNvramToPostFlag

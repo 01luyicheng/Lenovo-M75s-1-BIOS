@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdNbioBaseRVPei
+Base: DAEA50h
+Header address: FEDAEA50h
+Data address: FEDAEA68h
+Offset: AEA50h
+Full size: 5206h (20998)
+Header size: 18h (24)
+Body size: 51EEh (20974)
+File GUID: F95754C4-784D-4155-A05E-5C0AE2559FF8
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: ADh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: PartitionDxe
+Offset: 6D7EB8h
+Full size: 3B0Ah (15114)
+Header size: 18h (24)
+Body size: 3AF2h (15090)
+File GUID: 1FA1F39E-FEFF-4AAE-BD7B-38A070A3B609
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 8Ch, valid
+Data checksum: AAh, valid

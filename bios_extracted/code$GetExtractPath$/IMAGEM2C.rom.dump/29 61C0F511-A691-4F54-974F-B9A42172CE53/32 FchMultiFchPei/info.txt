@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: FchMultiFchPei
+Base: D3E6F8h
+Header address: FED3E6F8h
+Data address: FED3E710h
+Offset: 3E6F8h
+Full size: 27FEh (10238)
+Header size: 18h (24)
+Body size: 27E6h (10214)
+File GUID: 738ECAE2-DBF9-4C00-A0F6-586F3A506139
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 87h, valid
+Data checksum: AAh, valid

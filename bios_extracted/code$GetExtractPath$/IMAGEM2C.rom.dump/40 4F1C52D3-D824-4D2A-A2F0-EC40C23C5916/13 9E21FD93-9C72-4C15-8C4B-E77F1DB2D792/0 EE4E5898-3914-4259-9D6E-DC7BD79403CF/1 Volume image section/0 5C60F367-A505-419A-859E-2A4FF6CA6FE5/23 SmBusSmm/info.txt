@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: SmBusSmm
+Offset: 774A0h
+Full size: 1C4Eh (7246)
+Header size: 18h (24)
+Body size: 1C36h (7222)
+File GUID: 87C3E993-B28D-4226-89C9-120DBC92ACBF
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: F5h, valid
+Data checksum: AAh, valid

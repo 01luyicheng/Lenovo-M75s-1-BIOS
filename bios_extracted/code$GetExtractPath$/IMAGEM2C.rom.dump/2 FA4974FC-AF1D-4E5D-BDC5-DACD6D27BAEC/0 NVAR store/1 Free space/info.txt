@@ -1,0 +1,8 @@
+Type: Free space
+Subtype: 
+Base: 3780Fh
+Address: FE03780Fh
+Offset: 797h
+Full size: 1F7E1h (128993)
+Body size: 1F7E1h (128993)
+

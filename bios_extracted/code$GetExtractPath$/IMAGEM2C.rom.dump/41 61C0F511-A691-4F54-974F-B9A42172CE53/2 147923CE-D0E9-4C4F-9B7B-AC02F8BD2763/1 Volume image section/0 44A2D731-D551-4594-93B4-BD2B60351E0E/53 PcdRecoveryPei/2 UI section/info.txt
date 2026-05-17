@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D72430h
+Header address: FFD72430h
+Data address: FFD72434h
+Offset: 418h
+Full size: 22h (34)
+Header size: 4h (4)
+Body size: 1Eh (30)
+Type: 15h
+Text: PcdRecoveryPei

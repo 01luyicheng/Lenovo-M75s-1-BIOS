@@ -1,0 +1,12 @@
+Type: Section
+Subtype: Version
+Base: E21C2Ch
+Header address: FEE21C2Ch
+Data address: FEE21C32h
+Offset: 78Ch
+Full size: Eh (14)
+Header size: 6h (6)
+Body size: 8h (8)
+Type: 14h
+Build number: 0
+Version string: 1.0

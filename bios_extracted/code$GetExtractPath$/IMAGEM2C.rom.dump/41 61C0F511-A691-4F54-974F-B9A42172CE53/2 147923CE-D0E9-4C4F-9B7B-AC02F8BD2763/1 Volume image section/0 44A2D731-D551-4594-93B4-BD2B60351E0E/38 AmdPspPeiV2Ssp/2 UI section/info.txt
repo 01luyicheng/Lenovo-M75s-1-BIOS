@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D58A68h
+Header address: FFD58A68h
+Data address: FFD58A6Ch
+Offset: 3098h
+Full size: 22h (34)
+Header size: 4h (4)
+Body size: 1Eh (30)
+Type: 15h
+Text: AmdPspPeiV2Ssp

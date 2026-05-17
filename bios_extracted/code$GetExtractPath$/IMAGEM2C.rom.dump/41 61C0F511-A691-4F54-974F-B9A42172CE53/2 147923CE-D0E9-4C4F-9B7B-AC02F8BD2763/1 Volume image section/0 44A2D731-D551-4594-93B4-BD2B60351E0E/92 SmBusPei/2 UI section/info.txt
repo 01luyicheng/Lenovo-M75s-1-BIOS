@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D974F8h
+Header address: FFD974F8h
+Data address: FFD974FCh
+Offset: 1408h
+Full size: 16h (22)
+Header size: 4h (4)
+Body size: 12h (18)
+Type: 15h
+Text: SmBusPei

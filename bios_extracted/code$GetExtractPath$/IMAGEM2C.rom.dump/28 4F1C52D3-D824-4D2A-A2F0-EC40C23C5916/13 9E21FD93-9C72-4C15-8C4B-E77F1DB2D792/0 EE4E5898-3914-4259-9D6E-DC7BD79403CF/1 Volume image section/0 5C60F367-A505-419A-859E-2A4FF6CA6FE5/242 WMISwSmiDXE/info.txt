@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: WMISwSmiDXE
+Offset: 68FCF0h
+Full size: BAEh (2990)
+Header size: 18h (24)
+Body size: B96h (2966)
+File GUID: 1FBA8CFA-8194-49C4-BD8E-9F162A957BA1
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: E4h, valid
+Data checksum: AAh, valid

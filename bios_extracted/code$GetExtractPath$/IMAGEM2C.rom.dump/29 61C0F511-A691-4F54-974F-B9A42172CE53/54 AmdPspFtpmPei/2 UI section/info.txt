@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: DE5194h
+Header address: FEDE5194h
+Data address: FEDE5198h
+Offset: 17ACh
+Full size: 20h (32)
+Header size: 4h (4)
+Body size: 1Ch (28)
+Type: 15h
+Text: AmdPspFtpmPei

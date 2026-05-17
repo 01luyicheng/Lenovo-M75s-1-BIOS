@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdVersionDxe
+Offset: 1A5F78h
+Full size: 562h (1378)
+Header size: 18h (24)
+Body size: 54Ah (1354)
+File GUID: 29D40F30-E8BF-4803-88A6-4247A29A5318
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 06h, valid
+Data checksum: AAh, valid

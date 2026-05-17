@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: DF72A4h
+Header address: FEDF72A4h
+Data address: FEDF72A8h
+Offset: 294h
+Full size: 20h (32)
+Header size: 4h (4)
+Body size: 1Ch (28)
+Type: 15h
+Text: AmdVersionPei

@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: GnbSocRavenPei
+Base: D10300h
+Header address: FED10300h
+Data address: FED10318h
+Offset: 10300h
+Full size: 3E6h (998)
+Header size: 18h (24)
+Body size: 3CEh (974)
+File GUID: 168E8FFC-B8DE-48E4-9CFC-D8A667ABEF65
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: A4h, valid
+Data checksum: AAh, valid

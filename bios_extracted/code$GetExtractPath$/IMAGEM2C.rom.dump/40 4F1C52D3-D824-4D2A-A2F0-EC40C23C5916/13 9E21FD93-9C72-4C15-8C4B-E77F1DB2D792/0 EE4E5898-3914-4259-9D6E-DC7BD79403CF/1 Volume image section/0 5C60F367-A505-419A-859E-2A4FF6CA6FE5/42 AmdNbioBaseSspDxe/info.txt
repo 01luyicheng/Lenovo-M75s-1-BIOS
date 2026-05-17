@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdNbioBaseSspDxe
+Offset: B61F0h
+Full size: 1F9Eh (8094)
+Header size: 18h (24)
+Body size: 1F86h (8070)
+File GUID: 4BEECAFE-5F02-432E-44B9-3CA5CA5DF189
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: EAh, valid
+Data checksum: AAh, valid

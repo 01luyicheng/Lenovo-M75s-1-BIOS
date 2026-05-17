@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: Cf9ResetSmm
+Offset: 9D0860h
+Full size: A66h (2662)
+Header size: 18h (24)
+Body size: A4Eh (2638)
+File GUID: 983DC43F-8D09-442A-8A97-B4B6BB0E6D8A
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 5Fh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,12 @@
+Type: Section
+Subtype: Version
+Base: 1D8745Ch
+Header address: FFD8745Ch
+Data address: FFD87462h
+Offset: 2ACh
+Full size: Eh (14)
+Header size: 6h (6)
+Body size: 8h (8)
+Type: 14h
+Build number: 0
+Version string: 1.0

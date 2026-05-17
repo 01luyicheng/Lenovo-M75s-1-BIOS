@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: AmdCpmAdaptiveS4Smm
+Offset: A053A8h
+Full size: C82h (3202)
+Header size: 18h (24)
+Body size: C6Ah (3178)
+File GUID: E13DD38C-1B41-49F5-8D92-0839D4234AA2
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 0Eh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D731E0h
+Header address: FFD731E0h
+Data address: FFD731E4h
+Offset: 918h
+Full size: 1Ah (26)
+Header size: 4h (4)
+Body size: 16h (22)
+Type: 15h
+Text: SmbiosPeim

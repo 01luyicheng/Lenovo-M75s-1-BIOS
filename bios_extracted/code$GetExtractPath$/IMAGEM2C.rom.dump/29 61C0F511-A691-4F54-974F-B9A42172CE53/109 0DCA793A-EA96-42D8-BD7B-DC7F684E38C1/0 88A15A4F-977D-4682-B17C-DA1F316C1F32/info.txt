@@ -1,0 +1,11 @@
+Type: Section
+Subtype: Freeform subtype GUID
+Base: E26D50h
+Header address: FEE26D50h
+Data address: FEE26D64h
+Offset: 18h
+Full size: 134h (308)
+Header size: 14h (20)
+Body size: 120h (288)
+Type: 18h
+Subtype GUID: 88A15A4F-977D-4682-B17C-DA1F316C1F32

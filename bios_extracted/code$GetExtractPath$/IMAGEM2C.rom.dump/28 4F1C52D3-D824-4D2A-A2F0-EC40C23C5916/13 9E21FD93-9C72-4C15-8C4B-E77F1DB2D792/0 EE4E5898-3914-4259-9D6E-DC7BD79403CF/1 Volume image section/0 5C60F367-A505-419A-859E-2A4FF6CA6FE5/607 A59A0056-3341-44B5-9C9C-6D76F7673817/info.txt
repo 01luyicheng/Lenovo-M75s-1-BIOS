@@ -1,0 +1,12 @@
+Type: File
+Subtype: Freeform
+Offset: CFA790h
+Full size: BAh (186)
+Header size: 18h (24)
+Body size: A2h (162)
+File GUID: A59A0056-3341-44B5-9C9C-6D76F7673817
+Type: 02h
+Attributes: 00h
+State: F8h
+Header checksum: 7Ah, valid
+Data checksum: AAh, valid

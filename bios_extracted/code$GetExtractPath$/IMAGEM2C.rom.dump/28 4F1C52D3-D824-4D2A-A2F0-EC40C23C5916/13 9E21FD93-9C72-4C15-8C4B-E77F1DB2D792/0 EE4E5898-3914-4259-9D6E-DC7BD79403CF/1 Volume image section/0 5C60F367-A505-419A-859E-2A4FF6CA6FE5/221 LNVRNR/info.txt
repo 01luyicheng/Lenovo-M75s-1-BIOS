@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: LNVRNR
+Offset: 67C258h
+Full size: 91Ah (2330)
+Header size: 18h (24)
+Body size: 902h (2306)
+File GUID: B0FC49FA-4F5F-4542-81C4-E54DB9592022
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: E7h, valid
+Data checksum: AAh, valid

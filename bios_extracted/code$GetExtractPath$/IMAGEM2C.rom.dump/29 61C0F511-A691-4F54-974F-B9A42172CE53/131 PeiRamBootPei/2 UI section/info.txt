@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E564E4h
+Header address: FEE564E4h
+Data address: FEE564E8h
+Offset: EBCh
+Full size: 20h (32)
+Header size: 4h (4)
+Body size: 1Ch (28)
+Type: 15h
+Text: PeiRamBootPei

@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E1E1CCh
+Header address: FEE1E1CCh
+Data address: FEE1E1D0h
+Offset: 284h
+Full size: 26h (38)
+Header size: 4h (4)
+Body size: 22h (34)
+Type: 15h
+Text: WarmResetFlagPei

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: OemDxe
+Offset: CDDF80h
+Full size: 1B66h (7014)
+Header size: 18h (24)
+Body size: 1B4Eh (6990)
+File GUID: 2D07DCE9-5E64-4979-86E1-7D38FB96AE95
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 0Bh, valid
+Data checksum: AAh, valid

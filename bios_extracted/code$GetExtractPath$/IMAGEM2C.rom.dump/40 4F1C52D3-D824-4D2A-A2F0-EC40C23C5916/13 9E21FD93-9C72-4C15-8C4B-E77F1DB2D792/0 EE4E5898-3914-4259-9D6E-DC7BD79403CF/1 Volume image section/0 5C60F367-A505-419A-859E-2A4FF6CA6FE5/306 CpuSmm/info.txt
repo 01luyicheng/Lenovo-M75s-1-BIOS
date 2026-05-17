@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: CpuSmm
+Offset: 90B6F0h
+Full size: 5A7Ah (23162)
+Header size: 18h (24)
+Body size: 5A62h (23138)
+File GUID: 9DAECAB8-AFB8-40D3-80CD-3545D5025DBB
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 25h, valid
+Data checksum: AAh, valid

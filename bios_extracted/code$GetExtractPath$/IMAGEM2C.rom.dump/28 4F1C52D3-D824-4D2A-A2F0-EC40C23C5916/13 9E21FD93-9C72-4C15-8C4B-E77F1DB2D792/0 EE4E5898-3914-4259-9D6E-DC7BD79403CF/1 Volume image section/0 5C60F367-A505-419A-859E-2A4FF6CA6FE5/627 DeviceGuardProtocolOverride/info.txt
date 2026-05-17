@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: DeviceGuardProtocolOverride
+Offset: E19358h
+Full size: 7DEh (2014)
+Header size: 18h (24)
+Body size: 7C6h (1990)
+File GUID: 37317709-3B19-446A-B184-63027E14AF01
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 4Eh, valid
+Data checksum: AAh, valid

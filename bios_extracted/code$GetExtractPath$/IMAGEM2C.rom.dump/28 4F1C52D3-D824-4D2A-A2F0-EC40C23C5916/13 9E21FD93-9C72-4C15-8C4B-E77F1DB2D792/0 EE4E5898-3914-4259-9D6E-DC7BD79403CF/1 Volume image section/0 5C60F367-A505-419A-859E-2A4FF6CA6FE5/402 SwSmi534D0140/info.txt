@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: SwSmi534D0140
+Offset: AB28F0h
+Full size: 210Eh (8462)
+Header size: 18h (24)
+Body size: 20F6h (8438)
+File GUID: 6F9B3CFA-1AF2-4174-A1C7-8F6310D68BE4
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 17h, valid
+Data checksum: AAh, valid

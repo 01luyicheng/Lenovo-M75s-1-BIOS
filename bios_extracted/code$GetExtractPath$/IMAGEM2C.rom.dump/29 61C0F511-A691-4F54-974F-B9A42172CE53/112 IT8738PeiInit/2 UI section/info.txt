@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E2D39Ch
+Header address: FEE2D39Ch
+Data address: FEE2D3A0h
+Offset: 9B4h
+Full size: 20h (32)
+Header size: 4h (4)
+Body size: 1Ch (28)
+Type: 15h
+Text: IT8738PeiInit

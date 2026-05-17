@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdNbioAlibDxe
+Offset: AAB50h
+Full size: B69Ah (46746)
+Header size: 18h (24)
+Body size: B682h (46722)
+File GUID: AC3AE4F1-6050-4609-B701-6A90B0972E74
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 54h, valid
+Data checksum: AAh, valid

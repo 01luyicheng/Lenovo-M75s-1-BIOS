@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: PcdDxe
+Offset: CD9CD8h
+Full size: 387Ah (14458)
+Header size: 18h (24)
+Body size: 3862h (14434)
+File GUID: 80CF7257-87AB-47F9-A3FE-D50B76D89541
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 18h, valid
+Data checksum: AAh, valid

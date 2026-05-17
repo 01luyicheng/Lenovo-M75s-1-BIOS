@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1DA06E4h
+Header address: FFDA06E4h
+Data address: FFDA06E8h
+Offset: DD4h
+Full size: 2Ah (42)
+Header size: 4h (4)
+Body size: 26h (38)
+Type: 15h
+Text: AmdCpmPcieInitPeim

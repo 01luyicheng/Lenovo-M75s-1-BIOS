@@ -1,0 +1,11 @@
+Type: Section
+Subtype: Freeform subtype GUID
+Base: 1D00090h
+Header address: FFD00090h
+Data address: FFD000A4h
+Offset: 18h
+Full size: 11Ch (284)
+Header size: 14h (20)
+Body size: 108h (264)
+Type: 18h
+Subtype GUID: 88A15A4F-977D-4682-B17C-DA1F316C1F32

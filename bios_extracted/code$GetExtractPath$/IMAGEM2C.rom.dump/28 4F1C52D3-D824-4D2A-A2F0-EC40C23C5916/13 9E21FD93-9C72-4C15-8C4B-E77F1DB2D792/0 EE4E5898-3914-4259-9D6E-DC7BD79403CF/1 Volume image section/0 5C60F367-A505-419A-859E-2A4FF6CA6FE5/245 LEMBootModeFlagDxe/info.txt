@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: LEMBootModeFlagDxe
+Offset: 692810h
+Full size: 652h (1618)
+Header size: 18h (24)
+Body size: 63Ah (1594)
+File GUID: E33D951C-EBE8-474C-AFAA-21AC65AA768F
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 30h, valid
+Data checksum: AAh, valid

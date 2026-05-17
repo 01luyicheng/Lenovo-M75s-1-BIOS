@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: DE94FCh
+Header address: FEDE94FCh
+Data address: FEDE9500h
+Offset: 324h
+Full size: 1Eh (30)
+Header size: 4h (4)
+Body size: 1Ah (26)
+Type: 15h
+Text: ApobDummyPei

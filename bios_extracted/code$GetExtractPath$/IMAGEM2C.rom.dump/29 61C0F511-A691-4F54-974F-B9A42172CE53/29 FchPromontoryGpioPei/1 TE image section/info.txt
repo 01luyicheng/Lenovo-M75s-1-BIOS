@@ -1,0 +1,19 @@
+Type: Section
+Subtype: TE image
+Base: D351E0h
+Header address: FED351E0h
+Data address: FED351E4h
+Offset: 78h
+Full size: 1604h (5636)
+Header size: 4h (4)
+Body size: 1600h (5632)
+Type: 12h
+Signature: 5A56h
+Machine type: x86
+Number of sections: 3
+Subsystem: 0Bh
+Stripped size: 1A8h (424)
+Base of code: 220h
+Address of entry point: 27Dh
+Image base: FFD35064h
+Adjusted image base: FFD351E4h

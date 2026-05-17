@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E56FE4h
+Header address: FEE56FE4h
+Data address: FEE56FE8h
+Offset: 8DCh
+Full size: 12h (18)
+Header size: 4h (4)
+Body size: Eh (14)
+Type: 15h
+Text: CrbPei

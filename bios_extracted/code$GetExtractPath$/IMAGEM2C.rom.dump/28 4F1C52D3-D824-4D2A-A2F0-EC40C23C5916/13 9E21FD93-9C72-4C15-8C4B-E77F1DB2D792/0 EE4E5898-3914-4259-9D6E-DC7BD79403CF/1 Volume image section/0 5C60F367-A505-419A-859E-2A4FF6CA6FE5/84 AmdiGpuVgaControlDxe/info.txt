@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdiGpuVgaControlDxe
+Offset: 1A1540h
+Full size: 836h (2102)
+Header size: 18h (24)
+Body size: 81Eh (2078)
+File GUID: 6C9AA1EC-286E-4A0A-AA98-E2E530626F4D
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: E7h, valid
+Data checksum: AAh, valid

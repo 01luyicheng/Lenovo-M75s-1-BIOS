@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: lBoot
+Offset: 690EF8h
+Full size: 1912h (6418)
+Header size: 18h (24)
+Body size: 18FAh (6394)
+File GUID: 61A4AFB6-69E8-4EDB-A606-20FB31C13F82
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 70h, valid
+Data checksum: AAh, valid

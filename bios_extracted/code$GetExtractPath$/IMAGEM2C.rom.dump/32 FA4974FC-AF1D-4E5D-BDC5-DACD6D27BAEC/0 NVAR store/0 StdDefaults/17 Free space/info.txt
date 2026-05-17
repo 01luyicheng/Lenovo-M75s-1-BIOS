@@ -1,0 +1,8 @@
+Type: Free space
+Subtype: 
+Base: 103773Fh
+Address: FF03773Fh
+Offset: 6AFh
+Full size: 10h (16)
+Body size: 10h (16)
+

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: ResetDateTimeDxe
+Offset: 59E020h
+Full size: 76Ah (1898)
+Header size: 18h (24)
+Body size: 752h (1874)
+File GUID: 3BD61419-4BB8-4921-92C8-BA84A7A3591F
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 83h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: WarmResetFlagOS
+Offset: 9B6C58h
+Full size: E4Ah (3658)
+Header size: 18h (24)
+Body size: E32h (3634)
+File GUID: 978FD233-09A8-4FA0-98E2-D4B62C203251
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 00h, valid
+Data checksum: AAh, valid

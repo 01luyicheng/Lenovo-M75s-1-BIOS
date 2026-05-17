@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: D9A664h
+Header address: FED9A664h
+Data address: FED9A668h
+Offset: 44ECh
+Full size: 24h (36)
+Header size: 4h (4)
+Body size: 20h (32)
+Type: 15h
+Text: AmdNbioGfxRVPei

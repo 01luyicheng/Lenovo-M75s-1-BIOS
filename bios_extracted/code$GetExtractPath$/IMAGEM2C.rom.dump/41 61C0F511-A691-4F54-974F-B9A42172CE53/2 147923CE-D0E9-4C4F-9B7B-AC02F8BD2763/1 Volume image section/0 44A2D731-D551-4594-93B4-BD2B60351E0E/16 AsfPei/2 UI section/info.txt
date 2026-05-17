@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D15A40h
+Header address: FFD15A40h
+Data address: FFD15A44h
+Offset: 818h
+Full size: 12h (18)
+Header size: 4h (4)
+Body size: Eh (14)
+Type: 15h
+Text: AsfPei

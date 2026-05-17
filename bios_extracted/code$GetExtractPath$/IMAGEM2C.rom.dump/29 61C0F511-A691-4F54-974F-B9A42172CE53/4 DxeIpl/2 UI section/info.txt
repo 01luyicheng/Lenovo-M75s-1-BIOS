@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: D0BBB8h
+Header address: FED0BBB8h
+Data address: FED0BBBCh
+Offset: 36F8h
+Full size: 12h (18)
+Header size: 4h (4)
+Body size: Eh (14)
+Type: 15h
+Text: DxeIpl

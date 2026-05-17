@@ -1,0 +1,16 @@
+Type: File
+Subtype: SEC core
+Text: Volume Top File
+Base: FFCD88h
+Header address: FEFFCD88h
+Data address: FEFFCDA0h
+Offset: 2FCD88h
+Full size: 3278h (12920)
+Header size: 18h (24)
+Body size: 3260h (12896)
+File GUID: 1BA0062E-C779-4582-8566-336AE8F78F09
+Type: 03h
+Attributes: 0Ch
+State: F8h
+Header checksum: 52h, valid
+Data checksum: AAh, valid

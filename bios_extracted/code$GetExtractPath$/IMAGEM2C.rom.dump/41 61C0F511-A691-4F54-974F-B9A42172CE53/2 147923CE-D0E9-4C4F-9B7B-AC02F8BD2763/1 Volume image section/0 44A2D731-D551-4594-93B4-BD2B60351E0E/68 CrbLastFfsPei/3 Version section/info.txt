@@ -1,0 +1,12 @@
+Type: Section
+Subtype: Version
+Base: 1D84CCCh
+Header address: FFD84CCCh
+Data address: FFD84CD2h
+Offset: 4FCh
+Full size: Eh (14)
+Header size: 6h (6)
+Body size: 8h (8)
+Type: 14h
+Build number: 0
+Version string: 1.0

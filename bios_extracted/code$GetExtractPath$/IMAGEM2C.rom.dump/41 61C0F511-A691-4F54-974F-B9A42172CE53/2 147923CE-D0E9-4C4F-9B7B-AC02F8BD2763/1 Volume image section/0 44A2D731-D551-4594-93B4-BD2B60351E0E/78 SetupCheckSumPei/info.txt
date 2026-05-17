@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: SetupCheckSumPei
+Base: 1D88FD0h
+Header address: FFD88FD0h
+Data address: FFD88FE8h
+Offset: 86FD0h
+Full size: 596h (1430)
+Header size: 18h (24)
+Body size: 57Eh (1406)
+File GUID: 76D1059D-2E22-40EF-A31F-C49DBBC0DBCE
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: B0h, valid
+Data checksum: AAh, valid

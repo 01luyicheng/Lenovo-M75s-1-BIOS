@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdErrorPei
+Base: 1D19AF8h
+Header address: FFD19AF8h
+Data address: FFD19B10h
+Offset: 17AF8h
+Full size: 78Eh (1934)
+Header size: 18h (24)
+Body size: 776h (1910)
+File GUID: A5C02C56-19A7-43B5-A0D0-04518A1CA69E
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 17h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: IsHdpRequiredPostFlag
+Base: E1E208h
+Header address: FEE1E208h
+Data address: FEE1E220h
+Offset: 11E208h
+Full size: 2D6h (726)
+Header size: 18h (24)
+Body size: 2BEh (702)
+File GUID: C8CAFFF9-C6E0-4443-B96F-45FE2AD480CD
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: B5h, valid
+Data checksum: AAh, valid

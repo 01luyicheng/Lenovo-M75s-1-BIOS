@@ -1,0 +1,19 @@
+Type: Section
+Subtype: TE image
+Base: D292B8h
+Header address: FED292B8h
+Data address: FED292BCh
+Offset: 78h
+Full size: 3F24h (16164)
+Header size: 4h (4)
+Body size: 3F20h (16160)
+Type: 12h
+Signature: 5A56h
+Machine type: x86
+Number of sections: 3
+Subsystem: 0Bh
+Stripped size: 1C8h (456)
+Base of code: 240h
+Address of entry point: 380h
+Image base: FFD2911Ch
+Adjusted image base: FFD292BCh

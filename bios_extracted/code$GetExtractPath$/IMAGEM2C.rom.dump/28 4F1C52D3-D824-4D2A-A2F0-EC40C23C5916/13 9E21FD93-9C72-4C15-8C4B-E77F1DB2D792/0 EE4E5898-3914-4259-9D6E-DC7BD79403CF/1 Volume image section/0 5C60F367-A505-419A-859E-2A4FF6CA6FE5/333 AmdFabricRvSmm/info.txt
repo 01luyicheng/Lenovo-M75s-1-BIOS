@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: AmdFabricRvSmm
+Offset: 9A8970h
+Full size: 257Ah (9594)
+Header size: 18h (24)
+Body size: 2562h (9570)
+File GUID: C1B135AA-7ACB-45D0-80B7-862B8D5F0CD5
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: F7h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E17364h
+Header address: FEE17364h
+Data address: FEE17368h
+Offset: 8C4Ch
+Full size: 14h (20)
+Header size: 4h (4)
+Body size: 10h (16)
+Type: 15h
+Text: TrEEPei

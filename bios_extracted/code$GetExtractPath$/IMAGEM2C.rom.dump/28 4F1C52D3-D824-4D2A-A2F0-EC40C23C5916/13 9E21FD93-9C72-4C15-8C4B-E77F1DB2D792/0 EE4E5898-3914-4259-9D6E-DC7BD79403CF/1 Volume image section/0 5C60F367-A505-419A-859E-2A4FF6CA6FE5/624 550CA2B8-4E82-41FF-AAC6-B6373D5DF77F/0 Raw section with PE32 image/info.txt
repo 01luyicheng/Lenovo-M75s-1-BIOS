@@ -1,0 +1,17 @@
+Type: Section
+Subtype: Raw
+Offset: 18h
+Full size: E4B84h (936836)
+Header size: 4h (4)
+Body size: E4B80h (936832)
+Type: 19h
+DOS signature: 5A4Dh
+PE signature: 00004550h
+Machine type: x86-64
+Number of sections: 5
+Characteristics: 2022h
+Optional header signature: 020Bh
+Subsystem: 000Ah
+Address of entry point: 630h
+Base of code: 2A0h
+Image base: 0h

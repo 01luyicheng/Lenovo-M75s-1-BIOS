@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AodSetupDxe
+Offset: B13F60h
+Full size: 10E9Eh (69278)
+Header size: 18h (24)
+Body size: 10E86h (69254)
+File GUID: 07D279A1-34E4-4168-993B-178B3ACC68EF
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: C5h, valid
+Data checksum: AAh, valid

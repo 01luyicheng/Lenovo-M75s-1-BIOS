@@ -1,0 +1,12 @@
+Type: File
+Subtype: Freeform
+Offset: CAAB18h
+Full size: D04h (3332)
+Header size: 18h (24)
+Body size: CECh (3308)
+File GUID: 03C78876-52AB-48BD-A3CC-5A95B693E79E
+Type: 02h
+Attributes: 00h
+State: F8h
+Header checksum: F7h, valid
+Data checksum: AAh, valid

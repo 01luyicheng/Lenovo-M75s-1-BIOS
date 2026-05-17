@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D83BA4h
+Header address: FFD83BA4h
+Data address: FFD83BA8h
+Offset: 234h
+Full size: 22h (34)
+Header size: 4h (4)
+Body size: 1Eh (30)
+Type: 15h
+Text: AmiPspRecovery

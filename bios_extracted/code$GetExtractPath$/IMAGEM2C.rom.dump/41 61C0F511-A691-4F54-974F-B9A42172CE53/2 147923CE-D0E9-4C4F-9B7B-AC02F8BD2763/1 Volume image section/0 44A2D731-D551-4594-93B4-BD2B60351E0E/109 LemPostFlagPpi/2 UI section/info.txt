@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1DB7B8Ch
+Header address: FFDB7B8Ch
+Data address: FFDB7B90h
+Offset: 704h
+Full size: 22h (34)
+Header size: 4h (4)
+Body size: 1Eh (30)
+Type: 15h
+Text: LemPostFlagPpi

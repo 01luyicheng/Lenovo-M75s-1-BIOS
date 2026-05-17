@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SbCmos
+Offset: BB5048h
+Full size: 696h (1686)
+Header size: 18h (24)
+Body size: 67Eh (1662)
+File GUID: 7721929A-D56A-450D-2501-8EA51FA61974
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 5Dh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,19 @@
+Type: Section
+Subtype: TE image
+Base: 1D900D0h
+Header address: FFD900D0h
+Data address: FFD900D4h
+Offset: 20h
+Full size: 34F4h (13556)
+Header size: 4h (4)
+Body size: 34F0h (13552)
+Type: 12h
+Signature: 5A56h
+Machine type: x86-64
+Number of sections: 5
+Subsystem: 0Bh
+Stripped size: 1B8h (440)
+Base of code: 280h
+Address of entry point: AF0h
+Image base: 9D8FF44h
+Adjusted image base: 9D900D4h

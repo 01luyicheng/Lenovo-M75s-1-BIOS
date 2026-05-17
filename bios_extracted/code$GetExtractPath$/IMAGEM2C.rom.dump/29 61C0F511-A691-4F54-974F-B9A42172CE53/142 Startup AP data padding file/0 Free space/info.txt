@@ -1,0 +1,8 @@
+Type: Free space
+Subtype: 
+Base: E58860h
+Address: FEE58860h
+Offset: 18h
+Full size: 1A37A0h (1718176)
+Body size: 1A37A0h (1718176)
+

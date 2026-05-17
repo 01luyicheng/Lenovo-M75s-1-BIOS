@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdSmbiosDxe
+Offset: 1A1D78h
+Full size: 41FAh (16890)
+Header size: 18h (24)
+Body size: 41E2h (16866)
+File GUID: 52A9B223-FAB8-4A24-AEA6-461A59BD3F33
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 92h, valid
+Data checksum: AAh, valid

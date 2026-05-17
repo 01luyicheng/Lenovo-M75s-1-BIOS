@@ -1,0 +1,12 @@
+Type: File
+Subtype: Freeform
+Offset: CA2790h
+Full size: C6Fh (3183)
+Header size: 18h (24)
+Body size: C57h (3159)
+File GUID: 027179E2-00D1-406E-BCAF-1EF14F6BCB32
+Type: 02h
+Attributes: 00h
+State: F8h
+Header checksum: 05h, valid
+Data checksum: AAh, valid

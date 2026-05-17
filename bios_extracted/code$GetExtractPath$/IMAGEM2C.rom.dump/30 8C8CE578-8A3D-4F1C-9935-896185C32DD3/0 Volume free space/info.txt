@@ -1,0 +1,8 @@
+Type: Free space
+Subtype: 
+Base: 1000048h
+Address: FF000048h
+Offset: 48h
+Full size: 1FFB8h (131000)
+Body size: 1FFB8h (131000)
+

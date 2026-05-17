@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: SbRunSmm
+Offset: 8BE7B0h
+Full size: 230Eh (8974)
+Header size: 18h (24)
+Body size: 22F6h (8950)
+File GUID: C99E42D0-4964-4B09-B924-4A59E13E4F04
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 59h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdSocAm4BrDxe
+Offset: 198CF0h
+Full size: 966h (2406)
+Header size: 18h (24)
+Body size: 94Eh (2382)
+File GUID: 5F749A1D-9500-48CE-A41F-D0F2F71DEF8C
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 41h, valid
+Data checksum: AAh, valid

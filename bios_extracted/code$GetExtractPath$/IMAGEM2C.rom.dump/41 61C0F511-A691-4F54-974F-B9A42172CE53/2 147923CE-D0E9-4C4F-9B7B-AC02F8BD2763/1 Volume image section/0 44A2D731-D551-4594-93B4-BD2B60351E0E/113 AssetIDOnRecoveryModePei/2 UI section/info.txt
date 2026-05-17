@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1DB8BC4h
+Header address: FFDB8BC4h
+Data address: FFDB8BC8h
+Offset: 4DCh
+Full size: 36h (54)
+Header size: 4h (4)
+Body size: 32h (50)
+Type: 15h
+Text: AssetIDOnRecoveryModePei

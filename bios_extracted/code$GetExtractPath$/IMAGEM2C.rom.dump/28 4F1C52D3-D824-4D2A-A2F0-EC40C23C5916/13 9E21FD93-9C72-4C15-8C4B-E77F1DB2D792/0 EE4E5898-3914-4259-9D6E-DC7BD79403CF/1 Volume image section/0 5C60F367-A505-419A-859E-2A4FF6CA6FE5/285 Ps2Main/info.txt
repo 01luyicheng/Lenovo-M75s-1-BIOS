@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: Ps2Main
+Offset: 706990h
+Full size: 4F9Ah (20378)
+Header size: 18h (24)
+Body size: 4F82h (20354)
+File GUID: 5FECEF6B-5FA4-4570-8163-0CF72A9C04C5
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 3Dh, valid
+Data checksum: AAh, valid

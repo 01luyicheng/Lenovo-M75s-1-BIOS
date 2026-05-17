@@ -1,0 +1,12 @@
+Type: Section
+Subtype: Version
+Base: DE91C4h
+Header address: FEDE91C4h
+Data address: FEDE91CAh
+Offset: 2C24h
+Full size: Eh (14)
+Header size: 6h (6)
+Body size: 8h (8)
+Type: 14h
+Build number: 0
+Version string: 1.0

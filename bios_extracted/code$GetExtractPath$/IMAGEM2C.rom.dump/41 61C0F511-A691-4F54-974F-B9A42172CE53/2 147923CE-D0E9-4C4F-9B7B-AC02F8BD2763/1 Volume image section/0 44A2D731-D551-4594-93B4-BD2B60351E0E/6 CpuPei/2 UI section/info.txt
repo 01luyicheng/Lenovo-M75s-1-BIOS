@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D105DCh
+Header address: FFD105DCh
+Data address: FFD105E0h
+Offset: 205Ch
+Full size: 12h (18)
+Header size: 4h (4)
+Body size: Eh (14)
+Type: 15h
+Text: CpuPei

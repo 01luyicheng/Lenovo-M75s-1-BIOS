@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E00A7Ch
+Header address: FEE00A7Ch
+Data address: FEE00A80h
+Offset: 2834h
+Full size: 1Eh (30)
+Header size: 4h (4)
+Body size: 1Ah (26)
+Type: 15h
+Text: CbsBasePeiRV

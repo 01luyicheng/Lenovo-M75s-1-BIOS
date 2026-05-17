@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: CpuPei
+Base: D0C4E0h
+Header address: FED0C4E0h
+Data address: FED0C4F8h
+Offset: C4E0h
+Full size: 205Eh (8286)
+Header size: 18h (24)
+Body size: 2046h (8262)
+File GUID: 2BB5AFA9-FF33-417B-8497-CB773C2B93BF
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 40h, valid
+Data checksum: AAh, valid

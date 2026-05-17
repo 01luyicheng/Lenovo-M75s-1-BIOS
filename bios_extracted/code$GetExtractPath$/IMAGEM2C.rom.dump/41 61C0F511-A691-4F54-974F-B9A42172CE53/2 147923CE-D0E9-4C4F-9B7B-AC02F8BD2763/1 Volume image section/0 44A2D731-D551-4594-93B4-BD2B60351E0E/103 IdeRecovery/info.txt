@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: IdeRecovery
+Base: 1DB2E78h
+Header address: FFDB2E78h
+Data address: FFDB2E90h
+Offset: B0E78h
+Full size: D01h (3329)
+Header size: 18h (24)
+Body size: CE9h (3305)
+File GUID: 10C22623-DB6F-4721-AA30-4C12AF4230A7
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 1Fh, valid
+Data checksum: AAh, valid

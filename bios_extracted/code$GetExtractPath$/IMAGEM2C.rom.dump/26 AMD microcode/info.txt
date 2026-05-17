@@ -1,0 +1,10 @@
+Type: AMD microcode
+Subtype: 
+Base: 67E600h
+Address: FE67E600h
+Offset: 67E600h
+Full size: C80h (3200)
+Body size: C80h (3200)
+Date: 06.11.2018
+CPU signature: 00008111h
+Revision: 08101102h

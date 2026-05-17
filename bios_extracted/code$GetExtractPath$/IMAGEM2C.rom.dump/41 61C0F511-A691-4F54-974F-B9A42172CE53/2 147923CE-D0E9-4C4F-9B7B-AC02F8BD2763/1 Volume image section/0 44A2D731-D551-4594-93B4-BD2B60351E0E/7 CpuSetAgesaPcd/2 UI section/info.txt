@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D10A74h
+Header address: FFD10A74h
+Data address: FFD10A78h
+Offset: 474h
+Full size: 22h (34)
+Header size: 4h (4)
+Body size: 1Eh (30)
+Type: 15h
+Text: CpuSetAgesaPcd

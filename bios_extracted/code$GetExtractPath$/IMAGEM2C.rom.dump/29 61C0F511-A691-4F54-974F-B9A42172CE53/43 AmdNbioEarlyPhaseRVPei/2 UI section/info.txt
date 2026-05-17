@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: D96130h
+Header address: FED96130h
+Data address: FED96134h
+Offset: 10E8h
+Full size: 32h (50)
+Header size: 4h (4)
+Body size: 2Eh (46)
+Type: 15h
+Text: AmdNbioEarlyPhaseRVPei

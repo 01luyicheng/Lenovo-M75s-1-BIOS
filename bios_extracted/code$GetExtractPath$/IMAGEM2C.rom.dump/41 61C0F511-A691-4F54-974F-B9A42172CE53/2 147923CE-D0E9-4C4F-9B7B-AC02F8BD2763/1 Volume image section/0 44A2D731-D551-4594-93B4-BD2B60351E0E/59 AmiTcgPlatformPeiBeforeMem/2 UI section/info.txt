@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D7EE9Ch
+Header address: FFD7EE9Ch
+Data address: FFD7EEA0h
+Offset: 364h
+Full size: 3Ah (58)
+Header size: 4h (4)
+Body size: 36h (54)
+Type: 15h
+Text: AmiTcgPlatformPeiBeforeMem

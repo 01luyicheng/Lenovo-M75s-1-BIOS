@@ -1,0 +1,12 @@
+Type: Section
+Subtype: Version
+Base: D22F58h
+Header address: FED22F58h
+Data address: FED22F5Eh
+Offset: 780h
+Full size: Eh (14)
+Header size: 6h (6)
+Body size: 8h (8)
+Type: 14h
+Build number: 0
+Version string: 1.0

@@ -1,0 +1,19 @@
+Type: Section
+Subtype: TE image
+Base: D46884h
+Header address: FED46884h
+Data address: FED46888h
+Offset: 9Ch
+Full size: 44394h (279444)
+Header size: 4h (4)
+Body size: 44390h (279440)
+Type: 12h
+Signature: 5A56h
+Machine type: x86
+Number of sections: 9
+Subsystem: 0Bh
+Stripped size: 1B8h (440)
+Base of code: 320h
+Address of entry point: 460h
+Image base: FFD466F8h
+Adjusted image base: FFD46888h

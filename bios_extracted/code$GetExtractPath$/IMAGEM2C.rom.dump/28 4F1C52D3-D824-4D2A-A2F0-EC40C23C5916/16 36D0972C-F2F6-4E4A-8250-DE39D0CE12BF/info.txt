@@ -1,0 +1,15 @@
+Type: File
+Subtype: Raw
+Base: C2B400h
+Header address: FEC2B400h
+Data address: FEC2B418h
+Offset: 55C400h
+Full size: 2018h (8216)
+Header size: 18h (24)
+Body size: 2000h (8192)
+File GUID: 36D0972C-F2F6-4E4A-8250-DE39D0CE12BF
+Type: 01h
+Attributes: 00h
+State: F8h
+Header checksum: 26h, valid
+Data checksum: AAh, valid

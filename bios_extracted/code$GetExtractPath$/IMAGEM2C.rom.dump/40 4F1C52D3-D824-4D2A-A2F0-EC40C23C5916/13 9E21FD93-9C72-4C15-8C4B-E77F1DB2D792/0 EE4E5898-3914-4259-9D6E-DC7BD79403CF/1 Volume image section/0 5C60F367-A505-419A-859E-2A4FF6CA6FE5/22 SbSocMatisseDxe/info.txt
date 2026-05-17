@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SbSocMatisseDxe
+Offset: 70400h
+Full size: 709Ah (28826)
+Header size: 18h (24)
+Body size: 7082h (28802)
+File GUID: EECC1363-884B-4FE4-A763-B387951B6DDD
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 7Bh, valid
+Data checksum: AAh, valid

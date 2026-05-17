@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: ResetSmi
+Offset: 995C00h
+Full size: 82Eh (2094)
+Header size: 18h (24)
+Body size: 816h (2070)
+File GUID: 6298FE18-D5EF-42B7-BB0C-295328569842
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 58h, valid
+Data checksum: AAh, valid

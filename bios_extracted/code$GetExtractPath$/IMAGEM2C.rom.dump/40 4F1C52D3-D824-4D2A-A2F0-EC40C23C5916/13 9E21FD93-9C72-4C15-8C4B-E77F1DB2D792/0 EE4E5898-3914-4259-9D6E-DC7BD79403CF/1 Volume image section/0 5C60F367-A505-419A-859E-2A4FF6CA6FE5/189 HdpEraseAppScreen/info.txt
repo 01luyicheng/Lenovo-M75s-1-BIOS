@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: HdpEraseAppScreen
+Offset: 5B2438h
+Full size: 3B7Eh (15230)
+Header size: 18h (24)
+Body size: 3B66h (15206)
+File GUID: 3B6A1473-13E0-4795-BA9F-22891277D74D
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 94h, valid
+Data checksum: AAh, valid

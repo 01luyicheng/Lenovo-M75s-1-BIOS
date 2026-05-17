@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D151E8h
+Header address: FFD151E8h
+Data address: FFD151ECh
+Offset: 3B8h
+Full size: 30h (48)
+Header size: 4h (4)
+Body size: 2Ch (44)
+Type: 15h
+Text: PiSmmCommunicationPei

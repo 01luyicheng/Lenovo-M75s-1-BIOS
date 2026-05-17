@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: TlsAuthConfigDxe
+Offset: 263378h
+Full size: AF32h (44850)
+Header size: 18h (24)
+Body size: AF1Ah (44826)
+File GUID: 7CA1024F-EB17-11E5-9DBA-28D2447C4829
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 30h, valid
+Data checksum: AAh, valid

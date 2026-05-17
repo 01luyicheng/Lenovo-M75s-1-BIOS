@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: D8E2B0h
+Header address: FED8E2B0h
+Data address: FED8E2B4h
+Offset: 1AA0h
+Full size: 2Eh (46)
+Header size: 4h (4)
+Body size: 2Ah (42)
+Type: 15h
+Text: AmdMemoryHobInfoPeim

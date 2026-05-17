@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: DeleteUefiCaFromDb
+Offset: 5C5130h
+Full size: C22h (3106)
+Header size: 18h (24)
+Body size: C0Ah (3082)
+File GUID: 4906415D-4B32-4D28-8557-21C390D76A3C
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 1Fh, valid
+Data checksum: AAh, valid

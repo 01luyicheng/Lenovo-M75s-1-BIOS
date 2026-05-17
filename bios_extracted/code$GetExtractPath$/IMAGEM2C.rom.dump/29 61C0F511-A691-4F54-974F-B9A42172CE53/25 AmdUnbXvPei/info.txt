@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdUnbXvPei
+Base: D270B8h
+Header address: FED270B8h
+Data address: FED270D0h
+Offset: 270B8h
+Full size: 2182h (8578)
+Header size: 18h (24)
+Body size: 216Ah (8554)
+File GUID: A7FD9E38-C005-45AD-8B65-F13CF6A1FD79
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: FCh, valid
+Data checksum: AAh, valid

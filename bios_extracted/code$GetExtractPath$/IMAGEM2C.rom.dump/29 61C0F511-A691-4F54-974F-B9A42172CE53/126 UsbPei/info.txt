@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: UsbPei
+Base: E4AEC8h
+Header address: FEE4AEC8h
+Data address: FEE4AEE0h
+Offset: 14AEC8h
+Full size: 3E8Dh (16013)
+Header size: 18h (24)
+Body size: 3E75h (15989)
+File GUID: 39E8CA1A-7A69-4A73-834A-D06381933286
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: BEh, valid
+Data checksum: AAh, valid

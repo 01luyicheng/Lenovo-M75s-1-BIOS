@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: S3Resume2Pei
+Base: 1D6CE88h
+Header address: FFD6CE88h
+Data address: FFD6CEA0h
+Offset: 6AE88h
+Full size: 1582h (5506)
+Header size: 18h (24)
+Body size: 156Ah (5482)
+File GUID: 89E549B0-7CFE-449D-9BA3-10D8B2312D71
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: FAh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: NbPei
+Base: D106E8h
+Header address: FED106E8h
+Data address: FED10700h
+Offset: 106E8h
+Full size: 5A6h (1446)
+Header size: 18h (24)
+Body size: 58Eh (1422)
+File GUID: 79AA6086-035A-4AD9-A89A-A6D5AA27F0E2
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 66h, valid
+Data checksum: AAh, valid

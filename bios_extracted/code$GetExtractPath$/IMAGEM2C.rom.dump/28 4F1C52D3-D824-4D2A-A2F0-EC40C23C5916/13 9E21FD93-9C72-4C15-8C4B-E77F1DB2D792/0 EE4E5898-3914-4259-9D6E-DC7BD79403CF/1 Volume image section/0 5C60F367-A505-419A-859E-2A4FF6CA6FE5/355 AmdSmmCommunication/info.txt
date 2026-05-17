@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: AmdSmmCommunication
+Offset: 9FB670h
+Full size: 1862h (6242)
+Header size: 18h (24)
+Body size: 184Ah (6218)
+File GUID: 64E6D006-E62A-481E-8F5A-3F76C9184741
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: DFh, valid
+Data checksum: AAh, valid

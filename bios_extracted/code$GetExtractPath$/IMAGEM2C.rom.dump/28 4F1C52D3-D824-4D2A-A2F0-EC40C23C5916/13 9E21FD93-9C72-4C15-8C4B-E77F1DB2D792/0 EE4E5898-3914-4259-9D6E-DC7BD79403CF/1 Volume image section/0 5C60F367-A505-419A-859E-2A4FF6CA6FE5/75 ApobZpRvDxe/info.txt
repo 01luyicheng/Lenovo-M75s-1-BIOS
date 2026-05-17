@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: ApobZpRvDxe
+Offset: 18CD50h
+Full size: 29E2h (10722)
+Header size: 18h (24)
+Body size: 29CAh (10698)
+File GUID: 6BFF8B94-D98E-4C7E-8300-E5B64701C118
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: F5h, valid
+Data checksum: AAh, valid

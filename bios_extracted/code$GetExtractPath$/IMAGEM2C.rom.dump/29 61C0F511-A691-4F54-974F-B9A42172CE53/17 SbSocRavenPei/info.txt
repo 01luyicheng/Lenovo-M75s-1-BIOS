@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: SbSocRavenPei
+Base: D143E0h
+Header address: FED143E0h
+Data address: FED143F8h
+Offset: 143E0h
+Full size: 5C2h (1474)
+Header size: 18h (24)
+Body size: 5AAh (1450)
+File GUID: F1DBDF29-12EA-20D1-2C48-84C3DC5C7E0D
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: F4h, valid
+Data checksum: AAh, valid

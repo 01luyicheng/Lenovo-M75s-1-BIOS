@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: StatusCodePei
+Base: 1D8AEA8h
+Header address: FFD8AEA8h
+Data address: FFD8AEC0h
+Offset: 88EA8h
+Full size: 356Ah (13674)
+Header size: 18h (24)
+Body size: 3552h (13650)
+File GUID: E9DD7F62-25EC-4F9D-A4AB-AAD20BF59A10
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 42h, valid
+Data checksum: AAh, valid

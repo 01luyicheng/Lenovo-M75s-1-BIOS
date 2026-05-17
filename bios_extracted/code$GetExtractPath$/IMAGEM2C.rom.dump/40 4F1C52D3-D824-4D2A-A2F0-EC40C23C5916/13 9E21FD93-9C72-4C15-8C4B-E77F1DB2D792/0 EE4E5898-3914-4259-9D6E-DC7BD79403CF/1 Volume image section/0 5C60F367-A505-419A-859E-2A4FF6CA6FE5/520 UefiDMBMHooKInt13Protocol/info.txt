@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: UefiDMBMHooKInt13Protocol
+Offset: B8B208h
+Full size: AEAh (2794)
+Header size: 18h (24)
+Body size: AD2h (2770)
+File GUID: 7692B160-3591-47AA-BDEE-655297662E76
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 32h, valid
+Data checksum: AAh, valid

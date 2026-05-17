@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdSpiRomProtectPei
+Base: E042A0h
+Header address: FEE042A0h
+Data address: FEE042B8h
+Offset: 1042A0h
+Full size: 1AEh (430)
+Header size: 18h (24)
+Body size: 196h (406)
+File GUID: 9D5FD24C-53DF-44AC-A336-B4879CDB29D9
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 82h, valid
+Data checksum: AAh, valid

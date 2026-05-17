@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D5A640h
+Header address: FFD5A640h
+Data address: FFD5A644h
+Offset: 1BA0h
+Full size: 1Ah (26)
+Header size: 4h (4)
+Body size: 16h (22)
+Type: 15h
+Text: ApobSspPei

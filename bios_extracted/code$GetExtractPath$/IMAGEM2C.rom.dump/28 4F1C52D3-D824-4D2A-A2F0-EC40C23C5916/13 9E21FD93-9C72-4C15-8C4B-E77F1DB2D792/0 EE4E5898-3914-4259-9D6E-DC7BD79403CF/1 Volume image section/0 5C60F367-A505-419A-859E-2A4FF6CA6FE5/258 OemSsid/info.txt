@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: OemSsid
+Offset: 69CA98h
+Full size: 10FAh (4346)
+Header size: 18h (24)
+Body size: 10E2h (4322)
+File GUID: 6174C031-9160-4B25-B5A1-DC4EA329D6EA
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: BCh, valid
+Data checksum: AAh, valid

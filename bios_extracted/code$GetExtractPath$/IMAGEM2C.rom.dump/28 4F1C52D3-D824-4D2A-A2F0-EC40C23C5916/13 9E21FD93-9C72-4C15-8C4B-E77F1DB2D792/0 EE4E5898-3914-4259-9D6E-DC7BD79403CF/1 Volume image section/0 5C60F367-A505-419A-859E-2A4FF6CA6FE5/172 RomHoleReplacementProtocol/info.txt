@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: RomHoleReplacementProtocol
+Offset: 63E248h
+Full size: 10FEh (4350)
+Header size: 18h (24)
+Body size: 10E6h (4326)
+File GUID: 8913AADD-564E-4CF8-B176-F3F985979C5F
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: B6h, valid
+Data checksum: AAh, valid

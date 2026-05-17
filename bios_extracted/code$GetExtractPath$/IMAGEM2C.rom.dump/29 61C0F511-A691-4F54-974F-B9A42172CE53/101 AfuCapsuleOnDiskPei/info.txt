@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AfuCapsuleOnDiskPei
+Base: E20558h
+Header address: FEE20558h
+Data address: FEE20570h
+Offset: 120558h
+Full size: 6FEh (1790)
+Header size: 18h (24)
+Body size: 6E6h (1766)
+File GUID: E74E2F92-ED3B-435D-8A7D-BB29408E9B22
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: C2h, valid
+Data checksum: AAh, valid

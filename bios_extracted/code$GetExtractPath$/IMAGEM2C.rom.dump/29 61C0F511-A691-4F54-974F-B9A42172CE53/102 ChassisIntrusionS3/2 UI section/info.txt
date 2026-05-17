@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E21080h
+Header address: FEE21080h
+Data address: FEE21084h
+Offset: 428h
+Full size: 2Ah (42)
+Header size: 4h (4)
+Body size: 26h (38)
+Type: 15h
+Text: ChassisIntrusionS3

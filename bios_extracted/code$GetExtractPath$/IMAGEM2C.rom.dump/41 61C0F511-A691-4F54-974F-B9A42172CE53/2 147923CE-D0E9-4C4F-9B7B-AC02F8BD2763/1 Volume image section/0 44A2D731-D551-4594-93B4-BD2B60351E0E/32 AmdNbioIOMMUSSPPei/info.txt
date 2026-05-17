@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdNbioIOMMUSSPPei
+Base: 1D35F70h
+Header address: FFD35F70h
+Data address: FFD35F88h
+Offset: 33F70h
+Full size: 1F22h (7970)
+Header size: 18h (24)
+Body size: 1F0Ah (7946)
+File GUID: FD022AE6-CF36-42F8-E360-2309237257B9
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 57h, valid
+Data checksum: AAh, valid

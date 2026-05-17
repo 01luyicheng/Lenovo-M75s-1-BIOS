@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D2EA74h
+Header address: FFD2EA74h
+Data address: FFD2EA78h
+Offset: 1584h
+Full size: 22h (34)
+Header size: 4h (4)
+Body size: 1Eh (30)
+Type: 15h
+Text: AmdMemAm4ZpPei

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SerialIo
+Offset: 63FBD8h
+Full size: 3B3Ah (15162)
+Header size: 18h (24)
+Body size: 3B22h (15138)
+File GUID: 97C81E5D-8FA0-486A-AAEA-0EFDF090FE4F
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 5Dh, valid
+Data checksum: AAh, valid

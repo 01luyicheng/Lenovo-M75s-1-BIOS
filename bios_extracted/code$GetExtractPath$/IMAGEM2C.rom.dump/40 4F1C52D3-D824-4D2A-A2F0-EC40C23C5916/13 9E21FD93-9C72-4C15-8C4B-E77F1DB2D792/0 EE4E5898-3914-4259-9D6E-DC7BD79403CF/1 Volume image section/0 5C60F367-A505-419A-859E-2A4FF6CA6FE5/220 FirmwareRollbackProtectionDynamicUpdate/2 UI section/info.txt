@@ -1,0 +1,8 @@
+Type: Section
+Subtype: UI
+Offset: 6F4h
+Full size: 54h (84)
+Header size: 4h (4)
+Body size: 50h (80)
+Type: 15h
+Text: FirmwareRollbackProtectionDynamicUpdate

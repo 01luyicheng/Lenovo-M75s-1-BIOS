@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: OemSmi
+Offset: ADAB50h
+Full size: 1B4Eh (6990)
+Header size: 18h (24)
+Body size: 1B36h (6966)
+File GUID: E5B1D3B2-5E64-4972-86E1-7D38FB9D61EB
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: F5h, valid
+Data checksum: AAh, valid

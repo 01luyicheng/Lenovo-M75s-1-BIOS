@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: FchTaishanSsdt
+Offset: E64E0h
+Full size: 6CEh (1742)
+Header size: 18h (24)
+Body size: 6B6h (1718)
+File GUID: 84FB407D-D086-4DDD-822F-33373A26BACC
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 68h, valid
+Data checksum: AAh, valid

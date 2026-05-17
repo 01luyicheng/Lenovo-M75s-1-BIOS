@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdUnbXvDxe
+Offset: BC6E0h
+Full size: 2ED2h (11986)
+Header size: 18h (24)
+Body size: 2EBAh (11962)
+File GUID: 9C1E8BCF-7072-45F4-ACC3-98700A0FC907
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 6Ah, valid
+Data checksum: AAh, valid

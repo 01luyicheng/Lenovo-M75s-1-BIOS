@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: OemSpecialLogoSupport
+Offset: 6615C0h
+Full size: 742h (1858)
+Header size: 18h (24)
+Body size: 72Ah (1834)
+File GUID: A5F36439-BD52-49FB-B158-7F6688952BEA
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 08h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: NetworkOfflineLockerSmi
+Offset: AC55F0h
+Full size: 164Ah (5706)
+Header size: 18h (24)
+Body size: 1632h (5682)
+File GUID: 99E06CA1-3779-48B4-8D0A-8A496230E10F
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 78h, valid
+Data checksum: AAh, valid

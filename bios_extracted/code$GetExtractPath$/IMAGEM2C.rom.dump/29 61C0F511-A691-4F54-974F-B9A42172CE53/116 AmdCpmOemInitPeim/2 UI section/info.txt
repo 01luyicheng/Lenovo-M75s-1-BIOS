@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E34238h
+Header address: FEE34238h
+Data address: FEE3423Ch
+Offset: 5498h
+Full size: 28h (40)
+Header size: 4h (4)
+Body size: 24h (36)
+Type: 15h
+Text: AmdCpmOemInitPeim

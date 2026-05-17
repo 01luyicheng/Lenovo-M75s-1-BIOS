@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AsfDxe
+Offset: 97DD8h
+Full size: 2E96h (11926)
+Header size: 18h (24)
+Body size: 2E7Eh (11902)
+File GUID: 8AAFF1F7-D011-4AE5-8324-DFA470F75D33
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: E3h, valid
+Data checksum: AAh, valid

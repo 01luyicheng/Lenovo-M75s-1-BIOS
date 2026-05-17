@@ -1,0 +1,19 @@
+Type: Section
+Subtype: TE image
+Base: D398FCh
+Header address: FED398FCh
+Data address: FED39900h
+Offset: 64h
+Full size: 4DC4h (19908)
+Header size: 4h (4)
+Body size: 4DC0h (19904)
+Type: 12h
+Signature: 5A56h
+Machine type: x86
+Number of sections: 3
+Subsystem: 0Bh
+Stripped size: 1C8h (456)
+Base of code: 240h
+Address of entry point: 380h
+Image base: FFD39760h
+Adjusted image base: FFD39900h

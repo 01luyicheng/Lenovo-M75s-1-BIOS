@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D2EE80h
+Header address: FFD2EE80h
+Data address: FFD2EE84h
+Offset: 3D8h
+Full size: 2Eh (46)
+Header size: 4h (4)
+Body size: 2Ah (42)
+Type: 15h
+Text: AmdMemChanXLatSspPei

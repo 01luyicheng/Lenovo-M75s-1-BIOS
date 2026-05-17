@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D8A2E8h
+Header address: FFD8A2E8h
+Data address: FFD8A2ECh
+Offset: 428h
+Full size: 2Ah (42)
+Header size: 4h (4)
+Body size: 26h (38)
+Type: 15h
+Text: ChassisIntrusionS3

@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: SbPcdPei
+Base: D12840h
+Header address: FED12840h
+Data address: FED12858h
+Offset: 12840h
+Full size: 10AAh (4266)
+Header size: 18h (24)
+Body size: 1092h (4242)
+File GUID: 56CBE66A-BF3C-48F9-B9DE-8DA42F906074
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 38h, valid
+Data checksum: AAh, valid

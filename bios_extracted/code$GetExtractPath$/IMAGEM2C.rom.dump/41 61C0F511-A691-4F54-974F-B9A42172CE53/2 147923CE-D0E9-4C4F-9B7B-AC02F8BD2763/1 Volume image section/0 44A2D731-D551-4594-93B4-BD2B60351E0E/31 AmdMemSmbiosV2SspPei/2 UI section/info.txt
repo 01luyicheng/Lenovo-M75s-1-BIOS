@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D35F2Ch
+Header address: FFD35F2Ch
+Data address: FFD35F30h
+Offset: 30CCh
+Full size: 2Eh (46)
+Header size: 4h (4)
+Body size: 2Ah (42)
+Type: 15h
+Text: AmdMemSmbiosV2SspPei

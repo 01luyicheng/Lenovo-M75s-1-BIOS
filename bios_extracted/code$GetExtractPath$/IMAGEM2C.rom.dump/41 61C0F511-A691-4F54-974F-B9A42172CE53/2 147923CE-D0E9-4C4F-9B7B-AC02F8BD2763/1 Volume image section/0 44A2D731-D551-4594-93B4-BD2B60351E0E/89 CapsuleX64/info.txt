@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: CapsuleX64
+Base: 1D900B0h
+Header address: FFD900B0h
+Data address: FFD900C8h
+Offset: 8E0B0h
+Full size: 353Eh (13630)
+Header size: 18h (24)
+Body size: 3526h (13606)
+File GUID: F7FDE4A6-294C-493C-B50F-9734553BB757
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: E2h, valid
+Data checksum: AAh, valid

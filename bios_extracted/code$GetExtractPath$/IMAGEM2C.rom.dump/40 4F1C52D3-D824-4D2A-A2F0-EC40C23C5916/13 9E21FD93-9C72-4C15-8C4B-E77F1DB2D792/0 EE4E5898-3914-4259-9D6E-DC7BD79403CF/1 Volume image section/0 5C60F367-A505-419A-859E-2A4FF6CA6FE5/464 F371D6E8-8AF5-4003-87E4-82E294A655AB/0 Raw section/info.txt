@@ -1,0 +1,7 @@
+Type: Section
+Subtype: Raw
+Offset: 18h
+Full size: C9Eh (3230)
+Header size: 4h (4)
+Body size: C9Ah (3226)
+Type: 19h

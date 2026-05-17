@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D8A6CCh
+Header address: FFD8A6CCh
+Data address: FFD8A6D0h
+Offset: 3A4h
+Full size: 2Ah (42)
+Header size: 4h (4)
+Body size: 26h (38)
+Type: 15h
+Text: LEMBootModeFlagPei

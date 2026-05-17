@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdRasSspDxe
+Offset: EB198h
+Full size: 38EAh (14570)
+Header size: 18h (24)
+Body size: 38D2h (14546)
+File GUID: F71AAB75-41BE-C209-A324-9B963BBDCB26
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: FBh, valid
+Data checksum: AAh, valid

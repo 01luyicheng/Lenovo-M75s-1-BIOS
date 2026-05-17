@@ -1,0 +1,8 @@
+Type: Padding
+Subtype: Non-empty
+Base: 1097000h
+Address: FF097000h
+Offset: 1097000h
+Full size: 32A200h (3318272)
+Body size: 32A200h (3318272)
+

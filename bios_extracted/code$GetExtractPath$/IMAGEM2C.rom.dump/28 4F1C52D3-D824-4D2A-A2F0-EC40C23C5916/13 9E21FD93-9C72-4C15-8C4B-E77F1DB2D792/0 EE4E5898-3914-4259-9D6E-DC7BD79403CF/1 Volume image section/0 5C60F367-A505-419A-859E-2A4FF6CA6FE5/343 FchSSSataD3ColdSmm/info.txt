@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: FchSSSataD3ColdSmm
+Offset: 9C8DD8h
+Full size: 2C5Ah (11354)
+Header size: 18h (24)
+Body size: 2C42h (11330)
+File GUID: ADA1C665-7A8A-467C-84EA-7172B2B65862
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: BEh, valid
+Data checksum: AAh, valid

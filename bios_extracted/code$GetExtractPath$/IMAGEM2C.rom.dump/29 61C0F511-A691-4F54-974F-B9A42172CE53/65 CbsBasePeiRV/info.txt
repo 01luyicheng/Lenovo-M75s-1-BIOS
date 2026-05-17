@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: CbsBasePeiRV
+Base: DFE248h
+Header address: FEDFE248h
+Data address: FEDFE260h
+Offset: FE248h
+Full size: 2862h (10338)
+Header size: 18h (24)
+Body size: 284Ah (10314)
+File GUID: 045E78D8-3D5D-4EE5-90AA-42121E1EEE49
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: F0h, valid
+Data checksum: AAh, valid

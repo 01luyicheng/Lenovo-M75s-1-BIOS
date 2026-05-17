@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: LEMPhyPresenceSet20
+Offset: 986068h
+Full size: 2536h (9526)
+Header size: 18h (24)
+Body size: 251Eh (9502)
+File GUID: 19CE57CC-628E-4F96-93D4-3C21F823C343
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: D7h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdCpmPcieInitDxe
+Offset: 1F6360h
+Full size: F4Eh (3918)
+Header size: 18h (24)
+Body size: F36h (3894)
+File GUID: C5FA0EE8-2D81-4202-A021-3DA700B3DEAE
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 11h, valid
+Data checksum: AAh, valid

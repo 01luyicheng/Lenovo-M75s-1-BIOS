@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D0894Ch
+Header address: FFD0894Ch
+Data address: FFD08950h
+Offset: 567Ch
+Full size: 14h (20)
+Header size: 4h (4)
+Body size: 10h (16)
+Type: 15h
+Text: PeiCore

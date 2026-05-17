@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: D13EE4h
+Header address: FED13EE4h
+Data address: FED13EE8h
+Offset: 5F4h
+Full size: 24h (36)
+Header size: 4h (4)
+Body size: 20h (32)
+Type: 15h
+Text: SbSocBristolPei

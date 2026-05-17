@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: CpuSmm
+Offset: 993110h
+Full size: 7DAh (2010)
+Header size: 18h (24)
+Body size: 7C2h (1986)
+File GUID: 5CEBCDE6-1096-4FE2-9921-5F8E25281A3E
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: F8h, valid
+Data checksum: AAh, valid

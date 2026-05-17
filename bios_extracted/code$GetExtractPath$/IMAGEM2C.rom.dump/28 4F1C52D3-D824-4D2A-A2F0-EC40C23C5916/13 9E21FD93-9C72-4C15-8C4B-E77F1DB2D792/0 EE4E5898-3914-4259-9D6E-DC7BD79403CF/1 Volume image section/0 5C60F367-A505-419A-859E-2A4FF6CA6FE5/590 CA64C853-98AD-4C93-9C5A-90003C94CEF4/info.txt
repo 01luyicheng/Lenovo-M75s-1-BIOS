@@ -1,0 +1,12 @@
+Type: File
+Subtype: Freeform
+Offset: CBA558h
+Full size: DEh (222)
+Header size: 18h (24)
+Body size: C6h (198)
+File GUID: CA64C853-98AD-4C93-9C5A-90003C94CEF4
+Type: 02h
+Attributes: 00h
+State: F8h
+Header checksum: 9Bh, valid
+Data checksum: AAh, valid

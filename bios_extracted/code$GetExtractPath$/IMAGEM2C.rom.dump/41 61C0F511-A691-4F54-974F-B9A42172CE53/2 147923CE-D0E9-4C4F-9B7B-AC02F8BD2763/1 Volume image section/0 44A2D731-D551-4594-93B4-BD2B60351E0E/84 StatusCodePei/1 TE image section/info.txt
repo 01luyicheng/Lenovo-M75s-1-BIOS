@@ -1,0 +1,19 @@
+Type: Section
+Subtype: TE image
+Base: 1D8AED8h
+Header address: FFD8AED8h
+Data address: FFD8AEDCh
+Offset: 30h
+Full size: 350Ch (13580)
+Header size: 4h (4)
+Body size: 3508h (13576)
+Type: 12h
+Signature: 5A56h
+Machine type: x86
+Number of sections: 3
+Subsystem: 0Bh
+Stripped size: 1C0h (448)
+Base of code: 240h
+Address of entry point: 320h
+Image base: 9D8AD44h
+Adjusted image base: 9D8AEDCh

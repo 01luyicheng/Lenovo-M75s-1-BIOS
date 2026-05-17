@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdPspPeiV1
+Base: DE51C8h
+Header address: FEDE51C8h
+Data address: FEDE51E0h
+Offset: E51C8h
+Full size: 13D6h (5078)
+Header size: 18h (24)
+Body size: 13BEh (5054)
+File GUID: 30572445-4C9B-4726-B080-D9AEA2B03DF1
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 96h, valid
+Data checksum: AAh, valid

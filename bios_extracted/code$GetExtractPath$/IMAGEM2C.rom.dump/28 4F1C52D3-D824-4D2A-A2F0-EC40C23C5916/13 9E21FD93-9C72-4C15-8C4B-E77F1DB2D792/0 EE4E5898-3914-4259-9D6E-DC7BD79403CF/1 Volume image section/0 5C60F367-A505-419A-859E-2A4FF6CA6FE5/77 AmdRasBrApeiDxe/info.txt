@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdRasBrApeiDxe
+Offset: 190BC8h
+Full size: 1716h (5910)
+Header size: 18h (24)
+Body size: 16FEh (5886)
+File GUID: 10D93A56-2D64-47D3-828D-7A5066915292
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: F4h, valid
+Data checksum: AAh, valid

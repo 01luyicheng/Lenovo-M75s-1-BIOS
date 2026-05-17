@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: FchSandstonePei
+Base: D39898h
+Header address: FED39898h
+Data address: FED398B0h
+Offset: 39898h
+Full size: 4E5Ah (20058)
+Header size: 18h (24)
+Body size: 4E42h (20034)
+File GUID: 5C536A02-BDFE-4F47-BF72-18FF5DEAF8E9
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 76h, valid
+Data checksum: AAh, valid

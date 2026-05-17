@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D0E554h
+Header address: FFD0E554h
+Data address: FFD0E558h
+Offset: 8D4h
+Full size: 16h (22)
+Header size: 4h (4)
+Body size: 12h (18)
+Type: 15h
+Text: CpuIoPei

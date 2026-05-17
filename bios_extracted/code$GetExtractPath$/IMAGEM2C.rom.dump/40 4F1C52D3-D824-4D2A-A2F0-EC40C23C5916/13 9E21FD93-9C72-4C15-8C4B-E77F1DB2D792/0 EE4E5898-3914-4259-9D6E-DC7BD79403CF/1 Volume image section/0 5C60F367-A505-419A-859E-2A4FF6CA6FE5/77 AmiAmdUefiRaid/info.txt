@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmiAmdUefiRaid
+Offset: 2074F0h
+Full size: 119Ah (4506)
+Header size: 18h (24)
+Body size: 1182h (4482)
+File GUID: 164E5590-FB7A-47B9-8687-3E91DA499D97
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 5Dh, valid
+Data checksum: AAh, valid

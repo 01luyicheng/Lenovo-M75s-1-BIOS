@@ -1,0 +1,19 @@
+Type: Section
+Subtype: TE image
+Base: 1D6B210h
+Header address: FFD6B210h
+Data address: FFD6B214h
+Offset: 78h
+Full size: 404h (1028)
+Header size: 4h (4)
+Body size: 400h (1024)
+Type: 12h
+Signature: 5A56h
+Machine type: x86
+Number of sections: 3
+Subsystem: 0Bh
+Stripped size: 1A8h (424)
+Base of code: 220h
+Address of entry point: 27Dh
+Image base: 9D6B094h
+Adjusted image base: 9D6B214h

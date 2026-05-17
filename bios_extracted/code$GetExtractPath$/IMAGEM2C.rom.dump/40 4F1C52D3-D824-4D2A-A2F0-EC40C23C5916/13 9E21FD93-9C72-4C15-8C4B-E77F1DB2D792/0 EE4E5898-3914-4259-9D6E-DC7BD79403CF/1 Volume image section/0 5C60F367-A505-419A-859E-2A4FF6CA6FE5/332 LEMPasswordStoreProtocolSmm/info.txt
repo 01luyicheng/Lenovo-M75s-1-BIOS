@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: LEMPasswordStoreProtocolSmm
+Offset: 98FA88h
+Full size: 1542h (5442)
+Header size: 18h (24)
+Body size: 152Ah (5418)
+File GUID: 1755E35E-3B29-4F3A-AD20-80788159DA1F
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 6Dh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,19 @@
+Type: Section
+Subtype: TE image
+Base: D3E770h
+Header address: FED3E770h
+Data address: FED3E774h
+Offset: 78h
+Full size: 2754h (10068)
+Header size: 4h (4)
+Body size: 2750h (10064)
+Type: 12h
+Signature: 5A56h
+Machine type: x86
+Number of sections: 3
+Subsystem: 0Bh
+Stripped size: 1B8h (440)
+Base of code: 240h
+Address of entry point: 380h
+Image base: FFD3E5E4h
+Adjusted image base: FFD3E774h

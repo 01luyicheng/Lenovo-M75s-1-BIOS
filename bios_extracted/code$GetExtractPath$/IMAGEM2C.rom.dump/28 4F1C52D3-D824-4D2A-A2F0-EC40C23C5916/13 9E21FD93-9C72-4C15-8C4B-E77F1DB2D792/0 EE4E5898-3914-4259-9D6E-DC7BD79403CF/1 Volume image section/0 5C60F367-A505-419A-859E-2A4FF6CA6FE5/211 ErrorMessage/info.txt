@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: ErrorMessage
+Offset: 66E898h
+Full size: 6A92h (27282)
+Header size: 18h (24)
+Body size: 6A7Ah (27258)
+File GUID: 3FEDD4A3-8112-4534-8DB2-E886EB35075E
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 1Ch, valid
+Data checksum: AAh, valid

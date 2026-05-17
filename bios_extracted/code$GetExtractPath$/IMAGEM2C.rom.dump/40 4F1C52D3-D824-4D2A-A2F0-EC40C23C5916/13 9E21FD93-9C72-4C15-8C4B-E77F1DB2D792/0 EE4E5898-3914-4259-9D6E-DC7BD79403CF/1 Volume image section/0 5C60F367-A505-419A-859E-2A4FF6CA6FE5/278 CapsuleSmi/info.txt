@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: CapsuleSmi
+Offset: 8C12F0h
+Full size: A52h (2642)
+Header size: 18h (24)
+Body size: A3Ah (2618)
+File GUID: B40637B3-4270-4D2F-B2B5-D41CFC4E0A56
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: C7h, valid
+Data checksum: AAh, valid

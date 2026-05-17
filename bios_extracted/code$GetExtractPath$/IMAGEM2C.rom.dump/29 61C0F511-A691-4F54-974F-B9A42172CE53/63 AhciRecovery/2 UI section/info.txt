@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: DFB4F0h
+Header address: FEDFB4F0h
+Data address: FEDFB4F4h
+Offset: 4218h
+Full size: 1Eh (30)
+Header size: 4h (4)
+Body size: 1Ah (26)
+Type: 15h
+Text: AhciRecovery

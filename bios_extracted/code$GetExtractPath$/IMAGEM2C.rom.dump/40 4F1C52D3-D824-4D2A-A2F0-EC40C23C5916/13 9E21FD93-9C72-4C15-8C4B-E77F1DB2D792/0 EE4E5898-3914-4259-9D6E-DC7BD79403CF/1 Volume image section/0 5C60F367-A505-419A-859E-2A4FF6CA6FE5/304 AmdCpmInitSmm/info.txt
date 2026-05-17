@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: AmdCpmInitSmm
+Offset: 906230h
+Full size: 4B66h (19302)
+Header size: 18h (24)
+Body size: 4B4Eh (19278)
+File GUID: 30AF1245-A58E-4EF7-8C75-B725939B3B9F
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: B2h, valid
+Data checksum: AAh, valid

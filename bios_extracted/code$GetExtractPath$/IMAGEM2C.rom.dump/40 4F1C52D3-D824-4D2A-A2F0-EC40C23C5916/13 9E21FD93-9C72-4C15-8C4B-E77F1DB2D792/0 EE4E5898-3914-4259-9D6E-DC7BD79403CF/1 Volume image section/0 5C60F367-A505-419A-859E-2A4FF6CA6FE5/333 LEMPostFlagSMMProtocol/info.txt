@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: LEMPostFlagSMMProtocol
+Offset: 990FD0h
+Full size: 12FAh (4858)
+Header size: 18h (24)
+Body size: 12E2h (4834)
+File GUID: 4810C827-B373-47C6-B53E-AAD30E197CA1
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: BCh, valid
+Data checksum: AAh, valid

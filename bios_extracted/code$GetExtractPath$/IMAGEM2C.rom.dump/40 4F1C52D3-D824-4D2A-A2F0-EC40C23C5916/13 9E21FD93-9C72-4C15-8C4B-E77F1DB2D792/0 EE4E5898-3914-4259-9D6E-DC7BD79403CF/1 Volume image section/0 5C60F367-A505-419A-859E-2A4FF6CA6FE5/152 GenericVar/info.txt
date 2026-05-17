@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: GenericVar
+Offset: 58D698h
+Full size: 8A2h (2210)
+Header size: 18h (24)
+Body size: 88Ah (2186)
+File GUID: 198251A4-DE06-442A-AAB7-B0EE1E6DB8FF
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 2Ch, valid
+Data checksum: AAh, valid

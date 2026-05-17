@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdCpmPcieInitPeim
+Base: E3EA18h
+Header address: FEE3EA18h
+Data address: FEE3EA30h
+Offset: 13EA18h
+Full size: E0Eh (3598)
+Header size: 18h (24)
+Body size: DF6h (3574)
+File GUID: DE3D7A9C-A218-4891-7469-4FC0AE853298
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 31h, valid
+Data checksum: AAh, valid

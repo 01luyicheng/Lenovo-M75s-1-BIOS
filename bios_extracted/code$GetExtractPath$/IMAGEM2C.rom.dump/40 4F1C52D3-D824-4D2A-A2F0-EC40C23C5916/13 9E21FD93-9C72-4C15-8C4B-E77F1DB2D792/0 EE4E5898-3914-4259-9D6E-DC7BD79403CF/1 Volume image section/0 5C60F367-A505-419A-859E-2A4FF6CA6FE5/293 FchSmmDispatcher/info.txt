@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: FchSmmDispatcher
+Offset: 8DFB38h
+Full size: 57A2h (22434)
+Header size: 18h (24)
+Body size: 578Ah (22410)
+File GUID: 82ADB73C-E005-4E07-976D-F7F75314EC4F
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 0Dh, valid
+Data checksum: AAh, valid

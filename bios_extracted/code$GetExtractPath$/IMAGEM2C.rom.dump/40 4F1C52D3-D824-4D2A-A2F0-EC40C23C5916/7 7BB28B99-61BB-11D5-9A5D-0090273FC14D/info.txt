@@ -1,0 +1,15 @@
+Type: File
+Subtype: Freeform
+Base: 1444648h
+Header address: FF444648h
+Data address: FF444660h
+Offset: 33648h
+Full size: 116h (278)
+Header size: 18h (24)
+Body size: FEh (254)
+File GUID: 7BB28B99-61BB-11D5-9A5D-0090273FC14D
+Type: 02h
+Attributes: 00h
+State: F8h
+Header checksum: 99h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdNbioBaseSspPei
+Base: 1D37E98h
+Header address: FFD37E98h
+Data address: FFD37EB0h
+Offset: 35E98h
+Full size: 6CDEh (27870)
+Header size: 18h (24)
+Body size: 6CC6h (27846)
+File GUID: A67A75D2-CCCE-49C1-1BCD-61C310527E89
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 30h, valid
+Data checksum: AAh, valid

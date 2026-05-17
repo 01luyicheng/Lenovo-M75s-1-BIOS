@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: VirtualDev
+Offset: 66B1C0h
+Full size: 98Eh (2446)
+Header size: 18h (24)
+Body size: 976h (2422)
+File GUID: D3F67D2D-67CA-4FB6-9654-77E82901469C
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 64h, valid
+Data checksum: AAh, valid

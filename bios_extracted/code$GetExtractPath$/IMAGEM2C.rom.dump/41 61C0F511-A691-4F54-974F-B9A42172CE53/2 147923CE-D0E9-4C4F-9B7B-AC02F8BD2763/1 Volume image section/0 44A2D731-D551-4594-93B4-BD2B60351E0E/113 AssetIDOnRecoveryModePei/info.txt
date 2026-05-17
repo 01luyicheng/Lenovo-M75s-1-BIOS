@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AssetIDOnRecoveryModePei
+Base: 1DB86E8h
+Header address: FFDB86E8h
+Data address: FFDB8700h
+Offset: B66E8h
+Full size: 522h (1314)
+Header size: 18h (24)
+Body size: 50Ah (1290)
+File GUID: 31CF7DDF-F02F-4783-BAA6-A087B2F83BE6
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 3Ch, valid
+Data checksum: AAh, valid

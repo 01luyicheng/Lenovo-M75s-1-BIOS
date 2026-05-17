@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D8393Ch
+Header address: FFD8393Ch
+Data address: FFD83940h
+Offset: 3C4h
+Full size: 20h (32)
+Header size: 4h (4)
+Body size: 1Ch (28)
+Type: 15h
+Text: AmiPspFtpmPei

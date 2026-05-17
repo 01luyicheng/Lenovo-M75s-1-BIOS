@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmiAgesaPei
+Base: 1D6B800h
+Header address: FFD6B800h
+Data address: FFD6B818h
+Offset: 69800h
+Full size: 1682h (5762)
+Header size: 18h (24)
+Body size: 166Ah (5738)
+File GUID: 586032E3-1386-4ECC-B547-EB285E21066D
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: E1h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AodDxe
+Offset: 1255C0h
+Full size: 1B4Ah (6986)
+Header size: 18h (24)
+Body size: 1B32h (6962)
+File GUID: E68C55B8-C77B-4F66-834F-D73BFB9F29B3
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: C4h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: FanPolicyDxe
+Offset: 1EE7E0h
+Full size: 892h (2194)
+Header size: 18h (24)
+Body size: 87Ah (2170)
+File GUID: FE2F54A9-017D-45C2-A82D-9822BCF14CA6
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 82h, valid
+Data checksum: AAh, valid

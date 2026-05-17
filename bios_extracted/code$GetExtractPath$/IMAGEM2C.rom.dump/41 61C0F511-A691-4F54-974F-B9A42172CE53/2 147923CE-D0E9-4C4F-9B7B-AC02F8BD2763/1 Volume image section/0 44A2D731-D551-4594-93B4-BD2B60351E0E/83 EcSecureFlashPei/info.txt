@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: EcSecureFlashPei
+Base: 1D8A708h
+Header address: FFD8A708h
+Data address: FFD8A720h
+Offset: 88708h
+Full size: 79Ah (1946)
+Header size: 18h (24)
+Body size: 782h (1922)
+File GUID: BA24061E-B532-4375-A5E4-99C1CAE45D18
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: B2h, valid
+Data checksum: AAh, valid

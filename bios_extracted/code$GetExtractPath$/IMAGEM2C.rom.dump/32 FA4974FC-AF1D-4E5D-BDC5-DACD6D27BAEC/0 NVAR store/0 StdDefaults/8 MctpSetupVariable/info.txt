@@ -1,0 +1,13 @@
+Type: NVAR entry
+Subtype: Full
+Text: MctpSetupVariable
+Base: 1037522h
+Header address: FF037522h
+Data address: FF03753Fh
+Offset: 492h
+Full size: 22h (34)
+Header size: 1Dh (29)
+Body size: 5h (5)
+Variable GUID: BA900646-2C9B-4A2A-BD0A-D6241CF7EC3C
+GUID index: 6
+Attributes: 83h (Runtime, AsciiName, Valid)

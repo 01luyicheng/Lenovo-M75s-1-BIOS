@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AodPei
+Base: 1D6A3B8h
+Header address: FFD6A3B8h
+Data address: FFD6A3D0h
+Offset: 683B8h
+Full size: DDAh (3546)
+Header size: 18h (24)
+Body size: DC2h (3522)
+File GUID: C8F6D366-DDF1-4960-9D57-82F2655A1294
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: D8h, valid
+Data checksum: AAh, valid

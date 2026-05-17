@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: OemBadgingSupport
+Offset: 58FE70h
+Full size: 22CEh (8910)
+Header size: 18h (24)
+Body size: 22B6h (8886)
+File GUID: 24D7AC91-3A1A-44B7-8CD5-0800A66BCFE5
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 54h, valid
+Data checksum: AAh, valid

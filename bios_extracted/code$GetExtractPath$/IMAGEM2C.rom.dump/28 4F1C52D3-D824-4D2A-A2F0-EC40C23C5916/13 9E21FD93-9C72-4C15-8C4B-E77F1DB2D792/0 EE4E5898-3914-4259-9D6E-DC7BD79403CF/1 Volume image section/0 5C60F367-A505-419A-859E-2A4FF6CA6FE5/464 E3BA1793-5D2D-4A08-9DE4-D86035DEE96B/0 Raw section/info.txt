@@ -1,0 +1,7 @@
+Type: Section
+Subtype: Raw
+Offset: 18h
+Full size: DBDh (3517)
+Header size: 4h (4)
+Body size: DB9h (3513)
+Type: 19h

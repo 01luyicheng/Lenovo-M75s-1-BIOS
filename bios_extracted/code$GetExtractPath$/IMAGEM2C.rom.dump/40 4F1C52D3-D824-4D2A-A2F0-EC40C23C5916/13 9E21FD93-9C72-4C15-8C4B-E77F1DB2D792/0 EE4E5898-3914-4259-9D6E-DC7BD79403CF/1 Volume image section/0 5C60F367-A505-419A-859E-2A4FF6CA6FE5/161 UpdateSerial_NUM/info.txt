@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: UpdateSerial_NUM
+Offset: 5954F8h
+Full size: E5Ah (3674)
+Header size: 18h (24)
+Body size: E42h (3650)
+File GUID: F193C257-3CB5-4D90-A694-2E371082E116
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: FEh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdMemoryHobInfoPeim
+Base: 1D30F18h
+Header address: FFD30F18h
+Data address: FFD30F30h
+Offset: 2EF18h
+Full size: 1556h (5462)
+Header size: 18h (24)
+Body size: 153Eh (5438)
+File GUID: 46233426-744E-4763-958D-44B1200B320A
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: E2h, valid
+Data checksum: AAh, valid

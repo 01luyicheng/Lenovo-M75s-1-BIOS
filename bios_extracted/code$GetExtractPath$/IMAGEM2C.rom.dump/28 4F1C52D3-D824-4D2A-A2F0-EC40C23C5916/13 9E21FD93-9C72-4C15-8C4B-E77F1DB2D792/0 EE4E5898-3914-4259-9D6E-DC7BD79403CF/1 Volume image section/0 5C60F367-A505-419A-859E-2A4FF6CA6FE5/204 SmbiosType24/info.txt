@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SmbiosType24
+Offset: 66A270h
+Full size: 892h (2194)
+Header size: 18h (24)
+Body size: 87Ah (2170)
+File GUID: F26D2D30-817A-45E0-B703-E6C8837A8821
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 75h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdFabricSspPei
+Base: 1D1A288h
+Header address: FFD1A288h
+Data address: FFD1A2A0h
+Offset: 18288h
+Full size: 3DF6h (15862)
+Header size: 18h (24)
+Body size: 3DDEh (15838)
+File GUID: FE72846D-6C19-4237-9052-9C693CF409E3
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 65h, valid
+Data checksum: AAh, valid

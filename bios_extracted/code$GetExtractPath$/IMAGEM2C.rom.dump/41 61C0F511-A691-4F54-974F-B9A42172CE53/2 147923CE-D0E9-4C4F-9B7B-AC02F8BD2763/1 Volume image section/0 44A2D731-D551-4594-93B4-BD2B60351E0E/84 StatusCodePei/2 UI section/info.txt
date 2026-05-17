@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D8E3E4h
+Header address: FFD8E3E4h
+Data address: FFD8E3E8h
+Offset: 353Ch
+Full size: 20h (32)
+Header size: 4h (4)
+Body size: 1Ch (28)
+Type: 15h
+Text: StatusCodePei

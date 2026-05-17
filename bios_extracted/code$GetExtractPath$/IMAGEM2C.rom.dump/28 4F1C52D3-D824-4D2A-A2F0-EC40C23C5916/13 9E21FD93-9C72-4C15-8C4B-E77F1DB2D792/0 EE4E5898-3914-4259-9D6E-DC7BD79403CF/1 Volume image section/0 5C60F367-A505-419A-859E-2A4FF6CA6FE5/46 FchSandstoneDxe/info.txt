@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: FchSandstoneDxe
+Offset: D38B8h
+Full size: 8F0Eh (36622)
+Header size: 18h (24)
+Body size: 8EF6h (36598)
+File GUID: A334E8C1-F49F-49AA-9F82-9210205FC1FB
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 58h, valid
+Data checksum: AAh, valid

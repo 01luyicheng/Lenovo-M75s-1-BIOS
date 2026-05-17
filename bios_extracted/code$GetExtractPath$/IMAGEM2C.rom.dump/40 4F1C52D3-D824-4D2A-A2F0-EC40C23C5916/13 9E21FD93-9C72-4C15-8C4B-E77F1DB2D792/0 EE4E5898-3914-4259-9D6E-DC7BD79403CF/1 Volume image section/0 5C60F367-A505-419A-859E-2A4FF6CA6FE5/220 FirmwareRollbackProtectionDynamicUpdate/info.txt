@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: FirmwareRollbackProtectionDynamicUpdate
+Offset: 5CCEC0h
+Full size: 756h (1878)
+Header size: 18h (24)
+Body size: 73Eh (1854)
+File GUID: 67EE3885-80D7-4494-A5FD-445527E23F0E
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: CAh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: NVAR entry
+Subtype: Full
+Text: SLD_Flag
+Base: 1037492h
+Header address: FF037492h
+Data address: FF0374A6h
+Offset: 402h
+Full size: 18h (24)
+Header size: 14h (20)
+Body size: 4h (4)
+Variable GUID: 3BD3F999-A31C-4448-BE85-72AE545645A2
+GUID index: 3
+Attributes: 83h (Runtime, AsciiName, Valid)

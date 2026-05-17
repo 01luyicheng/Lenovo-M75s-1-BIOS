@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: ApobZpRvPei
+Base: DE9530h
+Header address: FEDE9530h
+Data address: FEDE9548h
+Offset: E9530h
+Full size: 1B6Ah (7018)
+Header size: 18h (24)
+Body size: 1B52h (6994)
+File GUID: 05DDA141-2DFA-48BB-B09D-D922344947FE
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 7Dh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,21 @@
+Type: Volume
+Subtype: FFSv2
+Base: 1411000h
+Header address: FF411000h
+Data address: FF411078h
+Offset: 1411000h
+Full size: 8EF000h (9367552)
+Header size: 78h (120)
+Body size: 8EEF88h (9367432)
+ZeroVector:
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+FileSystem GUID: 8C8CE578-8A3D-4F1C-9935-896185C32DD3
+Revision: 2
+Attributes: 0004FEFFh
+Erase polarity: 1
+Checksum: ECF2h, valid
+NumBlocks: 8EFh (2287), valid
+Length: 1000h (4096), valid
+Extended header size: 14h (20)
+Volume GUID: 4F1C52D3-D824-4D2A-A2F0-EC40C23C5916

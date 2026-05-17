@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AssetIDDxeProtocol
+Offset: 654AA8h
+Full size: 4CCEh (19662)
+Header size: 18h (24)
+Body size: 4CB6h (19638)
+File GUID: 9D52C986-0B16-420A-8D4D-D2EAEB593DBF
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 5Eh, valid
+Data checksum: AAh, valid

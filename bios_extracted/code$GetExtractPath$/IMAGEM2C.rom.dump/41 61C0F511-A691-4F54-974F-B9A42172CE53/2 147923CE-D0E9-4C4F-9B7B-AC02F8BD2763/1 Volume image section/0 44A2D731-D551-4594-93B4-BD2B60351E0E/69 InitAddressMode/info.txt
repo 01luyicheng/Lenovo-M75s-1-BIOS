@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: InitAddressMode
+Base: 1D84CE0h
+Header address: FFD84CE0h
+Data address: FFD84CF8h
+Offset: 82CE0h
+Full size: 1FD6h (8150)
+Header size: 18h (24)
+Body size: 1FBEh (8126)
+File GUID: 8D061E5C-DC72-46F3-8E45-57B227DCBFDE
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: F5h, valid
+Data checksum: AAh, valid

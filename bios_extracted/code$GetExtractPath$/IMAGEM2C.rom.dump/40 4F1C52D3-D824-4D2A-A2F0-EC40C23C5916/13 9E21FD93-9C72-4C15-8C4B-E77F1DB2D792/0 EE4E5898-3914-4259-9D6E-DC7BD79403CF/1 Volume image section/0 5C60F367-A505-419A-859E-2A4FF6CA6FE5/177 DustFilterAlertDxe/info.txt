@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: DustFilterAlertDxe
+Offset: 5A6FF0h
+Full size: BF6h (3062)
+Header size: 18h (24)
+Body size: BDEh (3038)
+File GUID: 1062CB92-72A9-4FDC-9694-B1FE817EFAAF
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 62h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: ApobDummyPei
+Base: DE91D8h
+Header address: FEDE91D8h
+Data address: FEDE91F0h
+Offset: E91D8h
+Full size: 352h (850)
+Header size: 18h (24)
+Body size: 33Ah (826)
+File GUID: 3B3CB022-2614-4994-878E-C738CE85F6ED
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: FBh, valid
+Data checksum: AAh, valid

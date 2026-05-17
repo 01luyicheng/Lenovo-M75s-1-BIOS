@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdPspDxeV2Zp
+Offset: 178778h
+Full size: 6A36h (27190)
+Header size: 18h (24)
+Body size: 6A1Eh (27166)
+File GUID: ED8FD9DC-2097-425E-B743-64EFB99D5F0D
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: C2h, valid
+Data checksum: AAh, valid

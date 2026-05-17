@@ -1,0 +1,19 @@
+Type: Section
+Subtype: TE image
+Base: DF732Ch
+Header address: FEDF732Ch
+Data address: FEDF7330h
+Offset: 54h
+Full size: 41C4h (16836)
+Header size: 4h (4)
+Body size: 41C0h (16832)
+Type: 12h
+Signature: 5A56h
+Machine type: x86
+Number of sections: 3
+Subsystem: 0Bh
+Stripped size: 1A8h (424)
+Base of code: 220h
+Address of entry point: 27Dh
+Image base: FFDF71B0h
+Adjusted image base: FFDF7330h

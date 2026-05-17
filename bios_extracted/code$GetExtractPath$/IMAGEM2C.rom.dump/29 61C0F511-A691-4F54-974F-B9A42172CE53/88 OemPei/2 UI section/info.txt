@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E1CC5Ch
+Header address: FEE1CC5Ch
+Data address: FEE1CC60h
+Offset: 314h
+Full size: 12h (18)
+Header size: 4h (4)
+Body size: Eh (14)
+Type: 15h
+Text: OemPei

@@ -1,0 +1,6 @@
+Type: Free space
+Subtype: 
+Offset: EC9160h
+Full size: EA0h (3744)
+Body size: EA0h (3744)
+

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: FchPromontorySsdt
+Offset: D2EF8h
+Full size: 9BEh (2494)
+Header size: 18h (24)
+Body size: 9A6h (2470)
+File GUID: 84FB407D-D076-4DDD-871F-33373A26BABB
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: A1h, valid
+Data checksum: AAh, valid

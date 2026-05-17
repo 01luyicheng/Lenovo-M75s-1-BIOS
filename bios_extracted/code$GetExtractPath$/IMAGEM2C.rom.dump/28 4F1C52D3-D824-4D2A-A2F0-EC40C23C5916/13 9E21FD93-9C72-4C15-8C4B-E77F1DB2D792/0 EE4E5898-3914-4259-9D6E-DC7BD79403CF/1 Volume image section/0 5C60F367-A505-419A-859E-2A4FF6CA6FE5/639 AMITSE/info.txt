@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AMITSE
+Offset: E471F8h
+Full size: 3D777h (251767)
+Header size: 18h (24)
+Body size: 3D75Fh (251743)
+File GUID: B1DA0ADF-4F77-4070-A88E-BFFE1C60529A
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 63h, valid
+Data checksum: AAh, valid

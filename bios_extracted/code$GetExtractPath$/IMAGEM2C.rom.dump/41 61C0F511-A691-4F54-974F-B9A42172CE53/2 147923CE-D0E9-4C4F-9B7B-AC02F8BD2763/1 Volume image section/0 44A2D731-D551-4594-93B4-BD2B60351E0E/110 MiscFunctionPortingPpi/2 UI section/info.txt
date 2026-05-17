@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1DB8014h
+Header address: FFDB8014h
+Data address: FFDB8018h
+Offset: 454h
+Full size: 32h (50)
+Header size: 4h (4)
+Body size: 2Eh (46)
+Type: 15h
+Text: MiscFunctionPortingPpi

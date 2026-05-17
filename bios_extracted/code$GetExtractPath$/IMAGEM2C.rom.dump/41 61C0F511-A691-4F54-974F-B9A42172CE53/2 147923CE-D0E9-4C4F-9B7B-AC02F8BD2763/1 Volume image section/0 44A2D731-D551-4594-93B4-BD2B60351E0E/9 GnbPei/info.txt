@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: GnbPei
+Base: 1D10EF0h
+Header address: FFD10EF0h
+Data address: FFD10F08h
+Offset: EEF0h
+Full size: 14AAh (5290)
+Header size: 18h (24)
+Body size: 1492h (5266)
+File GUID: 56FC768F-B603-4454-8083-BFE98D6084F9
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 7Fh, valid
+Data checksum: AAh, valid

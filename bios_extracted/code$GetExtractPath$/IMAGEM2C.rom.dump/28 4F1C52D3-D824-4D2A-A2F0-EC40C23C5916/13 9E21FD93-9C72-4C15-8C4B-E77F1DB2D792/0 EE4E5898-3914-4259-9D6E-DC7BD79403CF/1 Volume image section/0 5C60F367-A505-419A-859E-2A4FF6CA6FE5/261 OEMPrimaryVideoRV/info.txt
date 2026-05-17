@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: OEMPrimaryVideoRV
+Offset: 69F858h
+Full size: 140Eh (5134)
+Header size: 18h (24)
+Body size: 13F6h (5110)
+File GUID: 2DEF8DAC-395B-4634-846F-A82A48BD13D1
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: C6h, valid
+Data checksum: AAh, valid

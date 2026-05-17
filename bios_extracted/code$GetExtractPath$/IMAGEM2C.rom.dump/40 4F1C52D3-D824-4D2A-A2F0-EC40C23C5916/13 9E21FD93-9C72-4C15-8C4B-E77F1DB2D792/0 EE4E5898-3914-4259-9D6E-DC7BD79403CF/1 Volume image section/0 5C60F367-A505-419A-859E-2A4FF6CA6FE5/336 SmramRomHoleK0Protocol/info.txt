@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: SmramRomHoleK0Protocol
+Offset: 995968h
+Full size: EDAh (3802)
+Header size: 18h (24)
+Body size: EC2h (3778)
+File GUID: D4787B71-A878-49C9-97CE-967DF2399AAA
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: BDh, valid
+Data checksum: AAh, valid

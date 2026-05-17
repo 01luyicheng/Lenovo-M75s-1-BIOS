@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: PiSmmCommunicationPei
+Base: D149A8h
+Header address: FED149A8h
+Data address: FED149C0h
+Offset: 149A8h
+Full size: 3F6h (1014)
+Header size: 18h (24)
+Body size: 3DEh (990)
+File GUID: 5F0CAB3E-F820-4FD3-B5F1-4568ADA0ACC6
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 61h, valid
+Data checksum: AAh, valid

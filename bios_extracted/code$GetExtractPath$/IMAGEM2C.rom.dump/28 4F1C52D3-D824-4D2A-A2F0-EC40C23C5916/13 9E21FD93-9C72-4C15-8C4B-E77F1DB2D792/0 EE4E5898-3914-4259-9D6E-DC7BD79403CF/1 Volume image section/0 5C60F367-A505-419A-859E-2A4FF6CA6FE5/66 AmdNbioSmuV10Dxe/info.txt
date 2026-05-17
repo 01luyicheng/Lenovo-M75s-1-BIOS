@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdNbioSmuV10Dxe
+Offset: 165078h
+Full size: A2B2h (41650)
+Header size: 18h (24)
+Body size: A29Ah (41626)
+File GUID: 6F960C35-FFED-4778-99A1-4D998CE519B9
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 51h, valid
+Data checksum: AAh, valid

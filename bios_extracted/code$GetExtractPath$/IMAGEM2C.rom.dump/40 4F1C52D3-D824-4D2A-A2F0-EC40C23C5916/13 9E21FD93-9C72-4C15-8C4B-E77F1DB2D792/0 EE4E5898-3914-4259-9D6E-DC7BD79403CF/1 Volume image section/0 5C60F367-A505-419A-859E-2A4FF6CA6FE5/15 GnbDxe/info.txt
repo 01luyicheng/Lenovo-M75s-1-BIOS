@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: GnbDxe
+Offset: 63378h
+Full size: 2DAAh (11690)
+Header size: 18h (24)
+Body size: 2D92h (11666)
+File GUID: 1CF59BF9-E3F6-4D9D-BB94-8B857278BBC6
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: F0h, valid
+Data checksum: AAh, valid

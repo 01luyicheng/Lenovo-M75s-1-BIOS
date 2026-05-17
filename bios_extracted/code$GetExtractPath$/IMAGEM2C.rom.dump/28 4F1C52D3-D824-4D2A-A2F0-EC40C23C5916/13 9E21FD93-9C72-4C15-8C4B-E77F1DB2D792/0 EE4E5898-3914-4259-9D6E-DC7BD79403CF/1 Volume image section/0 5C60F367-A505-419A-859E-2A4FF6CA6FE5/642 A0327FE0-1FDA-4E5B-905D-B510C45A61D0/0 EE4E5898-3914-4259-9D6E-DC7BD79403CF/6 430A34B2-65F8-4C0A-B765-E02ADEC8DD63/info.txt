@@ -1,0 +1,8 @@
+Type: Section
+Subtype: Freeform subtype GUID
+Offset: 64670h
+Full size: D414h (54292)
+Header size: 14h (20)
+Body size: D400h (54272)
+Type: 18h
+Subtype GUID: 430A34B2-65F8-4C0A-B765-E02ADEC8DD63

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: GenericSio
+Offset: 6E58D0h
+Full size: 6566h (25958)
+Header size: 18h (24)
+Body size: 654Eh (25934)
+File GUID: 8EEF9AD2-463E-425F-A4FE-2F6783D6F97E
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 18h, valid
+Data checksum: AAh, valid

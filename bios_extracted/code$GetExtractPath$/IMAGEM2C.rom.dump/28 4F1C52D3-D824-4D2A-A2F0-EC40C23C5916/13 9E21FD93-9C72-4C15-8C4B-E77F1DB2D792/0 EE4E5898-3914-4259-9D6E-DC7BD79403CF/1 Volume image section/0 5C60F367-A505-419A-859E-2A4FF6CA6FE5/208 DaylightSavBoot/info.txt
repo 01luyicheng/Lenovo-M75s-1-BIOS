@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: DaylightSavBoot
+Offset: 66CEB8h
+Full size: 5E6h (1510)
+Header size: 18h (24)
+Body size: 5CEh (1486)
+File GUID: A06F2CE4-10BF-4D1D-8436-45E596E73B67
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: B3h, valid
+Data checksum: AAh, valid

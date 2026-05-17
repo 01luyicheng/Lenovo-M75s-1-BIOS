@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E5770Ch
+Header address: FEE5770Ch
+Data address: FEE57710h
+Offset: 704h
+Full size: 22h (34)
+Header size: 4h (4)
+Body size: 1Eh (30)
+Type: 15h
+Text: LemPostFlagPpi

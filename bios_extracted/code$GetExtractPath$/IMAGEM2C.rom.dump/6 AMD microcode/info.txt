@@ -1,0 +1,10 @@
+Type: AMD microcode
+Subtype: 
+Base: 4FD000h
+Address: FE4FD000h
+Offset: 4FD000h
+Full size: C80h (3200)
+Body size: C80h (3200)
+Date: 16.04.2019
+CPU signature: 00008082h
+Revision: 0800820Dh

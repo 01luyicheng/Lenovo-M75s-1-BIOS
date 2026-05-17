@@ -1,0 +1,19 @@
+Type: Section
+Subtype: TE image
+Base: DFB550h
+Header address: FEDFB550h
+Data address: FEDFB554h
+Offset: 30h
+Full size: 2CC4h (11460)
+Header size: 4h (4)
+Body size: 2CC0h (11456)
+Type: 12h
+Signature: 5A56h
+Machine type: x86
+Number of sections: 3
+Subsystem: 0Bh
+Stripped size: 1A8h (424)
+Base of code: 220h
+Address of entry point: 280h
+Image base: FFDFB3D4h
+Adjusted image base: FFDFB554h

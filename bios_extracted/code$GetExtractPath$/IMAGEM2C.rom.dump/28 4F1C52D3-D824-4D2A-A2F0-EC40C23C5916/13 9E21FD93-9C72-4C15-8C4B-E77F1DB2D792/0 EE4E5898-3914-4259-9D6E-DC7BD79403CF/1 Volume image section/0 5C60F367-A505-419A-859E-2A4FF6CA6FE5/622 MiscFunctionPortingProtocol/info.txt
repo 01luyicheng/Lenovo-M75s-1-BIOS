@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: MiscFunctionPortingProtocol
+Offset: D2F1F8h
+Full size: DDEh (3550)
+Header size: 18h (24)
+Body size: DC6h (3526)
+File GUID: 3C955AA4-41DC-4FD2-B0E8-27FB3C10E5FF
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 17h, valid
+Data checksum: AAh, valid

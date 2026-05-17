@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: D39858h
+Header address: FED39858h
+Data address: FED3985Ch
+Offset: 3030h
+Full size: 2Eh (46)
+Header size: 4h (4)
+Body size: 2Ah (42)
+Type: 15h
+Text: FchPromontoryXhciPei

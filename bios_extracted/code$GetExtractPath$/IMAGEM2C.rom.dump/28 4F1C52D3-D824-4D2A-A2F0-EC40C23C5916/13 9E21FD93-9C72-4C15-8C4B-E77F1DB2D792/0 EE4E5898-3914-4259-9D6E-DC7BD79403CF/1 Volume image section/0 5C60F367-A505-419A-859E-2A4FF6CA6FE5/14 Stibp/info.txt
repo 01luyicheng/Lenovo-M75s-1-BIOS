@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: Stibp
+Offset: 629F0h
+Full size: 942h (2370)
+Header size: 18h (24)
+Body size: 92Ah (2346)
+File GUID: C7DD8530-96D8-40DD-BE88-CBDF446C6474
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 52h, valid
+Data checksum: AAh, valid

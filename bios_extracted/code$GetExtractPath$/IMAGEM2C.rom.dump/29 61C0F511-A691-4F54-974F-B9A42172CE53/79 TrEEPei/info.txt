@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: TrEEPei
+Base: E0E718h
+Header address: FEE0E718h
+Data address: FEE0E730h
+Offset: 10E718h
+Full size: 8C6Eh (35950)
+Header size: 18h (24)
+Body size: 8C56h (35926)
+File GUID: 961C19BE-D1AC-4BA7-87AF-4AE0F09DF2A6
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 83h, valid
+Data checksum: AAh, valid

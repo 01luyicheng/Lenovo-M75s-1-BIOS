@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: SbPei
+Base: D117E0h
+Header address: FED117E0h
+Data address: FED117F8h
+Offset: 117E0h
+Full size: 105Ah (4186)
+Header size: 18h (24)
+Body size: 1042h (4162)
+File GUID: C1FBD624-27EA-40D1-AA48-94C3DC5C7E0D
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: ACh, valid
+Data checksum: AAh, valid

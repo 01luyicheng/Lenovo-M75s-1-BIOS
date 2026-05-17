@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SataController
+Offset: 6ABC80h
+Full size: 2EC6h (11974)
+Header size: 18h (24)
+Body size: 2EAEh (11950)
+File GUID: 510DF6A1-B6C1-4948-AEE7-59F220F898BD
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: BBh, valid
+Data checksum: AAh, valid

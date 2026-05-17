@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: KeepCriticalData
+Offset: 688230h
+Full size: C5Ah (3162)
+Header size: 18h (24)
+Body size: C42h (3138)
+File GUID: B60D320C-25AE-4DCF-B848-196A7E55972F
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 87h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AssetIDOnRecoveryModeDxe
+Offset: 5A8908h
+Full size: BBAh (3002)
+Header size: 18h (24)
+Body size: BA2h (2978)
+File GUID: 996B4E92-D1EB-4E35-B194-BF9E0C524ACC
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: FBh, valid
+Data checksum: AAh, valid

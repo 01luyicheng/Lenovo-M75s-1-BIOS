@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdNbioBaseZPPei
+Base: DB3C58h
+Header address: FEDB3C58h
+Data address: FEDB3C70h
+Offset: B3C58h
+Full size: 4F06h (20230)
+Header size: 18h (24)
+Body size: 4EEEh (20206)
+File GUID: 7BF3F3C8-4FCA-49A7-804F-9033D2E47841
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 72h, valid
+Data checksum: AAh, valid

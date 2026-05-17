@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AssetIDDxe
+Offset: 5A7BE8h
+Full size: D1Eh (3358)
+Header size: 18h (24)
+Body size: D06h (3334)
+File GUID: 0D58AE36-31AF-4CF3-A74D-74891A1597F2
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: BDh, valid
+Data checksum: AAh, valid
