@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>readme</title>
+    </head>
+    <body class='bodyStyle'>
+    <pre>
+ VERSION:1.1
+ --CONTENTS--<br>
+ 1 - Installation Instructions
+ 2 - Flash under Operating System
+ 3 - Flash Program Options
+ 4 - Flashing Back to an Older Level of BIOS
+ 5 - Delaying Reboot in BIOS Update
+ 6 - AMIDEWIN - AMI SMBIOS Editor for Windows
+
+
+*****************************************************************************
+*                      1. Installation Instructions                         *
+*                                                                           *
+*  1.Please print out these instructions or write them down before          *
+*    starting this flash update utility.                                    *
+*                                                                           *
+*  2.This flash under operating system (64-bit) utility provides            *
+*    the ability to update the system BIOS from a Windows application.      *
+*                                                                           *
+*    The utility may be downloaded from the internet and unpacked into      *
+*    the default path: "C:\SWTOOLS\FLASH\M2CJYnnUSA\**", where "nn"         *
+*    represents the two-digit BIOS level. "**" means a random path          *
+*    created during the extracting process.                                 *
+*                                                                           *
+*	 Please note that the random path created by default is to avoid        *
+*    an Inno Setup Script Symbolic Link Vulnerability.                      *
+*    You can insteadd extract the utility to a user-defined folder by using * 
+*    the options in section 3.                                              *
+*                                                                           *
+*  3.Please follow the steps in section 2 to launch the Windows based flash * 
+*    application to update your system BIOS.                                *
+*                                                                           *
+*    The utility is built by Inno Setup Compiler 6.2.0                      *
+*                                                                           *
+*****************************************************************************
+
+
+*****************************************************************************
+*                    2. Flash Under Operating System                        *
+*                                                                           *
+*    1.  Please make note of any settings you have changed in the BIOS      *
+*        Setup utility. They may have to be re-entered after updating       *
+*        the BIOS.                                                          *
+*                                                                           *
+*    2.  Go to the directory where the above files were extracted.          *
+*        The default path is "cd C:\SWTOOLS\FLASH\M2CJYnnUSA\**", where "nn"*
+*        represents the two digit flash level. "**" means a random path     *
+*        created during the extracting process                              *
+*                                                                           *
+*    3.  Double click wFlashGUIx64.exe to start the flashing process.       *
+*                                                                           *
+*    4.  You will see a graphic tool popup message,please check the message *
+*        carefulluy,then please click "Next" to continue.                   *
+*                                                                           *
+*    5.  Then you will see the message "Would you like to update the Serial *
+*        Number?". If needed, please click "Yes" and input the Serial Nuber.*
+*                                                                           *
+*    6.  Then you will see the message "Would you like to update the        *
+*        Machine Type and Model?". If needed, please click "Yes" and input  *
+*        the Machine Type and Model. Then please click "Next" to continue.  *  
+*                                                                           *
+*    7.  Then you may see the message to input the BIOS supervisor          *
+*        password if it was set. Please input the correct password,         *
+*        then please click "Next" to start the update process.              *
+*                                                                           *
+*    8.  The update may take some time. Do not power off or restart         *
+*        the system during this procedure! After the Windows update         *
+*        process ends, the system will automatically reboot to continue     *
+*        the flash process.                                                 *
+*                                                                           *
+*    9.  After the system reboots, the BIOS update process will continue    *
+*        with a simple graphic UI. When the BIOS update process ends,       *
+*        the system will reboot automatically.                              *
+*                                                                           *
+*    10. The BIOS update process ends with above nine steps.                *
+*                                                                           *
+*    Notes:                                                                 *
+*          - You may see a POST error "0162: Setup data integrity check     *
+*        failure" after step 9.Press F1 to enter BIOS Setup Utility,        *
+*        and then press F10 to save your settings                           *
+*****************************************************************************
+
+
+*****************************************************************************
+*                         3. Flash Program Options                          *
+*                                                                           *
+*    To deploy this application, please open the Windows Command Prompt     *
+*    with Administrator privilege.                                          *
+*    Then run                                                               *
+*                                                                           *
+*            "M2CJYnnUSA.EXE /verysilent /extract=yes"                      *
+*                                                                           *
+*    to unpack the installation files into the default path:                *
+*    "C:\SWTOOLS\FLASH\M2CJYnnUSA\**".                                      *
+*    where "**" means a random path created during the extracting           * 
+*    process.                                                               *
+*    Or                                                                     *
+*            "M2CJYnnUSA.EXE /verysilent /dir=*** /extract=yes"             *
+*																			*
+*	 Where *** means you need to input a new or existing path here.         *
+*    For example:                                                           *
+*            "M2CJYnnUSA.EXE /verysilent /dir=d:\mypath /extract=yes"      *
+*                                                                           *
+*    Please note, if it is an existing path, the folder will be overridden. *
+*    After that, run "flash.cmd /quiet" to start the update process.        *
+*                                                                           *
+*    If you like to customize the update options, please edit the           * 
+*    wflashGUIx64.exe command line in the flash.cmd file to make changes to *
+*    the flash program options.                                             *
+*                                                                           *
+*                                                                           *
+*    Command options:                                                       *
+*                                                                           *
+*    wflashGUIx64.exe [option1] [option2] ... [optionX]                     *
+*                                                                           *
+*    [OPTIONS]                                                              *
+*    /sccm            Support SCCM deployment                               *
+*                       - see "Delaying Reboot in BIOS Update" below.       *
+*    /sn:nnnnnnn      Update system serial number (up to 20 characters).    *
+*    /mtm:nnnnnnn     Update machine type and model number (up to 25        *
+*                     characters).                                          *
+*    /pass:nnnnnnn    Input current system password.                        *
+*    /quiet           Operating without physical presence.                  *
+*    /logo:xxx.bmp    Change the power on logo                              *
+*                                                                           *
+*    The following example shows how to update the system serial number     *
+*    to "1234567" using the command line:                                   *
+*                                                                           *
+*      wflashGUIx64.exe /sn:1234567                                         *
+*                                                                           *
+*    The following example shows how to update bios and delay the reboot:   *
+*                                                                           *
+*      wflashGUIx64.exe imagexxx.bin /sccm                                  *
+*                                                                           *
+*    The following example shows how to flash BIOS in silent mode.          * 
+*                                                                           * 
+*      wflashGUIx64.exe /quiet                                              *                
+*              or                                                           *
+*      wflashGUIx64.exe /quiet /pass:xxxxxx                                 *
+*                                                                           *
+*    The following example shows how to change the power-on logo.           *
+*      wflashGUIx64.exe /logo:myfav.bmp                                     *
+*                                                                           *
+*    Notes:                                                                 *
+*          - A flash update image using these program options should be     *
+*            tested carefully before widespread usage.                      *
+*                                                                           *
+*****************************************************************************
+
+
+*****************************************************************************
+*                4. Flashing Back to an Older Level of BIOS                 *
+*                                                                           *
+*    In order to flash back to an older level of BIOS, the following        *
+*    steps should be used to insure the latest flash utility is used.       *
+*                                                                           *
+*    1.  Make sure the item "Secure Roll Back Prevention" is set to "No"    *
+*        in BIOS setup security page.                                       * 
+*        Obtain the older level and latest level BIOS update programs       *
+*        from the Lenovo website.                                           *
+*    2.  Use the method described in section 3 to unpack the program into   *
+*        the default folder "C:\SWTOOLS\FLASH\M2CJYnnUSA\**"                *
+*        or your preferred folder "d:\mypath" as an example.                *
+*    3.  Copy imagexxx.bin from the older BIOS update program folder,       *
+*        paste it and replace the same file in the latest level BIOS        *
+*        update program folder.                                             *
+*    4.  In the latest level BIOS update program folder, run flash.cmd      *
+*        to flash back to an older level BIOS.                              *
+*                                                                           *
+*****************************************************************************
+
+
+*****************************************************************************
+*                    5. Delaying Reboot in BIOS Update                      *
+*                                                                           *
+*  1.The BIOS update process consists of two phases. The first phase        *
+*    happens in the OS. After the first flashing phase is complete, the     *
+*    system will automatically reboot to perform the secondary              *
+*    BIOS update phase.                                                     *
+*                                                                           *
+*  2.Deploy mode is designed for BIOS update deployment when the            *
+*    administrator wants to manually control the system reboot after first  *
+*    BIOS phase update has finished. With the parameter "/quiet" or "/sccm",*
+*    the system won't reboot immediately after applying the first phase of  *
+*    the BIOS update.                                                       *
+*                                                                           *
+*  3.The administrator must SHUTDOWN the system later to                    *
+*    trigger the secondary phase of the BIOS update.                        *
+*                                                                           *
+*    Important Notes:                                                       *
+*                                                                           *
+*    1. After the first phase of the BIOS update is complete, the           *
+*       administrator must REBOOT or SHUTDOWN the system to trigger         *
+*       the secondary phase.                                                *
+*    2. The REBOOT mentioned in Note 1 will trigger the secondary phase     *
+*       immediately. It only works if  Setup was set to boot in UEFI mode.  *
+*       It does not work if Setup was set to boot the system in Legacy mode *
+*    3. The SHUTDOWN mentioned in Note 1 must be an actual                  *
+*       S5 (System Power Off). The default shutdown behavior in             *
+*       modern OS (WIN8/WIN8.1/WIN10 etc.) is S4 (Hibernate). To change     *
+*       these modern OS shutdown behavior to S5, you need to turn off       *
+*       the "Fast Startup" from "Control Panel -> Power options". If your   *
+*       deployment software supports S5 shutdown, you can send a sleep S5   *
+*       command by software to trigger the secondary BIOS update phase.     *
+*       If the system is not shut down using the S5 shutdown, the flash     *
+*       process will not continue, and will need to be restarted from       *
+*       phase 1.                                                            *
+*                                                                           *
+*    The following example shows how to use /quiet to implement first phase *
+*    BIOS update with deployment software:                                  *
+*                                                                           *
+*       flash.cmd /quiet                                                    *
+*       or                                                                  *
+*       wFlashGUIx64.exe  /quiet                                            *
+*                                                                           *
+*    The following example shows how to use /sccm to implement first        *
+*    phase BIOS update with deployment software:                            *
+*                                                                           * 
+*      wFlashGUIx64.exe  imagexxx.bin /sccm                                 *
+*                                                                           *
+*    The deployment software can unpack the installation files into the     *
+*    default folder without running the BIOS update program by using these  *
+*    parameters on the OS flash package:                                    *
+*                                                                           *
+*    M2CJYnnUSA.exe /verysilent /extract=yes                                *
+*                                                                           *
+*    The deployment software can also unpack the installation files into    *
+*    the default folder and implement first phase BIOS update in quiet mode *
+*    using these parameters on the OS flash package:                        *
+*                                                                           *
+*    M2CJYnnUSA.exe /verysilent /quietflash                                 *
+*                                                                           *
+*    If the Supervisor Password was set and the setting                     *
+*    "Require SVP when Flashing" was set to "Yes", it needs the password    *
+*    authentication during the update process.                              *
+*    To improve usability, a new parameter to pass the password to the      *
+*    flash package has been added:                                          *
+*    For example, if the password was "psw123",                             *
+*    please implement the deploy mode as below                              *
+*                                                                           *
+*    xxxJYnnUSA.exe /verysilent /quietflash  /pass:psw123                   *
+*                                                                           *
+*                                                                           *
+*    If the software package is already unpacked, you can run               *
+*    Quietflash.cmd to silently update the system firmware.                 *
+*                                                                           *
+*****************************************************************************
+
+
+*****************************************************************************
+*                6. AMIDEWIN - AMI SMBIOS Editor for Windows                *
+*                                                                           *
+*    AMIDEWINx64.exe [option1] [option2] ... [optionX]                      *
+*                                                                           *
+*    Options:                                                               *
+*    /SP  "String"     Update the System Machine Type and Model Number.     *
+*    /SS  "String"     Update the System Serial Number.                     *
+*    /CS  "String"     Update the Chassis Serial Number.                    *
+*    /SU  auto         Update the System UUID.                              *
+*    /SV  "String"     update the System Brand ID.                          *
+*    /CA  "String"     update the Chassis Asset Tag Number.                 *
+*                                                                           *
+*****************************************************************************<br>
+</pre>
+</body>
+    <style>
+.bodyStyle {
+    background: white;
+    color:  black;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: large;
+}
+</style>
+</html>
