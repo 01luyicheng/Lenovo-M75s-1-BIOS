@@ -1,0 +1,1190 @@
+{
+  "file": "/workspace/extracted/code$GetExtractPath$/IMAGEM2C.rom",
+  "size": 33554432,
+  "firmware_volumes": [
+    {
+      "guid": "8C8CE578-8A3D-4F1C-9935-896185C32DD3",
+      "offset": 0,
+      "size": 131072,
+      "name": "0"
+    },
+    {
+      "guid": "8C8CE578-8A3D-4F1C-9935-896185C32DD3",
+      "offset": 0,
+      "size": 131072,
+      "name": "94248"
+    },
+    {
+      "guid": "8C8CE578-8A3D-4F1C-9935-896185C32DD3",
+      "offset": 0,
+      "size": 131072,
+      "name": "356392"
+    },
+    {
+      "guid": "8C8CE578-8A3D-4F1C-9935-896185C32DD3",
+      "offset": 0,
+      "size": 6492160,
+      "name": "7008296"
+    },
+    {
+      "guid": "8C8CE578-8A3D-4F1C-9935-896185C32DD3",
+      "offset": 0,
+      "size": 131072,
+      "name": "05ca020b-0fc1-11dc-9011-00173153eba8"
+    },
+    {
+      "guid": "8C8CE578-8A3D-4F1C-9935-896185C32DD3",
+      "offset": 0,
+      "size": 15507456,
+      "name": "ee4e5898-3914-4259-9d6e-dc7bd79403cf"
+    },
+    {
+      "guid": "8C8CE578-8A3D-4F1C-9935-896185C32DD3",
+      "offset": 0,
+      "size": 90112,
+      "name": "ee4e5898-3914-4259-9d6e-dc7bd79403cf"
+    },
+    {
+      "guid": "8C8CE578-8A3D-4F1C-9935-896185C32DD3",
+      "offset": 0,
+      "size": 131072,
+      "name": "7083184"
+    },
+    {
+      "guid": "8C8CE578-8A3D-4F1C-9935-896185C32DD3",
+      "offset": 0,
+      "size": 3145728,
+      "name": "13500456"
+    },
+    {
+      "guid": "8C8CE578-8A3D-4F1C-9935-896185C32DD3",
+      "offset": 0,
+      "size": 131072,
+      "name": "16646184"
+    },
+    {
+      "guid": "8C8CE578-8A3D-4F1C-9935-896185C32DD3",
+      "offset": 0,
+      "size": 131072,
+      "name": "16871464"
+    },
+    {
+      "guid": "8C8CE578-8A3D-4F1C-9935-896185C32DD3",
+      "offset": 0,
+      "size": 131072,
+      "name": "17133608"
+    },
+    {
+      "guid": "8C8CE578-8A3D-4F1C-9935-896185C32DD3",
+      "offset": 0,
+      "size": 9367552,
+      "name": "20910120"
+    },
+    {
+      "guid": "8C8CE578-8A3D-4F1C-9935-896185C32DD3",
+      "offset": 0,
+      "size": 131072,
+      "name": "05ca020b-0fc1-11dc-9011-00173153eba8"
+    },
+    {
+      "guid": "8C8CE578-8A3D-4F1C-9935-896185C32DD3",
+      "offset": 0,
+      "size": 14057472,
+      "name": "ee4e5898-3914-4259-9d6e-dc7bd79403cf"
+    },
+    {
+      "guid": "8C8CE578-8A3D-4F1C-9935-896185C32DD3",
+      "offset": 0,
+      "size": 90112,
+      "name": "ee4e5898-3914-4259-9d6e-dc7bd79403cf"
+    },
+    {
+      "guid": "8C8CE578-8A3D-4F1C-9935-896185C32DD3",
+      "offset": 0,
+      "size": 131072,
+      "name": "20985008"
+    },
+    {
+      "guid": "8C8CE578-8A3D-4F1C-9935-896185C32DD3",
+      "offset": 0,
+      "size": 3145728,
+      "name": "30277672"
+    },
+    {
+      "guid": "8C8CE578-8A3D-4F1C-9935-896185C32DD3",
+      "offset": 0,
+      "size": 3137536,
+      "name": "147923ce-d0e9-4c4f-9b7b-ac02f8bd2763"
+    },
+    {
+      "guid": "8C8CE578-8A3D-4F1C-9935-896185C32DD3",
+      "offset": 0,
+      "size": 3137536,
+      "name": "30285864"
+    }
+  ],
+  "setup_modules": [
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "348C4D62-BFBD-4882-9ECE-C80BB1C4783B",
+      "offset": 0,
+      "size": 28,
+      "name": "HiiDatabase",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[9]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "A5E369C8-ABF9-4B43-B212-FF1BFD35666D",
+      "offset": 0,
+      "size": 32,
+      "name": "CbsSetupDxeZP",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[90]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "3E7788CA-2BFC-4FCE-8122-5176CA492D9F",
+      "offset": 0,
+      "size": 32,
+      "name": "CbsSetupDxeRV",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[91]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "BBB77CB9-762D-436C-AC40-8EE4901C3446",
+      "offset": 0,
+      "size": 34,
+      "name": "AmdPbsSetupDxe",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[95]/FirmwareFile[3]"
+    },
+    {
+      "type": "FirmwareFile",
+      "guid": "899407D7-99FE-43D8-9A21-79EC328CAC21",
+      "offset": 0,
+      "size": 470714,
+      "name": "",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[108]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "899407D7-99FE-43D8-9A21-79EC328CAC21",
+      "offset": 0,
+      "size": 94,
+      "name": "",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[108]/FirmwareFile[0]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "899407D7-99FE-43D8-9A21-79EC328CAC21",
+      "offset": 0,
+      "size": 470564,
+      "name": "",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[108]/FirmwareFile[1]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "899407D7-99FE-43D8-9A21-79EC328CAC21",
+      "offset": 0,
+      "size": 16,
+      "name": "Setup",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[108]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "899407D7-99FE-43D8-9A21-79EC328CAC21",
+      "offset": 0,
+      "size": 14,
+      "name": "",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[108]/FirmwareFile[3]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "2CE5604F-A982-4D2E-8FD0-D1600C2E1515",
+      "offset": 0,
+      "size": 36,
+      "name": "PciDynamicSetup",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[125]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "271B424E-A4CC-4E0E-90A2-7EA4841F12F3",
+      "offset": 0,
+      "size": 28,
+      "name": "ExportHiiDb",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[127]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "21891A9E-763E-4377-8841-8D5C90D88C51",
+      "offset": 0,
+      "size": 52,
+      "name": "NetworkStackSetupScreen",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[133]/FirmwareFile[3]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "668706B2-BCFC-4AD4-A185-75E79F3FE169",
+      "offset": 0,
+      "size": 38,
+      "name": "NvmeDynamicSetup",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[145]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "A29A63E3-E4E7-495F-8A6A-07738300CBB3",
+      "offset": 0,
+      "size": 40,
+      "name": "AmiTcgPlatformDxe",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[154]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "2688B232-9C02-4C12-BE1F-857C0FF2AAE3",
+      "offset": 0,
+      "size": 34,
+      "name": "TcgDxeplatform",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[155]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "0718AD81-F26A-4850-A6EC-F268E309D707",
+      "offset": 0,
+      "size": 38,
+      "name": "Tpm20PlatformDxe",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[157]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "8BA016CD-3EE3-4934-9BEE-AED08EA572B9",
+      "offset": 0,
+      "size": 28,
+      "name": "PspPlatform",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[165]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "19AFD36B-F501-4446-9C9E-0457DB6E7888",
+      "offset": 0,
+      "size": 44,
+      "name": "SetupItemLinkageDxe",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[183]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "DB41E01B-A8B0-4E15-B619-4463975B357B",
+      "offset": 0,
+      "size": 46,
+      "name": "SetupDataChecksumErr",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[214]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "B1EE7CB1-5D00-467F-9E60-24CD8341937A",
+      "offset": 0,
+      "size": 44,
+      "name": "SetupLoadDefaultDxe",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[219]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "A46D9EE7-C6B4-42C0-8378-6E4BDC50406B",
+      "offset": 0,
+      "size": 38,
+      "name": "SetupLoadDefault",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[220]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "3780B594-32A4-4593-B8CE-8A3F404F61F4",
+      "offset": 0,
+      "size": 38,
+      "name": "PlatformToDriver",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[285]/FirmwareFile[1]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "AE73630A-022D-4884-A696-F728CBF53AEF",
+      "offset": 0,
+      "size": 44,
+      "name": "SetupItemLinkageSmm",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[400]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "07D279A1-34E4-4168-993B-178B3ACC68EF",
+      "offset": 0,
+      "size": 28,
+      "name": "AodSetupDxe",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[439]/FirmwareFile[3]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "196CA3D8-9A5A-4735-B328-8FFC1D93D188",
+      "offset": 0,
+      "size": 50,
+      "name": "TcgPlatformSetupPolicy",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[619]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFile",
+      "guid": "B1DA0ADF-4F77-4070-A88E-BFFE1C60529A",
+      "offset": 0,
+      "size": 251767,
+      "name": "",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[640]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "B1DA0ADF-4F77-4070-A88E-BFFE1C60529A",
+      "offset": 0,
+      "size": 251743,
+      "name": "",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[640]/FirmwareFile[0]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "EE4E5898-3914-4259-9D6E-DC7BD79403CF",
+      "offset": 0,
+      "size": 18,
+      "name": "AMITSE",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[640]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "EE4E5898-3914-4259-9D6E-DC7BD79403CF",
+      "offset": 0,
+      "size": 36,
+      "name": "AMITSESetupData",
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[641]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "FF30FA10-EE1D-455D-971F-34B97D20679C",
+      "offset": 0,
+      "size": 66,
+      "name": "PlatformMemoryConfigurationPei",
+      "path": "/MultiObject[5]/FirmwareVolume[0]/FirmwareFileSystem[67]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "CC9F5B7E-254B-4F8A-A648-034A40AEDA35",
+      "offset": 0,
+      "size": 46,
+      "name": "PlatformCustomizePei",
+      "path": "/MultiObject[5]/FirmwareVolume[0]/FirmwareFileSystem[68]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "0FE9DA53-043D-4265-A94D-FD77FEDE2EB4",
+      "offset": 0,
+      "size": 56,
+      "name": "TcgPlatformSetupPeiPolicy",
+      "path": "/MultiObject[5]/FirmwareVolume[0]/FirmwareFileSystem[81]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "E9312938-E56B-4614-A252-CF7D2F377E26",
+      "offset": 0,
+      "size": 58,
+      "name": "AmiTcgPlatformPeiBeforeMem",
+      "path": "/MultiObject[5]/FirmwareVolume[0]/FirmwareFileSystem[82]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "9B3F28D5-10A6-46C8-BA72-BD40B847A71A",
+      "offset": 0,
+      "size": 56,
+      "name": "AmiTcgPlatformPeiAfterMem",
+      "path": "/MultiObject[5]/FirmwareVolume[0]/FirmwareFileSystem[83]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "0D8039FF-49E9-4CC9-A806-BB7C31B0BCB0",
+      "offset": 0,
+      "size": 44,
+      "name": "AmiTpm20PlatformPei",
+      "path": "/MultiObject[5]/FirmwareVolume[0]/FirmwareFileSystem[84]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "6B844C5B-6B75-42CA-8E8E-1CB94412B59B",
+      "offset": 0,
+      "size": 34,
+      "name": "TcgPeiplatform",
+      "path": "/MultiObject[5]/FirmwareVolume[0]/FirmwareFileSystem[85]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "76D1059D-2E22-40EF-A31F-C49DBBC0DBCE",
+      "offset": 0,
+      "size": 38,
+      "name": "SetupCheckSumPei",
+      "path": "/MultiObject[5]/FirmwareVolume[0]/FirmwareFileSystem[100]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "348C4D62-BFBD-4882-9ECE-C80BB1C4783B",
+      "offset": 0,
+      "size": 28,
+      "name": "HiiDatabase",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[9]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "8E38A88A-C267-4131-A8CD-C0BC80A24CB5",
+      "offset": 0,
+      "size": 34,
+      "name": "CbsSetupDxeSSP",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[58]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "BBB77CB9-762D-436C-AC40-8EE4901C3446",
+      "offset": 0,
+      "size": 34,
+      "name": "AmdPbsSetupDxe",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[60]/FirmwareFile[3]"
+    },
+    {
+      "type": "FirmwareFile",
+      "guid": "899407D7-99FE-43D8-9A21-79EC328CAC21",
+      "offset": 0,
+      "size": 468314,
+      "name": "",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[71]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "899407D7-99FE-43D8-9A21-79EC328CAC21",
+      "offset": 0,
+      "size": 94,
+      "name": "",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[71]/FirmwareFile[0]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "899407D7-99FE-43D8-9A21-79EC328CAC21",
+      "offset": 0,
+      "size": 468164,
+      "name": "",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[71]/FirmwareFile[1]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "899407D7-99FE-43D8-9A21-79EC328CAC21",
+      "offset": 0,
+      "size": 16,
+      "name": "Setup",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[71]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "899407D7-99FE-43D8-9A21-79EC328CAC21",
+      "offset": 0,
+      "size": 14,
+      "name": "",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[71]/FirmwareFile[3]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "2CE5604F-A982-4D2E-8FD0-D1600C2E1515",
+      "offset": 0,
+      "size": 36,
+      "name": "PciDynamicSetup",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[88]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "271B424E-A4CC-4E0E-90A2-7EA4841F12F3",
+      "offset": 0,
+      "size": 28,
+      "name": "ExportHiiDb",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[90]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "21891A9E-763E-4377-8841-8D5C90D88C51",
+      "offset": 0,
+      "size": 52,
+      "name": "NetworkStackSetupScreen",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[96]/FirmwareFile[3]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "668706B2-BCFC-4AD4-A185-75E79F3FE169",
+      "offset": 0,
+      "size": 38,
+      "name": "NvmeDynamicSetup",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[108]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "A29A63E3-E4E7-495F-8A6A-07738300CBB3",
+      "offset": 0,
+      "size": 40,
+      "name": "AmiTcgPlatformDxe",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[117]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "2688B232-9C02-4C12-BE1F-857C0FF2AAE3",
+      "offset": 0,
+      "size": 34,
+      "name": "TcgDxeplatform",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[118]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "0718AD81-F26A-4850-A6EC-F268E309D707",
+      "offset": 0,
+      "size": 38,
+      "name": "Tpm20PlatformDxe",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[120]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "8BA016CD-3EE3-4934-9BEE-AED08EA572B9",
+      "offset": 0,
+      "size": 28,
+      "name": "PspPlatform",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[128]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "19AFD36B-F501-4446-9C9E-0457DB6E7888",
+      "offset": 0,
+      "size": 44,
+      "name": "SetupItemLinkageDxe",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[146]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "DB41E01B-A8B0-4E15-B619-4463975B357B",
+      "offset": 0,
+      "size": 46,
+      "name": "SetupDataChecksumErr",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[177]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "B1EE7CB1-5D00-467F-9E60-24CD8341937A",
+      "offset": 0,
+      "size": 44,
+      "name": "SetupLoadDefaultDxe",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[182]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "A46D9EE7-C6B4-42C0-8378-6E4BDC50406B",
+      "offset": 0,
+      "size": 38,
+      "name": "SetupLoadDefault",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[183]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "3780B594-32A4-4593-B8CE-8A3F404F61F4",
+      "offset": 0,
+      "size": 38,
+      "name": "PlatformToDriver",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[244]/FirmwareFile[1]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "AE73630A-022D-4884-A696-F728CBF53AEF",
+      "offset": 0,
+      "size": 44,
+      "name": "SetupItemLinkageSmm",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[339]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "A2702A3C-62FD-402D-B8C3-1D18F6C6FDE5",
+      "offset": 0,
+      "size": 28,
+      "name": "AodSetupDxe",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[375]/FirmwareFile[3]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "196CA3D8-9A5A-4735-B328-8FFC1D93D188",
+      "offset": 0,
+      "size": 50,
+      "name": "TcgPlatformSetupPolicy",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[542]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFile",
+      "guid": "B1DA0ADF-4F77-4070-A88E-BFFE1C60529A",
+      "offset": 0,
+      "size": 251605,
+      "name": "",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[563]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "B1DA0ADF-4F77-4070-A88E-BFFE1C60529A",
+      "offset": 0,
+      "size": 251581,
+      "name": "",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[563]/FirmwareFile[0]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "EE4E5898-3914-4259-9D6E-DC7BD79403CF",
+      "offset": 0,
+      "size": 18,
+      "name": "AMITSE",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[563]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "EE4E5898-3914-4259-9D6E-DC7BD79403CF",
+      "offset": 0,
+      "size": 36,
+      "name": "AMITSESetupData",
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[564]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "FF30FA10-EE1D-455D-971F-34B97D20679C",
+      "offset": 0,
+      "size": 66,
+      "name": "PlatformMemoryConfigurationPei",
+      "path": "/MultiObject[11]/FirmwareVolume[0]/FirmwareFileSystem[3]/FirmwareFile[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[45]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "CC9F5B7E-254B-4F8A-A648-034A40AEDA35",
+      "offset": 0,
+      "size": 46,
+      "name": "PlatformCustomizePei",
+      "path": "/MultiObject[11]/FirmwareVolume[0]/FirmwareFileSystem[3]/FirmwareFile[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[46]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "0FE9DA53-043D-4265-A94D-FD77FEDE2EB4",
+      "offset": 0,
+      "size": 56,
+      "name": "TcgPlatformSetupPeiPolicy",
+      "path": "/MultiObject[11]/FirmwareVolume[0]/FirmwareFileSystem[3]/FirmwareFile[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[59]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "E9312938-E56B-4614-A252-CF7D2F377E26",
+      "offset": 0,
+      "size": 58,
+      "name": "AmiTcgPlatformPeiBeforeMem",
+      "path": "/MultiObject[11]/FirmwareVolume[0]/FirmwareFileSystem[3]/FirmwareFile[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[60]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "9B3F28D5-10A6-46C8-BA72-BD40B847A71A",
+      "offset": 0,
+      "size": 56,
+      "name": "AmiTcgPlatformPeiAfterMem",
+      "path": "/MultiObject[11]/FirmwareVolume[0]/FirmwareFileSystem[3]/FirmwareFile[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[61]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "0D8039FF-49E9-4CC9-A806-BB7C31B0BCB0",
+      "offset": 0,
+      "size": 44,
+      "name": "AmiTpm20PlatformPei",
+      "path": "/MultiObject[11]/FirmwareVolume[0]/FirmwareFileSystem[3]/FirmwareFile[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[62]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "6B844C5B-6B75-42CA-8E8E-1CB94412B59B",
+      "offset": 0,
+      "size": 34,
+      "name": "TcgPeiplatform",
+      "path": "/MultiObject[11]/FirmwareVolume[0]/FirmwareFileSystem[3]/FirmwareFile[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[63]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "76D1059D-2E22-40EF-A31F-C49DBBC0DBCE",
+      "offset": 0,
+      "size": 38,
+      "name": "SetupCheckSumPei",
+      "path": "/MultiObject[11]/FirmwareVolume[0]/FirmwareFileSystem[3]/FirmwareFile[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[79]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "FF30FA10-EE1D-455D-971F-34B97D20679C",
+      "offset": 0,
+      "size": 66,
+      "name": "PlatformMemoryConfigurationPei",
+      "path": "/MultiObject[12]/FirmwareVolume[0]/FirmwareFileSystem[45]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "CC9F5B7E-254B-4F8A-A648-034A40AEDA35",
+      "offset": 0,
+      "size": 46,
+      "name": "PlatformCustomizePei",
+      "path": "/MultiObject[12]/FirmwareVolume[0]/FirmwareFileSystem[46]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "0FE9DA53-043D-4265-A94D-FD77FEDE2EB4",
+      "offset": 0,
+      "size": 56,
+      "name": "TcgPlatformSetupPeiPolicy",
+      "path": "/MultiObject[12]/FirmwareVolume[0]/FirmwareFileSystem[59]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "E9312938-E56B-4614-A252-CF7D2F377E26",
+      "offset": 0,
+      "size": 58,
+      "name": "AmiTcgPlatformPeiBeforeMem",
+      "path": "/MultiObject[12]/FirmwareVolume[0]/FirmwareFileSystem[60]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "9B3F28D5-10A6-46C8-BA72-BD40B847A71A",
+      "offset": 0,
+      "size": 56,
+      "name": "AmiTcgPlatformPeiAfterMem",
+      "path": "/MultiObject[12]/FirmwareVolume[0]/FirmwareFileSystem[61]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "0D8039FF-49E9-4CC9-A806-BB7C31B0BCB0",
+      "offset": 0,
+      "size": 44,
+      "name": "AmiTpm20PlatformPei",
+      "path": "/MultiObject[12]/FirmwareVolume[0]/FirmwareFileSystem[62]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "6B844C5B-6B75-42CA-8E8E-1CB94412B59B",
+      "offset": 0,
+      "size": 34,
+      "name": "TcgPeiplatform",
+      "path": "/MultiObject[12]/FirmwareVolume[0]/FirmwareFileSystem[63]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "76D1059D-2E22-40EF-A31F-C49DBBC0DBCE",
+      "offset": 0,
+      "size": 38,
+      "name": "SetupCheckSumPei",
+      "path": "/MultiObject[12]/FirmwareVolume[0]/FirmwareFileSystem[79]/FirmwareFile[2]"
+    }
+  ],
+  "nvram_regions": [
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "C11CCB12-C17A-4266-B47D-18FD101811EA",
+      "offset": 0,
+      "size": 38,
+      "name": "HdpBackupToNvram"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "77ECCE3A-7398-4C04-981D-D778E793E0F9",
+      "offset": 0,
+      "size": 62,
+      "name": "TransferNvramPasswordToSmram"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "447A1B58-8F3E-4658-ABAA-9E7B2280B90A",
+      "offset": 0,
+      "size": 22,
+      "name": "NvramSmm"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "BE216BA8-38C4-4535-A6CA-5DCA5B43ADDF",
+      "offset": 0,
+      "size": 28,
+      "name": "SmiVariable"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "1807040D-5934-41A2-A088-8E0F777F71AB",
+      "offset": 0,
+      "size": 22,
+      "name": "NvramDxe"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "0C9C3169-6F39-409E-990B-5B8B48B9D2B9",
+      "offset": 0,
+      "size": 48,
+      "name": "SyncUpNvramToPostFlag"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "838DCF34-907B-4D55-9A4B-A0EF7167B5F4",
+      "offset": 0,
+      "size": 22,
+      "name": "NvramPei"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "C11CCB12-C17A-4266-B47D-18FD101811EA",
+      "offset": 0,
+      "size": 38,
+      "name": "HdpBackupToNvram"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "77ECCE3A-7398-4C04-981D-D778E793E0F9",
+      "offset": 0,
+      "size": 62,
+      "name": "TransferNvramPasswordToSmram"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "447A1B58-8F3E-4658-ABAA-9E7B2280B90A",
+      "offset": 0,
+      "size": 22,
+      "name": "NvramSmm"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "BE216BA8-38C4-4535-A6CA-5DCA5B43ADDF",
+      "offset": 0,
+      "size": 28,
+      "name": "SmiVariable"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "1807040D-5934-41A2-A088-8E0F777F71AB",
+      "offset": 0,
+      "size": 22,
+      "name": "NvramDxe"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "0C9C3169-6F39-409E-990B-5B8B48B9D2B9",
+      "offset": 0,
+      "size": 48,
+      "name": "SyncUpNvramToPostFlag"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "838DCF34-907B-4D55-9A4B-A0EF7167B5F4",
+      "offset": 0,
+      "size": 22,
+      "name": "NvramPei"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "0C9C3169-6F39-409E-990B-5B8B48B9D2B9",
+      "offset": 0,
+      "size": 48,
+      "name": "SyncUpNvramToPostFlag"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "838DCF34-907B-4D55-9A4B-A0EF7167B5F4",
+      "offset": 0,
+      "size": 22,
+      "name": "NvramPei"
+    }
+  ],
+  "pe32_sections": [],
+  "ifr_sections": [
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "348C4D62-BFBD-4882-9ECE-C80BB1C4783B",
+      "name": "HiiDatabase",
+      "offset": 0,
+      "size": 28,
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[9]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "271B424E-A4CC-4E0E-90A2-7EA4841F12F3",
+      "name": "ExportHiiDb",
+      "offset": 0,
+      "size": 28,
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[127]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "A29A63E3-E4E7-495F-8A6A-07738300CBB3",
+      "name": "AmiTcgPlatformDxe",
+      "offset": 0,
+      "size": 40,
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[154]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "2688B232-9C02-4C12-BE1F-857C0FF2AAE3",
+      "name": "TcgDxeplatform",
+      "offset": 0,
+      "size": 34,
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[155]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "0718AD81-F26A-4850-A6EC-F268E309D707",
+      "name": "Tpm20PlatformDxe",
+      "offset": 0,
+      "size": 38,
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[157]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "8BA016CD-3EE3-4934-9BEE-AED08EA572B9",
+      "name": "PspPlatform",
+      "offset": 0,
+      "size": 28,
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[165]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "3780B594-32A4-4593-B8CE-8A3F404F61F4",
+      "name": "PlatformToDriver",
+      "offset": 0,
+      "size": 38,
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[285]/FirmwareFile[1]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "196CA3D8-9A5A-4735-B328-8FFC1D93D188",
+      "name": "TcgPlatformSetupPolicy",
+      "offset": 0,
+      "size": 50,
+      "path": "/MultiObject[3]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[619]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "FF30FA10-EE1D-455D-971F-34B97D20679C",
+      "name": "PlatformMemoryConfigurationPei",
+      "offset": 0,
+      "size": 66,
+      "path": "/MultiObject[5]/FirmwareVolume[0]/FirmwareFileSystem[67]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "CC9F5B7E-254B-4F8A-A648-034A40AEDA35",
+      "name": "PlatformCustomizePei",
+      "offset": 0,
+      "size": 46,
+      "path": "/MultiObject[5]/FirmwareVolume[0]/FirmwareFileSystem[68]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "0FE9DA53-043D-4265-A94D-FD77FEDE2EB4",
+      "name": "TcgPlatformSetupPeiPolicy",
+      "offset": 0,
+      "size": 56,
+      "path": "/MultiObject[5]/FirmwareVolume[0]/FirmwareFileSystem[81]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "E9312938-E56B-4614-A252-CF7D2F377E26",
+      "name": "AmiTcgPlatformPeiBeforeMem",
+      "offset": 0,
+      "size": 58,
+      "path": "/MultiObject[5]/FirmwareVolume[0]/FirmwareFileSystem[82]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "9B3F28D5-10A6-46C8-BA72-BD40B847A71A",
+      "name": "AmiTcgPlatformPeiAfterMem",
+      "offset": 0,
+      "size": 56,
+      "path": "/MultiObject[5]/FirmwareVolume[0]/FirmwareFileSystem[83]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "0D8039FF-49E9-4CC9-A806-BB7C31B0BCB0",
+      "name": "AmiTpm20PlatformPei",
+      "offset": 0,
+      "size": 44,
+      "path": "/MultiObject[5]/FirmwareVolume[0]/FirmwareFileSystem[84]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "6B844C5B-6B75-42CA-8E8E-1CB94412B59B",
+      "name": "TcgPeiplatform",
+      "offset": 0,
+      "size": 34,
+      "path": "/MultiObject[5]/FirmwareVolume[0]/FirmwareFileSystem[85]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "348C4D62-BFBD-4882-9ECE-C80BB1C4783B",
+      "name": "HiiDatabase",
+      "offset": 0,
+      "size": 28,
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[9]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "271B424E-A4CC-4E0E-90A2-7EA4841F12F3",
+      "name": "ExportHiiDb",
+      "offset": 0,
+      "size": 28,
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[90]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "A29A63E3-E4E7-495F-8A6A-07738300CBB3",
+      "name": "AmiTcgPlatformDxe",
+      "offset": 0,
+      "size": 40,
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[117]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "2688B232-9C02-4C12-BE1F-857C0FF2AAE3",
+      "name": "TcgDxeplatform",
+      "offset": 0,
+      "size": 34,
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[118]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "0718AD81-F26A-4850-A6EC-F268E309D707",
+      "name": "Tpm20PlatformDxe",
+      "offset": 0,
+      "size": 38,
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[120]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "8BA016CD-3EE3-4934-9BEE-AED08EA572B9",
+      "name": "PspPlatform",
+      "offset": 0,
+      "size": 28,
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[128]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "3780B594-32A4-4593-B8CE-8A3F404F61F4",
+      "name": "PlatformToDriver",
+      "offset": 0,
+      "size": 38,
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[244]/FirmwareFile[1]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "196CA3D8-9A5A-4735-B328-8FFC1D93D188",
+      "name": "TcgPlatformSetupPolicy",
+      "offset": 0,
+      "size": 50,
+      "path": "/MultiObject[9]/FirmwareVolume[0]/FirmwareFileSystem[14]/FirmwareFile[0]/FirmwareFileSystemSection[0]/GuidDefinedSection[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[542]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "FF30FA10-EE1D-455D-971F-34B97D20679C",
+      "name": "PlatformMemoryConfigurationPei",
+      "offset": 0,
+      "size": 66,
+      "path": "/MultiObject[11]/FirmwareVolume[0]/FirmwareFileSystem[3]/FirmwareFile[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[45]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "CC9F5B7E-254B-4F8A-A648-034A40AEDA35",
+      "name": "PlatformCustomizePei",
+      "offset": 0,
+      "size": 46,
+      "path": "/MultiObject[11]/FirmwareVolume[0]/FirmwareFileSystem[3]/FirmwareFile[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[46]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "0FE9DA53-043D-4265-A94D-FD77FEDE2EB4",
+      "name": "TcgPlatformSetupPeiPolicy",
+      "offset": 0,
+      "size": 56,
+      "path": "/MultiObject[11]/FirmwareVolume[0]/FirmwareFileSystem[3]/FirmwareFile[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[59]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "E9312938-E56B-4614-A252-CF7D2F377E26",
+      "name": "AmiTcgPlatformPeiBeforeMem",
+      "offset": 0,
+      "size": 58,
+      "path": "/MultiObject[11]/FirmwareVolume[0]/FirmwareFileSystem[3]/FirmwareFile[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[60]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "9B3F28D5-10A6-46C8-BA72-BD40B847A71A",
+      "name": "AmiTcgPlatformPeiAfterMem",
+      "offset": 0,
+      "size": 56,
+      "path": "/MultiObject[11]/FirmwareVolume[0]/FirmwareFileSystem[3]/FirmwareFile[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[61]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "0D8039FF-49E9-4CC9-A806-BB7C31B0BCB0",
+      "name": "AmiTpm20PlatformPei",
+      "offset": 0,
+      "size": 44,
+      "path": "/MultiObject[11]/FirmwareVolume[0]/FirmwareFileSystem[3]/FirmwareFile[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[62]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "6B844C5B-6B75-42CA-8E8E-1CB94412B59B",
+      "name": "TcgPeiplatform",
+      "offset": 0,
+      "size": 34,
+      "path": "/MultiObject[11]/FirmwareVolume[0]/FirmwareFileSystem[3]/FirmwareFile[1]/FirmwareFileSystemSection[0]/FirmwareVolume[0]/FirmwareFileSystem[63]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "FF30FA10-EE1D-455D-971F-34B97D20679C",
+      "name": "PlatformMemoryConfigurationPei",
+      "offset": 0,
+      "size": 66,
+      "path": "/MultiObject[12]/FirmwareVolume[0]/FirmwareFileSystem[45]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "CC9F5B7E-254B-4F8A-A648-034A40AEDA35",
+      "name": "PlatformCustomizePei",
+      "offset": 0,
+      "size": 46,
+      "path": "/MultiObject[12]/FirmwareVolume[0]/FirmwareFileSystem[46]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "0FE9DA53-043D-4265-A94D-FD77FEDE2EB4",
+      "name": "TcgPlatformSetupPeiPolicy",
+      "offset": 0,
+      "size": 56,
+      "path": "/MultiObject[12]/FirmwareVolume[0]/FirmwareFileSystem[59]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "E9312938-E56B-4614-A252-CF7D2F377E26",
+      "name": "AmiTcgPlatformPeiBeforeMem",
+      "offset": 0,
+      "size": 58,
+      "path": "/MultiObject[12]/FirmwareVolume[0]/FirmwareFileSystem[60]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "9B3F28D5-10A6-46C8-BA72-BD40B847A71A",
+      "name": "AmiTcgPlatformPeiAfterMem",
+      "offset": 0,
+      "size": 56,
+      "path": "/MultiObject[12]/FirmwareVolume[0]/FirmwareFileSystem[61]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "0D8039FF-49E9-4CC9-A806-BB7C31B0BCB0",
+      "name": "AmiTpm20PlatformPei",
+      "offset": 0,
+      "size": 44,
+      "path": "/MultiObject[12]/FirmwareVolume[0]/FirmwareFileSystem[62]/FirmwareFile[2]"
+    },
+    {
+      "type": "FirmwareFileSystemSection",
+      "guid": "6B844C5B-6B75-42CA-8E8E-1CB94412B59B",
+      "name": "TcgPeiplatform",
+      "offset": 0,
+      "size": 34,
+      "path": "/MultiObject[12]/FirmwareVolume[0]/FirmwareFileSystem[63]/FirmwareFile[2]"
+    }
+  ],
+  "all_modules_count": 7087
+}

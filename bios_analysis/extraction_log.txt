@@ -1,0 +1,1916 @@
+Error invalid FV header data ().
+Error invalid FV header data ().
+Error invalid FV header data ().
+================================================================================
+Advanced Setup Module Extractor
+================================================================================
+File size: 33554432 bytes (32.00 MB)
+Detected firmware type: UEFIFirmwareVolume
+
+[Extracting target modules...]
+
+                [TARGET]  - GuidDefinedSection
+                  GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                  Offset: 0x00000018, Size: 0x0000A816
+                  [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+                  [TARGET]  - FirmwareFileSystemSection
+                    GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                    Offset: 0x00000000, Size: 0x0000A7FA
+                    [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                  [TARGET] Logo.bmp - FirmwareFileSystemSection
+                    GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                    Offset: 0x00000000, Size: 0x00000012
+                    [SAVED RAW] /workspace/bios_analysis/extracted/Logo.bmp_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x0004833A
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00048336
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x00064004
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00064000
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x0000BAC2
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x0000BABE
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x0006371A
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00063716
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x0006371A
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00063716
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x0006371A
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00063716
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x0006371A
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00063716
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x00ECA010
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+            [IFR FOUND] 142 potential IFR locations:
+              - EFI_IFR_FORM_SET at offset 0x0000578F, size 0x304F
+              - EFI_IFR_FORM_SET at offset 0x00066416, size 0xD643
+              - EFI_IFR_FORM_SET at offset 0x0008FEEE, size 0xD643
+              - EFI_IFR_FORM_SET at offset 0x000D2F6D, size 0xF602
+              - EFI_IFR_FORM_SET at offset 0x000D36C6, size 0x79AC
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00000008
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00ECA000
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+              [IFR FOUND] 142 potential IFR locations:
+                - EFI_IFR_FORM_SET at offset 0x00005767, size 0x304F
+                - EFI_IFR_FORM_SET at offset 0x000663EE, size 0xD643
+                - EFI_IFR_FORM_SET at offset 0x0008FEC6, size 0xD643
+                - EFI_IFR_FORM_SET at offset 0x000D2F45, size 0xF602
+                - EFI_IFR_FORM_SET at offset 0x000D369E, size 0x79AC
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x0001E206
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x0001E1E0
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+                          [EXTRACTED PE32] /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+
+                        [TARGET] DxeCore - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x00000010
+                          [SAVED RAW] /workspace/bios_analysis/extracted/DxeCore_RAW.bin
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x0000000A
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                    [TARGET] CbsSetupDxeZP - FirmwareFileSystemSection
+                      GUID: A5E369C8-ABF9-4B43-B212-FF1BFD35666D
+                      Offset: 0x00000000, Size: 0x0000001C
+                      [SAVED RAW] /workspace/bios_analysis/extracted/CbsSetupDxeZP_RAW.bin
+
+                    [TARGET] CbsSetupDxeRV - FirmwareFileSystemSection
+                      GUID: 3E7788CA-2BFC-4FCE-8122-5176CA492D9F
+                      Offset: 0x00000000, Size: 0x0000001C
+                      [SAVED RAW] /workspace/bios_analysis/extracted/CbsSetupDxeRV_RAW.bin
+
+                    [TARGET] AmdPbsSetupDxe - FirmwareFileSystemSection
+                      GUID: BBB77CB9-762D-436C-AC40-8EE4901C3446
+                      Offset: 0x00000000, Size: 0x0000001E
+                      [SAVED RAW] /workspace/bios_analysis/extracted/AmdPbsSetupDxe_RAW.bin
+
+                  [TARGET]  - FirmwareFile
+                    GUID: 899407D7-99FE-43D8-9A21-79EC328CAC21
+                    Offset: 0x00000000, Size: 0x00072EA2
+                    [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                    [TARGET]  - FirmwareFileSystemSection
+                      GUID: 899407D7-99FE-43D8-9A21-79EC328CAC21
+                      Offset: 0x00000000, Size: 0x0000005A
+                      [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                    [TARGET]  - FirmwareFileSystemSection
+                      GUID: 899407D7-99FE-43D8-9A21-79EC328CAC21
+                      Offset: 0x00000000, Size: 0x00072E20
+                      [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+                      [EXTRACTED PE32] /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+
+                    [TARGET] Setup - FirmwareFileSystemSection
+                      GUID: 899407D7-99FE-43D8-9A21-79EC328CAC21
+                      Offset: 0x00000000, Size: 0x0000000C
+                      [SAVED RAW] /workspace/bios_analysis/extracted/Setup_RAW.bin
+
+                    [TARGET]  - FirmwareFileSystemSection
+                      GUID: 899407D7-99FE-43D8-9A21-79EC328CAC21
+                      Offset: 0x00000000, Size: 0x0000000A
+                      [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                    [TARGET] PciDynamicSetup - FirmwareFileSystemSection
+                      GUID: 2CE5604F-A982-4D2E-8FD0-D1600C2E1515
+                      Offset: 0x00000000, Size: 0x00000020
+                      [SAVED RAW] /workspace/bios_analysis/extracted/PciDynamicSetup_RAW.bin
+
+                    [TARGET] NetworkStackSetupScreen - FirmwareFileSystemSection
+                      GUID: 21891A9E-763E-4377-8841-8D5C90D88C51
+                      Offset: 0x00000000, Size: 0x00000030
+                      [SAVED RAW] /workspace/bios_analysis/extracted/NetworkStackSetupScreen_RAW.bin
+
+                    [TARGET] NvmeDynamicSetup - FirmwareFileSystemSection
+                      GUID: 668706B2-BCFC-4AD4-A185-75E79F3FE169
+                      Offset: 0x00000000, Size: 0x00000022
+                      [SAVED RAW] /workspace/bios_analysis/extracted/NvmeDynamicSetup_RAW.bin
+
+                    [TARGET] SetupItemLinkageDxe - FirmwareFileSystemSection
+                      GUID: 19AFD36B-F501-4446-9C9E-0457DB6E7888
+                      Offset: 0x00000000, Size: 0x00000028
+                      [SAVED RAW] /workspace/bios_analysis/extracted/SetupItemLinkageDxe_RAW.bin
+
+                    [TARGET] SetupDataChecksumErr - FirmwareFileSystemSection
+                      GUID: DB41E01B-A8B0-4E15-B619-4463975B357B
+                      Offset: 0x00000000, Size: 0x0000002A
+                      [SAVED RAW] /workspace/bios_analysis/extracted/SetupDataChecksumErr_RAW.bin
+
+                    [TARGET] SetupLoadDefaultDxe - FirmwareFileSystemSection
+                      GUID: B1EE7CB1-5D00-467F-9E60-24CD8341937A
+                      Offset: 0x00000000, Size: 0x00000028
+                      [SAVED RAW] /workspace/bios_analysis/extracted/SetupLoadDefaultDxe_RAW.bin
+
+                    [TARGET] SetupLoadDefault - FirmwareFileSystemSection
+                      GUID: A46D9EE7-C6B4-42C0-8378-6E4BDC50406B
+                      Offset: 0x00000000, Size: 0x00000022
+                      [SAVED RAW] /workspace/bios_analysis/extracted/SetupLoadDefault_RAW.bin
+
+                    [TARGET] SetupItemLinkageSmm - FirmwareFileSystemSection
+                      GUID: AE73630A-022D-4884-A696-F728CBF53AEF
+                      Offset: 0x00000000, Size: 0x00000028
+                      [SAVED RAW] /workspace/bios_analysis/extracted/SetupItemLinkageSmm_RAW.bin
+
+                    [TARGET] AodSetupDxe - FirmwareFileSystemSection
+                      GUID: 07D279A1-34E4-4168-993B-178B3ACC68EF
+                      Offset: 0x00000000, Size: 0x00000018
+                      [SAVED RAW] /workspace/bios_analysis/extracted/AodSetupDxe_RAW.bin
+
+                    [TARGET] TcgPlatformSetupPolicy - FirmwareFileSystemSection
+                      GUID: 196CA3D8-9A5A-4735-B328-8FFC1D93D188
+                      Offset: 0x00000000, Size: 0x0000002E
+                      [SAVED RAW] /workspace/bios_analysis/extracted/TcgPlatformSetupPolicy_RAW.bin
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x000007A3
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x0000079F
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x000368D1
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+                        [IFR FOUND] 3 potential IFR locations:
+                          - EFI_IFR_FORM_SET at offset 0x00001DF0, size 0x695E
+                          - EFI_IFR_FORM_SET at offset 0x0000BF28, size 0x7006
+                          - EFI_IFR_FORM_SET at offset 0x00033FF5, size 0x1010
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x000368CD
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+                          [IFR FOUND] 3 potential IFR locations:
+                            - EFI_IFR_FORM_SET at offset 0x00001DD4, size 0x695E
+                            - EFI_IFR_FORM_SET at offset 0x0000BF0C, size 0x7006
+                            - EFI_IFR_FORM_SET at offset 0x00033FD9, size 0x1010
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x00000B28
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x00000B24
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x00000B07
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x00000B03
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x00001384
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+                        [IFR FOUND] 1 potential IFR locations:
+                          - EFI_IFR_FORM_SET at offset 0x00000CCE, size 0x7F56
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x00001380
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+                          [IFR FOUND] 1 potential IFR locations:
+                            - EFI_IFR_FORM_SET at offset 0x00000CB2, size 0x7F56
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x000052B6
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x000052B2
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x0000034C
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x00000348
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x000002F4
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x000002F0
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x0000FC54
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x0000FC50
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                  [TARGET]  - FirmwareFile
+                    GUID: B1DA0ADF-4F77-4070-A88E-BFFE1C60529A
+                    Offset: 0x00000000, Size: 0x0003D75F
+                    [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+                    [IFR FOUND] 14 potential IFR locations:
+                      - EFI_IFR_FORM_SET at offset 0x0000110F, size 0x1C8D
+                      - EFI_IFR_FORM_SET at offset 0x00004CD2, size 0x05B4
+                      - EFI_IFR_FORM_SET at offset 0x000082C4, size 0x74C9
+                      - EFI_IFR_FORM_SET at offset 0x0000CBAF, size 0x3683
+                      - EFI_IFR_FORM_SET at offset 0x0000DC57, size 0x5EEA
+
+                    [TARGET]  - FirmwareFileSystemSection
+                      GUID: B1DA0ADF-4F77-4070-A88E-BFFE1C60529A
+                      Offset: 0x00000000, Size: 0x0003D75B
+                      [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+                      [IFR FOUND] 14 potential IFR locations:
+                        - EFI_IFR_FORM_SET at offset 0x0000110B, size 0x1C8D
+                        - EFI_IFR_FORM_SET at offset 0x00004CCE, size 0x05B4
+                        - EFI_IFR_FORM_SET at offset 0x000082C0, size 0x74C9
+                        - EFI_IFR_FORM_SET at offset 0x0000CBAB, size 0x3683
+                        - EFI_IFR_FORM_SET at offset 0x0000DC53, size 0x5EEA
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x00098A36
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+                        [IFR FOUND] 1 potential IFR locations:
+                          - EFI_IFR_FORM_SET at offset 0x000751FF, size 0x1B75
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x00098A20
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+                          [EXTRACTED PE32] /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+                          [IFR FOUND] 1 potential IFR locations:
+                            - EFI_IFR_FORM_SET at offset 0x000751E3, size 0x1B75
+
+                        [TARGET] AMITSE - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x0000000E
+                          [SAVED RAW] /workspace/bios_analysis/extracted/AMITSE_RAW.bin
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x00024788
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x00024760
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                        [TARGET] AMITSESetupData - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x00000020
+                          [SAVED RAW] /workspace/bios_analysis/extracted/AMITSESetupData_RAW.bin
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x00080744
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+                        [IFR FOUND] 1 potential IFR locations:
+                          - EFI_IFR_FORM_SET at offset 0x00038931, size 0x0C0C
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x00080740
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+                          [IFR FOUND] 1 potential IFR locations:
+                            - EFI_IFR_FORM_SET at offset 0x00038915, size 0x0C0C
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x00083980
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+                        [IFR FOUND] 5 potential IFR locations:
+                          - EFI_IFR_FORM_SET at offset 0x0001A5B6, size 0xFFFF
+                          - EFI_IFR_FORM_SET at offset 0x000287BA, size 0x7F56
+                          - EFI_IFR_FORM_SET at offset 0x000367DE, size 0xFA46
+                          - EFI_IFR_FORM_SET at offset 0x000467F2, size 0xFA46
+                          - EFI_IFR_FORM_SET at offset 0x00082332, size 0x7F56
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x0000FE10
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x00019FF0
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+                          [IFR FOUND] 2 potential IFR locations:
+                            - EFI_IFR_FORM_SET at offset 0x0000A786, size 0xFFFF
+                            - EFI_IFR_FORM_SET at offset 0x0001898A, size 0x7F56
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x00010010
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+                          [IFR FOUND] 1 potential IFR locations:
+                            - EFI_IFR_FORM_SET at offset 0x0000C9BA, size 0xFA46
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x00010010
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+                          [IFR FOUND] 1 potential IFR locations:
+                            - EFI_IFR_FORM_SET at offset 0x0000C9BA, size 0xFA46
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x0000D410
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x0000D410
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x0000D410
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x00011F10
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+                          [IFR FOUND] 1 potential IFR locations:
+                            - EFI_IFR_FORM_SET at offset 0x000108AA, size 0x7F56
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x00016010
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00000008
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00016000
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x0000A816
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x0000A7FA
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+            [TARGET] Logo.bmp - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00000012
+              [SAVED RAW] /workspace/bios_analysis/extracted/Logo.bmp_RAW.bin
+
+        [TARGET] TcgPlatformSetupPeiPolicy - FirmwareFileSystemSection
+          GUID: 0FE9DA53-043D-4265-A94D-FD77FEDE2EB4
+          Offset: 0x00000000, Size: 0x00000034
+          [SAVED RAW] /workspace/bios_analysis/extracted/TcgPlatformSetupPeiPolicy_RAW.bin
+
+        [TARGET] SetupCheckSumPei - FirmwareFileSystemSection
+          GUID: 76D1059D-2E22-40EF-A31F-C49DBBC0DBCE
+          Offset: 0x00000000, Size: 0x00000022
+          [SAVED RAW] /workspace/bios_analysis/extracted/SetupCheckSumPei_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x0000F4CA
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x0000F4A0
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+              [EXTRACTED PE32] /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+
+            [TARGET] CryptoPPI - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00000014
+              [SAVED RAW] /workspace/bios_analysis/extracted/CryptoPPI_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x0000000A
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x000091A6
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00009180
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+              [EXTRACTED PE32] /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+
+            [TARGET] UsbPei - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x0000000E
+              [SAVED RAW] /workspace/bios_analysis/extracted/UsbPei_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x0000000A
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x0000190A
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x000018E0
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+              [EXTRACTED PE32] /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+
+            [TARGET] Recovery - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00000012
+              [SAVED RAW] /workspace/bios_analysis/extracted/Recovery_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x0000000A
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x00004A2E
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00004A00
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+              [EXTRACTED PE32] /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+
+            [TARGET] FsRecovery - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00000016
+              [SAVED RAW] /workspace/bios_analysis/extracted/FsRecovery_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x0000000A
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x0000160E
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x000015E0
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+              [EXTRACTED PE32] /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+
+            [TARGET] IdeRecovery - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00000018
+              [SAVED RAW] /workspace/bios_analysis/extracted/IdeRecovery_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x0000000A
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x0000035E
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00000320
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+              [EXTRACTED PE32] /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+
+            [TARGET] PeiRamBootCacheRdy - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00000026
+              [SAVED RAW] /workspace/bios_analysis/extracted/PeiRamBootCacheRdy_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x0000000A
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                [TARGET]  - GuidDefinedSection
+                  GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                  Offset: 0x00000018, Size: 0x0000A816
+                  [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+                  [TARGET]  - FirmwareFileSystemSection
+                    GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                    Offset: 0x00000000, Size: 0x0000A7FA
+                    [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                  [TARGET] Logo.bmp - FirmwareFileSystemSection
+                    GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                    Offset: 0x00000000, Size: 0x00000012
+                    [SAVED RAW] /workspace/bios_analysis/extracted/Logo.bmp_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x0004833A
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00048336
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x00064004
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00064000
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x0000BAC2
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x0000BABE
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x0006371A
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00063716
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x0006371A
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00063716
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x0006371A
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00063716
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x0006371A
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00063716
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x00D68010
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+            [IFR FOUND] 117 potential IFR locations:
+              - EFI_IFR_FORM_SET at offset 0x0000578F, size 0x304F
+              - EFI_IFR_FORM_SET at offset 0x00065D16, size 0xD643
+              - EFI_IFR_FORM_SET at offset 0x000A0634, size 0x0102
+              - EFI_IFR_FORM_SET at offset 0x000A0B8E, size 0x5255
+              - EFI_IFR_FORM_SET at offset 0x000A1A6D, size 0xF602
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00000008
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00D68000
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+              [IFR FOUND] 117 potential IFR locations:
+                - EFI_IFR_FORM_SET at offset 0x00005767, size 0x304F
+                - EFI_IFR_FORM_SET at offset 0x00065CEE, size 0xD643
+                - EFI_IFR_FORM_SET at offset 0x000A060C, size 0x0102
+                - EFI_IFR_FORM_SET at offset 0x000A0B66, size 0x5255
+                - EFI_IFR_FORM_SET at offset 0x000A1A45, size 0xF602
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x0001E206
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x0001E1E0
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+                          [EXTRACTED PE32] /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+
+                        [TARGET] DxeCore - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x00000010
+                          [SAVED RAW] /workspace/bios_analysis/extracted/DxeCore_RAW.bin
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x0000000A
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                    [TARGET] CbsSetupDxeSSP - FirmwareFileSystemSection
+                      GUID: 8E38A88A-C267-4131-A8CD-C0BC80A24CB5
+                      Offset: 0x00000000, Size: 0x0000001E
+                      [SAVED RAW] /workspace/bios_analysis/extracted/CbsSetupDxeSSP_RAW.bin
+
+                    [TARGET] AmdPbsSetupDxe - FirmwareFileSystemSection
+                      GUID: BBB77CB9-762D-436C-AC40-8EE4901C3446
+                      Offset: 0x00000000, Size: 0x0000001E
+                      [SAVED RAW] /workspace/bios_analysis/extracted/AmdPbsSetupDxe_RAW.bin
+
+                  [TARGET]  - FirmwareFile
+                    GUID: 899407D7-99FE-43D8-9A21-79EC328CAC21
+                    Offset: 0x00000000, Size: 0x00072542
+                    [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                    [TARGET]  - FirmwareFileSystemSection
+                      GUID: 899407D7-99FE-43D8-9A21-79EC328CAC21
+                      Offset: 0x00000000, Size: 0x0000005A
+                      [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                    [TARGET]  - FirmwareFileSystemSection
+                      GUID: 899407D7-99FE-43D8-9A21-79EC328CAC21
+                      Offset: 0x00000000, Size: 0x000724C0
+                      [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+                      [EXTRACTED PE32] /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+
+                    [TARGET] Setup - FirmwareFileSystemSection
+                      GUID: 899407D7-99FE-43D8-9A21-79EC328CAC21
+                      Offset: 0x00000000, Size: 0x0000000C
+                      [SAVED RAW] /workspace/bios_analysis/extracted/Setup_RAW.bin
+
+                    [TARGET]  - FirmwareFileSystemSection
+                      GUID: 899407D7-99FE-43D8-9A21-79EC328CAC21
+                      Offset: 0x00000000, Size: 0x0000000A
+                      [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                    [TARGET] PciDynamicSetup - FirmwareFileSystemSection
+                      GUID: 2CE5604F-A982-4D2E-8FD0-D1600C2E1515
+                      Offset: 0x00000000, Size: 0x00000020
+                      [SAVED RAW] /workspace/bios_analysis/extracted/PciDynamicSetup_RAW.bin
+
+                    [TARGET] NetworkStackSetupScreen - FirmwareFileSystemSection
+                      GUID: 21891A9E-763E-4377-8841-8D5C90D88C51
+                      Offset: 0x00000000, Size: 0x00000030
+                      [SAVED RAW] /workspace/bios_analysis/extracted/NetworkStackSetupScreen_RAW.bin
+
+                    [TARGET] NvmeDynamicSetup - FirmwareFileSystemSection
+                      GUID: 668706B2-BCFC-4AD4-A185-75E79F3FE169
+                      Offset: 0x00000000, Size: 0x00000022
+                      [SAVED RAW] /workspace/bios_analysis/extracted/NvmeDynamicSetup_RAW.bin
+
+                    [TARGET] SetupItemLinkageDxe - FirmwareFileSystemSection
+                      GUID: 19AFD36B-F501-4446-9C9E-0457DB6E7888
+                      Offset: 0x00000000, Size: 0x00000028
+                      [SAVED RAW] /workspace/bios_analysis/extracted/SetupItemLinkageDxe_RAW.bin
+
+                    [TARGET] SetupDataChecksumErr - FirmwareFileSystemSection
+                      GUID: DB41E01B-A8B0-4E15-B619-4463975B357B
+                      Offset: 0x00000000, Size: 0x0000002A
+                      [SAVED RAW] /workspace/bios_analysis/extracted/SetupDataChecksumErr_RAW.bin
+
+                    [TARGET] SetupLoadDefaultDxe - FirmwareFileSystemSection
+                      GUID: B1EE7CB1-5D00-467F-9E60-24CD8341937A
+                      Offset: 0x00000000, Size: 0x00000028
+                      [SAVED RAW] /workspace/bios_analysis/extracted/SetupLoadDefaultDxe_RAW.bin
+
+                    [TARGET] SetupLoadDefault - FirmwareFileSystemSection
+                      GUID: A46D9EE7-C6B4-42C0-8378-6E4BDC50406B
+                      Offset: 0x00000000, Size: 0x00000022
+                      [SAVED RAW] /workspace/bios_analysis/extracted/SetupLoadDefault_RAW.bin
+
+                    [TARGET] SetupItemLinkageSmm - FirmwareFileSystemSection
+                      GUID: AE73630A-022D-4884-A696-F728CBF53AEF
+                      Offset: 0x00000000, Size: 0x00000028
+                      [SAVED RAW] /workspace/bios_analysis/extracted/SetupItemLinkageSmm_RAW.bin
+
+                    [TARGET] AodSetupDxe - FirmwareFileSystemSection
+                      GUID: A2702A3C-62FD-402D-B8C3-1D18F6C6FDE5
+                      Offset: 0x00000000, Size: 0x00000018
+                      [SAVED RAW] /workspace/bios_analysis/extracted/AodSetupDxe_RAW.bin
+
+                    [TARGET] TcgPlatformSetupPolicy - FirmwareFileSystemSection
+                      GUID: 196CA3D8-9A5A-4735-B328-8FFC1D93D188
+                      Offset: 0x00000000, Size: 0x0000002E
+                      [SAVED RAW] /workspace/bios_analysis/extracted/TcgPlatformSetupPolicy_RAW.bin
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x000007A3
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x0000079F
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x000368D1
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+                        [IFR FOUND] 3 potential IFR locations:
+                          - EFI_IFR_FORM_SET at offset 0x00001DF0, size 0x695E
+                          - EFI_IFR_FORM_SET at offset 0x0000BF28, size 0x7006
+                          - EFI_IFR_FORM_SET at offset 0x00033FF5, size 0x1010
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x000368CD
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+                          [IFR FOUND] 3 potential IFR locations:
+                            - EFI_IFR_FORM_SET at offset 0x00001DD4, size 0x695E
+                            - EFI_IFR_FORM_SET at offset 0x0000BF0C, size 0x7006
+                            - EFI_IFR_FORM_SET at offset 0x00033FD9, size 0x1010
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x00000B28
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x00000B24
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x00000B07
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x00000B03
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x00001384
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+                        [IFR FOUND] 1 potential IFR locations:
+                          - EFI_IFR_FORM_SET at offset 0x00000CCE, size 0x7F56
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x00001380
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+                          [IFR FOUND] 1 potential IFR locations:
+                            - EFI_IFR_FORM_SET at offset 0x00000CB2, size 0x7F56
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x000052B6
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x000052B2
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x0000034C
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x00000348
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x000002F4
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x000002F0
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x0000FC54
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x0000FC50
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                  [TARGET]  - FirmwareFile
+                    GUID: B1DA0ADF-4F77-4070-A88E-BFFE1C60529A
+                    Offset: 0x00000000, Size: 0x0003D6BD
+                    [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+                    [IFR FOUND] 9 potential IFR locations:
+                      - EFI_IFR_FORM_SET at offset 0x000022C2, size 0xB8A3
+                      - EFI_IFR_FORM_SET at offset 0x00011350, size 0xCC4D
+                      - EFI_IFR_FORM_SET at offset 0x00014EE6, size 0x15E6
+                      - EFI_IFR_FORM_SET at offset 0x00016D37, size 0x3147
+                      - EFI_IFR_FORM_SET at offset 0x000229FB, size 0xC0FF
+
+                    [TARGET]  - FirmwareFileSystemSection
+                      GUID: B1DA0ADF-4F77-4070-A88E-BFFE1C60529A
+                      Offset: 0x00000000, Size: 0x0003D6B9
+                      [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+                      [IFR FOUND] 9 potential IFR locations:
+                        - EFI_IFR_FORM_SET at offset 0x000022BE, size 0xB8A3
+                        - EFI_IFR_FORM_SET at offset 0x0001134C, size 0xCC4D
+                        - EFI_IFR_FORM_SET at offset 0x00014EE2, size 0x15E6
+                        - EFI_IFR_FORM_SET at offset 0x00016D33, size 0x3147
+                        - EFI_IFR_FORM_SET at offset 0x000229F7, size 0xC0FF
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x00098796
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+                        [IFR FOUND] 1 potential IFR locations:
+                          - EFI_IFR_FORM_SET at offset 0x00074F9F, size 0x1B75
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x00098780
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+                          [EXTRACTED PE32] /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+                          [IFR FOUND] 1 potential IFR locations:
+                            - EFI_IFR_FORM_SET at offset 0x00074F83, size 0x1B75
+
+                        [TARGET] AMITSE - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x0000000E
+                          [SAVED RAW] /workspace/bios_analysis/extracted/AMITSE_RAW.bin
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x00024788
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x00024760
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                        [TARGET] AMITSESetupData - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x00000020
+                          [SAVED RAW] /workspace/bios_analysis/extracted/AMITSESetupData_RAW.bin
+
+                      [TARGET]  - GuidDefinedSection
+                        GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                        Offset: 0x00000018, Size: 0x00080744
+                        [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+                        [IFR FOUND] 1 potential IFR locations:
+                          - EFI_IFR_FORM_SET at offset 0x00038931, size 0x0C0C
+
+                        [TARGET]  - FirmwareFileSystemSection
+                          GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                          Offset: 0x00000000, Size: 0x00080740
+                          [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+                          [IFR FOUND] 1 potential IFR locations:
+                            - EFI_IFR_FORM_SET at offset 0x00038915, size 0x0C0C
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x00016010
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00000008
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00016000
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x0000A816
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x0000A7FA
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+            [TARGET] Logo.bmp - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00000012
+              [SAVED RAW] /workspace/bios_analysis/extracted/Logo.bmp_RAW.bin
+
+                [TARGET] TcgPlatformSetupPeiPolicy - FirmwareFileSystemSection
+                  GUID: 0FE9DA53-043D-4265-A94D-FD77FEDE2EB4
+                  Offset: 0x00000000, Size: 0x00000034
+                  [SAVED RAW] /workspace/bios_analysis/extracted/TcgPlatformSetupPeiPolicy_RAW.bin
+
+                [TARGET] SetupCheckSumPei - FirmwareFileSystemSection
+                  GUID: 76D1059D-2E22-40EF-A31F-C49DBBC0DBCE
+                  Offset: 0x00000000, Size: 0x00000022
+                  [SAVED RAW] /workspace/bios_analysis/extracted/SetupCheckSumPei_RAW.bin
+
+                  [TARGET]  - GuidDefinedSection
+                    GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                    Offset: 0x00000018, Size: 0x0000F4CA
+                    [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+                    [TARGET]  - FirmwareFileSystemSection
+                      GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                      Offset: 0x00000000, Size: 0x0000F4A0
+                      [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+                      [EXTRACTED PE32] /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+
+                    [TARGET] CryptoPPI - FirmwareFileSystemSection
+                      GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                      Offset: 0x00000000, Size: 0x00000014
+                      [SAVED RAW] /workspace/bios_analysis/extracted/CryptoPPI_RAW.bin
+
+                    [TARGET]  - FirmwareFileSystemSection
+                      GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                      Offset: 0x00000000, Size: 0x0000000A
+                      [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                  [TARGET]  - GuidDefinedSection
+                    GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                    Offset: 0x00000018, Size: 0x000091A6
+                    [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+                    [TARGET]  - FirmwareFileSystemSection
+                      GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                      Offset: 0x00000000, Size: 0x00009180
+                      [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+                      [EXTRACTED PE32] /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+
+                    [TARGET] UsbPei - FirmwareFileSystemSection
+                      GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                      Offset: 0x00000000, Size: 0x0000000E
+                      [SAVED RAW] /workspace/bios_analysis/extracted/UsbPei_RAW.bin
+
+                    [TARGET]  - FirmwareFileSystemSection
+                      GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                      Offset: 0x00000000, Size: 0x0000000A
+                      [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                  [TARGET]  - GuidDefinedSection
+                    GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                    Offset: 0x00000018, Size: 0x0000190A
+                    [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+                    [TARGET]  - FirmwareFileSystemSection
+                      GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                      Offset: 0x00000000, Size: 0x000018E0
+                      [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+                      [EXTRACTED PE32] /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+
+                    [TARGET] Recovery - FirmwareFileSystemSection
+                      GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                      Offset: 0x00000000, Size: 0x00000012
+                      [SAVED RAW] /workspace/bios_analysis/extracted/Recovery_RAW.bin
+
+                    [TARGET]  - FirmwareFileSystemSection
+                      GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                      Offset: 0x00000000, Size: 0x0000000A
+                      [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                  [TARGET]  - GuidDefinedSection
+                    GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                    Offset: 0x00000018, Size: 0x00004A2E
+                    [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+                    [TARGET]  - FirmwareFileSystemSection
+                      GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                      Offset: 0x00000000, Size: 0x00004A00
+                      [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+                      [EXTRACTED PE32] /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+
+                    [TARGET] FsRecovery - FirmwareFileSystemSection
+                      GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                      Offset: 0x00000000, Size: 0x00000016
+                      [SAVED RAW] /workspace/bios_analysis/extracted/FsRecovery_RAW.bin
+
+                    [TARGET]  - FirmwareFileSystemSection
+                      GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                      Offset: 0x00000000, Size: 0x0000000A
+                      [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                  [TARGET]  - GuidDefinedSection
+                    GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                    Offset: 0x00000018, Size: 0x0000160E
+                    [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+                    [TARGET]  - FirmwareFileSystemSection
+                      GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                      Offset: 0x00000000, Size: 0x000015E0
+                      [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+                      [EXTRACTED PE32] /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+
+                    [TARGET] IdeRecovery - FirmwareFileSystemSection
+                      GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                      Offset: 0x00000000, Size: 0x00000018
+                      [SAVED RAW] /workspace/bios_analysis/extracted/IdeRecovery_RAW.bin
+
+                    [TARGET]  - FirmwareFileSystemSection
+                      GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                      Offset: 0x00000000, Size: 0x0000000A
+                      [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+                  [TARGET]  - GuidDefinedSection
+                    GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                    Offset: 0x00000018, Size: 0x0000035E
+                    [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+                    [TARGET]  - FirmwareFileSystemSection
+                      GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                      Offset: 0x00000000, Size: 0x00000320
+                      [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+                      [EXTRACTED PE32] /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+
+                    [TARGET] PeiRamBootCacheRdy - FirmwareFileSystemSection
+                      GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                      Offset: 0x00000000, Size: 0x00000026
+                      [SAVED RAW] /workspace/bios_analysis/extracted/PeiRamBootCacheRdy_RAW.bin
+
+                    [TARGET]  - FirmwareFileSystemSection
+                      GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+                      Offset: 0x00000000, Size: 0x0000000A
+                      [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+        [TARGET] TcgPlatformSetupPeiPolicy - FirmwareFileSystemSection
+          GUID: 0FE9DA53-043D-4265-A94D-FD77FEDE2EB4
+          Offset: 0x00000000, Size: 0x00000034
+          [SAVED RAW] /workspace/bios_analysis/extracted/TcgPlatformSetupPeiPolicy_RAW.bin
+
+        [TARGET] SetupCheckSumPei - FirmwareFileSystemSection
+          GUID: 76D1059D-2E22-40EF-A31F-C49DBBC0DBCE
+          Offset: 0x00000000, Size: 0x00000022
+          [SAVED RAW] /workspace/bios_analysis/extracted/SetupCheckSumPei_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x0000F4CA
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x0000F4A0
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+              [EXTRACTED PE32] /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+
+            [TARGET] CryptoPPI - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00000014
+              [SAVED RAW] /workspace/bios_analysis/extracted/CryptoPPI_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x0000000A
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x000091A6
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00009180
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+              [EXTRACTED PE32] /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+
+            [TARGET] UsbPei - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x0000000E
+              [SAVED RAW] /workspace/bios_analysis/extracted/UsbPei_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x0000000A
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x0000190A
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x000018E0
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+              [EXTRACTED PE32] /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+
+            [TARGET] Recovery - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00000012
+              [SAVED RAW] /workspace/bios_analysis/extracted/Recovery_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x0000000A
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x00004A2E
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00004A00
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+              [EXTRACTED PE32] /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+
+            [TARGET] FsRecovery - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00000016
+              [SAVED RAW] /workspace/bios_analysis/extracted/FsRecovery_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x0000000A
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x0000160E
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x000015E0
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+              [EXTRACTED PE32] /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+
+            [TARGET] IdeRecovery - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00000018
+              [SAVED RAW] /workspace/bios_analysis/extracted/IdeRecovery_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x0000000A
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+          [TARGET]  - GuidDefinedSection
+            GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+            Offset: 0x00000018, Size: 0x0000035E
+            [SAVED RAW] /workspace/bios_analysis/extracted/module_00000018_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00000320
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+              [EXTRACTED PE32] /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+
+            [TARGET] PeiRamBootCacheRdy - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x00000026
+              [SAVED RAW] /workspace/bios_analysis/extracted/PeiRamBootCacheRdy_RAW.bin
+
+            [TARGET]  - FirmwareFileSystemSection
+              GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+              Offset: 0x00000000, Size: 0x0000000A
+              [SAVED RAW] /workspace/bios_analysis/extracted/module_00000000_RAW.bin
+
+[Raw IFR search across entire ROM...]
+Found 485 potential IFR locations in raw ROM
+
+================================================================================
+EXTRACTION SUMMARY
+================================================================================
+
+Setup modules extracted: 238
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 43030 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 43002 bytes
+  - Logo.bmp (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 18 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 295738 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 295734 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 409604 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 409600 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 47810 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 47806 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 407322 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 407318 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 407322 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 407318 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 407322 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 407318 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 407322 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 407318 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 15507472 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 8 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 15507456 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 123398 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 123360 bytes
+  - DxeCore (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 16 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 10 bytes
+  - CbsSetupDxeZP (A5E369C8-ABF9-4B43-B212-FF1BFD35666D)
+    Offset: 0x00000000, Size: 28 bytes
+  - CbsSetupDxeRV (3E7788CA-2BFC-4FCE-8122-5176CA492D9F)
+    Offset: 0x00000000, Size: 28 bytes
+  - AmdPbsSetupDxe (BBB77CB9-762D-436C-AC40-8EE4901C3446)
+    Offset: 0x00000000, Size: 30 bytes
+  -  (899407D7-99FE-43D8-9A21-79EC328CAC21)
+    Offset: 0x00000000, Size: 470690 bytes
+  -  (899407D7-99FE-43D8-9A21-79EC328CAC21)
+    Offset: 0x00000000, Size: 90 bytes
+  -  (899407D7-99FE-43D8-9A21-79EC328CAC21)
+    Offset: 0x00000000, Size: 470560 bytes
+  - Setup (899407D7-99FE-43D8-9A21-79EC328CAC21)
+    Offset: 0x00000000, Size: 12 bytes
+  -  (899407D7-99FE-43D8-9A21-79EC328CAC21)
+    Offset: 0x00000000, Size: 10 bytes
+  - PciDynamicSetup (2CE5604F-A982-4D2E-8FD0-D1600C2E1515)
+    Offset: 0x00000000, Size: 32 bytes
+  - NetworkStackSetupScreen (21891A9E-763E-4377-8841-8D5C90D88C51)
+    Offset: 0x00000000, Size: 48 bytes
+  - NvmeDynamicSetup (668706B2-BCFC-4AD4-A185-75E79F3FE169)
+    Offset: 0x00000000, Size: 34 bytes
+  - SetupItemLinkageDxe (19AFD36B-F501-4446-9C9E-0457DB6E7888)
+    Offset: 0x00000000, Size: 40 bytes
+  - SetupDataChecksumErr (DB41E01B-A8B0-4E15-B619-4463975B357B)
+    Offset: 0x00000000, Size: 42 bytes
+  - SetupLoadDefaultDxe (B1EE7CB1-5D00-467F-9E60-24CD8341937A)
+    Offset: 0x00000000, Size: 40 bytes
+  - SetupLoadDefault (A46D9EE7-C6B4-42C0-8378-6E4BDC50406B)
+    Offset: 0x00000000, Size: 34 bytes
+  - SetupItemLinkageSmm (AE73630A-022D-4884-A696-F728CBF53AEF)
+    Offset: 0x00000000, Size: 40 bytes
+  - AodSetupDxe (07D279A1-34E4-4168-993B-178B3ACC68EF)
+    Offset: 0x00000000, Size: 24 bytes
+  - TcgPlatformSetupPolicy (196CA3D8-9A5A-4735-B328-8FFC1D93D188)
+    Offset: 0x00000000, Size: 46 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 1955 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 1951 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 223441 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 223437 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 2856 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 2852 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 2823 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 2819 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 4996 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 4992 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 21174 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 21170 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 844 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 840 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 756 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 752 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 64596 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 64592 bytes
+  -  (B1DA0ADF-4F77-4070-A88E-BFFE1C60529A)
+    Offset: 0x00000000, Size: 251743 bytes
+  -  (B1DA0ADF-4F77-4070-A88E-BFFE1C60529A)
+    Offset: 0x00000000, Size: 251739 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 625206 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 625184 bytes
+  - AMITSE (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 14 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 149384 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 149344 bytes
+  - AMITSESetupData (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 32 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 526148 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 526144 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 539008 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 65040 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 106480 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 65552 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 65552 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 54288 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 54288 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 54288 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 73488 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 90128 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 8 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 90112 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 43030 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 43002 bytes
+  - Logo.bmp (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 18 bytes
+  - TcgPlatformSetupPeiPolicy (0FE9DA53-043D-4265-A94D-FD77FEDE2EB4)
+    Offset: 0x00000000, Size: 52 bytes
+  - SetupCheckSumPei (76D1059D-2E22-40EF-A31F-C49DBBC0DBCE)
+    Offset: 0x00000000, Size: 34 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 62666 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 62624 bytes
+  - CryptoPPI (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 20 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 10 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 37286 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 37248 bytes
+  - UsbPei (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 14 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 10 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 6410 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 6368 bytes
+  - Recovery (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 18 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 10 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 18990 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 18944 bytes
+  - FsRecovery (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 22 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 10 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 5646 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 5600 bytes
+  - IdeRecovery (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 24 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 10 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 862 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 800 bytes
+  - PeiRamBootCacheRdy (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 38 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 10 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 43030 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 43002 bytes
+  - Logo.bmp (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 18 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 295738 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 295734 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 409604 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 409600 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 47810 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 47806 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 407322 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 407318 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 407322 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 407318 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 407322 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 407318 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 407322 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 407318 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 14057488 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 8 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 14057472 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 123398 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 123360 bytes
+  - DxeCore (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 16 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 10 bytes
+  - CbsSetupDxeSSP (8E38A88A-C267-4131-A8CD-C0BC80A24CB5)
+    Offset: 0x00000000, Size: 30 bytes
+  - AmdPbsSetupDxe (BBB77CB9-762D-436C-AC40-8EE4901C3446)
+    Offset: 0x00000000, Size: 30 bytes
+  -  (899407D7-99FE-43D8-9A21-79EC328CAC21)
+    Offset: 0x00000000, Size: 468290 bytes
+  -  (899407D7-99FE-43D8-9A21-79EC328CAC21)
+    Offset: 0x00000000, Size: 90 bytes
+  -  (899407D7-99FE-43D8-9A21-79EC328CAC21)
+    Offset: 0x00000000, Size: 468160 bytes
+  - Setup (899407D7-99FE-43D8-9A21-79EC328CAC21)
+    Offset: 0x00000000, Size: 12 bytes
+  -  (899407D7-99FE-43D8-9A21-79EC328CAC21)
+    Offset: 0x00000000, Size: 10 bytes
+  - PciDynamicSetup (2CE5604F-A982-4D2E-8FD0-D1600C2E1515)
+    Offset: 0x00000000, Size: 32 bytes
+  - NetworkStackSetupScreen (21891A9E-763E-4377-8841-8D5C90D88C51)
+    Offset: 0x00000000, Size: 48 bytes
+  - NvmeDynamicSetup (668706B2-BCFC-4AD4-A185-75E79F3FE169)
+    Offset: 0x00000000, Size: 34 bytes
+  - SetupItemLinkageDxe (19AFD36B-F501-4446-9C9E-0457DB6E7888)
+    Offset: 0x00000000, Size: 40 bytes
+  - SetupDataChecksumErr (DB41E01B-A8B0-4E15-B619-4463975B357B)
+    Offset: 0x00000000, Size: 42 bytes
+  - SetupLoadDefaultDxe (B1EE7CB1-5D00-467F-9E60-24CD8341937A)
+    Offset: 0x00000000, Size: 40 bytes
+  - SetupLoadDefault (A46D9EE7-C6B4-42C0-8378-6E4BDC50406B)
+    Offset: 0x00000000, Size: 34 bytes
+  - SetupItemLinkageSmm (AE73630A-022D-4884-A696-F728CBF53AEF)
+    Offset: 0x00000000, Size: 40 bytes
+  - AodSetupDxe (A2702A3C-62FD-402D-B8C3-1D18F6C6FDE5)
+    Offset: 0x00000000, Size: 24 bytes
+  - TcgPlatformSetupPolicy (196CA3D8-9A5A-4735-B328-8FFC1D93D188)
+    Offset: 0x00000000, Size: 46 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 1955 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 1951 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 223441 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 223437 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 2856 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 2852 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 2823 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 2819 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 4996 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 4992 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 21174 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 21170 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 844 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 840 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 756 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 752 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 64596 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 64592 bytes
+  -  (B1DA0ADF-4F77-4070-A88E-BFFE1C60529A)
+    Offset: 0x00000000, Size: 251581 bytes
+  -  (B1DA0ADF-4F77-4070-A88E-BFFE1C60529A)
+    Offset: 0x00000000, Size: 251577 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 624534 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 624512 bytes
+  - AMITSE (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 14 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 149384 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 149344 bytes
+  - AMITSESetupData (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 32 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 526148 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 526144 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 90128 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 8 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 90112 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 43030 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 43002 bytes
+  - Logo.bmp (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 18 bytes
+  - TcgPlatformSetupPeiPolicy (0FE9DA53-043D-4265-A94D-FD77FEDE2EB4)
+    Offset: 0x00000000, Size: 52 bytes
+  - SetupCheckSumPei (76D1059D-2E22-40EF-A31F-C49DBBC0DBCE)
+    Offset: 0x00000000, Size: 34 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 62666 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 62624 bytes
+  - CryptoPPI (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 20 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 10 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 37286 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 37248 bytes
+  - UsbPei (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 14 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 10 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 6410 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 6368 bytes
+  - Recovery (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 18 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 10 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 18990 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 18944 bytes
+  - FsRecovery (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 22 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 10 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 5646 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 5600 bytes
+  - IdeRecovery (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 24 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 10 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 862 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 800 bytes
+  - PeiRamBootCacheRdy (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 38 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 10 bytes
+  - TcgPlatformSetupPeiPolicy (0FE9DA53-043D-4265-A94D-FD77FEDE2EB4)
+    Offset: 0x00000000, Size: 52 bytes
+  - SetupCheckSumPei (76D1059D-2E22-40EF-A31F-C49DBBC0DBCE)
+    Offset: 0x00000000, Size: 34 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 62666 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 62624 bytes
+  - CryptoPPI (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 20 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 10 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 37286 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 37248 bytes
+  - UsbPei (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 14 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 10 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 6410 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 6368 bytes
+  - Recovery (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 18 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 10 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 18990 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 18944 bytes
+  - FsRecovery (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 22 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 10 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 5646 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 5600 bytes
+  - IdeRecovery (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 24 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 10 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000018, Size: 862 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 800 bytes
+  - PeiRamBootCacheRdy (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 38 bytes
+  -  (EE4E5898-3914-4259-9D6E-DC7BD79403CF)
+    Offset: 0x00000000, Size: 10 bytes
+
+PE32 images extracted: 24
+  - /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+  - /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+  - /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+  - /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+  - /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+  - /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+  - /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+  - /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+  - /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+  - /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+  - /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+  - /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+  - /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+  - /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+  - /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+  - /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+  - /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+  - /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+  - /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+  - /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+  - /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+  - /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+  - /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+  - /workspace/bios_analysis/extracted/module_00000000_PE32.efi
+
+IFR locations found: 74
+  - : EFI_IFR_FORM_SET at 0x0000578F
+  - : EFI_IFR_FORM_SET at 0x00066416
+  - : EFI_IFR_FORM_SET at 0x0008FEEE
+  - : EFI_IFR_FORM_SET at 0x000D2F6D
+  - : EFI_IFR_FORM_SET at 0x000D36C6
+  - : EFI_IFR_FORM_SET at 0x00005767
+  - : EFI_IFR_FORM_SET at 0x000663EE
+  - : EFI_IFR_FORM_SET at 0x0008FEC6
+  - : EFI_IFR_FORM_SET at 0x000D2F45
+  - : EFI_IFR_FORM_SET at 0x000D369E
+  - : EFI_IFR_FORM_SET at 0x00001DF0
+  - : EFI_IFR_FORM_SET at 0x0000BF28
+  - : EFI_IFR_FORM_SET at 0x00033FF5
+  - : EFI_IFR_FORM_SET at 0x00001DD4
+  - : EFI_IFR_FORM_SET at 0x0000BF0C
+  - : EFI_IFR_FORM_SET at 0x00033FD9
+  - : EFI_IFR_FORM_SET at 0x00000CCE
+  - : EFI_IFR_FORM_SET at 0x00000CB2
+  - : EFI_IFR_FORM_SET at 0x0000110F
+  - : EFI_IFR_FORM_SET at 0x00004CD2
+  - : EFI_IFR_FORM_SET at 0x000082C4
+  - : EFI_IFR_FORM_SET at 0x0000CBAF
+  - : EFI_IFR_FORM_SET at 0x0000DC57
+  - : EFI_IFR_FORM_SET at 0x0000110B
+  - : EFI_IFR_FORM_SET at 0x00004CCE
+  - : EFI_IFR_FORM_SET at 0x000082C0
+  - : EFI_IFR_FORM_SET at 0x0000CBAB
+  - : EFI_IFR_FORM_SET at 0x0000DC53
+  - : EFI_IFR_FORM_SET at 0x000751FF
+  - : EFI_IFR_FORM_SET at 0x000751E3
+  - : EFI_IFR_FORM_SET at 0x00038931
+  - : EFI_IFR_FORM_SET at 0x00038915
+  - : EFI_IFR_FORM_SET at 0x0001A5B6
+  - : EFI_IFR_FORM_SET at 0x000287BA
+  - : EFI_IFR_FORM_SET at 0x000367DE
+  - : EFI_IFR_FORM_SET at 0x000467F2
+  - : EFI_IFR_FORM_SET at 0x00082332
+  - : EFI_IFR_FORM_SET at 0x0000A786
+  - : EFI_IFR_FORM_SET at 0x0001898A
+  - : EFI_IFR_FORM_SET at 0x0000C9BA
+  - : EFI_IFR_FORM_SET at 0x0000C9BA
+  - : EFI_IFR_FORM_SET at 0x000108AA
+  - : EFI_IFR_FORM_SET at 0x0000578F
+  - : EFI_IFR_FORM_SET at 0x00065D16
+  - : EFI_IFR_FORM_SET at 0x000A0634
+  - : EFI_IFR_FORM_SET at 0x000A0B8E
+  - : EFI_IFR_FORM_SET at 0x000A1A6D
+  - : EFI_IFR_FORM_SET at 0x00005767
+  - : EFI_IFR_FORM_SET at 0x00065CEE
+  - : EFI_IFR_FORM_SET at 0x000A060C
+  - : EFI_IFR_FORM_SET at 0x000A0B66
+  - : EFI_IFR_FORM_SET at 0x000A1A45
+  - : EFI_IFR_FORM_SET at 0x00001DF0
+  - : EFI_IFR_FORM_SET at 0x0000BF28
+  - : EFI_IFR_FORM_SET at 0x00033FF5
+  - : EFI_IFR_FORM_SET at 0x00001DD4
+  - : EFI_IFR_FORM_SET at 0x0000BF0C
+  - : EFI_IFR_FORM_SET at 0x00033FD9
+  - : EFI_IFR_FORM_SET at 0x00000CCE
+  - : EFI_IFR_FORM_SET at 0x00000CB2
+  - : EFI_IFR_FORM_SET at 0x000022C2
+  - : EFI_IFR_FORM_SET at 0x00011350
+  - : EFI_IFR_FORM_SET at 0x00014EE6
+  - : EFI_IFR_FORM_SET at 0x00016D37
+  - : EFI_IFR_FORM_SET at 0x000229FB
+  - : EFI_IFR_FORM_SET at 0x000022BE
+  - : EFI_IFR_FORM_SET at 0x0001134C
+  - : EFI_IFR_FORM_SET at 0x00014EE2
+  - : EFI_IFR_FORM_SET at 0x00016D33
+  - : EFI_IFR_FORM_SET at 0x000229F7
+  - : EFI_IFR_FORM_SET at 0x00074F9F
+  - : EFI_IFR_FORM_SET at 0x00074F83
+  - : EFI_IFR_FORM_SET at 0x00038931
+  - : EFI_IFR_FORM_SET at 0x00038915
+
+All extracted files saved to: /workspace/bios_analysis/extracted
