@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E55604h
+Header address: FEE55604h
+Data address: FEE55608h
+Offset: 1F04h
+Full size: 14h (20)
+Header size: 4h (4)
+Body size: 10h (16)
+Type: 15h
+Text: CmosPei

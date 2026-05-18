@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D32430h
+Header address: FFD32430h
+Data address: FFD32434h
+Offset: 1518h
+Full size: 2Eh (46)
+Header size: 4h (4)
+Body size: 2Ah (42)
+Type: 15h
+Text: AmdMemoryHobInfoPeim

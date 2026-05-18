@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdNbioSmuV8Pei
+Base: DD1EC8h
+Header address: FEDD1EC8h
+Data address: FEDD1EE0h
+Offset: D1EC8h
+Full size: E5C6h (58822)
+Header size: 18h (24)
+Body size: E5AEh (58798)
+File GUID: B09FBA70-839F-4079-920B-81D8964361F6
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: D5h, valid
+Data checksum: AAh, valid

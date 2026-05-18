@@ -1,0 +1,20 @@
+Type: Section
+Subtype: Raw
+Base: 1412158h
+Header address: FF412158h
+Data address: FF41215Ch
+Offset: 18h
+Full size: 777Ch (30588)
+Header size: 4h (4)
+Body size: 7778h (30584)
+Type: 19h
+DOS signature: 5A4Dh
+PE signature: 00004550h
+Machine type: x86
+Number of sections: 6
+Characteristics: 0102h
+Optional header signature: 010Bh
+Subsystem: 0001h
+Address of entry point: 7000h
+Base of code: 1000h
+Image base: 400000h

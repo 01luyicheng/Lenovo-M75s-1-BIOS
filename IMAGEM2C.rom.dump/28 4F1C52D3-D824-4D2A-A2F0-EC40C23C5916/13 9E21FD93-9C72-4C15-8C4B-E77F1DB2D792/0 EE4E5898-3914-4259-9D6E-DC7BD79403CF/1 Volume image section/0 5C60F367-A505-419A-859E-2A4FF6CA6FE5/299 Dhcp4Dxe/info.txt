@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: Dhcp4Dxe
+Offset: 8F3A78h
+Full size: 80A2h (32930)
+Header size: 18h (24)
+Body size: 808Ah (32906)
+File GUID: 94734718-0BBC-47FB-96A5-EE7A5AE6A2AD
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 36h, valid
+Data checksum: AAh, valid

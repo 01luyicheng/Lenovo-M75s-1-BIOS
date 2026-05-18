@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E1D514h
+Header address: FEE1D514h
+Data address: FEE1D518h
+Offset: 894h
+Full size: 1Ah (26)
+Header size: 4h (4)
+Body size: 16h (22)
+Type: 15h
+Text: CrbPciePei

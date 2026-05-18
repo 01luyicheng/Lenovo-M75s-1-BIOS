@@ -1,0 +1,12 @@
+Type: File
+Subtype: Freeform
+Offset: CAD190h
+Full size: CCAh (3274)
+Header size: 18h (24)
+Body size: CB2h (3250)
+File GUID: 218A1A21-AE31-49D4-91D6-B3997326F7E3
+Type: 02h
+Attributes: 00h
+State: F8h
+Header checksum: 20h, valid
+Data checksum: AAh, valid

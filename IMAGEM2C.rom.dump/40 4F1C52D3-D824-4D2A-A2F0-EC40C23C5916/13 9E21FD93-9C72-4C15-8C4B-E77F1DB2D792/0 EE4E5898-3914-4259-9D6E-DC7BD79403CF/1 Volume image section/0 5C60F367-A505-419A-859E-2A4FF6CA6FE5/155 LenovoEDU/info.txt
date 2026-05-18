@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: LenovoEDU
+Offset: 58F640h
+Full size: 82Ah (2090)
+Header size: 18h (24)
+Body size: 812h (2066)
+File GUID: 47F229F9-C316-41A3-9F39-69EE22A4E8A8
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 2Ah, valid
+Data checksum: AAh, valid

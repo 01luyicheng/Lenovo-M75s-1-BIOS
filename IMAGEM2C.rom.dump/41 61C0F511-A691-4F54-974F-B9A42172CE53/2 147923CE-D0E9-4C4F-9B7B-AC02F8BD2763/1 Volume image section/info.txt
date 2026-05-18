@@ -1,0 +1,10 @@
+Type: Section
+Subtype: Volume image
+Base: 1D01FFCh
+Header address: FFD01FFCh
+Data address: FFD02000h
+Offset: 24h
+Full size: 2FE004h (3137540)
+Header size: 4h (4)
+Body size: 2FE000h (3137536)
+Type: 17h

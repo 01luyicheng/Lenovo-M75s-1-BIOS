@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: D117B8h
+Header address: FED117B8h
+Data address: FED117BCh
+Offset: B28h
+Full size: 18h (24)
+Header size: 4h (4)
+Body size: 14h (20)
+Type: 15h
+Text: MemDetect

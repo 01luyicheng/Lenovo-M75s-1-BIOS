@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D61344h
+Header address: FFD61344h
+Data address: FFD61348h
+Offset: 6CD4h
+Full size: 24h (36)
+Header size: 4h (4)
+Body size: 20h (32)
+Type: 15h
+Text: AmdSocAm4MtsPei

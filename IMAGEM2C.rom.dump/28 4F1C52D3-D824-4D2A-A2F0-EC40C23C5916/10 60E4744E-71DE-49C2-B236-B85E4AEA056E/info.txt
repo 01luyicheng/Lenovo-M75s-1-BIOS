@@ -1,0 +1,15 @@
+Type: File
+Subtype: Freeform
+Base: 704738h
+Header address: FE704738h
+Data address: FE704750h
+Offset: 35738h
+Full size: 1DCFh (7631)
+Header size: 18h (24)
+Body size: 1DB7h (7607)
+File GUID: 60E4744E-71DE-49C2-B236-B85E4AEA056E
+Type: 02h
+Attributes: 00h
+State: F8h
+Header checksum: 0Dh, valid
+Data checksum: AAh, valid

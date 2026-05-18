@@ -1,0 +1,15 @@
+Type: File
+Subtype: Pad
+Base: 1DB8CC8h
+Header address: FFDB8CC8h
+Data address: FFDB8CE0h
+Offset: B6CC8h
+Full size: 244060h (2375776)
+Header size: 18h (24)
+Body size: 244048h (2375752)
+File GUID: FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF
+Type: F0h
+Attributes: 00h
+State: F8h
+Header checksum: 5Ch, valid
+Data checksum: AAh, valid

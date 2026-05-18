@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SetupLoadDefaultDxe
+Offset: 5A9D48h
+Full size: 6AEh (1710)
+Header size: 18h (24)
+Body size: 696h (1686)
+File GUID: B1EE7CB1-5D00-467F-9E60-24CD8341937A
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 97h, valid
+Data checksum: AAh, valid

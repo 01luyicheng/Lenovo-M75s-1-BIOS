@@ -1,0 +1,7 @@
+Type: Section
+Subtype: Volume image
+Offset: 24h
+Full size: ECA004h (15507460)
+Header size: 4h (4)
+Body size: ECA000h (15507456)
+Type: 17h

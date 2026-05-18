@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: MiscFunctionPortingPpi
+Base: 1DB7BC0h
+Header address: FFDB7BC0h
+Data address: FFDB7BD8h
+Offset: B5BC0h
+Full size: 496h (1174)
+Header size: 18h (24)
+Body size: 47Eh (1150)
+File GUID: C81C25C0-533B-48DF-93E5-B87807901CF6
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 91h, valid
+Data checksum: AAh, valid

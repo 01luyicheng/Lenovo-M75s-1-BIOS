@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: EzTpmUpdStTpmFwUpdDrv
+Offset: 3AC618h
+Full size: 59132h (364850)
+Header size: 18h (24)
+Body size: 5911Ah (364826)
+File GUID: 07EDEF55-24EC-43F3-8E3E-8C0831E21E68
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: BAh, valid
+Data checksum: AAh, valid

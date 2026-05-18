@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: LEMEfiAtaPassThruProtocolHook
+Offset: 65C470h
+Full size: 6A2h (1698)
+Header size: 18h (24)
+Body size: 68Ah (1674)
+File GUID: FB7400EE-0E8F-4B9C-B677-CF3E0F27CF62
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: CFh, valid
+Data checksum: AAh, valid

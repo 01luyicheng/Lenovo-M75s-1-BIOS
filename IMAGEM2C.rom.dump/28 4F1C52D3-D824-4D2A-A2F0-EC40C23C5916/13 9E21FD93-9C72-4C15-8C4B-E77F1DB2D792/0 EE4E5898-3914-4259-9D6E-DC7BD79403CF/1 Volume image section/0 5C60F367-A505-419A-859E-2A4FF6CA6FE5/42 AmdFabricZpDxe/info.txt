@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdFabricZpDxe
+Offset: BF5B8h
+Full size: 8D7Ah (36218)
+Header size: 18h (24)
+Body size: 8D62h (36194)
+File GUID: 927AE345-BB7B-434F-8D29-71BE0D12AB2C
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 1Bh, valid
+Data checksum: AAh, valid

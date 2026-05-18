@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: PTSataController
+Offset: 93198h
+Full size: 1FCAh (8138)
+Header size: 18h (24)
+Body size: 1FB2h (8114)
+File GUID: 5229AE5A-AB8E-4693-A8FD-B7D7CBCE694C
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: FAh, valid
+Data checksum: AAh, valid

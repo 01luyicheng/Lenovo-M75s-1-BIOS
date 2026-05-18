@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: AmdCcxXvSmm
+Offset: 9A2DE0h
+Full size: 1886h (6278)
+Header size: 18h (24)
+Body size: 186Eh (6254)
+File GUID: 72748AA2-B149-4D14-8FF1-10F5836C8933
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: BBh, valid
+Data checksum: AAh, valid

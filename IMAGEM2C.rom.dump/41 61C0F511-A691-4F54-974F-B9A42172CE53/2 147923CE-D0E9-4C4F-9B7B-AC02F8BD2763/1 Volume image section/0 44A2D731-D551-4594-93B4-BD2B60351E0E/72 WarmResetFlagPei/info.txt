@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: WarmResetFlagPei
+Base: 1D871B0h
+Header address: FFD871B0h
+Data address: FFD871C8h
+Offset: 851B0h
+Full size: 2BAh (698)
+Header size: 18h (24)
+Body size: 2A2h (674)
+File GUID: BD809BFE-1E29-4CA0-AE2C-1C7C8E79A00C
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 10h, valid
+Data checksum: AAh, valid

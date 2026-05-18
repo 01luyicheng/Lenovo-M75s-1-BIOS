@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: CpuIo2Smm
+Offset: 8BC5B0h
+Full size: A4Ah (2634)
+Header size: 18h (24)
+Body size: A32h (2610)
+File GUID: A47EE2D8-F60E-42FD-8E58-7BD65EE4C29B
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: ADh, valid
+Data checksum: AAh, valid

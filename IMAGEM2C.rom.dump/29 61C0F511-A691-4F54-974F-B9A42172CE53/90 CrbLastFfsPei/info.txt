@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: CrbLastFfsPei
+Base: E1D540h
+Header address: FEE1D540h
+Data address: FEE1D558h
+Offset: 11D540h
+Full size: 50Ah (1290)
+Header size: 18h (24)
+Body size: 4F2h (1266)
+File GUID: 31A8CB18-5C76-4668-839D-9FE804B419BB
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 7Ch, valid
+Data checksum: AAh, valid

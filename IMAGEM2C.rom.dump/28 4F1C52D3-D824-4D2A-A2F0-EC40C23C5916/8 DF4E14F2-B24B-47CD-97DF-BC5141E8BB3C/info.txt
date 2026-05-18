@@ -1,0 +1,15 @@
+Type: File
+Subtype: Freeform
+Base: 702760h
+Header address: FE702760h
+Data address: FE702778h
+Offset: 33760h
+Full size: CDAh (3290)
+Header size: 18h (24)
+Body size: CC2h (3266)
+File GUID: DF4E14F2-B24B-47CD-97DF-BC5141E8BB3C
+Type: 02h
+Attributes: 00h
+State: F8h
+Header checksum: 31h, valid
+Data checksum: AAh, valid

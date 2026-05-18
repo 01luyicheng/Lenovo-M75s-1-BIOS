@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: PTDxeInit
+Offset: 95168h
+Full size: 97Ah (2426)
+Header size: 18h (24)
+Body size: 962h (2402)
+File GUID: D17F5B0B-ABEC-4C0B-9E4C-80ABFAAD0379
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 9Ah, valid
+Data checksum: AAh, valid

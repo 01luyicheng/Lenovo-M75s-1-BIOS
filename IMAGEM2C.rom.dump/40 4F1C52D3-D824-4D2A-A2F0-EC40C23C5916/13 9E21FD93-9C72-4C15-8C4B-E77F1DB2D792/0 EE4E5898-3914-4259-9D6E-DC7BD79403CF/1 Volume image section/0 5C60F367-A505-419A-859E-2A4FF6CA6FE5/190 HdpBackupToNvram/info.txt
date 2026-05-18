@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: HdpBackupToNvram
+Offset: 5B5FB8h
+Full size: 1AEEh (6894)
+Header size: 18h (24)
+Body size: 1AD6h (6870)
+File GUID: C11CCB12-C17A-4266-B47D-18FD101811EA
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: EBh, valid
+Data checksum: AAh, valid

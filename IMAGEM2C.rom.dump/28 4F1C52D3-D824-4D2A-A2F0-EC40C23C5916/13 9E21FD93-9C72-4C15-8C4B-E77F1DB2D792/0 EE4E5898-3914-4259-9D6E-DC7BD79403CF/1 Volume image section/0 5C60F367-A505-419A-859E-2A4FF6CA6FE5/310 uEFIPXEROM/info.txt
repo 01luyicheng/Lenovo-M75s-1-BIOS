@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: uEFIPXEROM
+Offset: 9582A0h
+Full size: 1D1CEh (119246)
+Header size: 18h (24)
+Body size: 1D1B6h (119222)
+File GUID: 19D53E44-2450-4C59-A719-07AAEE1A6D7F
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 6Bh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: Volume image
+Base: 144B800h
+Header address: FF44B800h
+Data address: FF44B818h
+Offset: 3A800h
+Full size: 4CD6BDh (5035709)
+Header size: 18h (24)
+Body size: 4CD6A5h (5035685)
+File GUID: 9E21FD93-9C72-4C15-8C4B-E77F1DB2D792
+Type: 0Bh
+Attributes: 00h
+State: F8h
+Header checksum: E3h, valid
+Data checksum: AAh, valid

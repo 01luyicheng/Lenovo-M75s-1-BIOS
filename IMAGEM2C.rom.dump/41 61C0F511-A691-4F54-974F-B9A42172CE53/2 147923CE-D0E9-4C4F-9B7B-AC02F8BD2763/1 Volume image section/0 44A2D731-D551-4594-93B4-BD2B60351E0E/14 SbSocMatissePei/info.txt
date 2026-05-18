@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: SbSocMatissePei
+Base: 1D14A48h
+Header address: FFD14A48h
+Data address: FFD14A60h
+Offset: 12A48h
+Full size: 3E6h (998)
+Header size: 18h (24)
+Body size: 3CEh (974)
+File GUID: DAC84E15-C3F5-40F1-8184-8DE8DA91FE0E
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 32h, valid
+Data checksum: AAh, valid

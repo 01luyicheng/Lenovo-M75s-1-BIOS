@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: D8AC18h
+Header address: FED8AC18h
+Data address: FED8AC1Ch
+Offset: 44430h
+Full size: 1Ch (28)
+Header size: 4h (4)
+Body size: 18h (24)
+Type: 15h
+Text: AmdMemCzPei

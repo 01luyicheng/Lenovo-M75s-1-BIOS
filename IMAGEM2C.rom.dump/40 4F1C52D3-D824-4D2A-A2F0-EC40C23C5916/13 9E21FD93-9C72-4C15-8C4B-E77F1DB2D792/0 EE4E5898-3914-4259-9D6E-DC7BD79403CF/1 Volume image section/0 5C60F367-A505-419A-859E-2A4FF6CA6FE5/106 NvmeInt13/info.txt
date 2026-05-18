@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: NvmeInt13
+Offset: 33D6F0h
+Full size: 81Eh (2078)
+Header size: 18h (24)
+Body size: 806h (2054)
+File GUID: C9A6DE36-FDFF-4FAF-8343-85D9E3470F43
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: B6h, valid
+Data checksum: AAh, valid

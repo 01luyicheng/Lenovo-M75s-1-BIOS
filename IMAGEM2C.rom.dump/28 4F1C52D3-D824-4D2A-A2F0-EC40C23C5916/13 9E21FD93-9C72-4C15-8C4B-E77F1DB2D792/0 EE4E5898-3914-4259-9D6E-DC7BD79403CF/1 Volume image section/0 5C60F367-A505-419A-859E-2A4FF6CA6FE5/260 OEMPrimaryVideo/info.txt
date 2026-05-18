@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: OEMPrimaryVideo
+Offset: 69E608h
+Full size: 124Ah (4682)
+Header size: 18h (24)
+Body size: 1232h (4658)
+File GUID: 2DEF8DAC-395B-4634-846F-A82A48BD13D2
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 8Bh, valid
+Data checksum: AAh, valid

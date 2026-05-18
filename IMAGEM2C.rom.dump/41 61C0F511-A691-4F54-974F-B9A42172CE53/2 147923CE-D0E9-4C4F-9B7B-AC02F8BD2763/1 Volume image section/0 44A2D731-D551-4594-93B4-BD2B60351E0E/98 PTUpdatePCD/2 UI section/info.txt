@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1DA395Ch
+Header address: FFDA395Ch
+Data address: FFDA3960h
+Offset: CF4h
+Full size: 1Ch (28)
+Header size: 4h (4)
+Body size: 18h (24)
+Type: 15h
+Text: PTUpdatePCD

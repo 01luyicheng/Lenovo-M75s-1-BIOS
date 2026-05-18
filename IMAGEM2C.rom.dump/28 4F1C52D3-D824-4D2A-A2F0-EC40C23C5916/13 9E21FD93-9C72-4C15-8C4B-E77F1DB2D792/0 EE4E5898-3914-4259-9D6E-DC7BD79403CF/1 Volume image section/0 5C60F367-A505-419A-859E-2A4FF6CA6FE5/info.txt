@@ -1,0 +1,18 @@
+Type: Volume
+Subtype: FFSv2
+Offset: 4h
+Full size: ECA000h (15507456)
+Header size: 78h (120)
+Body size: EC9F88h (15507336)
+ZeroVector:
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+FileSystem GUID: 8C8CE578-8A3D-4F1C-9935-896185C32DD3
+Revision: 2
+Attributes: 0004FEFFh
+Erase polarity: 1
+Checksum: 36B9h, valid
+NumBlocks: ECAh (3786), valid
+Length: 1000h (4096), valid
+Extended header size: 14h (20)
+Volume GUID: 5C60F367-A505-419A-859E-2A4FF6CA6FE5

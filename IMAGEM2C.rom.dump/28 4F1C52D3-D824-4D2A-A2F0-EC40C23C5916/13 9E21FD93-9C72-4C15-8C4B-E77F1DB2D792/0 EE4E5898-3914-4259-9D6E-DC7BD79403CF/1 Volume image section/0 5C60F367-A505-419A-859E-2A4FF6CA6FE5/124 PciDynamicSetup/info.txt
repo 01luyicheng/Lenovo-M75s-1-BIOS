@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: PciDynamicSetup
+Offset: 2F3AE8h
+Full size: B0BEh (45246)
+Header size: 18h (24)
+Body size: B0A6h (45222)
+File GUID: 2CE5604F-A982-4D2E-8FD0-D1600C2E1515
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 31h, valid
+Data checksum: AAh, valid

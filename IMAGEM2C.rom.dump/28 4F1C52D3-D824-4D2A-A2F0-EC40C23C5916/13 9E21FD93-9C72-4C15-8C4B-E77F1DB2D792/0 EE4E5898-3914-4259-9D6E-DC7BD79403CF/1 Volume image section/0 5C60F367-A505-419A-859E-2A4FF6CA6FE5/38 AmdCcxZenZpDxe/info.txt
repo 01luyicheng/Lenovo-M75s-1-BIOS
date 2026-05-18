@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdCcxZenZpDxe
+Offset: A9140h
+Full size: AD46h (44358)
+Header size: 18h (24)
+Body size: AD2Eh (44334)
+File GUID: 4A1A67D0-E77A-4F0A-AF1D-CC412BE93DC9
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: BEh, valid
+Data checksum: AAh, valid

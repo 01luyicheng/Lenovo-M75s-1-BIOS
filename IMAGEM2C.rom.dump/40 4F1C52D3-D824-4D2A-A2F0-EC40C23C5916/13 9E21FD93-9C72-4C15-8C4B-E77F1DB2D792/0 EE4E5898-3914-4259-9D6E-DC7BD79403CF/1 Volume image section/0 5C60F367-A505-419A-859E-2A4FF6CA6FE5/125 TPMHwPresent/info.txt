@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: TPMHwPresent
+Offset: 370AE0h
+Full size: 2206h (8710)
+Header size: 18h (24)
+Body size: 21EEh (8686)
+File GUID: 2D07DCE9-CF98-408F-A13C-20E41746AE95
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 21h, valid
+Data checksum: AAh, valid

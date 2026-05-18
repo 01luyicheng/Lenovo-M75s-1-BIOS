@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: LEMBootModeDxeSmm
+Offset: 9C6A60h
+Full size: F3Eh (3902)
+Header size: 18h (24)
+Body size: F26h (3878)
+File GUID: C0622982-A30A-48A5-8150-5ABF4191056F
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 12h, valid
+Data checksum: AAh, valid

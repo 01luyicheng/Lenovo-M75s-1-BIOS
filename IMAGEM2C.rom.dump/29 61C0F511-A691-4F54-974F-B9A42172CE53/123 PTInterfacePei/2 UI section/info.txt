@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E42634h
+Header address: FEE42634h
+Data address: FEE42638h
+Offset: 1164h
+Full size: 22h (34)
+Header size: 4h (4)
+Body size: 1Eh (30)
+Type: 15h
+Text: PTInterfacePei

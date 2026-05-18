@@ -1,0 +1,7 @@
+Type: Section
+Subtype: Raw
+Offset: 18h
+Full size: DBEh (3518)
+Header size: 4h (4)
+Body size: DBAh (3514)
+Type: 19h

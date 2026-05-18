@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdSocAm4SmPei
+Base: DF15B8h
+Header address: FEDF15B8h
+Data address: FEDF15D0h
+Offset: F15B8h
+Full size: 5A52h (23122)
+Header size: 18h (24)
+Body size: 5A3Ah (23098)
+File GUID: 0A4FB373-359F-4A34-B354-AB7B2EB72552
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: F4h, valid
+Data checksum: AAh, valid

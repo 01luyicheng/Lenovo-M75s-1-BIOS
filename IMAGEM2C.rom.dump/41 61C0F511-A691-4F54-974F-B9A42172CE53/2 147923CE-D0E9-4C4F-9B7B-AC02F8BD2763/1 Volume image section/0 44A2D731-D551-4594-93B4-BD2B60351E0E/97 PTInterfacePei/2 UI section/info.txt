@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1DA2C34h
+Header address: FFDA2C34h
+Data address: FFDA2C38h
+Offset: 1164h
+Full size: 22h (34)
+Header size: 4h (4)
+Body size: 1Eh (30)
+Type: 15h
+Text: PTInterfacePei

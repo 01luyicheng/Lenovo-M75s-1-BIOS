@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D883A0h
+Header address: FFD883A0h
+Data address: FFD883A4h
+Offset: 498h
+Full size: 1Eh (30)
+Header size: 4h (4)
+Body size: 1Ah (26)
+Type: 15h
+Text: PowerLossFun

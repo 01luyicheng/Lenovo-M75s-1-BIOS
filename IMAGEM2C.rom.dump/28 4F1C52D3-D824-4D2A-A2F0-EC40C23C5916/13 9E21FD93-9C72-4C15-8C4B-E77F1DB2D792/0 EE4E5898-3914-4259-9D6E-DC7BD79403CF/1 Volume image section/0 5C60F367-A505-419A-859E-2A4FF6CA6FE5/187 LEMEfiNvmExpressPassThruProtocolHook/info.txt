@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: LEMEfiNvmExpressPassThruProtocolHook
+Offset: 65B458h
+Full size: 1012h (4114)
+Header size: 18h (24)
+Body size: FFAh (4090)
+File GUID: B5ADE90F-DC14-47A7-8002-E87238AAE930
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: C8h, valid
+Data checksum: AAh, valid

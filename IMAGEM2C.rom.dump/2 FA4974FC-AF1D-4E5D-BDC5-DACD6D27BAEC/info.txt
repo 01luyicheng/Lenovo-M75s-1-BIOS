@@ -1,0 +1,21 @@
+Type: Volume
+Subtype: FFSv2
+Base: 37000h
+Header address: FE037000h
+Data address: FE037078h
+Offset: 37000h
+Full size: 20000h (131072)
+Header size: 78h (120)
+Body size: 1FF88h (130952)
+ZeroVector:
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+FileSystem GUID: 8C8CE578-8A3D-4F1C-9935-896185C32DD3
+Revision: 2
+Attributes: 0004FEFFh
+Erase polarity: 1
+Checksum: E64Dh, valid
+NumBlocks: 20h (32), valid
+Length: 1000h (4096), valid
+Extended header size: 14h (20)
+Volume GUID: FA4974FC-AF1D-4E5D-BDC5-DACD6D27BAEC

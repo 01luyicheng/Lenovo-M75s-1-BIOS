@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: PasswordEncodeProtocol
+Offset: 650320h
+Full size: 1D8Ah (7562)
+Header size: 18h (24)
+Body size: 1D72h (7538)
+File GUID: 6A4B2718-CAF3-4D51-BD91-9EB1D6229F57
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 78h, valid
+Data checksum: AAh, valid

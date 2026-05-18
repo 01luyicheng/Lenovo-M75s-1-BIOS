@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdCcxZenRvPei
+Base: D1BB08h
+Header address: FED1BB08h
+Data address: FED1BB20h
+Offset: 1BB08h
+Full size: 3592h (13714)
+Header size: 18h (24)
+Body size: 357Ah (13690)
+File GUID: D3A6CF7C-2A13-4DCD-961F-B88C85ACEB34
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: CFh, valid
+Data checksum: AAh, valid

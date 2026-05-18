@@ -1,0 +1,8 @@
+Type: Free space
+Subtype: 
+Base: C372D0h
+Address: FEC372D0h
+Offset: 5682D0h
+Full size: C8D30h (822576)
+Body size: C8D30h (822576)
+

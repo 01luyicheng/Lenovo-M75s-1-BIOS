@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: PTInterfacePei
+Base: 1DA1AD0h
+Header address: FFDA1AD0h
+Data address: FFDA1AE8h
+Offset: 9FAD0h
+Full size: 1196h (4502)
+Header size: 18h (24)
+Body size: 117Eh (4478)
+File GUID: AB5AD18D-331A-4B7F-9B7F-64EFBAF1AD31
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: E3h, valid
+Data checksum: AAh, valid

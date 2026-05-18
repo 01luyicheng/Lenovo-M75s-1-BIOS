@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D71FE8h
+Header address: FFD71FE8h
+Data address: FFD71FECh
+Offset: 32D8h
+Full size: 1Eh (30)
+Header size: 4h (4)
+Body size: 1Ah (26)
+Type: 15h
+Text: NvmeRecovery

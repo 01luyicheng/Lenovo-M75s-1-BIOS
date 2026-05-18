@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: BctBaseSmmRV
+Offset: A00818h
+Full size: 383Ah (14394)
+Header size: 18h (24)
+Body size: 3822h (14370)
+File GUID: 77509744-7507-4B5C-BF6C-3BAB83652F4D
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 4Ah, valid
+Data checksum: AAh, valid

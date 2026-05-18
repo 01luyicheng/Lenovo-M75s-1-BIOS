@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: CopyRight
+Offset: 5BBDE8h
+Full size: 160Ah (5642)
+Header size: 18h (24)
+Body size: 15F2h (5618)
+File GUID: 1BA0ADA4-526B-4F11-A9BD-3F83EE17EA30
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 69h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E26B14h
+Header address: FEE26B14h
+Data address: FEE26B18h
+Offset: 18BCh
+Full size: 16h (22)
+Header size: 4h (4)
+Body size: 12h (18)
+Type: 15h
+Text: NvramPei

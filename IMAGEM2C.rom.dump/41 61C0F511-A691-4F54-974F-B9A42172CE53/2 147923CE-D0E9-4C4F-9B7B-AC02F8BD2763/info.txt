@@ -1,0 +1,15 @@
+Type: File
+Subtype: Volume image
+Base: 1D01FD8h
+Header address: FFD01FD8h
+Data address: FFD01FF0h
+Offset: 1FD8h
+Full size: 2FE028h (3137576)
+Header size: 18h (24)
+Body size: 2FE010h (3137552)
+File GUID: 147923CE-D0E9-4C4F-9B7B-AC02F8BD2763
+Type: 0Bh
+Attributes: 0Ch
+State: F8h
+Header checksum: DDh, valid
+Data checksum: AAh, valid

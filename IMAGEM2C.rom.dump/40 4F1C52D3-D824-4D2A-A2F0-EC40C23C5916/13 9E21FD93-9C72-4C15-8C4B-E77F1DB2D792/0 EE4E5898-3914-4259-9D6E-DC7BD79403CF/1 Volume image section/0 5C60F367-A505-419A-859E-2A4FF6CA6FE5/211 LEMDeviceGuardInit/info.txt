@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: LEMDeviceGuardInit
+Offset: 5C4948h
+Full size: 7E2h (2018)
+Header size: 18h (24)
+Body size: 7CAh (1994)
+File GUID: CF009B23-17B9-43EE-BB69-4393CA186B1C
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 1Fh, valid
+Data checksum: AAh, valid

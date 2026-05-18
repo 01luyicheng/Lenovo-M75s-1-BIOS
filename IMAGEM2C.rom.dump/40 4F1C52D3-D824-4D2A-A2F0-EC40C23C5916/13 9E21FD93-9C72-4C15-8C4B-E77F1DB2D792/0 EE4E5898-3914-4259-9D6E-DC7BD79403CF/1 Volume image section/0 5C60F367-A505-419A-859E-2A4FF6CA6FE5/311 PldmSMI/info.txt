@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: PldmSMI
+Offset: 92B898h
+Full size: 11C6h (4550)
+Header size: 18h (24)
+Body size: 11AEh (4526)
+File GUID: 4AFA46F5-F97E-4A48-B761-7979FAFCC4F1
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: E2h, valid
+Data checksum: AAh, valid

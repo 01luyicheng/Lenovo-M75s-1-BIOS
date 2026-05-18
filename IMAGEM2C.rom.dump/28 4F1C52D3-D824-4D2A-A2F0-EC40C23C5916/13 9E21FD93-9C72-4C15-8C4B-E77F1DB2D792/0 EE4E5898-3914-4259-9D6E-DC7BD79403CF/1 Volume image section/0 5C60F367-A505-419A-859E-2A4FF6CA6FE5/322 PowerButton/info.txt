@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: PowerButton
+Offset: 999758h
+Full size: 812h (2066)
+Header size: 18h (24)
+Body size: 7FAh (2042)
+File GUID: E566B097-4378-485F-91D0-1C097C190CE2
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: DFh, valid
+Data checksum: AAh, valid

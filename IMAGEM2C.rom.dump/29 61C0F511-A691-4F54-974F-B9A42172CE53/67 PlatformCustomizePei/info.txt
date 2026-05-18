@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: PlatformCustomizePei
+Base: E00F28h
+Header address: FEE00F28h
+Data address: FEE00F40h
+Offset: 100F28h
+Full size: 20BEh (8382)
+Header size: 18h (24)
+Body size: 20A6h (8358)
+File GUID: CC9F5B7E-254B-4F8A-A648-034A40AEDA35
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 57h, valid
+Data checksum: AAh, valid

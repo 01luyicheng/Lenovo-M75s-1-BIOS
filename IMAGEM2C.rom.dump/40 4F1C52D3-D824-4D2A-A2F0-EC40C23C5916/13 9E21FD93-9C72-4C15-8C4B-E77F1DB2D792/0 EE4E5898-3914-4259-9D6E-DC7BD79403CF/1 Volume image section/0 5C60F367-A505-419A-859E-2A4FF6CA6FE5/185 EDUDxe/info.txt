@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: EDUDxe
+Offset: 5AD6F8h
+Full size: B36h (2870)
+Header size: 18h (24)
+Body size: B1Eh (2846)
+File GUID: FF761299-D41F-4C73-8380-A24055ADF4B9
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 52h, valid
+Data checksum: AAh, valid

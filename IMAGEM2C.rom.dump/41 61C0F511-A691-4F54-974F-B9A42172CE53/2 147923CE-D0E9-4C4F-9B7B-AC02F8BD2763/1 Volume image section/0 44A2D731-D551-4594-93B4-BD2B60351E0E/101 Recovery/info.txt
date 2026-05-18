@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: Recovery
+Base: 1DAF1D8h
+Header address: FFDAF1D8h
+Data address: FFDAF1F0h
+Offset: AD1D8h
+Full size: 10BCh (4284)
+Header size: 18h (24)
+Body size: 10A4h (4260)
+File GUID: DACF705C-71DF-497D-AABE-10186B2E1DDE
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 7Fh, valid
+Data checksum: AAh, valid

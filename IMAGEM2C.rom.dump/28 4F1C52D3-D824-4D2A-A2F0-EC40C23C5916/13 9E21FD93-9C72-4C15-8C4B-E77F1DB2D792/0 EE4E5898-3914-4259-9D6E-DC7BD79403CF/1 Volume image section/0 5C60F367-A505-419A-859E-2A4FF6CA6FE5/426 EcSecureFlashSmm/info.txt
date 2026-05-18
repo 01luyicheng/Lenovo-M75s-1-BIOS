@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: EcSecureFlashSmm
+Offset: AD9B50h
+Full size: FFAh (4090)
+Header size: 18h (24)
+Body size: FE2h (4066)
+File GUID: 39882267-CE96-4F37-A3EB-00B03BA4FC55
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 4Bh, valid
+Data checksum: AAh, valid

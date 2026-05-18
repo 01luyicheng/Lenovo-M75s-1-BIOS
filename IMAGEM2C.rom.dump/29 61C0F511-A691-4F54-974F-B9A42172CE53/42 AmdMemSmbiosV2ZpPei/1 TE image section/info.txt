@@ -1,0 +1,19 @@
+Type: Section
+Subtype: TE image
+Base: D929B8h
+Header address: FED929B8h
+Data address: FED929BCh
+Offset: 78h
+Full size: 2654h (9812)
+Header size: 4h (4)
+Body size: 2650h (9808)
+Type: 12h
+Signature: 5A56h
+Machine type: x86
+Number of sections: 5
+Subsystem: 0Bh
+Stripped size: 1B8h (440)
+Base of code: 280h
+Address of entry point: 3C0h
+Image base: FFD9282Ch
+Adjusted image base: FFD929BCh

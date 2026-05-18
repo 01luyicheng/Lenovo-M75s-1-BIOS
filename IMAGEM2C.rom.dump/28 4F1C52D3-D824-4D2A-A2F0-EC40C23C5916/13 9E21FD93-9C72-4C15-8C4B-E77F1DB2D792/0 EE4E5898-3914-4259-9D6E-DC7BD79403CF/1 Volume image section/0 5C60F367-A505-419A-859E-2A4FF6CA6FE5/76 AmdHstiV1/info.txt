@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdHstiV1
+Offset: 18F738h
+Full size: 148Ah (5258)
+Header size: 18h (24)
+Body size: 1472h (5234)
+File GUID: 55025E9D-32E9-403B-81C1-F9E3D9D70640
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 5Fh, valid
+Data checksum: AAh, valid

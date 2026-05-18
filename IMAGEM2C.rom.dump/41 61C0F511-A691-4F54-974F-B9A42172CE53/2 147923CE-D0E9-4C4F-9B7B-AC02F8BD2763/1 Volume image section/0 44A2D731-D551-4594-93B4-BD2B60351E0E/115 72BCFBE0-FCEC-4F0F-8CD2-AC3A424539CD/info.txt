@@ -1,0 +1,15 @@
+Type: File
+Subtype: Raw
+Base: 1DB8C28h
+Header address: FFDB8C28h
+Data address: FFDB8C40h
+Offset: B6C28h
+Full size: 9Fh (159)
+Header size: 18h (24)
+Body size: 87h (135)
+File GUID: 72BCFBE0-FCEC-4F0F-8CD2-AC3A424539CD
+Type: 01h
+Attributes: 08h
+State: F8h
+Header checksum: 38h, valid
+Data checksum: AAh, valid

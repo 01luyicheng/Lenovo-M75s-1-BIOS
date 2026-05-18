@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdCpmAdaptiveS4Dxe
+Offset: 1EFA48h
+Full size: 8F2h (2290)
+Header size: 18h (24)
+Body size: 8DAh (2266)
+File GUID: 73CD248F-420B-4618-8F74-E15FF48258B5
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 9Bh, valid
+Data checksum: AAh, valid

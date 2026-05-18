@@ -1,0 +1,10 @@
+Type: NVAR entry
+Subtype: Full
+Text: DashSetupVariable
+Offset: 468h
+Full size: 2Ah (42)
+Header size: 1Dh (29)
+Body size: Dh (13)
+Variable GUID: CC24EFBE-AA62-4049-86DB-58B9A38E958A
+GUID index: 5
+Attributes: 83h (Runtime, AsciiName, Valid)

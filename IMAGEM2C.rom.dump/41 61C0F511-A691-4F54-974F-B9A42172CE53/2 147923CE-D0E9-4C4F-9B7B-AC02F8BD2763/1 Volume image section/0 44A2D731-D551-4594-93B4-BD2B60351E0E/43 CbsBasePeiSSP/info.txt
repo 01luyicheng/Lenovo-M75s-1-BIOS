@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: CbsBasePeiSSP
+Base: 1D65888h
+Header address: FFD65888h
+Data address: FFD658A0h
+Offset: 63888h
+Full size: 25F2h (9714)
+Header size: 18h (24)
+Body size: 25DAh (9690)
+File GUID: ABCDFB96-ED90-4C7E-A82B-EC98F99305ED
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: BEh, valid
+Data checksum: AAh, valid

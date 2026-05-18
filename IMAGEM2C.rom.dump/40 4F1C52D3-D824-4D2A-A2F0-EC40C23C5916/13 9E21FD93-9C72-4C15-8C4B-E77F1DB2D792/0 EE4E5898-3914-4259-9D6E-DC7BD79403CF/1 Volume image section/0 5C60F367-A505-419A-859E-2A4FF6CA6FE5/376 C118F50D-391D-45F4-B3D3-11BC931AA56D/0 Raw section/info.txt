@@ -1,0 +1,7 @@
+Type: Section
+Subtype: Raw
+Offset: 18h
+Full size: DA64h (55908)
+Header size: 4h (4)
+Body size: DA60h (55904)
+Type: 19h

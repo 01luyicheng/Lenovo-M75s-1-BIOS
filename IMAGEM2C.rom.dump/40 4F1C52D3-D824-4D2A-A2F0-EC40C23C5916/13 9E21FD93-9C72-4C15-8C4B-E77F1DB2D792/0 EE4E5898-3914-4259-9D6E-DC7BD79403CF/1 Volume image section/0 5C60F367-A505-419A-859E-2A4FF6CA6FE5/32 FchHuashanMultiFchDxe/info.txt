@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: FchHuashanMultiFchDxe
+Offset: 95DE0h
+Full size: 35BAh (13754)
+Header size: 18h (24)
+Body size: 35A2h (13730)
+File GUID: 6F8AC3D2-ED4C-4386-8FDB-2EE920AB50B3
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 2Bh, valid
+Data checksum: AAh, valid

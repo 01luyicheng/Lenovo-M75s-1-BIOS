@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: SmartUsbProtection
+Offset: AD7C00h
+Full size: F56h (3926)
+Header size: 18h (24)
+Body size: F3Eh (3902)
+File GUID: 09EB7679-2152-47F3-B832-EE9B947B29F5
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 61h, valid
+Data checksum: AAh, valid

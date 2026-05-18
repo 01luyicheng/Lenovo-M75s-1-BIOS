@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D232B8h
+Header address: FFD232B8h
+Data address: FFD232BCh
+Offset: 5238h
+Full size: 20h (32)
+Header size: 4h (4)
+Body size: 1Ch (28)
+Type: 15h
+Text: FchHuashanPei

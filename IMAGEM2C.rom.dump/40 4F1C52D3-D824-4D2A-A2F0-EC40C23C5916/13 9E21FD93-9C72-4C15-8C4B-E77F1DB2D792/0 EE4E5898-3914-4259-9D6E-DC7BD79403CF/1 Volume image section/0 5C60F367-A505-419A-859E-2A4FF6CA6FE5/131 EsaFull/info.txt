@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: EsaFull
+Offset: 379228h
+Full size: 1F1E2Eh (2039342)
+Header size: 18h (24)
+Body size: 1F1E16h (2039318)
+File GUID: A2DF5376-C2ED-49C0-90FF-8B173B0FD066
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: DBh, valid
+Data checksum: AAh, valid

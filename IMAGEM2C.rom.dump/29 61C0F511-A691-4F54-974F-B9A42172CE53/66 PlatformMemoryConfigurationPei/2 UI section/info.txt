@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E00ED4h
+Header address: FEE00ED4h
+Data address: FEE00ED8h
+Offset: 424h
+Full size: 42h (66)
+Header size: 4h (4)
+Body size: 3Eh (62)
+Type: 15h
+Text: PlatformMemoryConfigurationPei

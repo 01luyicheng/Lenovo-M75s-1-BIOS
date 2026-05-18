@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: OemDataRegionRestore
+Offset: 63A4D8h
+Full size: 2C56h (11350)
+Header size: 18h (24)
+Body size: 2C3Eh (11326)
+File GUID: 9AC8B567-5FDB-46E5-8B12-ACFC4B24C5EC
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 2Fh, valid
+Data checksum: AAh, valid

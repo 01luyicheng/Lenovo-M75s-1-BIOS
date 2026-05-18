@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D4D008h
+Header address: FFD4D008h
+Data address: FFD4D00Ch
+Offset: E490h
+Full size: 22h (34)
+Header size: 4h (4)
+Body size: 1Eh (30)
+Type: 15h
+Text: AmdNbioPciePei

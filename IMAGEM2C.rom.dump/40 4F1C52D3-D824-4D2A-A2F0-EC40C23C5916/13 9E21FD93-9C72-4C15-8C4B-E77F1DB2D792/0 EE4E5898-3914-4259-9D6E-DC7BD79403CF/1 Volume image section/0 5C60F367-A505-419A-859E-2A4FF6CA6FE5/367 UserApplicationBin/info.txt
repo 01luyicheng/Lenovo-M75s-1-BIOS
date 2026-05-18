@@ -1,0 +1,13 @@
+Type: File
+Subtype: Application
+Text: UserApplicationBin
+Offset: 9CFE88h
+Full size: 5466h (21606)
+Header size: 18h (24)
+Body size: 544Eh (21582)
+File GUID: E859E40F-CC24-41B7-B5A5-685822AABCC6
+Type: 09h
+Attributes: 00h
+State: F8h
+Header checksum: B9h, valid
+Data checksum: AAh, valid

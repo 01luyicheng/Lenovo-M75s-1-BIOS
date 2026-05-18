@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E58744h
+Header address: FEE58744h
+Data address: FEE58748h
+Offset: 4DCh
+Full size: 36h (54)
+Header size: 4h (4)
+Body size: 32h (50)
+Type: 15h
+Text: AssetIDOnRecoveryModePei

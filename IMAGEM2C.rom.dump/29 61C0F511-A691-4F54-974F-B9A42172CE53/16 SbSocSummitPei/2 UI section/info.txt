@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: D143ACh
+Header address: FED143ACh
+Data address: FED143B0h
+Offset: 494h
+Full size: 22h (34)
+Header size: 4h (4)
+Body size: 1Eh (30)
+Type: 15h
+Text: SbSocSummitPei

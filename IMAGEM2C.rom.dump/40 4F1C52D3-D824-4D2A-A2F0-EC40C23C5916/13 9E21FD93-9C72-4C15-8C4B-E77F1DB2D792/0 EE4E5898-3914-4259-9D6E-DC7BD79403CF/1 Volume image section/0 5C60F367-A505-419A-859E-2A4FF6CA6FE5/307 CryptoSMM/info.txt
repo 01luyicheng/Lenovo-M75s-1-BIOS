@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: CryptoSMM
+Offset: 911170h
+Full size: 122DEh (74462)
+Header size: 18h (24)
+Body size: 122C6h (74438)
+File GUID: 2AD511C7-1B60-4002-841D-2998DDC138EE
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 3Bh, valid
+Data checksum: AAh, valid

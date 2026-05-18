@@ -1,0 +1,19 @@
+Type: Section
+Subtype: TE image
+Base: D950ACh
+Header address: FED950ACh
+Data address: FED950B0h
+Offset: 64h
+Full size: 1084h (4228)
+Header size: 4h (4)
+Body size: 1080h (4224)
+Type: 12h
+Signature: 5A56h
+Machine type: x86
+Number of sections: 3
+Subsystem: 0Bh
+Stripped size: 1C8h (456)
+Base of code: 240h
+Address of entry point: 380h
+Image base: FFD94F10h
+Adjusted image base: FFD950B0h

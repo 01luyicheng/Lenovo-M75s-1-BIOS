@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdFabricSspDxe
+Offset: 8B560h
+Full size: A87Ah (43130)
+Header size: 18h (24)
+Body size: A862h (43106)
+File GUID: 656F7E22-5701-4341-A9A7-99A5D40A5245
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 84h, valid
+Data checksum: AAh, valid

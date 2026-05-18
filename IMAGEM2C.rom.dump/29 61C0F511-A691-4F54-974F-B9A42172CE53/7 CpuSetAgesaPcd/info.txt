@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: CpuSetAgesaPcd
+Base: D0E540h
+Header address: FED0E540h
+Data address: FED0E558h
+Offset: E540h
+Full size: 4A6h (1190)
+Header size: 18h (24)
+Body size: 48Eh (1166)
+File GUID: 4DF75915-6C88-4EF4-995D-834D866DBD20
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: D2h, valid
+Data checksum: AAh, valid

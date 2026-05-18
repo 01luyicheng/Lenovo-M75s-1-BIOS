@@ -1,0 +1,8 @@
+Type: Padding
+Subtype: Empty (FFh)
+Base: 13C1E80h
+Address: FF3C1E80h
+Offset: 13C1E80h
+Full size: 80h (128)
+Body size: 80h (128)
+

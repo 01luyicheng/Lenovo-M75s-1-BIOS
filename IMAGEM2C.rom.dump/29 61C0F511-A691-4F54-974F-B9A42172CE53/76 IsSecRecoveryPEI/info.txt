@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: IsSecRecoveryPEI
+Base: E0B1D8h
+Header address: FEE0B1D8h
+Data address: FEE0B1F0h
+Offset: 10B1D8h
+Full size: 45Ah (1114)
+Header size: 18h (24)
+Body size: 442h (1090)
+File GUID: CAC3FB95-33F5-4596-818B-68E024DDB67B
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: F6h, valid
+Data checksum: AAh, valid

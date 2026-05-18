@@ -1,0 +1,19 @@
+Type: Section
+Subtype: TE image
+Base: E20354h
+Header address: FEE20354h
+Data address: FEE20358h
+Offset: 54h
+Full size: 1C4h (452)
+Header size: 4h (4)
+Body size: 1C0h (448)
+Type: 12h
+Signature: 5A56h
+Machine type: x86
+Number of sections: 3
+Subsystem: 0Bh
+Stripped size: 1A8h (424)
+Base of code: 220h
+Address of entry point: 220h
+Image base: FFE201D8h
+Adjusted image base: FFE20358h

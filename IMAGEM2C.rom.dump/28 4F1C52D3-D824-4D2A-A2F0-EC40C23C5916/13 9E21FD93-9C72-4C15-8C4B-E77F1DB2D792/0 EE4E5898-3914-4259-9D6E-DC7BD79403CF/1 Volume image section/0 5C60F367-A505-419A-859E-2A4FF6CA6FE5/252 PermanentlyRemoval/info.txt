@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: PermanentlyRemoval
+Offset: 6975E8h
+Full size: C7Eh (3198)
+Header size: 18h (24)
+Body size: C66h (3174)
+File GUID: 57D16189-7A07-4EFD-9701-5A19FE120E73
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: F5h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: NetworkOffLineLockerProtocol
+Offset: 68A1B8h
+Full size: 992h (2450)
+Header size: 18h (24)
+Body size: 97Ah (2426)
+File GUID: DF655424-0025-4D4F-82B0-6DAC258BA879
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: C5h, valid
+Data checksum: AAh, valid

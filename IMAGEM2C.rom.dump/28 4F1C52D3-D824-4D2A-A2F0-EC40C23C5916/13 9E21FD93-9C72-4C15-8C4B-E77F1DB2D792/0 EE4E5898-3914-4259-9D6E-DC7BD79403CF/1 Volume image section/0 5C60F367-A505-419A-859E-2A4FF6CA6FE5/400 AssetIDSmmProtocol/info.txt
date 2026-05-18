@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: AssetIDSmmProtocol
+Offset: AA5BC8h
+Full size: 4FF2h (20466)
+Header size: 18h (24)
+Body size: 4FDAh (20442)
+File GUID: F7EEA79A-D854-4099-9AE7-D0A328E44F72
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: C9h, valid
+Data checksum: AAh, valid

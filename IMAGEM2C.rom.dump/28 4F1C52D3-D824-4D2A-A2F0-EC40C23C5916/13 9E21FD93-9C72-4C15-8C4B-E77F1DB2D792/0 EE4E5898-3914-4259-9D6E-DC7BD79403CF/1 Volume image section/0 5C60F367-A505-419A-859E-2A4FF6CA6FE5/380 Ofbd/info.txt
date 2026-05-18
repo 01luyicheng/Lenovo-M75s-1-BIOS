@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: Ofbd
+Offset: A70650h
+Full size: CBAAh (52138)
+Header size: 18h (24)
+Body size: CB92h (52114)
+File GUID: 57E56594-CE95-46AD-9531-3C49310CA7CE
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: F9h, valid
+Data checksum: AAh, valid

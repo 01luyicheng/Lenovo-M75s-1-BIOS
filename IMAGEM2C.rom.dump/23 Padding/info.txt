@@ -1,0 +1,8 @@
+Type: Padding
+Subtype: Empty (FFh)
+Base: 67D880h
+Address: FE67D880h
+Offset: 67D880h
+Full size: 80h (128)
+Body size: 80h (128)
+

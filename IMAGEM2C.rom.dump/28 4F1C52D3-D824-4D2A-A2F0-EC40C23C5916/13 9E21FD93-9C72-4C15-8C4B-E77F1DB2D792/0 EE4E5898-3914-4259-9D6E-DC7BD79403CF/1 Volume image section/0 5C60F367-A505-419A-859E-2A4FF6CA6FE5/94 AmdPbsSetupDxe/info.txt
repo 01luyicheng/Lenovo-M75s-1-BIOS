@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdPbsSetupDxe
+Offset: 1E32F8h
+Full size: A112h (41234)
+Header size: 18h (24)
+Body size: A0FAh (41210)
+File GUID: BBB77CB9-762D-436C-AC40-8EE4901C3446
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: C9h, valid
+Data checksum: AAh, valid

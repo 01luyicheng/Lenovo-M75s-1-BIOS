@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: PeiRamBootDxe
+Offset: D08DE0h
+Full size: C32h (3122)
+Header size: 18h (24)
+Body size: C1Ah (3098)
+File GUID: 534F73CF-0937-418A-90C7-4F1079DCAED1
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 42h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D7288Ch
+Header address: FFD7288Ch
+Data address: FFD72890h
+Offset: 424h
+Full size: 26h (38)
+Header size: 4h (4)
+Body size: 22h (34)
+Type: 15h
+Text: IsSecRecoveryPEI

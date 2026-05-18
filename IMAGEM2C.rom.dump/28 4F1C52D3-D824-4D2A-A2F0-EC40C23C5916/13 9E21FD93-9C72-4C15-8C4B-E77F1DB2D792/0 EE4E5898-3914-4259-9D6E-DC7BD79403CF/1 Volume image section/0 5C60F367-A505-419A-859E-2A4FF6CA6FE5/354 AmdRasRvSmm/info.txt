@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: AmdRasRvSmm
+Offset: 9F6B10h
+Full size: 4B5Ah (19290)
+Header size: 18h (24)
+Body size: 4B42h (19266)
+File GUID: 164CE56B-5EBC-4984-B0DA-C12B4F21D2EC
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 14h, valid
+Data checksum: AAh, valid

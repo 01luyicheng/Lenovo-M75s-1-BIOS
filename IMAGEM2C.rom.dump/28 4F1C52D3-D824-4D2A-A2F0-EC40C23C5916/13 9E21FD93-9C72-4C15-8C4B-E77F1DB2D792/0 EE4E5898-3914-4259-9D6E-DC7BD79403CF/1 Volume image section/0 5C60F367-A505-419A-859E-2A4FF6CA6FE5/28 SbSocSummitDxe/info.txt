@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SbSocSummitDxe
+Offset: 818D0h
+Full size: 78DAh (30938)
+Header size: 18h (24)
+Body size: 78C2h (30914)
+File GUID: A7119441-E153-970D-5508-75DCDFA41974
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 84h, valid
+Data checksum: AAh, valid

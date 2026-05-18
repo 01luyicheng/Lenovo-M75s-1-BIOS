@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdSpiRomProtectDxe
+Offset: 12EF68h
+Full size: E22h (3618)
+Header size: 18h (24)
+Body size: E0Ah (3594)
+File GUID: C178E415-6E49-469A-B73D-F6C5EB4101EB
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 39h, valid
+Data checksum: AAh, valid

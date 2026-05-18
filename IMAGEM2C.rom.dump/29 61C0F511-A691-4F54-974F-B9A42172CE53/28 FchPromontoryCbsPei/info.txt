@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: FchPromontoryCbsPei
+Base: D31BA8h
+Header address: FED31BA8h
+Data address: FED31BC0h
+Offset: 31BA8h
+Full size: 35BEh (13758)
+Header size: 18h (24)
+Body size: 35A6h (13734)
+File GUID: 3ECEB3C6-1B1C-4729-9C62-33DD81D65DDE
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 3Bh, valid
+Data checksum: AAh, valid

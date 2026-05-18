@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E1FD34h
+Header address: FEE1FD34h
+Data address: FEE1FD38h
+Offset: 474h
+Full size: 1Eh (30)
+Header size: 4h (4)
+Body size: 1Ah (26)
+Type: 15h
+Text: BBVersionHob

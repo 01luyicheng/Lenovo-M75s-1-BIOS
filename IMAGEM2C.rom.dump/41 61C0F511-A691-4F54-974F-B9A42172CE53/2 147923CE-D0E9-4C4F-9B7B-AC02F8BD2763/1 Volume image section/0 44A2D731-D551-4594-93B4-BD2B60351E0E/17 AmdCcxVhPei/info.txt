@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdCcxVhPei
+Base: 1D15A68h
+Header address: FFD15A68h
+Data address: FFD15A80h
+Offset: 13A68h
+Full size: 408Ah (16522)
+Header size: 18h (24)
+Body size: 4072h (16498)
+File GUID: 993E9ACB-288C-4788-87EA-09F7A15FD765
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: C4h, valid
+Data checksum: AAh, valid

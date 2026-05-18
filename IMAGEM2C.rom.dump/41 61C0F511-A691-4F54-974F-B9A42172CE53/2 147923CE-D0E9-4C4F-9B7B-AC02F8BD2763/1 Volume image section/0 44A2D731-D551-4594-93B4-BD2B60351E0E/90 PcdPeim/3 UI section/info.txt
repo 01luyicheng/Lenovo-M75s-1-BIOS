@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D956E0h
+Header address: FFD956E0h
+Data address: FFD956E4h
+Offset: 20F0h
+Full size: 14h (20)
+Header size: 4h (4)
+Body size: 10h (16)
+Type: 15h
+Text: PcdPeim

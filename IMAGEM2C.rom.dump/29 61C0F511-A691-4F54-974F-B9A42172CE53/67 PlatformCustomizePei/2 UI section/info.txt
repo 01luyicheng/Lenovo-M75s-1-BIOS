@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E02FA8h
+Header address: FEE02FA8h
+Data address: FEE02FACh
+Offset: 2080h
+Full size: 2Eh (46)
+Header size: 4h (4)
+Body size: 2Ah (42)
+Type: 15h
+Text: PlatformCustomizePei

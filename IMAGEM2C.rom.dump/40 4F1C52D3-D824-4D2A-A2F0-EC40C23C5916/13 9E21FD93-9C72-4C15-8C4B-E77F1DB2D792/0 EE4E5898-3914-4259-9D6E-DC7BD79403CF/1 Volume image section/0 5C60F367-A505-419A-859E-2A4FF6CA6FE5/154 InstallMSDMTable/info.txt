@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: InstallMSDMTable
+Offset: 58ED40h
+Full size: 8FAh (2298)
+Header size: 18h (24)
+Body size: 8E2h (2274)
+File GUID: A7EEAF1E-969F-40EE-A21E-1856F5E6D41C
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 39h, valid
+Data checksum: AAh, valid

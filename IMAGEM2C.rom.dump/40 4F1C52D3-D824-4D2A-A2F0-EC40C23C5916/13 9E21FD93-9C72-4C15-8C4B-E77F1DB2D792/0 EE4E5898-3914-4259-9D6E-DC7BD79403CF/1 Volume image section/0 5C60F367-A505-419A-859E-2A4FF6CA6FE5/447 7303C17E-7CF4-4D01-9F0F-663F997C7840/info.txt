@@ -1,0 +1,12 @@
+Type: File
+Subtype: Freeform
+Offset: B3D378h
+Full size: 163Ah (5690)
+Header size: 18h (24)
+Body size: 1622h (5666)
+File GUID: 7303C17E-7CF4-4D01-9F0F-663F997C7840
+Type: 02h
+Attributes: 00h
+State: F8h
+Header checksum: 1Bh, valid
+Data checksum: AAh, valid

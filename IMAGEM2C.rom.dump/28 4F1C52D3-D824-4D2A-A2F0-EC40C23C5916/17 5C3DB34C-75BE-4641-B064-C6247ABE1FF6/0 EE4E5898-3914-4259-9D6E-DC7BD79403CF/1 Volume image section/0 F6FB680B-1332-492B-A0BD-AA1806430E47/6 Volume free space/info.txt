@@ -1,0 +1,6 @@
+Type: Free space
+Subtype: 
+Offset: 156B8h
+Full size: 948h (2376)
+Body size: 948h (2376)
+

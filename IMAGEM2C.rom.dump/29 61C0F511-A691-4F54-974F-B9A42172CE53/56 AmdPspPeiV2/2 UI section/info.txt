@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: DE91A8h
+Header address: FEDE91A8h
+Data address: FEDE91ACh
+Offset: 2C08h
+Full size: 1Ch (28)
+Header size: 4h (4)
+Body size: 18h (24)
+Type: 15h
+Text: AmdPspPeiV2

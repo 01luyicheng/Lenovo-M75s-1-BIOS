@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D84CACh
+Header address: FFD84CACh
+Data address: FFD84CB0h
+Offset: 4DCh
+Full size: 20h (32)
+Header size: 4h (4)
+Body size: 1Ch (28)
+Type: 15h
+Text: CrbLastFfsPei

@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: DE39B0h
+Header address: FEDE39B0h
+Data address: FEDE39B4h
+Offset: 3520h
+Full size: 24h (36)
+Header size: 4h (4)
+Body size: 20h (32)
+Type: 15h
+Text: AmdNbioSmuV9Pei

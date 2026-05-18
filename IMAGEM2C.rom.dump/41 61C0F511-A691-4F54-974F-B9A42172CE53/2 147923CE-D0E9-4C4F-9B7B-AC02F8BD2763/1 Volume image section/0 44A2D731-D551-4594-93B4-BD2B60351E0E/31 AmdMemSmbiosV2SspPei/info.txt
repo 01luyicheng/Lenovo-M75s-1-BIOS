@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdMemSmbiosV2SspPei
+Base: 1D32E60h
+Header address: FFD32E60h
+Data address: FFD32E78h
+Offset: 30E60h
+Full size: 310Ah (12554)
+Header size: 18h (24)
+Body size: 30F2h (12530)
+File GUID: 296088B0-5AD7-46B7-A42B-004C2A0F00BB
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: C1h, valid
+Data checksum: AAh, valid

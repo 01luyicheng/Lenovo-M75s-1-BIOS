@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: DisableChassisIntrusion
+Offset: 68F638h
+Full size: 6B6h (1718)
+Header size: 18h (24)
+Body size: 69Eh (1694)
+File GUID: E12929EF-F08C-4E26-8290-281740D874DE
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 70h, valid
+Data checksum: AAh, valid

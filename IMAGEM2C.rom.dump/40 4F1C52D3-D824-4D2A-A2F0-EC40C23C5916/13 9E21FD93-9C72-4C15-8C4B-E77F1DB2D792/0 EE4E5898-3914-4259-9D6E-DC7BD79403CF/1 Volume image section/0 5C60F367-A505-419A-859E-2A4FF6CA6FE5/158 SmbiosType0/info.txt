@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SmbiosType0
+Offset: 592888h
+Full size: B4Eh (2894)
+Header size: 18h (24)
+Body size: B36h (2870)
+File GUID: 7BB61314-11B5-4833-BCAD-B1601CA088C9
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 80h, valid
+Data checksum: AAh, valid

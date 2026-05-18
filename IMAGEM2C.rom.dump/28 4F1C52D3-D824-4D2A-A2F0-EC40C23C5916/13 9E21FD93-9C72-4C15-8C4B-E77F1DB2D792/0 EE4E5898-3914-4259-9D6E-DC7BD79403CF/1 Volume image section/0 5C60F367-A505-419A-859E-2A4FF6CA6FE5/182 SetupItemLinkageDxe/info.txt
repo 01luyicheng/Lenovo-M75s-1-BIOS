@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SetupItemLinkageDxe
+Offset: 653C10h
+Full size: E92h (3730)
+Header size: 18h (24)
+Body size: E7Ah (3706)
+File GUID: 19AFD36B-F501-4446-9C9E-0457DB6E7888
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: F5h, valid
+Data checksum: AAh, valid

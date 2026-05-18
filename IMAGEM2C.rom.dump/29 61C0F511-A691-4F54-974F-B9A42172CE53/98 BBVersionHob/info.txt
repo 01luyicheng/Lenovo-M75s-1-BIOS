@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: BBVersionHob
+Base: E1F8C0h
+Header address: FEE1F8C0h
+Data address: FEE1F8D8h
+Offset: 11F8C0h
+Full size: 4A2h (1186)
+Header size: 18h (24)
+Body size: 48Ah (1162)
+File GUID: 29D0D0A1-446B-4AF4-AE36-526069E2D543
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 04h, valid
+Data checksum: AAh, valid

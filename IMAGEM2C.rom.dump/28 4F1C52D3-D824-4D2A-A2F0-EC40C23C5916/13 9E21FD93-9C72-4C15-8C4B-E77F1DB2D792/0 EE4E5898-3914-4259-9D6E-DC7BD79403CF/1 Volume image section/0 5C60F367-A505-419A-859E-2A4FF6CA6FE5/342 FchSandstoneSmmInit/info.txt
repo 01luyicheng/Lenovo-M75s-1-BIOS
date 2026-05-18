@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: FchSandstoneSmmInit
+Offset: 9BF870h
+Full size: 9566h (38246)
+Header size: 18h (24)
+Body size: 954Eh (38222)
+File GUID: 4A69756B-209B-4D57-8810-142DAC6BB7B5
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: ADh, valid
+Data checksum: AAh, valid

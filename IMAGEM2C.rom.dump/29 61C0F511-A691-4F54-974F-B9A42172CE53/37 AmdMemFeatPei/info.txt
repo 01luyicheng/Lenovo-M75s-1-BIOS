@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdMemFeatPei
+Base: D8AC48h
+Header address: FED8AC48h
+Data address: FED8AC60h
+Offset: 8AC48h
+Full size: 1BC2h (7106)
+Header size: 18h (24)
+Body size: 1BAAh (7082)
+File GUID: 520C3847-71A0-40E7-A895-8C8997C33455
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: D3h, valid
+Data checksum: AAh, valid

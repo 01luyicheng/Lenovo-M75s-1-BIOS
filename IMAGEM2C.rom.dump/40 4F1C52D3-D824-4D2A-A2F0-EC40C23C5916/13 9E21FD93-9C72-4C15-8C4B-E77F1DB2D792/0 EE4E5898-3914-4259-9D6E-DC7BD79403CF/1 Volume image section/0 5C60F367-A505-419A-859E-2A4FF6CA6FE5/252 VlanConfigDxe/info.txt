@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: VlanConfigDxe
+Offset: 66EAC8h
+Full size: 53DEh (21470)
+Header size: 18h (24)
+Body size: 53C6h (21446)
+File GUID: E4F61863-FE2C-4B56-A8F4-08519BC439DF
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 3Ch, valid
+Data checksum: AAh, valid

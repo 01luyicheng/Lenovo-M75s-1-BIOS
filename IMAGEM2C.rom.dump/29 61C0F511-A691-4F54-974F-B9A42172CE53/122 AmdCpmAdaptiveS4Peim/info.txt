@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdCpmAdaptiveS4Peim
+Base: E41138h
+Header address: FEE41138h
+Data address: FEE41150h
+Offset: 141138h
+Full size: 392h (914)
+Header size: 18h (24)
+Body size: 37Ah (890)
+File GUID: 8519ED6D-228A-4A7D-A9E3-6E24D94FE22F
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: A3h, valid
+Data checksum: AAh, valid

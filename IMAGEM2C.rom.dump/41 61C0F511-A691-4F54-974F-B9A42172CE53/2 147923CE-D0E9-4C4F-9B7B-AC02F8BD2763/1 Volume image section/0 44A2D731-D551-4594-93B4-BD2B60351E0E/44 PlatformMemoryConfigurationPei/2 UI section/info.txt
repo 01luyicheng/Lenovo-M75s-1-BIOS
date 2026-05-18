@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D682A4h
+Header address: FFD682A4h
+Data address: FFD682A8h
+Offset: 424h
+Full size: 42h (66)
+Header size: 4h (4)
+Body size: 3Eh (62)
+Type: 15h
+Text: PlatformMemoryConfigurationPei

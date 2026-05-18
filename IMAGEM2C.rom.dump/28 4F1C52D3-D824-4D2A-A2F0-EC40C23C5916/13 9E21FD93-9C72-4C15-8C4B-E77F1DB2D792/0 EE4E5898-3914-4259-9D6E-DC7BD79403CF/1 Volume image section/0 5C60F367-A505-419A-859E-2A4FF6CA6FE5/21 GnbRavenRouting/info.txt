@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: GnbRavenRouting
+Offset: 6E560h
+Full size: E26h (3622)
+Header size: 18h (24)
+Body size: E0Eh (3598)
+File GUID: B4536FB5-E251-4EDA-8BCF-D43875BD1A37
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 56h, valid
+Data checksum: AAh, valid

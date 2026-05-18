@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: TPMProvision
+Offset: 372CE8h
+Full size: 13A2h (5026)
+Header size: 18h (24)
+Body size: 138Ah (5002)
+File GUID: F9FA662B-8361-4DF0-A419-781EB024B2B7
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 0Fh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SbPcdDxe
+Offset: 6E4E0h
+Full size: 86Ah (2154)
+Header size: 18h (24)
+Body size: 852h (2130)
+File GUID: D9EA74E6-0B4D-4916-9821-EB58B86211D8
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: B4h, valid
+Data checksum: AAh, valid

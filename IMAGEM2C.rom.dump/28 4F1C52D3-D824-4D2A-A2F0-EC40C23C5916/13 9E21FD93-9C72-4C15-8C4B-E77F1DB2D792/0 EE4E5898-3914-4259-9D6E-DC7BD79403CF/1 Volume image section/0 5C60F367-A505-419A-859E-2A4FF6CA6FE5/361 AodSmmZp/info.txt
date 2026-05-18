@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: AodSmmZp
+Offset: A09828h
+Full size: 3916h (14614)
+Header size: 18h (24)
+Body size: 38FEh (14590)
+File GUID: AAF875D2-0968-4585-A40A-B35C9FE0CAEC
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 91h, valid
+Data checksum: AAh, valid

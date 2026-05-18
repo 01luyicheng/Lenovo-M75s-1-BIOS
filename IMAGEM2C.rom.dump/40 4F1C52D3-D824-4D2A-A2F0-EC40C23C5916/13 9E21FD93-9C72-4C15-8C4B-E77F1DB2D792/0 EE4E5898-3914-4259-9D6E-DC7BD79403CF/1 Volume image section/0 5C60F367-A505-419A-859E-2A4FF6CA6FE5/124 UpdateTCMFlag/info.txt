@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: UpdateTCMFlag
+Offset: 370228h
+Full size: 8B2h (2226)
+Header size: 18h (24)
+Body size: 89Ah (2202)
+File GUID: FD252115-77AF-4D9D-A259-81DD98780E18
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 48h, valid
+Data checksum: AAh, valid

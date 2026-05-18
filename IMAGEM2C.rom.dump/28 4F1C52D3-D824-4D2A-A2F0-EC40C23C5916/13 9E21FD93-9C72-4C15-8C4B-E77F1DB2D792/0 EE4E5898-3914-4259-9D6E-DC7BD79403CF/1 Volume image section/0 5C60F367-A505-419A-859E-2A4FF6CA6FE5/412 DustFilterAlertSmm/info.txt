@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: DustFilterAlertSmm
+Offset: AC1728h
+Full size: ED6h (3798)
+Header size: 18h (24)
+Body size: EBEh (3774)
+File GUID: EE54D4EA-B2AD-437F-860F-1AB9685237E9
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: AFh, valid
+Data checksum: AAh, valid

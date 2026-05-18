@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: OemSwSmiDispatchProtocol
+Offset: 9922D0h
+Full size: 162Eh (5678)
+Header size: 18h (24)
+Body size: 1616h (5654)
+File GUID: EB8DCCDA-D34D-4765-B989-ED96CA2CA8D5
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 90h, valid
+Data checksum: AAh, valid

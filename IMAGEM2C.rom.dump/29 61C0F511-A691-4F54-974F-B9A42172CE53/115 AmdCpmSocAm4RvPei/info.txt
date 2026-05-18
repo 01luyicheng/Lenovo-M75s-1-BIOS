@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdCpmSocAm4RvPei
+Base: E2EAD0h
+Header address: FEE2EAD0h
+Data address: FEE2EAE8h
+Offset: 12EAD0h
+Full size: 2CAh (714)
+Header size: 18h (24)
+Body size: 2B2h (690)
+File GUID: EF351864-16F3-4A2F-B57D-3B9B785A6248
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 88h, valid
+Data checksum: AAh, valid

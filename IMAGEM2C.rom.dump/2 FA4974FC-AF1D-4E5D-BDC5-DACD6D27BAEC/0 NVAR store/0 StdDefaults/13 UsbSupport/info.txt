@@ -1,0 +1,13 @@
+Type: NVAR entry
+Subtype: Full
+Text: UsbSupport
+Base: 375AAh
+Header address: FE0375AAh
+Data address: FE0375C0h
+Offset: 51Ah
+Full size: 47h (71)
+Header size: 16h (22)
+Body size: 31h (49)
+Variable GUID: EC87D643-EBA4-4BB5-A1E5-3F3E36B20DA9
+GUID index: 0
+Attributes: 83h (Runtime, AsciiName, Valid)

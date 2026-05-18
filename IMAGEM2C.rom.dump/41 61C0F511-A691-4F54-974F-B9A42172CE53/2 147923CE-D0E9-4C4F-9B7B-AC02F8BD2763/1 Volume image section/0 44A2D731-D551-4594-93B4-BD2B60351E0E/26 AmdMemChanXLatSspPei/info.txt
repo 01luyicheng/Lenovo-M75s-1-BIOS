@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdMemChanXLatSspPei
+Base: 1D2EAA8h
+Header address: FFD2EAA8h
+Data address: FFD2EAC0h
+Offset: 2CAA8h
+Full size: 416h (1046)
+Header size: 18h (24)
+Body size: 3FEh (1022)
+File GUID: 00D6E846-49C7-4517-AC79-A70E8BC0553C
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: BAh, valid
+Data checksum: AAh, valid

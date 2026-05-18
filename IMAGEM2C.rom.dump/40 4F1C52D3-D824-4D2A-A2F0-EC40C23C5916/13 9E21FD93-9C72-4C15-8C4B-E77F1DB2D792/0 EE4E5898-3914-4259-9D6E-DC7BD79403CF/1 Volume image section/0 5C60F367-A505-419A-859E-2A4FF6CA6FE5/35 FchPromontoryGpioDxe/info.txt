@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: FchPromontoryGpioDxe
+Offset: A0DD0h
+Full size: C22h (3106)
+Header size: 18h (24)
+Body size: C0Ah (3082)
+File GUID: BA26C482-C1DE-4B97-A8BD-160DFDB984AC
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: B6h, valid
+Data checksum: AAh, valid

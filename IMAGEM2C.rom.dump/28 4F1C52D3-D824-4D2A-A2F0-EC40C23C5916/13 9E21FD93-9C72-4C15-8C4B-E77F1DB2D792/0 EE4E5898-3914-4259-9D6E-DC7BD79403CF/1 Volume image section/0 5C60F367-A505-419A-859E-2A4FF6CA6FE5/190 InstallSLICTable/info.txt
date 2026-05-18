@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: InstallSLICTable
+Offset: 65D3C0h
+Full size: DFAh (3578)
+Header size: 18h (24)
+Body size: DE2h (3554)
+File GUID: 07893DFB-115C-4C5E-B54E-9A4E83EE2E70
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 19h, valid
+Data checksum: AAh, valid

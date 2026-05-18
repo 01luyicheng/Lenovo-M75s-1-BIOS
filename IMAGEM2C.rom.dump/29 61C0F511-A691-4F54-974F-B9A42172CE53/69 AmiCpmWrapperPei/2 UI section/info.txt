@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E04264h
+Header address: FEE04264h
+Data address: FEE04268h
+Offset: 47Ch
+Full size: 26h (38)
+Header size: 4h (4)
+Body size: 22h (34)
+Type: 15h
+Text: AmiCpmWrapperPei

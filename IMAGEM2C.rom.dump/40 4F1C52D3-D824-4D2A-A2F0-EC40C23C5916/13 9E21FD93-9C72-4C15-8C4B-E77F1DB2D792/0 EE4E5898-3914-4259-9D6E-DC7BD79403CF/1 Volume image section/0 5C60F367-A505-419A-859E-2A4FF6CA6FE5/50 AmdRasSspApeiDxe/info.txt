@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdRasSspApeiDxe
+Offset: E7280h
+Full size: 3F16h (16150)
+Header size: 18h (24)
+Body size: 3EFEh (16126)
+File GUID: 573A445F-4FB6-C2D3-2CC0-5B9C772CFB94
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: C1h, valid
+Data checksum: AAh, valid

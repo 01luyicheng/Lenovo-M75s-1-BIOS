@@ -1,0 +1,19 @@
+Type: Section
+Subtype: TE image
+Base: DE3A28h
+Header address: FEDE3A28h
+Data address: FEDE3A2Ch
+Offset: 40h
+Full size: 176Ch (5996)
+Header size: 4h (4)
+Body size: 1768h (5992)
+Type: 12h
+Signature: 5A56h
+Machine type: x86
+Number of sections: 3
+Subsystem: 0Bh
+Stripped size: 1C0h (448)
+Base of code: 240h
+Address of entry point: 380h
+Image base: FFDE3894h
+Adjusted image base: FFDE3A2Ch

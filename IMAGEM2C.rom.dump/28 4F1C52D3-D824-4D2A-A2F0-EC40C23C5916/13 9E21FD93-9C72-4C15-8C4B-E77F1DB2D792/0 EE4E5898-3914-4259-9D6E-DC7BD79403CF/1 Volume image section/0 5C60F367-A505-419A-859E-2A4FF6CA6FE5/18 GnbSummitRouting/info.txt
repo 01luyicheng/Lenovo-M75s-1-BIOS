@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: GnbSummitRouting
+Offset: 6A258h
+Full size: DAAh (3498)
+Header size: 18h (24)
+Body size: D92h (3474)
+File GUID: 03FA15BF-A5C8-4006-81B5-B836E7A70030
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: DCh, valid
+Data checksum: AAh, valid

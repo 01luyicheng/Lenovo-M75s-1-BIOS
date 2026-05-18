@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AcpiS3SaveDxe
+Offset: 28B338h
+Full size: 616h (1558)
+Header size: 18h (24)
+Body size: 5FEh (1534)
+File GUID: 2BDED685-F733-455F-A840-43A22B791FB3
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 68h, valid
+Data checksum: AAh, valid

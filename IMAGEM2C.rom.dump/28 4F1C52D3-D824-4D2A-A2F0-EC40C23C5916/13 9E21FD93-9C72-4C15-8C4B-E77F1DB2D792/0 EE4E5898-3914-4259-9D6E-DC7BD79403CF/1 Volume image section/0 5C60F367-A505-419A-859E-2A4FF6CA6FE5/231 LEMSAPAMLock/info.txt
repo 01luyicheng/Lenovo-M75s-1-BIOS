@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: LEMSAPAMLock
+Offset: 688E90h
+Full size: 842h (2114)
+Header size: 18h (24)
+Body size: 82Ah (2090)
+File GUID: 10811F41-037E-4EBE-9872-771D7646FFFA
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: DEh, valid
+Data checksum: AAh, valid

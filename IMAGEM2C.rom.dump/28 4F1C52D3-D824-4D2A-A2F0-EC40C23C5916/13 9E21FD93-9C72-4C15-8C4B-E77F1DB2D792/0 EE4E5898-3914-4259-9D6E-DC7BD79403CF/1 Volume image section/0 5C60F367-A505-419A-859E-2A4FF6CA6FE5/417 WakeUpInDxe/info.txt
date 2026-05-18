@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: WakeUpInDxe
+Offset: AC6C40h
+Full size: 2012h (8210)
+Header size: 18h (24)
+Body size: 1FFAh (8186)
+File GUID: B7963BA1-D5A8-4ABD-B5CE-41940B006901
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 4Ah, valid
+Data checksum: AAh, valid

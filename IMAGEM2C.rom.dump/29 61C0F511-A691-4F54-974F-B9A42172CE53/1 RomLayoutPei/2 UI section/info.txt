@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: D011FCh
+Header address: FED011FCh
+Data address: FED01200h
+Offset: 1074h
+Full size: 1Eh (30)
+Header size: 4h (4)
+Body size: 1Ah (26)
+Type: 15h
+Text: RomLayoutPei

@@ -1,0 +1,15 @@
+Type: Section
+Subtype: PEI dependency
+Base: 1D86F68h
+Header address: FFD86F68h
+Data address: FFD86F6Ch
+Offset: 18h
+Full size: 28h (40)
+Header size: 4h (4)
+Body size: 24h (36)
+Type: 1Bh
+Parsed expression:
+PUSH 12077C15-D82E-44B1-A783-7616D27FA8BC
+PUSH 01F34D25-4DE2-23AD-3FF3-36353FF323F1
+AND
+END

@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmiTcgPlatformPeiAfterMem
+Base: E17C58h
+Header address: FEE17C58h
+Data address: FEE17C70h
+Offset: 117C58h
+Full size: 133Eh (4926)
+Header size: 18h (24)
+Body size: 1326h (4902)
+File GUID: 9B3F28D5-10A6-46C8-BA72-BD40B847A71A
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 25h, valid
+Data checksum: AAh, valid

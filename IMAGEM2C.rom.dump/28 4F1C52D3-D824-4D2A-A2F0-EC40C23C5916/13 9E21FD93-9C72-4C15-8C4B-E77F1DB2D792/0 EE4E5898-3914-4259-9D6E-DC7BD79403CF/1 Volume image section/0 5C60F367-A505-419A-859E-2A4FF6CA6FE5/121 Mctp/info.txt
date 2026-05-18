@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: Mctp
+Offset: 2DFCA0h
+Full size: 5992h (22930)
+Header size: 18h (24)
+Body size: 597Ah (22906)
+File GUID: 9D1E9E1D-B7BE-4AE4-B6A2-0B05544A4122
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 8Ch, valid
+Data checksum: AAh, valid

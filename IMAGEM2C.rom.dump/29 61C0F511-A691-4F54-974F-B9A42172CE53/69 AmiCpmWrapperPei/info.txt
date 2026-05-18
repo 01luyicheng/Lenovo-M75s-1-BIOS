@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmiCpmWrapperPei
+Base: E03DE8h
+Header address: FEE03DE8h
+Data address: FEE03E00h
+Offset: 103DE8h
+Full size: 4B2h (1202)
+Header size: 18h (24)
+Body size: 49Ah (1178)
+File GUID: 3FBD651B-5F0B-47AF-BE25-AE35C63C8D5C
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: B7h, valid
+Data checksum: AAh, valid

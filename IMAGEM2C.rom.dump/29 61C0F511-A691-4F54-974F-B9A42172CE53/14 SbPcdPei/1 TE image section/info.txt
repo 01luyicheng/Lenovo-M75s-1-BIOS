@@ -1,0 +1,19 @@
+Type: Section
+Subtype: TE image
+Base: D12880h
+Header address: FED12880h
+Data address: FED12884h
+Offset: 40h
+Full size: 1044h (4164)
+Header size: 4h (4)
+Body size: 1040h (4160)
+Type: 12h
+Signature: 5A56h
+Machine type: x86
+Number of sections: 3
+Subsystem: 0Bh
+Stripped size: 1A8h (424)
+Base of code: 220h
+Address of entry point: 27Dh
+Image base: FFD12704h
+Adjusted image base: FFD12884h

@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdFabricZpPei
+Base: D29240h
+Header address: FED29240h
+Data address: FED29258h
+Offset: 29240h
+Full size: 3FCEh (16334)
+Header size: 18h (24)
+Body size: 3FB6h (16310)
+File GUID: E5FD5ACD-59F8-4D0A-B3A9-22CB020A6EAA
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: CFh, valid
+Data checksum: AAh, valid

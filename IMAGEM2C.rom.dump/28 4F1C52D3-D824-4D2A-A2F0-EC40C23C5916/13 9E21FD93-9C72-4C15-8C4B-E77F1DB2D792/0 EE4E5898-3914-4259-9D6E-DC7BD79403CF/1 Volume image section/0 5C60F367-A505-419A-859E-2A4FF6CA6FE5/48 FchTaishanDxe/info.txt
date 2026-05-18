@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: FchTaishanDxe
+Offset: DF1C8h
+Full size: 7316h (29462)
+Header size: 18h (24)
+Body size: 72FEh (29438)
+File GUID: E05799E5-DB4B-451C-AC87-5893DD8E4295
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: D4h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdCpmDisplayFeaturePeim
+Base: E3F828h
+Header address: FEE3F828h
+Data address: FEE3F840h
+Offset: 13F828h
+Full size: 55Ah (1370)
+Header size: 18h (24)
+Body size: 542h (1346)
+File GUID: DE3E049C-A218-4891-8658-4FC0AE853298
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 62h, valid
+Data checksum: AAh, valid

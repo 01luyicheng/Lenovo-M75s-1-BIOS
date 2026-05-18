@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdMemoryHobInfoPeim
+Base: D8C810h
+Header address: FED8C810h
+Data address: FED8C828h
+Offset: 8C810h
+Full size: 1ADEh (6878)
+Header size: 18h (24)
+Body size: 1AC6h (6854)
+File GUID: 5EAD1D32-C38A-4508-8DCF-0B9918957A4C
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 9Bh, valid
+Data checksum: AAh, valid

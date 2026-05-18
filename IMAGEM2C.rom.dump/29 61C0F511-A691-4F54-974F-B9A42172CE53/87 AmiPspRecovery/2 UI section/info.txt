@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E1C914h
+Header address: FEE1C914h
+Data address: FEE1C918h
+Offset: 234h
+Full size: 22h (34)
+Header size: 4h (4)
+Body size: 1Eh (30)
+Type: 15h
+Text: AmiPspRecovery

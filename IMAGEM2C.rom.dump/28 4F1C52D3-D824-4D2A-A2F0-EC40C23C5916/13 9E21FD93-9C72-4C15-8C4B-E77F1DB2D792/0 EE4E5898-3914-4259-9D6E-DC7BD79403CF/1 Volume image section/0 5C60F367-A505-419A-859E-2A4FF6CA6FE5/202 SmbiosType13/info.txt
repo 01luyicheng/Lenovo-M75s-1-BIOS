@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SmbiosType13
+Offset: 668D18h
+Full size: 806h (2054)
+Header size: 18h (24)
+Body size: 7EEh (2030)
+File GUID: 598E95A1-9674-4C10-9342-3F06317033F7
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 83h, valid
+Data checksum: AAh, valid

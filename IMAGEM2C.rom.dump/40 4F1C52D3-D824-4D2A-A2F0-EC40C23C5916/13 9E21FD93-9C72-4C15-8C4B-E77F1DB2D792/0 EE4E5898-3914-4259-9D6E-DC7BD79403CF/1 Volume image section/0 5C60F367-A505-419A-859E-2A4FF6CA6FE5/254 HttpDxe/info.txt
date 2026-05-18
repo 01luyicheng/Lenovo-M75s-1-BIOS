@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: HttpDxe
+Offset: 681B08h
+Full size: 91BEh (37310)
+Header size: 18h (24)
+Body size: 91A6h (37286)
+File GUID: 2366C20F-E15A-11E3-8BF1-E4115B28BC50
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 21h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: F2HotKeyAndCorrectPassClr0199
+Offset: 675330h
+Full size: 926h (2342)
+Header size: 18h (24)
+Body size: 90Eh (2318)
+File GUID: BE9BE8AE-EBBB-450F-962C-BE1938E3FEF9
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 36h, valid
+Data checksum: AAh, valid

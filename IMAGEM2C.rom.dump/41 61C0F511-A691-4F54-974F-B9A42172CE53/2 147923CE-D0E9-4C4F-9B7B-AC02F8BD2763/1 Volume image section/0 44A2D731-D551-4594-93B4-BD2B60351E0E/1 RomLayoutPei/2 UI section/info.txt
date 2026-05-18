@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D0329Ch
+Header address: FFD0329Ch
+Data address: FFD032A0h
+Offset: 1114h
+Full size: 1Eh (30)
+Header size: 4h (4)
+Body size: 1Ah (26)
+Type: 15h
+Text: RomLayoutPei

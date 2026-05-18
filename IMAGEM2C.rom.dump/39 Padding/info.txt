@@ -1,0 +1,8 @@
+Type: Padding
+Subtype: Non-empty
+Base: 13C2B80h
+Address: FF3C2B80h
+Offset: 13C2B80h
+Full size: 4E480h (320640)
+Body size: 4E480h (320640)
+

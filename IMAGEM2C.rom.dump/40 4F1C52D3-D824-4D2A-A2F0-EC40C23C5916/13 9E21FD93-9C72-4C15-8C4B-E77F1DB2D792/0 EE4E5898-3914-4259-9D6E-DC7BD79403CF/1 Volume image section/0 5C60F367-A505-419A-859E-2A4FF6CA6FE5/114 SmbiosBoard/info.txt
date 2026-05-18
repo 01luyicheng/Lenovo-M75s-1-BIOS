@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SmbiosBoard
+Offset: 34D480h
+Full size: 86Eh (2158)
+Header size: 18h (24)
+Body size: 856h (2134)
+File GUID: CEF68C66-06AB-4FB3-A3ED-5FFA885B5725
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: D2h, valid
+Data checksum: AAh, valid

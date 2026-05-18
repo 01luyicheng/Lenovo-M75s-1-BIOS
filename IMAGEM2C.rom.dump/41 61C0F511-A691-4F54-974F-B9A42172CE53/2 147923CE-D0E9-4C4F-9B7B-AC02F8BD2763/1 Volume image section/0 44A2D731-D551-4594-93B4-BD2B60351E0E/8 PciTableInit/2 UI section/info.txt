@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D10EBCh
+Header address: FFD10EBCh
+Data address: FFD10EC0h
+Offset: 414h
+Full size: 1Eh (30)
+Header size: 4h (4)
+Body size: 1Ah (26)
+Type: 15h
+Text: PciTableInit

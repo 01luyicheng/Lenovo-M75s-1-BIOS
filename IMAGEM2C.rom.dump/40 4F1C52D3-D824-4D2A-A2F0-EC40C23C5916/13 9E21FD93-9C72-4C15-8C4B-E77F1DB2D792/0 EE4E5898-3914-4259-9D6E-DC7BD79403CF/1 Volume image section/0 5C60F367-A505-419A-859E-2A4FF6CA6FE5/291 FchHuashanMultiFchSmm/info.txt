@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: FchHuashanMultiFchSmm
+Offset: 8D1FB0h
+Full size: 552Eh (21806)
+Header size: 18h (24)
+Body size: 5516h (21782)
+File GUID: 9C82D2DE-1F8D-4496-A5B0-FCE7537F6ABC
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: EFh, valid
+Data checksum: AAh, valid

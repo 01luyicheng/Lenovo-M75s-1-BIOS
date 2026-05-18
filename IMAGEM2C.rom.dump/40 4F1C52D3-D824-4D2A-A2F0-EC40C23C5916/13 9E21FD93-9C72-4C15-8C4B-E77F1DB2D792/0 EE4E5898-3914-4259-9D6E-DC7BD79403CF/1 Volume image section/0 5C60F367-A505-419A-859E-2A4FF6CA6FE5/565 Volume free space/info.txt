@@ -1,0 +1,6 @@
+Type: Free space
+Subtype: 
+Offset: D673A0h
+Full size: C60h (3168)
+Body size: C60h (3168)
+

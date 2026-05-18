@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: ChassisIntrusionS3
+Base: E20C58h
+Header address: FEE20C58h
+Data address: FEE20C70h
+Offset: 120C58h
+Full size: 462h (1122)
+Header size: 18h (24)
+Body size: 44Ah (1098)
+File GUID: E378875C-3282-48A0-A9A8-B1E4E16BD513
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: A0h, valid
+Data checksum: AAh, valid

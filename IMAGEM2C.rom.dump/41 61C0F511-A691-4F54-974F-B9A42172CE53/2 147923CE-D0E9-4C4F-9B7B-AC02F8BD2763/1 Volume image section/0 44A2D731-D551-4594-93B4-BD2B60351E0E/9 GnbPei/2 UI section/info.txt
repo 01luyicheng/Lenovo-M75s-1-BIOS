@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D12378h
+Header address: FFD12378h
+Data address: FFD1237Ch
+Offset: 1488h
+Full size: 12h (18)
+Header size: 4h (4)
+Body size: Eh (14)
+Type: 15h
+Text: GnbPei

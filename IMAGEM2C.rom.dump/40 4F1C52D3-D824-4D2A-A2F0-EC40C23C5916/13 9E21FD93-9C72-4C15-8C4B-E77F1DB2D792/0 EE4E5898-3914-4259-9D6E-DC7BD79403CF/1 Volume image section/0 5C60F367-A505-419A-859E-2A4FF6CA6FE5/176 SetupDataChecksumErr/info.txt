@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SetupDataChecksumErr
+Offset: 5A67D8h
+Full size: 812h (2066)
+Header size: 18h (24)
+Body size: 7FAh (2042)
+File GUID: DB41E01B-A8B0-4E15-B619-4463975B357B
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: F5h, valid
+Data checksum: AAh, valid

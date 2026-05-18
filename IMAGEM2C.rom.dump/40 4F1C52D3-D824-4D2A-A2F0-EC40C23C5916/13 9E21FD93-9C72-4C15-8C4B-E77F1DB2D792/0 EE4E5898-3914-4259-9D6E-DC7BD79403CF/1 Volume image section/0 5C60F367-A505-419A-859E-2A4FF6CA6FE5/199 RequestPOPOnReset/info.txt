@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: RequestPOPOnReset
+Offset: 5BD3F8h
+Full size: 8BEh (2238)
+Header size: 18h (24)
+Body size: 8A6h (2214)
+File GUID: CF46C339-0651-407A-8E85-D0D72731CCD5
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 5Eh, valid
+Data checksum: AAh, valid

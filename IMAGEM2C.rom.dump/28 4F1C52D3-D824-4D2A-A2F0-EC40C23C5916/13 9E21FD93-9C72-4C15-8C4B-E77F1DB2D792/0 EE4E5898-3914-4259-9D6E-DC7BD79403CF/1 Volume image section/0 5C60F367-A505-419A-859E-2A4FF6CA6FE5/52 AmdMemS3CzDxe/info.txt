@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdMemS3CzDxe
+Offset: E7F28h
+Full size: 19C72h (105586)
+Header size: 18h (24)
+Body size: 19C5Ah (105562)
+File GUID: E41BE5F9-EC41-454E-B125-A50EE117CA02
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 00h, valid
+Data checksum: AAh, valid

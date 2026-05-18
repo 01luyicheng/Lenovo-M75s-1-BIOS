@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: DFE214h
+Header address: FEDFE214h
+Data address: FEDFE218h
+Offset: 2CF4h
+Full size: 1Eh (30)
+Header size: 4h (4)
+Body size: 1Ah (26)
+Type: 15h
+Text: CbsBasePeiZP

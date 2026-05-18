@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: EzTpmUpdNtcTpmFwUpdDrv
+Offset: 3A7260h
+Full size: 53B6h (21430)
+Header size: 18h (24)
+Body size: 539Eh (21406)
+File GUID: 489E23AB-F146-40D2-931D-90275F151DF1
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 0Ah, valid
+Data checksum: AAh, valid

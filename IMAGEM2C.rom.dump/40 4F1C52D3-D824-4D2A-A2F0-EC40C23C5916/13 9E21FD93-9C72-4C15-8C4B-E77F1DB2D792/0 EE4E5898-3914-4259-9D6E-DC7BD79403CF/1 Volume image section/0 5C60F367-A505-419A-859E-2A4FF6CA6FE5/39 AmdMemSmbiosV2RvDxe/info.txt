@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdMemSmbiosV2RvDxe
+Offset: A3730h
+Full size: E1Eh (3614)
+Header size: 18h (24)
+Body size: E06h (3590)
+File GUID: EA7BF2CC-F154-4CC4-A725-6382C701FBFE
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: E3h, valid
+Data checksum: AAh, valid

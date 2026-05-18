@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdNbioIOMMUZPDxe
+Offset: 109C58h
+Full size: 5A22h (23074)
+Header size: 18h (24)
+Body size: 5A0Ah (23050)
+File GUID: C9C30DD7-91D6-4F75-BF08-846E6020F1A8
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 10h, valid
+Data checksum: AAh, valid

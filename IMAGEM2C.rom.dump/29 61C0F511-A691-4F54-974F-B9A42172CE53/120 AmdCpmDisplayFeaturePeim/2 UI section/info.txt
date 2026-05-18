@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E3FD3Ch
+Header address: FEE3FD3Ch
+Data address: FEE3FD40h
+Offset: 514h
+Full size: 36h (54)
+Header size: 4h (4)
+Body size: 32h (50)
+Type: 15h
+Text: AmdCpmDisplayFeaturePeim

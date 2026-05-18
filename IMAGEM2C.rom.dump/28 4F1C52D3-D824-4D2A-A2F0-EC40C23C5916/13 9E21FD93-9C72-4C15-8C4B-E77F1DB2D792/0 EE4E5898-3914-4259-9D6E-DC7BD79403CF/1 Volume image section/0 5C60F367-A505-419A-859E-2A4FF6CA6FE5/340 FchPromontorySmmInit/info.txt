@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: FchPromontorySmmInit
+Offset: 9BD270h
+Full size: A06h (2566)
+Header size: 18h (24)
+Body size: 9EEh (2542)
+File GUID: 4220AB9B-1730-49C5-A89F-B471CF43B221
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 98h, valid
+Data checksum: AAh, valid

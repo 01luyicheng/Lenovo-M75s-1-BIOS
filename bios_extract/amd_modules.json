@@ -1,0 +1,1962 @@
+[
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCcxXvDxe",
+    "guid": "6D000308-C913-40DB-AD40-B3094FB0F756",
+    "offset": 0,
+    "size": 24,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCcxXvDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCcxZenRvDxe",
+    "guid": "3C9A095D-C3CB-4302-96E1-7105A7C46A69",
+    "offset": 0,
+    "size": 30,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCcxZenRvDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCcxZenZpDxe",
+    "guid": "4A1A67D0-E77A-4F0A-AF1D-CC412BE93DC9",
+    "offset": 0,
+    "size": 30,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCcxZenZpDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdErrorLogDxe",
+    "guid": "8624F36D-6DE0-44C3-8322-74AD419D3A90",
+    "offset": 0,
+    "size": 30,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdErrorLogDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdFabricRvDxe",
+    "guid": "25075106-F537-4BD4-AFA5-CFF0E6F3B2A6",
+    "offset": 0,
+    "size": 30,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdFabricRvDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdUnbXvDxe",
+    "guid": "9C1E8BCF-7072-45F4-ACC3-98700A0FC907",
+    "offset": 0,
+    "size": 24,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdUnbXvDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdFabricZpDxe",
+    "guid": "927AE345-BB7B-434F-8D29-71BE0D12AB2C",
+    "offset": 0,
+    "size": 30,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdFabricZpDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "FchPromontoryGpioDxe",
+    "guid": "BA26C482-C1DE-4B97-A8BD-160DFDB984AC",
+    "offset": 0,
+    "size": 42,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///FchPromontoryGpioDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "FchPromontorySsdt",
+    "guid": "84FB407D-D076-4DDD-871F-33373A26BABB",
+    "offset": 0,
+    "size": 36,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///FchPromontorySsdt"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemAm4Dxe",
+    "guid": "9FF8B917-D14C-4A43-9314-123DA3960AD6",
+    "offset": 0,
+    "size": 26,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdMemAm4Dxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemRestoreDxe",
+    "guid": "95DE95F8-A215-48C3-814A-40F07B925D24",
+    "offset": 0,
+    "size": 34,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdMemRestoreDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemS3CzDxe",
+    "guid": "E41BE5F9-EC41-454E-B125-A50EE117CA02",
+    "offset": 0,
+    "size": 28,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdMemS3CzDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemSmbiosDxe",
+    "guid": "B02F63AF-96D2-4040-A15B-CBB8ADF81933",
+    "offset": 0,
+    "size": 32,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdMemSmbiosDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemSmbiosV2RvDxe",
+    "guid": "EA7BF2CC-F154-4CC4-A725-6382C701FBFE",
+    "offset": 0,
+    "size": 40,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdMemSmbiosV2RvDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioGfxRVDxe",
+    "guid": "FA70AFCC-3715-4D15-8699-F0DF4CAFC6D3",
+    "offset": 0,
+    "size": 32,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdNbioGfxRVDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioIOMMURVDxe",
+    "guid": "73F53712-2A64-4B86-961D-C25B63DF198C",
+    "offset": 0,
+    "size": 36,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdNbioIOMMURVDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioIOMMUZPDxe",
+    "guid": "C9C30DD7-91D6-4F75-BF08-846E6020F1A8",
+    "offset": 0,
+    "size": 36,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdNbioIOMMUZPDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioAlibRVDxe",
+    "guid": "28AB63A9-5FB0-4C93-9C44-0DD8A1E9101D",
+    "offset": 0,
+    "size": 34,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdNbioAlibRVDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioAlibZpDxe",
+    "guid": "4A3ED697-E9BC-40FE-BDD5-6F99FCDCE9F4",
+    "offset": 0,
+    "size": 34,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdNbioAlibZpDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioBaseCZDxe",
+    "guid": "F81B1762-B783-4E64-AAE3-BE61B5A9039F",
+    "offset": 0,
+    "size": 34,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdNbioBaseCZDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioBaseRVDxe",
+    "guid": "D4F90895-A60B-4E97-B446-2855246F8930",
+    "offset": 0,
+    "size": 34,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdNbioBaseRVDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioBaseZPDxe",
+    "guid": "351D2427-262C-4A0B-874C-23703B4AA88D",
+    "offset": 0,
+    "size": 34,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdNbioBaseZPDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioPcieRVDxe",
+    "guid": "D7908EC2-227A-472F-8095-6A159DD723D2",
+    "offset": 0,
+    "size": 34,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdNbioPcieRVDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioPcieZPDxe",
+    "guid": "E0E2C90C-F1AD-4759-8EA9-5B4E770576CD",
+    "offset": 0,
+    "size": 34,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdNbioPcieZPDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioSmuV9Dxe",
+    "guid": "5AD83885-8955-499B-8E9A-EBC24B6E76B1",
+    "offset": 0,
+    "size": 32,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdNbioSmuV9Dxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioSmuV10Dxe",
+    "guid": "6F960C35-FFED-4778-99A1-4D998CE519B9",
+    "offset": 0,
+    "size": 34,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdNbioSmuV10Dxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdHstiV2",
+    "guid": "5466B9AA-EE2F-4FDB-84A3-A330BE1301FF",
+    "offset": 0,
+    "size": 20,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdHstiV2"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdPspDxeV1",
+    "guid": "094788DA-6FFA-4031-B435-FF9623656034",
+    "offset": 0,
+    "size": 24,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdPspDxeV1"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdPspDxeV2Rv",
+    "guid": "8B786703-E8C7-4BEA-8F07-CDF991B90999",
+    "offset": 0,
+    "size": 28,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdPspDxeV2Rv"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdPspDxeV2Zp",
+    "guid": "ED8FD9DC-2097-425E-B743-64EFB99D5F0D",
+    "offset": 0,
+    "size": 28,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdPspDxeV2Zp"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdPspFtpmDxe",
+    "guid": "023B3AA9-098F-4027-B83F-B6407DA06569",
+    "offset": 0,
+    "size": 28,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdPspFtpmDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdApcbRvDxe",
+    "guid": "5B2820BB-9A8A-443D-A84C-73B925C5727A",
+    "offset": 0,
+    "size": 26,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdApcbRvDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdApcbZpDxe",
+    "guid": "2237C798-93E7-4119-B10C-CF75CD22BFE0",
+    "offset": 0,
+    "size": 26,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdApcbZpDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdHstiV1",
+    "guid": "55025E9D-32E9-403B-81C1-F9E3D9D70640",
+    "offset": 0,
+    "size": 20,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdHstiV1"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdRasBrApeiDxe",
+    "guid": "10D93A56-2D64-47D3-828D-7A5066915292",
+    "offset": 0,
+    "size": 32,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdRasBrApeiDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdRasRvApeiDxe",
+    "guid": "3CD405CE-2D91-44E9-895D-4459EECD8F9A",
+    "offset": 0,
+    "size": 32,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdRasRvApeiDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdRasRvDxe",
+    "guid": "0684C591-19E8-499D-978A-D715636F1DAB",
+    "offset": 0,
+    "size": 24,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdRasRvDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdSocAm4BrDxe",
+    "guid": "5F749A1D-9500-48CE-A41F-D0F2F71DEF8C",
+    "offset": 0,
+    "size": 30,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdSocAm4BrDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdSocAm4RvDxe",
+    "guid": "90A06ED8-D514-4CC5-B11C-7743BEE24C55",
+    "offset": 0,
+    "size": 30,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdSocAm4RvDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdSocAm4SmDxe",
+    "guid": "2ADB6E4C-C983-4140-A160-FBC7D6B450D9",
+    "offset": 0,
+    "size": 30,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdSocAm4SmDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdAcpiDxe",
+    "guid": "729B3079-8913-4E12-AFEF-2CA264799469",
+    "offset": 0,
+    "size": 22,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdAcpiDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdiGpuVgaControlDxe",
+    "guid": "6C9AA1EC-286E-4A0A-AA98-E2E530626F4D",
+    "offset": 0,
+    "size": 42,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdiGpuVgaControlDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdSmbiosDxe",
+    "guid": "52A9B223-FAB8-4A24-AEA6-461A59BD3F33",
+    "offset": 0,
+    "size": 26,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdSmbiosDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdVersionDxe",
+    "guid": "29D40F30-E8BF-4803-88A6-4247A29A5318",
+    "offset": 0,
+    "size": 28,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdVersionDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "CbsBaseDxeZP",
+    "guid": "FEC445CC-2466-4DCE-9052-7400E044554F",
+    "offset": 0,
+    "size": 26,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///CbsBaseDxeZP"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "CbsBaseDxeRV",
+    "guid": "17AF0060-A98C-4A03-90AD-6ABED75045BD",
+    "offset": 0,
+    "size": 26,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///CbsBaseDxeRV"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "CbsSetupDxeZP",
+    "guid": "A5E369C8-ABF9-4B43-B212-FF1BFD35666D",
+    "offset": 0,
+    "size": 28,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///CbsSetupDxeZP"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "CbsSetupDxeRV",
+    "guid": "3E7788CA-2BFC-4FCE-8122-5176CA492D9F",
+    "offset": 0,
+    "size": 28,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///CbsSetupDxeRV"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmiCbsDxe",
+    "guid": "8E09C390-1B30-415E-AF5C-D42AB0160F8C",
+    "offset": 0,
+    "size": 20,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmiCbsDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmSocAm4RvDxe",
+    "guid": "18EBDB3E-95C2-4725-AB63-74B478C475DE",
+    "offset": 0,
+    "size": 36,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCpmSocAm4RvDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmSocAm4SmbRDxe",
+    "guid": "2C6FF095-525C-4128-BD00-B8DA5E52A76E",
+    "offset": 0,
+    "size": 40,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCpmSocAm4SmbRDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdPbsSetupDxe",
+    "guid": "BBB77CB9-762D-436C-AC40-8EE4901C3446",
+    "offset": 0,
+    "size": 30,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdPbsSetupDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmOemInitDxe",
+    "guid": "71A37E51-F3C8-4B99-B335-A661CA8AD13A",
+    "offset": 0,
+    "size": 34,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCpmOemInitDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmAdaptiveS4Dxe",
+    "guid": "73CD248F-420B-4618-8F74-E15FF48258B5",
+    "offset": 0,
+    "size": 40,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCpmAdaptiveS4Dxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmDisplayFeatureDxe",
+    "guid": "57E9EEE9-EB7D-4453-BBF7-6C138BF06458",
+    "offset": 0,
+    "size": 48,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCpmDisplayFeatureDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmGpioInitDxe",
+    "guid": "71032D4B-4B91-4EC1-AD53-81827FB43108",
+    "offset": 0,
+    "size": 36,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCpmGpioInitDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmPcieInitDxe",
+    "guid": "C5FA0EE8-2D81-4202-A021-3DA700B3DEAE",
+    "offset": 0,
+    "size": 36,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCpmPcieInitDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmInitDxe",
+    "guid": "162793AA-0FE7-4010-9818-45F55C5CCC3E",
+    "offset": 0,
+    "size": 28,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCpmInitDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdSpiRomProtectDxe",
+    "guid": "C178E415-6E49-469A-B73D-F6C5EB4101EB",
+    "offset": 0,
+    "size": 40,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdSpiRomProtectDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmiAgesaDxe",
+    "guid": "1DFB7BFA-BF8E-4D11-9766-2FB0D0442310",
+    "offset": 0,
+    "size": 24,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmiAgesaDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmiAmdUefiRaid",
+    "guid": "164E5590-FB7A-47B9-8687-3E91DA499D97",
+    "offset": 0,
+    "size": 30,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmiAmdUefiRaid"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdSmmControl",
+    "guid": "E2B40649-EAA4-434F-8BBC-9FA4A82E6AAE",
+    "offset": 0,
+    "size": 28,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdSmmControl"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdSmmControl",
+    "guid": "7C604CBD-5440-46E1-97F7-A4DF8DD09C1C",
+    "offset": 0,
+    "size": 28,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdSmmControl"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdSmmControl",
+    "guid": "688BC4BB-6FDB-4B33-A8E1-D7A952DF4B4A",
+    "offset": 0,
+    "size": 28,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdSmmControl"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCcxXvSmm",
+    "guid": "72748AA2-B149-4D14-8FF1-10F5836C8933",
+    "offset": 0,
+    "size": 24,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCcxXvSmm"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCcxZenRvSmm",
+    "guid": "B759169B-61E2-4F92-9447-23E3DCD33CEC",
+    "offset": 0,
+    "size": 30,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCcxZenRvSmm"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCcxZenZpSmm",
+    "guid": "317BC006-9056-42C8-A1C1-92A1AABBC9EE",
+    "offset": 0,
+    "size": 30,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCcxZenZpSmm"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdFabricRvSmm",
+    "guid": "C1B135AA-7ACB-45D0-80B7-862B8D5F0CD5",
+    "offset": 0,
+    "size": 30,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdFabricRvSmm"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdFabricZpSmm",
+    "guid": "2E97EA24-5866-4240-A891-D20AFC6074FF",
+    "offset": 0,
+    "size": 30,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdFabricZpSmm"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "FchPromontoryGpioSmmInit",
+    "guid": "F7DFDECF-9C36-4D43-85A4-6D92DAFC3477",
+    "offset": 0,
+    "size": 50,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///FchPromontoryGpioSmmInit"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "FchPromontorySmmInit",
+    "guid": "4220AB9B-1730-49C5-A89F-B471CF43B221",
+    "offset": 0,
+    "size": 42,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///FchPromontorySmmInit"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdPspP2CmboxV1",
+    "guid": "8DDE1037-94E5-4B84-8611-279A004BA8F5",
+    "offset": 0,
+    "size": 32,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdPspP2CmboxV1"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdPspP2CmboxV2",
+    "guid": "4759E93E-8F44-448F-88A1-BD97FC47BEA5",
+    "offset": 0,
+    "size": 32,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdPspP2CmboxV2"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdPspSmmV1",
+    "guid": "4C47E0B5-E369-469F-B359-28DBD736A131",
+    "offset": 0,
+    "size": 24,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdPspSmmV1"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdPspSmmV2",
+    "guid": "6169AB1C-B05F-4D9C-AFEA-192911E41CE2",
+    "offset": 0,
+    "size": 24,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdPspSmmV2"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdApcbRvSmm",
+    "guid": "97A03375-250D-4C59-93A8-F76796725E18",
+    "offset": 0,
+    "size": 26,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdApcbRvSmm"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdApcbZpSmm",
+    "guid": "599438A7-4292-4977-8C06-FFC16C445E83",
+    "offset": 0,
+    "size": 26,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdApcbZpSmm"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdRasRvSmm",
+    "guid": "164CE56B-5EBC-4984-B0DA-C12B4F21D2EC",
+    "offset": 0,
+    "size": 24,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdRasRvSmm"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdSmmCommunication",
+    "guid": "64E6D006-E62A-481E-8F5A-3F76C9184741",
+    "offset": 0,
+    "size": 40,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdSmmCommunication"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmOemSmm",
+    "guid": "B9B0F38D-1F27-4F46-9F44-42D694729882",
+    "offset": 0,
+    "size": 26,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCpmOemSmm"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmAdaptiveS4Smm",
+    "guid": "E13DD38C-1B41-49F5-8D92-0839D4234AA2",
+    "offset": 0,
+    "size": 40,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCpmAdaptiveS4Smm"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmDisplayFeatureSmm",
+    "guid": "30AF4110-A58E-4EF7-8C75-B725939B3B9F",
+    "offset": 0,
+    "size": 48,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCpmDisplayFeatureSmm"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmDisplayFeatureSmmBr",
+    "guid": "C30ADC21-4AA5-4313-A7E7-53395B42BEAB",
+    "offset": 0,
+    "size": 52,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCpmDisplayFeatureSmmBr"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmGpioInitSmm",
+    "guid": "CD1C556B-62BF-4EEC-8E73-7731F8E847B2",
+    "offset": 0,
+    "size": 36,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCpmGpioInitSmm"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmInitSmm",
+    "guid": "30AF1245-A58E-4EF7-8C75-B725939B3B9F",
+    "offset": 0,
+    "size": 28,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCpmInitSmm"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "NvramDxe",
+    "guid": "1807040D-5934-41A2-A088-8E0F777F71AB",
+    "offset": 0,
+    "size": 18,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///NvramDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "RamDiskDxe",
+    "guid": "28A03FF4-12B3-4305-A417-BB1A4F94081E",
+    "offset": 0,
+    "size": 22,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///RamDiskDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "CpuSetAgesaPcd",
+    "guid": "4DF75915-6C88-4EF4-995D-834D866DBD20",
+    "offset": 0,
+    "size": 30,
+    "path": "13500456///CpuSetAgesaPcd"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCcxXvPei",
+    "guid": "715783DE-BC09-46BC-AE7D-E39879591197",
+    "offset": 0,
+    "size": 24,
+    "path": "13500456///AmdCcxXvPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCcxZenRvPei",
+    "guid": "D3A6CF7C-2A13-4DCD-961F-B88C85ACEB34",
+    "offset": 0,
+    "size": 30,
+    "path": "13500456///AmdCcxZenRvPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCcxZenZpPei",
+    "guid": "69000FC4-15E6-45CF-A6D4-73337A9B5958",
+    "offset": 0,
+    "size": 30,
+    "path": "13500456///AmdCcxZenZpPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdErrorPei",
+    "guid": "A5C02C56-19A7-43B5-A0D0-04518A1CA69E",
+    "offset": 0,
+    "size": 24,
+    "path": "13500456///AmdErrorPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdFabricRvPei",
+    "guid": "09DF88E2-0E05-4F28-A55F-0D62BFBCF59F",
+    "offset": 0,
+    "size": 30,
+    "path": "13500456///AmdFabricRvPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdUnbXvPei",
+    "guid": "A7FD9E38-C005-45AD-8B65-F13CF6A1FD79",
+    "offset": 0,
+    "size": 24,
+    "path": "13500456///AmdUnbXvPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdFabricZpPei",
+    "guid": "E5FD5ACD-59F8-4D0A-B3A9-22CB020A6EAA",
+    "offset": 0,
+    "size": 30,
+    "path": "13500456///AmdFabricZpPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "FchPromontoryCbsPei",
+    "guid": "3ECEB3C6-1B1C-4729-9C62-33DD81D65DDE",
+    "offset": 0,
+    "size": 40,
+    "path": "13500456///FchPromontoryCbsPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "FchPromontoryGpioPei",
+    "guid": "2885E4AE-09A5-4EC8-A908-60C4E4A92BAC",
+    "offset": 0,
+    "size": 42,
+    "path": "13500456///FchPromontoryGpioPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "FchPromontoryXhciPei",
+    "guid": "53070378-119A-4836-77BD-893C824ACEB2",
+    "offset": 0,
+    "size": 42,
+    "path": "13500456///FchPromontoryXhciPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemAm4ZpPei",
+    "guid": "9FF8B817-D14C-4A43-9314-123DA3960AD6",
+    "offset": 0,
+    "size": 30,
+    "path": "13500456///AmdMemAm4ZpPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemChanXLatZpPei",
+    "guid": "F19071B5-B2F6-4A9C-B2E2-FBF56DA5B229",
+    "offset": 0,
+    "size": 40,
+    "path": "13500456///AmdMemChanXLatZpPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemCzPei",
+    "guid": "6E67A6B5-84EF-4F26-902F-E508D8F3F1AF",
+    "offset": 0,
+    "size": 24,
+    "path": "13500456///AmdMemCzPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemFeatPei",
+    "guid": "520C3847-71A0-40E7-A895-8C8997C33455",
+    "offset": 0,
+    "size": 28,
+    "path": "13500456///AmdMemFeatPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemoryHobInfoPeim",
+    "guid": "5EAD1D32-C38A-4508-8DCF-0B9918957A4C",
+    "offset": 0,
+    "size": 42,
+    "path": "13500456///AmdMemoryHobInfoPeim"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemoryHobInfoPeim",
+    "guid": "46233426-744E-4763-958D-44B1200B320A",
+    "offset": 0,
+    "size": 42,
+    "path": "13500456///AmdMemoryHobInfoPeim"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemRestorePei",
+    "guid": "4B6E1294-08D2-4131-83E4-14BE9FCD42C1",
+    "offset": 0,
+    "size": 34,
+    "path": "13500456///AmdMemRestorePei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemSmbiosV2RvPei",
+    "guid": "F6663081-02D1-4F52-B57C-FDAD224941D4",
+    "offset": 0,
+    "size": 40,
+    "path": "13500456///AmdMemSmbiosV2RvPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemSmbiosV2ZpPei",
+    "guid": "A490D6C3-A8DF-4235-B756-3A2ECF32BC24",
+    "offset": 0,
+    "size": 40,
+    "path": "13500456///AmdMemSmbiosV2ZpPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioEarlyPhaseRVPei",
+    "guid": "52DFCF2E-5BE5-4376-BC22-14F788A4A425",
+    "offset": 0,
+    "size": 46,
+    "path": "13500456///AmdNbioEarlyPhaseRVPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioGfxRVPei",
+    "guid": "D0FF5E04-1D07-491D-970E-E220A3B79611",
+    "offset": 0,
+    "size": 32,
+    "path": "13500456///AmdNbioGfxRVPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioIOMMUZPPei",
+    "guid": "C59716EE-2D90-4B1D-9C36-16523E105689",
+    "offset": 0,
+    "size": 36,
+    "path": "13500456///AmdNbioIOMMUZPPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioBaseCZPei",
+    "guid": "B76E5014-EB63-47EB-8915-686FCC3820B9",
+    "offset": 0,
+    "size": 34,
+    "path": "13500456///AmdNbioBaseCZPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioBaseRVPei",
+    "guid": "F95754C4-784D-4155-A05E-5C0AE2559FF8",
+    "offset": 0,
+    "size": 34,
+    "path": "13500456///AmdNbioBaseRVPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioBaseZPPei",
+    "guid": "7BF3F3C8-4FCA-49A7-804F-9033D2E47841",
+    "offset": 0,
+    "size": 34,
+    "path": "13500456///AmdNbioBaseZPPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioPcieRVPei",
+    "guid": "2B9E5A05-686F-4E72-AF0A-2D7BAA61E918",
+    "offset": 0,
+    "size": 34,
+    "path": "13500456///AmdNbioPcieRVPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioPcieZPPei",
+    "guid": "B268252E-541A-4907-9542-6AC8196C5D2D",
+    "offset": 0,
+    "size": 34,
+    "path": "13500456///AmdNbioPcieZPPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioSmuV10Pei",
+    "guid": "7307BD0F-8B7A-4BA5-9AF6-3997D1E32786",
+    "offset": 0,
+    "size": 34,
+    "path": "13500456///AmdNbioSmuV10Pei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioSmuV8Pei",
+    "guid": "B09FBA70-839F-4079-920B-81D8964361F6",
+    "offset": 0,
+    "size": 32,
+    "path": "13500456///AmdNbioSmuV8Pei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioSmuV9Pei",
+    "guid": "72133706-A922-43F1-9C75-581D9AE8F666",
+    "offset": 0,
+    "size": 32,
+    "path": "13500456///AmdNbioSmuV9Pei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdPspFtpmPei",
+    "guid": "2FC61DE6-1791-479C-8A32-7ABB69A4D8D0",
+    "offset": 0,
+    "size": 28,
+    "path": "13500456///AmdPspFtpmPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdPspPeiV1",
+    "guid": "30572445-4C9B-4726-B080-D9AEA2B03DF1",
+    "offset": 0,
+    "size": 24,
+    "path": "13500456///AmdPspPeiV1"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdPspPeiV2",
+    "guid": "0C556BFF-B16A-439D-A3EC-1164378E2C2A",
+    "offset": 0,
+    "size": 24,
+    "path": "13500456///AmdPspPeiV2"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdSocAm4BrPei",
+    "guid": "A799931B-FDB0-40B2-8A25-D26B58885379",
+    "offset": 0,
+    "size": 30,
+    "path": "13500456///AmdSocAm4BrPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdSocAm4RvPei",
+    "guid": "B921DC51-49D4-4C14-9089-931C2D6B92BE",
+    "offset": 0,
+    "size": 30,
+    "path": "13500456///AmdSocAm4RvPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdSocAm4SmPei",
+    "guid": "0A4FB373-359F-4A34-B354-AB7B2EB72552",
+    "offset": 0,
+    "size": 30,
+    "path": "13500456///AmdSocAm4SmPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdVersionPei",
+    "guid": "70456853-D70E-496C-B6B1-CF88A30BE1A9",
+    "offset": 0,
+    "size": 28,
+    "path": "13500456///AmdVersionPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "CbsBasePeiZP",
+    "guid": "2BC18FFC-7CF6-47C1-AF19-A4076DC00470",
+    "offset": 0,
+    "size": 26,
+    "path": "13500456///CbsBasePeiZP"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "CbsBasePeiRV",
+    "guid": "045E78D8-3D5D-4EE5-90AA-42121E1EEE49",
+    "offset": 0,
+    "size": 26,
+    "path": "13500456///CbsBasePeiRV"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdSpiRomProtectPei",
+    "guid": "9D5FD24C-53DF-44AC-A336-B4879CDB29D9",
+    "offset": 0,
+    "size": 40,
+    "path": "13500456///AmdSpiRomProtectPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmiAgesaPei",
+    "guid": "586032E3-1386-4ECC-B547-EB285E21066D",
+    "offset": 0,
+    "size": 24,
+    "path": "13500456///AmiAgesaPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmSocAm4SmBrPei",
+    "guid": "B085B8FC-CCFC-4337-A59C-DE4ACA1B0365",
+    "offset": 0,
+    "size": 40,
+    "path": "13500456///AmdCpmSocAm4SmBrPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmSocAm4RvPei",
+    "guid": "EF351864-16F3-4A2F-B57D-3B9B785A6248",
+    "offset": 0,
+    "size": 36,
+    "path": "13500456///AmdCpmSocAm4RvPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmOemInitPeim",
+    "guid": "D617467B-1FF7-403F-A87D-29F61C80EE7C",
+    "offset": 0,
+    "size": 36,
+    "path": "13500456///AmdCpmOemInitPeim"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmOemRvInitPeim",
+    "guid": "4DF17188-F320-4715-82DA-A05DEF51F1D8",
+    "offset": 0,
+    "size": 40,
+    "path": "13500456///AmdCpmOemRvInitPeim"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmInitPeim",
+    "guid": "D919136E-865C-4B10-B099-5D897CFEDE08",
+    "offset": 0,
+    "size": 30,
+    "path": "13500456///AmdCpmInitPeim"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmPcieInitPeim",
+    "guid": "DE3D7A9C-A218-4891-7469-4FC0AE853298",
+    "offset": 0,
+    "size": 38,
+    "path": "13500456///AmdCpmPcieInitPeim"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmDisplayFeaturePeim",
+    "guid": "DE3E049C-A218-4891-8658-4FC0AE853298",
+    "offset": 0,
+    "size": 50,
+    "path": "13500456///AmdCpmDisplayFeaturePeim"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmGpioInitPeim",
+    "guid": "DE3E049C-A218-4891-7469-4FC0AE853298",
+    "offset": 0,
+    "size": 38,
+    "path": "13500456///AmdCpmGpioInitPeim"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmAdaptiveS4Peim",
+    "guid": "8519ED6D-228A-4A7D-A9E3-6E24D94FE22F",
+    "offset": 0,
+    "size": 42,
+    "path": "13500456///AmdCpmAdaptiveS4Peim"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCcxVhDxe",
+    "guid": "FC8CFD34-4D25-478C-83F0-0309C93FFBA4",
+    "offset": 0,
+    "size": 24,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCcxVhDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdErrorLogDxe",
+    "guid": "8624F36D-6DE0-44C3-8322-74AD419D3A90",
+    "offset": 0,
+    "size": 30,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdErrorLogDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdFabricSspDxe",
+    "guid": "656F7E22-5701-4341-A9A7-99A5D40A5245",
+    "offset": 0,
+    "size": 32,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdFabricSspDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "FchPromontoryGpioDxe",
+    "guid": "BA26C482-C1DE-4B97-A8BD-160DFDB984AC",
+    "offset": 0,
+    "size": 42,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///FchPromontoryGpioDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "FchPromontorySsdt",
+    "guid": "84FB407D-D076-4DDD-871F-33373A26BABB",
+    "offset": 0,
+    "size": 36,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///FchPromontorySsdt"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemAm4Dxe",
+    "guid": "9FF8B917-D14C-4A43-9314-123DA3960AD6",
+    "offset": 0,
+    "size": 26,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdMemAm4Dxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemRestoreDxe",
+    "guid": "95DE95F8-A215-48C3-814A-40F07B925D24",
+    "offset": 0,
+    "size": 34,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdMemRestoreDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemSmbiosV2RvDxe",
+    "guid": "EA7BF2CC-F154-4CC4-A725-6382C701FBFE",
+    "offset": 0,
+    "size": 40,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdMemSmbiosV2RvDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioIOMMUDxe",
+    "guid": "41EF54AD-E2CA-4433-FD27-D9CACA621EAE",
+    "offset": 0,
+    "size": 32,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdNbioIOMMUDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioAlibDxe",
+    "guid": "AC3AE4F1-6050-4609-B701-6A90B0972E74",
+    "offset": 0,
+    "size": 30,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdNbioAlibDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioBaseSspDxe",
+    "guid": "4BEECAFE-5F02-432E-44B9-3CA5CA5DF189",
+    "offset": 0,
+    "size": 36,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdNbioBaseSspDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioPcieDxe",
+    "guid": "E1DB609A-D413-4791-C6EE-093D8BC047A4",
+    "offset": 0,
+    "size": 30,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdNbioPcieDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdHstiV2",
+    "guid": "5466B9AA-EE2F-4FDB-84A3-A330BE1301FF",
+    "offset": 0,
+    "size": 20,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdHstiV2"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdPspDxeV2Ssp",
+    "guid": "D14EA3F9-8BD2-49A3-A636-C6F6C08037D5",
+    "offset": 0,
+    "size": 30,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdPspDxeV2Ssp"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdPspFtpmDxe",
+    "guid": "023B3AA9-098F-4027-B83F-B6407DA06569",
+    "offset": 0,
+    "size": 28,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdPspFtpmDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdApcbDxeV3",
+    "guid": "4D3708A0-6D9B-47D3-AD87-E80C781BC0A7",
+    "offset": 0,
+    "size": 26,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdApcbDxeV3"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdRasSspApeiDxe",
+    "guid": "573A445F-4FB6-C2D3-2CC0-5B9C772CFB94",
+    "offset": 0,
+    "size": 34,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdRasSspApeiDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdRasSspDxe",
+    "guid": "F71AAB75-41BE-C209-A324-9B963BBDCB26",
+    "offset": 0,
+    "size": 26,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdRasSspDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdSocAm4MtsDxe",
+    "guid": "CB9B43DD-4233-DB03-E0ED-ED89C0D09CAC",
+    "offset": 0,
+    "size": 32,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdSocAm4MtsDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdAcpiDxe",
+    "guid": "729B3079-8913-4E12-AFEF-2CA264799469",
+    "offset": 0,
+    "size": 22,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdAcpiDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdSmbiosDxe",
+    "guid": "52A9B223-FAB8-4A24-AEA6-461A59BD3F33",
+    "offset": 0,
+    "size": 26,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdSmbiosDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdVersionDxe",
+    "guid": "29D40F30-E8BF-4803-88A6-4247A29A5318",
+    "offset": 0,
+    "size": 28,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdVersionDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "CbsBaseDxeSSP",
+    "guid": "338E6713-0295-4C05-A0BB-D945A4595F11",
+    "offset": 0,
+    "size": 28,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///CbsBaseDxeSSP"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "CbsSetupDxeSSP",
+    "guid": "8E38A88A-C267-4131-A8CD-C0BC80A24CB5",
+    "offset": 0,
+    "size": 30,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///CbsSetupDxeSSP"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmiCbsDxe",
+    "guid": "8E09C390-1B30-415E-AF5C-D42AB0160F8C",
+    "offset": 0,
+    "size": 20,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmiCbsDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdPbsSetupDxe",
+    "guid": "BBB77CB9-762D-436C-AC40-8EE4901C3446",
+    "offset": 0,
+    "size": 30,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdPbsSetupDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmOemInitDxe",
+    "guid": "71A37E51-F3C8-4B99-B335-A661CA8AD13A",
+    "offset": 0,
+    "size": 34,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCpmOemInitDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmGpioInitDxe",
+    "guid": "71032D4B-4B91-4EC1-AD53-81827FB43108",
+    "offset": 0,
+    "size": 36,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCpmGpioInitDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmPcieInitDxe",
+    "guid": "C5FA0EE8-2D81-4202-A021-3DA700B3DEAE",
+    "offset": 0,
+    "size": 36,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCpmPcieInitDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmInitDxe",
+    "guid": "162793AA-0FE7-4010-9818-45F55C5CCC3E",
+    "offset": 0,
+    "size": 28,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCpmInitDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdSpiRomProtectDxe",
+    "guid": "C178E415-6E49-469A-B73D-F6C5EB4101EB",
+    "offset": 0,
+    "size": 40,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdSpiRomProtectDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmiAgesaDxe",
+    "guid": "1DFB7BFA-BF8E-4D11-9766-2FB0D0442310",
+    "offset": 0,
+    "size": 24,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmiAgesaDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmiAmdUefiRaid",
+    "guid": "164E5590-FB7A-47B9-8687-3E91DA499D97",
+    "offset": 0,
+    "size": 30,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmiAmdUefiRaid"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdSmmControl",
+    "guid": "0D42E9AB-5DDE-4CAC-A485-0215C252717F",
+    "offset": 0,
+    "size": 28,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdSmmControl"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCcxVhSmm",
+    "guid": "79DE6AEF-BE2D-4BB2-ACBF-0A67E289DBAF",
+    "offset": 0,
+    "size": 24,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCcxVhSmm"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdFabricSspSmm",
+    "guid": "FB8CE09B-A0DE-467E-9DC6-4465F5987676",
+    "offset": 0,
+    "size": 32,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdFabricSspSmm"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "FchPromontoryGpioSmmInit",
+    "guid": "F7DFDECF-9C36-4D43-85A4-6D92DAFC3477",
+    "offset": 0,
+    "size": 50,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///FchPromontoryGpioSmmInit"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "FchPromontorySmmInit",
+    "guid": "4220AB9B-1730-49C5-A89F-B471CF43B221",
+    "offset": 0,
+    "size": 42,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///FchPromontorySmmInit"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdPspP2CmboxV2Ssp",
+    "guid": "07F6A3D8-9320-4BCB-BA8B-4FA6055D909D",
+    "offset": 0,
+    "size": 38,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdPspP2CmboxV2Ssp"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdPspSmmV2Ssp",
+    "guid": "EA94D9D6-BE8B-4BD0-9481-B04348165CFB",
+    "offset": 0,
+    "size": 30,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdPspSmmV2Ssp"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdApcbSmmV3",
+    "guid": "B1BAC051-D5C2-4AC1-AC7D-9D2F518A1E7B",
+    "offset": 0,
+    "size": 26,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdApcbSmmV3"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdRasSspSmm",
+    "guid": "EE8175EF-4C60-82AF-F5E2-8A9EF1FC0A9A",
+    "offset": 0,
+    "size": 26,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdRasSspSmm"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdSmmCommunication",
+    "guid": "64E6D006-E62A-481E-8F5A-3F76C9184741",
+    "offset": 0,
+    "size": 40,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdSmmCommunication"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmGpioInitSmm",
+    "guid": "CD1C556B-62BF-4EEC-8E73-7731F8E847B2",
+    "offset": 0,
+    "size": 36,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCpmGpioInitSmm"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmInitSmm",
+    "guid": "30AF1245-A58E-4EF7-8C75-B725939B3B9F",
+    "offset": 0,
+    "size": 28,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdCpmInitSmm"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "NvramDxe",
+    "guid": "1807040D-5934-41A2-A088-8E0F777F71AB",
+    "offset": 0,
+    "size": 18,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///NvramDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "RamDiskDxe",
+    "guid": "28A03FF4-12B3-4305-A417-BB1A4F94081E",
+    "offset": 0,
+    "size": 22,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///RamDiskDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "CpuSetAgesaPcd",
+    "guid": "4DF75915-6C88-4EF4-995D-834D866DBD20",
+    "offset": 0,
+    "size": 30,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///CpuSetAgesaPcd"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCcxVhPei",
+    "guid": "993E9ACB-288C-4788-87EA-09F7A15FD765",
+    "offset": 0,
+    "size": 24,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///AmdCcxVhPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdErrorPei",
+    "guid": "A5C02C56-19A7-43B5-A0D0-04518A1CA69E",
+    "offset": 0,
+    "size": 24,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///AmdErrorPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdFabricSspPei",
+    "guid": "FE72846D-6C19-4237-9052-9C693CF409E3",
+    "offset": 0,
+    "size": 32,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///AmdFabricSspPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "FchPromontoryCbsPei",
+    "guid": "3ECEB3C6-1B1C-4729-9C62-33DD81D65DDE",
+    "offset": 0,
+    "size": 40,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///FchPromontoryCbsPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "FchPromontoryGpioPei",
+    "guid": "2885E4AE-09A5-4EC8-A908-60C4E4A92BAC",
+    "offset": 0,
+    "size": 42,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///FchPromontoryGpioPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "FchPromontoryXhciPei",
+    "guid": "53070378-119A-4836-77BD-893C824ACEB2",
+    "offset": 0,
+    "size": 42,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///FchPromontoryXhciPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemAm4SspPei",
+    "guid": "9ACC38D2-959B-490C-90EA-723D9D902108",
+    "offset": 0,
+    "size": 32,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///AmdMemAm4SspPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemAm4ZpPei",
+    "guid": "9FF8B817-D14C-4A43-9314-123DA3960AD6",
+    "offset": 0,
+    "size": 30,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///AmdMemAm4ZpPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemChanXLatSspPei",
+    "guid": "00D6E846-49C7-4517-AC79-A70E8BC0553C",
+    "offset": 0,
+    "size": 42,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///AmdMemChanXLatSspPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemChanXLatZpPei",
+    "guid": "F19071B5-B2F6-4A9C-B2E2-FBF56DA5B229",
+    "offset": 0,
+    "size": 40,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///AmdMemChanXLatZpPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemoryHobInfoPeimV2",
+    "guid": "B670E168-BD14-4D33-86B0-E632848403F1",
+    "offset": 0,
+    "size": 46,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///AmdMemoryHobInfoPeimV2"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemoryHobInfoPeim",
+    "guid": "46233426-744E-4763-958D-44B1200B320A",
+    "offset": 0,
+    "size": 42,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///AmdMemoryHobInfoPeim"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemRestorePei",
+    "guid": "4B6E1294-08D2-4131-83E4-14BE9FCD42C1",
+    "offset": 0,
+    "size": 34,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///AmdMemRestorePei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemSmbiosV2SspPei",
+    "guid": "296088B0-5AD7-46B7-A42B-004C2A0F00BB",
+    "offset": 0,
+    "size": 42,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///AmdMemSmbiosV2SspPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioIOMMUSSPPei",
+    "guid": "FD022AE6-CF36-42F8-E360-2309237257B9",
+    "offset": 0,
+    "size": 38,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///AmdNbioIOMMUSSPPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioBaseSspPei",
+    "guid": "A67A75D2-CCCE-49C1-1BCD-61C310527E89",
+    "offset": 0,
+    "size": 36,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///AmdNbioBaseSspPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioPciePei",
+    "guid": "21BE6180-733A-443B-DF46-41C008047687",
+    "offset": 0,
+    "size": 30,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///AmdNbioPciePei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdPspFtpmPei",
+    "guid": "2FC61DE6-1791-479C-8A32-7ABB69A4D8D0",
+    "offset": 0,
+    "size": 28,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///AmdPspFtpmPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdPspPeiV2",
+    "guid": "0C556BFF-B16A-439D-A3EC-1164378E2C2A",
+    "offset": 0,
+    "size": 24,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///AmdPspPeiV2"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdPspPeiV2Ssp",
+    "guid": "B0649250-512B-41AB-8608-FE0757311B8B",
+    "offset": 0,
+    "size": 30,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///AmdPspPeiV2Ssp"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdSocAm4MtsPei",
+    "guid": "D952A0C4-4D96-6853-DECD-058DC9DC5FCF",
+    "offset": 0,
+    "size": 32,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///AmdSocAm4MtsPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdVersionPei",
+    "guid": "70456853-D70E-496C-B6B1-CF88A30BE1A9",
+    "offset": 0,
+    "size": 28,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///AmdVersionPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "CbsBasePeiSSP",
+    "guid": "ABCDFB96-ED90-4C7E-A82B-EC98F99305ED",
+    "offset": 0,
+    "size": 28,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///CbsBasePeiSSP"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdSpiRomProtectPei",
+    "guid": "9D5FD24C-53DF-44AC-A336-B4879CDB29D9",
+    "offset": 0,
+    "size": 40,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///AmdSpiRomProtectPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmiAgesaPei",
+    "guid": "586032E3-1386-4ECC-B547-EB285E21066D",
+    "offset": 0,
+    "size": 24,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///AmiAgesaPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmOemInitPeim",
+    "guid": "038EF9A9-5969-4793-964F-FF12FA18393E",
+    "offset": 0,
+    "size": 36,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///AmdCpmOemInitPeim"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmInitPeim",
+    "guid": "D919136E-865C-4B10-B099-5D897CFEDE08",
+    "offset": 0,
+    "size": 30,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///AmdCpmInitPeim"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmPcieInitPeim",
+    "guid": "DE3D7A9C-A218-4891-7469-4FC0AE853298",
+    "offset": 0,
+    "size": 38,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///AmdCpmPcieInitPeim"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmGpioInitPeim",
+    "guid": "DE3E049C-A218-4891-7469-4FC0AE853298",
+    "offset": 0,
+    "size": 38,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///AmdCpmGpioInitPeim"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "CpuSetAgesaPcd",
+    "guid": "4DF75915-6C88-4EF4-995D-834D866DBD20",
+    "offset": 0,
+    "size": 30,
+    "path": "30285864///CpuSetAgesaPcd"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCcxVhPei",
+    "guid": "993E9ACB-288C-4788-87EA-09F7A15FD765",
+    "offset": 0,
+    "size": 24,
+    "path": "30285864///AmdCcxVhPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdErrorPei",
+    "guid": "A5C02C56-19A7-43B5-A0D0-04518A1CA69E",
+    "offset": 0,
+    "size": 24,
+    "path": "30285864///AmdErrorPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdFabricSspPei",
+    "guid": "FE72846D-6C19-4237-9052-9C693CF409E3",
+    "offset": 0,
+    "size": 32,
+    "path": "30285864///AmdFabricSspPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "FchPromontoryCbsPei",
+    "guid": "3ECEB3C6-1B1C-4729-9C62-33DD81D65DDE",
+    "offset": 0,
+    "size": 40,
+    "path": "30285864///FchPromontoryCbsPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "FchPromontoryGpioPei",
+    "guid": "2885E4AE-09A5-4EC8-A908-60C4E4A92BAC",
+    "offset": 0,
+    "size": 42,
+    "path": "30285864///FchPromontoryGpioPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "FchPromontoryXhciPei",
+    "guid": "53070378-119A-4836-77BD-893C824ACEB2",
+    "offset": 0,
+    "size": 42,
+    "path": "30285864///FchPromontoryXhciPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemAm4SspPei",
+    "guid": "9ACC38D2-959B-490C-90EA-723D9D902108",
+    "offset": 0,
+    "size": 32,
+    "path": "30285864///AmdMemAm4SspPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemAm4ZpPei",
+    "guid": "9FF8B817-D14C-4A43-9314-123DA3960AD6",
+    "offset": 0,
+    "size": 30,
+    "path": "30285864///AmdMemAm4ZpPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemChanXLatSspPei",
+    "guid": "00D6E846-49C7-4517-AC79-A70E8BC0553C",
+    "offset": 0,
+    "size": 42,
+    "path": "30285864///AmdMemChanXLatSspPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemChanXLatZpPei",
+    "guid": "F19071B5-B2F6-4A9C-B2E2-FBF56DA5B229",
+    "offset": 0,
+    "size": 40,
+    "path": "30285864///AmdMemChanXLatZpPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemoryHobInfoPeimV2",
+    "guid": "B670E168-BD14-4D33-86B0-E632848403F1",
+    "offset": 0,
+    "size": 46,
+    "path": "30285864///AmdMemoryHobInfoPeimV2"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemoryHobInfoPeim",
+    "guid": "46233426-744E-4763-958D-44B1200B320A",
+    "offset": 0,
+    "size": 42,
+    "path": "30285864///AmdMemoryHobInfoPeim"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemRestorePei",
+    "guid": "4B6E1294-08D2-4131-83E4-14BE9FCD42C1",
+    "offset": 0,
+    "size": 34,
+    "path": "30285864///AmdMemRestorePei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdMemSmbiosV2SspPei",
+    "guid": "296088B0-5AD7-46B7-A42B-004C2A0F00BB",
+    "offset": 0,
+    "size": 42,
+    "path": "30285864///AmdMemSmbiosV2SspPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioIOMMUSSPPei",
+    "guid": "FD022AE6-CF36-42F8-E360-2309237257B9",
+    "offset": 0,
+    "size": 38,
+    "path": "30285864///AmdNbioIOMMUSSPPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioBaseSspPei",
+    "guid": "A67A75D2-CCCE-49C1-1BCD-61C310527E89",
+    "offset": 0,
+    "size": 36,
+    "path": "30285864///AmdNbioBaseSspPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdNbioPciePei",
+    "guid": "21BE6180-733A-443B-DF46-41C008047687",
+    "offset": 0,
+    "size": 30,
+    "path": "30285864///AmdNbioPciePei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdPspFtpmPei",
+    "guid": "2FC61DE6-1791-479C-8A32-7ABB69A4D8D0",
+    "offset": 0,
+    "size": 28,
+    "path": "30285864///AmdPspFtpmPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdPspPeiV2",
+    "guid": "0C556BFF-B16A-439D-A3EC-1164378E2C2A",
+    "offset": 0,
+    "size": 24,
+    "path": "30285864///AmdPspPeiV2"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdPspPeiV2Ssp",
+    "guid": "B0649250-512B-41AB-8608-FE0757311B8B",
+    "offset": 0,
+    "size": 30,
+    "path": "30285864///AmdPspPeiV2Ssp"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdSocAm4MtsPei",
+    "guid": "D952A0C4-4D96-6853-DECD-058DC9DC5FCF",
+    "offset": 0,
+    "size": 32,
+    "path": "30285864///AmdSocAm4MtsPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdVersionPei",
+    "guid": "70456853-D70E-496C-B6B1-CF88A30BE1A9",
+    "offset": 0,
+    "size": 28,
+    "path": "30285864///AmdVersionPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "CbsBasePeiSSP",
+    "guid": "ABCDFB96-ED90-4C7E-A82B-EC98F99305ED",
+    "offset": 0,
+    "size": 28,
+    "path": "30285864///CbsBasePeiSSP"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdSpiRomProtectPei",
+    "guid": "9D5FD24C-53DF-44AC-A336-B4879CDB29D9",
+    "offset": 0,
+    "size": 40,
+    "path": "30285864///AmdSpiRomProtectPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmiAgesaPei",
+    "guid": "586032E3-1386-4ECC-B547-EB285E21066D",
+    "offset": 0,
+    "size": 24,
+    "path": "30285864///AmiAgesaPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmOemInitPeim",
+    "guid": "038EF9A9-5969-4793-964F-FF12FA18393E",
+    "offset": 0,
+    "size": 36,
+    "path": "30285864///AmdCpmOemInitPeim"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmInitPeim",
+    "guid": "D919136E-865C-4B10-B099-5D897CFEDE08",
+    "offset": 0,
+    "size": 30,
+    "path": "30285864///AmdCpmInitPeim"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmPcieInitPeim",
+    "guid": "DE3D7A9C-A218-4891-7469-4FC0AE853298",
+    "offset": 0,
+    "size": 38,
+    "path": "30285864///AmdCpmPcieInitPeim"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdCpmGpioInitPeim",
+    "guid": "DE3E049C-A218-4891-7469-4FC0AE853298",
+    "offset": 0,
+    "size": 38,
+    "path": "30285864///AmdCpmGpioInitPeim"
+  }
+]

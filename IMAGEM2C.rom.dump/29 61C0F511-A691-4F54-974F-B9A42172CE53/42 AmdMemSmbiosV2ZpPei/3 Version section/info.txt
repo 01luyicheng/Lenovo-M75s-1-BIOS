@@ -1,0 +1,12 @@
+Type: Section
+Subtype: Version
+Base: D95038h
+Header address: FED95038h
+Data address: FED9503Eh
+Offset: 26F8h
+Full size: Eh (14)
+Header size: 6h (6)
+Body size: 8h (8)
+Type: 14h
+Build number: 0
+Version string: 1.0

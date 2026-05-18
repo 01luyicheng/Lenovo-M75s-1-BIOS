@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: PTUpdatePCD
+Base: 1DA2C68h
+Header address: FFDA2C68h
+Data address: FFDA2C80h
+Offset: A0C68h
+Full size: D1Eh (3358)
+Header size: 18h (24)
+Body size: D06h (3334)
+File GUID: F7162F38-6088-4842-B0ED-C143DAD39EFB
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 02h, valid
+Data checksum: AAh, valid

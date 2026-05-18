@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: LegacyRegion
+Offset: F1C8h
+Full size: 23B6h (9142)
+Header size: 18h (24)
+Body size: 239Eh (9118)
+File GUID: 59242DD8-E7CF-4979-B60E-A6067E2A185F
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 97h, valid
+Data checksum: AAh, valid

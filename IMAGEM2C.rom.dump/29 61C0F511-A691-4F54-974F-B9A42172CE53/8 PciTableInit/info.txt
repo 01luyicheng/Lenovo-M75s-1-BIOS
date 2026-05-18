@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: PciTableInit
+Base: D0E9E8h
+Header address: FED0E9E8h
+Data address: FED0EA00h
+Offset: E9E8h
+Full size: 442h (1090)
+Header size: 18h (24)
+Body size: 42Ah (1066)
+File GUID: DEF30E37-7AEC-4F69-91A2-CF099E2729F2
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 95h, valid
+Data checksum: AAh, valid

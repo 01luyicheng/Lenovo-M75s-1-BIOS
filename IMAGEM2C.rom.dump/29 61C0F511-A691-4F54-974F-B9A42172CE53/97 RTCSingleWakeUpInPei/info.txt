@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: RTCSingleWakeUpInPei
+Base: E1F168h
+Header address: FEE1F168h
+Data address: FEE1F180h
+Offset: 11F168h
+Full size: 756h (1878)
+Header size: 18h (24)
+Body size: 73Eh (1854)
+File GUID: 654FE61C-2EDC-4741-A76C-56ED7ADE1CB0
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: DBh, valid
+Data checksum: AAh, valid

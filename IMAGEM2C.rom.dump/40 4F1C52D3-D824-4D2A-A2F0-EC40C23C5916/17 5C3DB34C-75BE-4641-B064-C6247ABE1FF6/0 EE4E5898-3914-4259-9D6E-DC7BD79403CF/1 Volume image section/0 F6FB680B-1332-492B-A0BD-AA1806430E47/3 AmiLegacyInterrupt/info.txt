@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmiLegacyInterrupt
+Offset: EB08h
+Full size: 6BEh (1726)
+Header size: 18h (24)
+Body size: 6A6h (1702)
+File GUID: 71ED12D1-250B-42FB-8C17-10DCFA771701
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 6Fh, valid
+Data checksum: AAh, valid

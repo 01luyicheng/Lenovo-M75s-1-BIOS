@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdNbioPcieRVPei
+Base: DB8B60h
+Header address: FEDB8B60h
+Data address: FEDB8B78h
+Offset: B8B60h
+Full size: B2A6h (45734)
+Header size: 18h (24)
+Body size: B28Eh (45710)
+File GUID: 2B9E5A05-686F-4E72-AF0A-2D7BAA61E918
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 76h, valid
+Data checksum: AAh, valid

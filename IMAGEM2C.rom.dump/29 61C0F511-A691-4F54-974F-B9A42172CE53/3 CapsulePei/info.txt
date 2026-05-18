@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: CapsulePei
+Base: D068D0h
+Header address: FED068D0h
+Data address: FED068E8h
+Offset: 68D0h
+Full size: 1BEEh (7150)
+Header size: 18h (24)
+Body size: 1BD6h (7126)
+File GUID: C779F6D8-7113-4AA1-9648-EB1633C7D53B
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 8Bh, valid
+Data checksum: AAh, valid

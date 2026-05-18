@@ -1,0 +1,15 @@
+Type: File
+Subtype: Freeform
+Base: 701488h
+Header address: FE701488h
+Data address: FE7014A0h
+Offset: 32488h
+Full size: 11BBh (4539)
+Header size: 18h (24)
+Body size: 11A3h (4515)
+File GUID: 6C9013D0-4059-4723-AF2A-05E63FFECF19
+Type: 02h
+Attributes: 00h
+State: F8h
+Header checksum: 67h, valid
+Data checksum: AAh, valid

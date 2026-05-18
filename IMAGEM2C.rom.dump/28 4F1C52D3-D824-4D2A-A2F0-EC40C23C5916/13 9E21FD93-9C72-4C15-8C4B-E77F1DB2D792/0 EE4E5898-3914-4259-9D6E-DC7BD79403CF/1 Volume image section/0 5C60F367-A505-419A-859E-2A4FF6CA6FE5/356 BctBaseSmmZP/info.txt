@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: BctBaseSmmZP
+Offset: 9FCED8h
+Full size: 393Ah (14650)
+Header size: 18h (24)
+Body size: 3922h (14626)
+File GUID: C2C0E2E1-CBDB-454C-8F27-96ACEE196367
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 3Eh, valid
+Data checksum: AAh, valid

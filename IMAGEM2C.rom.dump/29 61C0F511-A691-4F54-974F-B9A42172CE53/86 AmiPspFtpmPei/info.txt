@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmiPspFtpmPei
+Base: E1C2E8h
+Header address: FEE1C2E8h
+Data address: FEE1C300h
+Offset: 11C2E8h
+Full size: 3F2h (1010)
+Header size: 18h (24)
+Body size: 3DAh (986)
+File GUID: D4926BEA-00A3-40E5-A2B9-C317960F31BF
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: B8h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: PlatformCustomizePei
+Base: 1D682F8h
+Header address: FFD682F8h
+Data address: FFD68310h
+Offset: 662F8h
+Full size: 20BEh (8382)
+Header size: 18h (24)
+Body size: 20A6h (8358)
+File GUID: CC9F5B7E-254B-4F8A-A648-034A40AEDA35
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 57h, valid
+Data checksum: AAh, valid

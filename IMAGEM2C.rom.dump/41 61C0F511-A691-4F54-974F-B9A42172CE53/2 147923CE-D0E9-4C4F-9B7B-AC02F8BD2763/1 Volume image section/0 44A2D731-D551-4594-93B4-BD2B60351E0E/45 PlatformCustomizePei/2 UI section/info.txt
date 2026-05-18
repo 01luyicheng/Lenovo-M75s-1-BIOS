@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D6A378h
+Header address: FFD6A378h
+Data address: FFD6A37Ch
+Offset: 2080h
+Full size: 2Eh (46)
+Header size: 4h (4)
+Body size: 2Ah (42)
+Type: 15h
+Text: PlatformCustomizePei

@@ -1,0 +1,16 @@
+Type: Section
+Subtype: GUID defined
+Base: 1DA39DCh
+Header address: FFDA39DCh
+Data address: FFDA39F4h
+Offset: 54h
+Full size: 7969h (31081)
+Header size: 18h (24)
+Body size: 7951h (31057)
+Section GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+Type: 02h
+Attributes: 0001h
+Compression algorithm: LZMA
+Decompressed size: F4CAh (62666)
+LZMA dictionary size: 1000000h
+

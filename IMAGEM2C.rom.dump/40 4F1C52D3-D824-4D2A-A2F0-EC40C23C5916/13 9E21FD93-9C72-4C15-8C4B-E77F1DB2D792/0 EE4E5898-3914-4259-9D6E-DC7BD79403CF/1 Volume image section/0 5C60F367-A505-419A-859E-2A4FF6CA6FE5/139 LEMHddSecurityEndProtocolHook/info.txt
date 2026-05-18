@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: LEMHddSecurityEndProtocolHook
+Offset: 573DC0h
+Full size: 8EDEh (36574)
+Header size: 18h (24)
+Body size: 8EC6h (36550)
+File GUID: 279DB133-B4C6-4A34-9BE3-C98326DC27DC
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 1Eh, valid
+Data checksum: AAh, valid

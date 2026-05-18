@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: FchKernSmmInit
+Offset: 9ADED8h
+Full size: 9EEAh (40682)
+Header size: 18h (24)
+Body size: 9ED2h (40658)
+File GUID: 42C2F6B6-976F-4EBD-B6A9-FB4178F970FE
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 33h, valid
+Data checksum: AAh, valid

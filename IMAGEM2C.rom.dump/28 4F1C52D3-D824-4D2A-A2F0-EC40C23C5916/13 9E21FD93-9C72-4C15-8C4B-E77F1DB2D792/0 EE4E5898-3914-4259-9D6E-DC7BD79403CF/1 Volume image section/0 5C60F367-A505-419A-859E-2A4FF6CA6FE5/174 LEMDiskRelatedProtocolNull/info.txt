@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: LEMDiskRelatedProtocolNull
+Offset: 6421F8h
+Full size: 77Eh (1918)
+Header size: 18h (24)
+Body size: 766h (1894)
+File GUID: F64D8B24-1F12-47A4-91AD-5EFC6136B736
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 4Ah, valid
+Data checksum: AAh, valid

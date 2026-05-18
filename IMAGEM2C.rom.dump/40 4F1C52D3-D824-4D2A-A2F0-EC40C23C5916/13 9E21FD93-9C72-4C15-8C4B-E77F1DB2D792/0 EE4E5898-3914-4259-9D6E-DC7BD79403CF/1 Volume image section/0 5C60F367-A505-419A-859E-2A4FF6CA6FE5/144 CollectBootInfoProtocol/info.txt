@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: CollectBootInfoProtocol
+Offset: 583CF8h
+Full size: A96h (2710)
+Header size: 18h (24)
+Body size: A7Eh (2686)
+File GUID: 8CC4C372-D69A-4201-BC19-07799B699369
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: CCh, valid
+Data checksum: AAh, valid

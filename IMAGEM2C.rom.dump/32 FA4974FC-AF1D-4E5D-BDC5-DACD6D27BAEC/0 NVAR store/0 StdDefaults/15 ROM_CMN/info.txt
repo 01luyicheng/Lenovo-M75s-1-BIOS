@@ -1,0 +1,13 @@
+Type: NVAR entry
+Subtype: Full
+Text: ROM_CMN
+Base: 1037613h
+Header address: FF037613h
+Data address: FF037626h
+Offset: 583h
+Full size: 10Fh (271)
+Header size: 13h (19)
+Body size: FCh (252)
+Variable GUID: 97CDC6BE-7792-4782-BA6D-E6E3BB56ACD8
+GUID index: 10
+Attributes: 83h (Runtime, AsciiName, Valid)

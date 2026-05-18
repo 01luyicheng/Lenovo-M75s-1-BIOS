@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdNbioBaseCZDxe
+Offset: 1219A0h
+Full size: 20C52h (134226)
+Header size: 18h (24)
+Body size: 20C3Ah (134202)
+File GUID: F81B1762-B783-4E64-AAE3-BE61B5A9039F
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 75h, valid
+Data checksum: AAh, valid

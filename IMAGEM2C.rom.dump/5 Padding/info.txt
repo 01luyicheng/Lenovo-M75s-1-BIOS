@@ -1,0 +1,8 @@
+Type: Padding
+Subtype: Non-empty
+Base: 97000h
+Address: FE097000h
+Offset: 97000h
+Full size: 466000h (4612096)
+Body size: 466000h (4612096)
+

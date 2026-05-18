@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: AmdPspP2CmboxV2
+Offset: 9DFDA8h
+Full size: 4122h (16674)
+Header size: 18h (24)
+Body size: 410Ah (16650)
+File GUID: 4759E93E-8F44-448F-88A1-BD97FC47BEA5
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 03h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: BIOSVer
+Offset: 67FB88h
+Full size: 1236h (4662)
+Header size: 18h (24)
+Body size: 121Eh (4638)
+File GUID: 94D02FCF-045C-45D3-B023-1A8B5CA5C70A
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 8Dh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: Raw
+Base: 1918EC0h
+Header address: FF918EC0h
+Data address: FF918ED8h
+Offset: 507EC0h
+Full size: 1F0h (496)
+Header size: 18h (24)
+Body size: 1D8h (472)
+File GUID: 64709192-2F58-412A-9EB4-E54FB3BBCF0C
+Type: 01h
+Attributes: 00h
+State: F8h
+Header checksum: 56h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdCcxXvPei
+Base: D155E0h
+Header address: FED155E0h
+Data address: FED155F8h
+Offset: 155E0h
+Full size: 6522h (25890)
+Header size: 18h (24)
+Body size: 650Ah (25866)
+File GUID: 715783DE-BC09-46BC-AE7D-E39879591197
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 63h, valid
+Data checksum: AAh, valid

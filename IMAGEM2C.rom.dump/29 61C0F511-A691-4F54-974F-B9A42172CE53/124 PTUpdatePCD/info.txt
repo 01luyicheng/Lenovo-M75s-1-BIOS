@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: PTUpdatePCD
+Base: E42668h
+Header address: FEE42668h
+Data address: FEE42680h
+Offset: 142668h
+Full size: E9Eh (3742)
+Header size: 18h (24)
+Body size: E86h (3718)
+File GUID: F7162F38-6088-4842-B0ED-C143DAD39EFB
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 81h, valid
+Data checksum: AAh, valid

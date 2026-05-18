@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D935C4h
+Header address: FFD935C4h
+Data address: FFD935C8h
+Offset: 3514h
+Full size: 1Ah (26)
+Header size: 4h (4)
+Body size: 16h (22)
+Type: 15h
+Text: CapsuleX64

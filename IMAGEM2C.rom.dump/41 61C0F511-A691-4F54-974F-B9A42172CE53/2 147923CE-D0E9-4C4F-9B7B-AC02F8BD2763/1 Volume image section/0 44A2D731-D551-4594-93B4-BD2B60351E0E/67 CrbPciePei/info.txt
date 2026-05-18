@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: CrbPciePei
+Base: 1D83F10h
+Header address: FFD83F10h
+Data address: FFD83F28h
+Offset: 81F10h
+Full size: 8BEh (2238)
+Header size: 18h (24)
+Body size: 8A6h (2214)
+File GUID: 8A563114-70F2-4ADC-9A47-19424DFBE82C
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: EFh, valid
+Data checksum: AAh, valid

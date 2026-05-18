@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D2BEF8h
+Header address: FFD2BEF8h
+Data address: FFD2BEFCh
+Offset: 37D0h
+Full size: 2Eh (46)
+Header size: 4h (4)
+Body size: 2Ah (42)
+Type: 15h
+Text: FchPromontoryXhciPei

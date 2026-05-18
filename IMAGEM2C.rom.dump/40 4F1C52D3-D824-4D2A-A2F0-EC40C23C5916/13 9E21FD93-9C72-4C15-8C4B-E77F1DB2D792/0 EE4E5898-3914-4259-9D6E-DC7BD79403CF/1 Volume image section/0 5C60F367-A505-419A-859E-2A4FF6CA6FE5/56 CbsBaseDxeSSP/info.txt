@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: CbsBaseDxeSSP
+Offset: F9E10h
+Full size: 1942h (6466)
+Header size: 18h (24)
+Body size: 192Ah (6442)
+File GUID: 338E6713-0295-4C05-A0BB-D945A4595F11
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 95h, valid
+Data checksum: AAh, valid

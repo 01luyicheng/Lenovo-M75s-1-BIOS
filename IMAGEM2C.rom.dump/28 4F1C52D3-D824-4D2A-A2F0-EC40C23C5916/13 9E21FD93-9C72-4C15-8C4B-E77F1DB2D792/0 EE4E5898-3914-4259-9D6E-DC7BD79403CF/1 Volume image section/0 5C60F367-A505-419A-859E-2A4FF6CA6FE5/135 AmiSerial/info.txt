@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmiSerial
+Offset: 346F50h
+Full size: FFAh (4090)
+Header size: 18h (24)
+Body size: FE2h (4066)
+File GUID: 50A34B71-34DB-402A-169A-48A504DCAF3E
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 5Eh, valid
+Data checksum: AAh, valid

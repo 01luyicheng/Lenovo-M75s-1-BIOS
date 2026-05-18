@@ -1,0 +1,10 @@
+Type: Section
+Subtype: Raw
+Base: 1FFFFBCh
+Header address: FFFFFFBCh
+Data address: FFFFFFC0h
+Offset: 3294h
+Full size: 44h (68)
+Header size: 4h (4)
+Body size: 40h (64)
+Type: 19h

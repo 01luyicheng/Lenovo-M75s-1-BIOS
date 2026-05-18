@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdPspDxeV2Rv
+Offset: 173468h
+Full size: 530Ah (21258)
+Header size: 18h (24)
+Body size: 52F2h (21234)
+File GUID: 8B786703-E8C7-4BEA-8F07-CDF991B90999
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 03h, valid
+Data checksum: AAh, valid

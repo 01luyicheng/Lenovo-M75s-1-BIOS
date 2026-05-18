@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmiCbsDxe
+Offset: 1187A0h
+Full size: 6CAh (1738)
+Header size: 18h (24)
+Body size: 6B2h (1714)
+File GUID: 8E09C390-1B30-415E-AF5C-D42AB0160F8C
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: EBh, valid
+Data checksum: AAh, valid

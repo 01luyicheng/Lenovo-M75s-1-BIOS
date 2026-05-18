@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: AmdFabricSspSmm
+Offset: 8CFA30h
+Full size: 257Ah (9594)
+Header size: 18h (24)
+Body size: 2562h (9570)
+File GUID: FB8CE09B-A0DE-467E-9DC6-4465F5987676
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 8Eh, valid
+Data checksum: AAh, valid

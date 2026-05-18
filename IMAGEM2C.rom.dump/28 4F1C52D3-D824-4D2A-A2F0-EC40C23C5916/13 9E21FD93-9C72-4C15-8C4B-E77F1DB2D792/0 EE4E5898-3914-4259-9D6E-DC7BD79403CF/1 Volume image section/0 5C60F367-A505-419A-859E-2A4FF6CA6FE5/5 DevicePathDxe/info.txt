@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: DevicePathDxe
+Offset: 28A88h
+Full size: A402h (41986)
+Header size: 18h (24)
+Body size: A3EAh (41962)
+File GUID: 9B680FCE-AD6B-4F3A-B60B-F59899003443
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 74h, valid
+Data checksum: AAh, valid

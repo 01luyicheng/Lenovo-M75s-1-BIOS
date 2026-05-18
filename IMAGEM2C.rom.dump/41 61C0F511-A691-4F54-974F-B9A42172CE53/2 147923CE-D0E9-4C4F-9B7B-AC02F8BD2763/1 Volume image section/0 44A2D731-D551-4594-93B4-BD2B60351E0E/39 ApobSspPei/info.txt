@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: ApobSspPei
+Base: 1D58AA0h
+Header address: FFD58AA0h
+Data address: FFD58AB8h
+Offset: 56AA0h
+Full size: 1BCAh (7114)
+Header size: 18h (24)
+Body size: 1BB2h (7090)
+File GUID: 158E2079-23F3-4E83-8A35-657A76408C0A
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 08h, valid
+Data checksum: AAh, valid

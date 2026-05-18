@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: EcSecureFlashDxe
+Offset: 5C9418h
+Full size: 8CAh (2250)
+Header size: 18h (24)
+Body size: 8B2h (2226)
+File GUID: 77EC5618-2101-4112-86B1-2F752AE10F1A
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: D2h, valid
+Data checksum: AAh, valid

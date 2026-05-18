@@ -1,0 +1,19 @@
+Type: Section
+Subtype: TE image
+Base: D2710Ch
+Header address: FED2710Ch
+Data address: FED27110h
+Offset: 54h
+Full size: 2104h (8452)
+Header size: 4h (4)
+Body size: 2100h (8448)
+Type: 12h
+Signature: 5A56h
+Machine type: x86
+Number of sections: 3
+Subsystem: 0Bh
+Stripped size: 1C8h (456)
+Base of code: 240h
+Address of entry point: 380h
+Image base: FFD26F70h
+Adjusted image base: FFD27110h

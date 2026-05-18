@@ -1,0 +1,7 @@
+Type: Section
+Subtype: Raw
+Offset: 18h
+Full size: BECh (3052)
+Header size: 4h (4)
+Body size: BE8h (3048)
+Type: 19h

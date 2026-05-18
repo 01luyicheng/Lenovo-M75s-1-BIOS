@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D1E04Ch
+Header address: FFD1E04Ch
+Data address: FFD1E050h
+Offset: 3DC4h
+Full size: 24h (36)
+Header size: 4h (4)
+Body size: 20h (32)
+Type: 15h
+Text: AmdFabricSspPei

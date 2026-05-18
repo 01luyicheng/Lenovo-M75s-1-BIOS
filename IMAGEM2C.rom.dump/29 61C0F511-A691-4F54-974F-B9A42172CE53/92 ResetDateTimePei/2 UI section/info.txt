@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E1DF0Ch
+Header address: FEE1DF0Ch
+Data address: FEE1DF10h
+Offset: 224h
+Full size: 26h (38)
+Header size: 4h (4)
+Body size: 22h (34)
+Type: 15h
+Text: ResetDateTimePei

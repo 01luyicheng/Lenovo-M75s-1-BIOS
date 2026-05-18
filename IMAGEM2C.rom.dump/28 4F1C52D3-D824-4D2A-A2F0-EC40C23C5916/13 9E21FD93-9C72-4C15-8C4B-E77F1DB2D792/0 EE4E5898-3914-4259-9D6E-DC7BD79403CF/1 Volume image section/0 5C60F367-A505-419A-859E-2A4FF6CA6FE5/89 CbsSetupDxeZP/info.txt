@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: CbsSetupDxeZP
+Offset: 1AB010h
+Full size: 1B7BEh (112574)
+Header size: 18h (24)
+Body size: 1B7A6h (112550)
+File GUID: A5E369C8-ABF9-4B43-B212-FF1BFD35666D
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: B5h, valid
+Data checksum: AAh, valid

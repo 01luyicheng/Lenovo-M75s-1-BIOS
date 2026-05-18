@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: DE045Ch
+Header address: FEDE045Ch
+Data address: FEDE0460h
+Offset: E594h
+Full size: 24h (36)
+Header size: 4h (4)
+Body size: 20h (32)
+Type: 15h
+Text: AmdNbioSmuV8Pei

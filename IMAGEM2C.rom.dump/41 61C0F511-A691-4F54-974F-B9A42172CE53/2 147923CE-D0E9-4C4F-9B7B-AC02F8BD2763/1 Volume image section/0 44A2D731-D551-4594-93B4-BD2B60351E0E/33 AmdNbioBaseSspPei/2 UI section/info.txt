@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D3EB40h
+Header address: FFD3EB40h
+Data address: FFD3EB44h
+Offset: 6CA8h
+Full size: 28h (40)
+Header size: 4h (4)
+Body size: 24h (36)
+Type: 15h
+Text: AmdNbioBaseSspPei

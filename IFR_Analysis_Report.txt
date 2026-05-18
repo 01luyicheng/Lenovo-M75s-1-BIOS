@@ -1,0 +1,266 @@
+================================================================================
+IFR (Internal Form Representation) 解析报告
+BIOS: IMAGEM2C.rom
+================================================================================
+
+## 1. 概述
+
+- ROM 大小: 32MB (33,554,432 bytes)
+- BIOS 类型: AMI Aptio UEFI
+- 架构: AMD平台 (包含AMD CBS设置)
+- 提取工具: IFRExtractor-RS v1.6.1 + UEFIExtract NE A74
+
+## 2. Setup模块分析
+
+Setup模块是BIOS的主设置界面，包含以下结构:
+- 表单 (Forms): 104个
+- 总设置项: 978个
+  - Ref (引用): 140个
+  - Text (文本): 175个
+  - OneOf (单选): 505个
+  - Numeric (数值): 156个
+  - String (字符串): 2个
+- 可见项: 643个
+- 隐藏/抑制项: 335个
+
+## 3. AMD CBS模块分析
+
+CBS (Common BIOS Settings) 模块包含AMD平台底层设置:
+- 表单 (Forms): 53个
+- 总设置项: 375个
+  - Ref (引用): 53个
+  - Text (文本): 9个
+  - OneOf (单选): 244个
+  - Numeric (数值): 69个
+- 隐藏/抑制项: 0个 (CBS模块没有使用SuppressIf/GrayOutIf)
+
+## 4. 隐藏设置项汇总
+
+Setup模块中有335个设置项被隐藏或条件显示。
+主要隐藏原因:
+- SuppressIf: 条件性隐藏（最常见）
+- GrayOutIf: 条件性灰显（不可编辑但可见）
+- DisableIf: 条件性禁用
+
+典型隐藏设置包括:
+- 访问级别控制 (Access Level)
+- 系统语言设置
+- 各种风扇状态显示 (CPU Fan, System Fan等)
+- M.2/SATA驱动器状态
+- 串口/并口设置
+- PCI Express配置
+- 各种DEBUG配置选项
+
+## 5. 目标功能设置项详情
+
+
+### Above 4G Decoding
+
+**状态**: 未找到 ❌
+
+**说明**: 未在Setup或CBS模块中找到。该选项可能由AGESA固件自动处理，或在其他DXE驱动中。
+
+### IOMMU
+
+**状态**: 已找到 ✅
+
+**Setup模块**:
+  - prompt: IOMMU
+  - help: AMD input/output memory management unit
+  - question_id: 0xB4
+  - varstore_id: 0x1
+  - varoffset: 0x1D6
+  - type: OneOf
+  - options: ['Disabled (0)', 'Enabled (1)']
+  - line: 1370
+
+**CBS模块**:
+  - prompt: IOMMU
+  - help: Enable/Disable IOMMU
+  - question_id: 0xCF
+  - varstore_id: 0x5000
+  - varoffset: 0x149
+  - type: OneOf
+  - options: ['Disabled (0)', 'Enabled (1)']
+  - line: 2105
+
+**说明**: 在Setup模块和CBS模块中均找到。Setup模块中可见，CBS模块中也有独立控制。
+
+### SVM Mode
+
+**状态**: 已找到 ✅
+
+**Setup模块**:
+  - prompt: AMD Secure Virtual Machine
+  - help: AMD Virtualization technology is a set of unique on-chip features...
+  - question_id: 0x190
+  - varstore_id: 0x1
+  - varoffset: 0x1B1
+  - type: OneOf
+  - options: ['Disabled (0)', 'Enabled (1, Default)']
+  - line: 3423
+
+**说明**: 仅在Setup模块中找到，默认启用。
+
+### SMT
+
+**状态**: 未找到 ❌
+
+**说明**: 未找到SMT (Simultaneous Multithreading) 控制选项。该功能可能由AGESA自动管理，不可通过BIOS设置调整。
+
+### Downcore
+
+**状态**: 未找到 ❌
+
+**说明**: 未找到Downcore控制选项。但Setup模块中有"CPU Core Count"显示项（只读）。
+
+### ASPM
+
+**状态**: 已找到 ✅
+
+**Setup模块**:
+  - prompt: ASPM Support
+  - help: [Auto] Configure ASPM automatically... [Disabled] Disable ASPM support...
+  - question_id: 0x2897
+  - varstore_id: 0x1
+  - varoffset: 0x1F5
+  - type: OneOf
+  - options: ['Auto (1, Default)', 'Disabled (0)']
+  - line: 1991
+  - condition: GrayOutIf EqIdVal QuestionId: 0x267, Value: 0x1
+
+**说明**: 在Setup模块中找到，位于PCI Express Configuration下。有GrayOutIf条件。
+
+### PCIe Link Speed
+
+**状态**: 已找到 ✅
+
+**Setup模块**:
+  - prompt: PSPP Policy
+  - help: PCIe Speed Power Policy
+  - question_id: 0xBB
+  - varstore_id: 0x1
+  - varoffset: 0x1D5
+  - type: OneOf
+  - options: ['Disabled (0)', 'Performance (1)']
+  - line: 1433
+
+**CBS模块**:
+  - prompt: Early Link Speed
+  - help: Set Early Link Speed
+  - question_id: 0xDA
+  - varstore_id: 0x5000
+  - varoffset: 0x14F
+  - type: OneOf
+  - options: ['Auto (0, Default)', 'Gen1 (1)', 'Gen2 (2)']
+  - line: 2180
+
+**说明**: Setup模块中有PSPP Policy，CBS模块中有Early Link Speed控制。
+
+### Memory Clock / Timing
+
+**状态**: 已找到 ✅
+
+**Setup模块**:
+  - prompt: Memory Clock
+  - help: This Option Allows User to select different Memory Clock. Default value is 800Mhz.
+  - question_id: 0xBE
+  - varstore_id: 0x1
+  - varoffset: 0x1DB
+  - type: OneOf
+  - options: ['Auto (0)', '1333MHz (1)', '1600MHz (2)', '1866MHz (3)', '2133MHz (4)', '2400MHz (5)']
+  - line: 1488
+
+**CBS模块**:
+  - prompt: Memory Clock Speed
+  - help: Specifies the memory clock frequency.
+  - question_id: 0x59
+  - varstore_id: 0x5000
+  - varoffset: 0xD5
+  - type: OneOf
+  - options: ['Auto (255)', '667MHz (20)', '800MHz (24)', '933MHz (28)', '1067MHz (32)', '1200MHz (36)', '1333MHz (40)', '1400MHz (42)', '1467MHz (44)', '1533MHz (46)', '1600MHz (48)', '1667MHz (50)', '1733MHz (52)', '1800MHz (54)', '1867MHz (56)', '1933MHz (58)', '2000MHz (60)', '2067MHz (62)', '2133MHz (64)', '2200MHz (66)', '2267MHz (68)', '2333MHz (70)', '2400MHz (72)', '2467MHz (74)', '2533MHz (76)', '2600MHz (78)', '2667MHz (80)', '2733MHz (82)', '2800MHz (84)', '2867MHz (86)', '2933MHz (88)', '3000MHz (90)', '3067MHz (92)', '3133MHz (94)', '3200MHz (96)']
+  - line: 700
+
+**说明**: Setup模块和CBS模块中均有内存时钟控制。CBS提供更详细的时序控制(Tcl, Trcdrd, Trcdwr, Trp, Tras等)。
+
+### CSM
+
+**状态**: 已找到 ✅
+
+**Setup模块**:
+  - prompt: CSM Configuration
+  - help: CSM configuration: Enable/Disable, Option ROM execution settings, etc.
+  - question_id: 0xF7
+  - varstore_id: 0x0
+  - varoffset: N/A (Ref)
+  - type: Ref
+  - line: 2040
+
+**说明**: Setup模块中有CSM Configuration表单引用。
+
+### Secure Boot
+
+**状态**: 已找到 ✅
+
+**Setup模块**:
+  - prompt: Secure Boot
+  - help: Secure Boot configuration
+  - question_id: N/A
+  - varstore_id: 0x0
+  - varoffset: N/A (Ref)
+  - type: Ref/Form
+  - line: 5994, 6136
+
+**说明**: Setup模块中有Secure Boot表单。
+
+## 6. 修改建议
+
+### 6.1 解锁隐藏选项的方法
+
+要解锁BIOS中的隐藏选项，通常有以下几种方法:
+
+1. **修改IFR中的SuppressIf条件**
+   - 使用十六进制编辑器打开Setup模块 (setup.bin)
+   - 找到SuppressIf操作码 (0x0A) 并将其替换为0x00 (NOP)
+   - 或者修改条件判断使其永远为假
+
+2. **修改AMITSE/Setup模块的访问级别检查**
+   - 许多SuppressIf条件检查访问级别 (Access Level)
+   - 可以通过修改PE32镜像中的比较指令来绕过
+
+3. **使用AMI BIOS修改工具**
+   - AMIBCP (AMI BIOS Configuration Program)
+   - 可以直接修改选项的可见性标志
+
+4. **使用UEFI Shell或grub修改NVRAM变量**
+   - 某些选项的可见性由NVRAM变量控制
+   - 可以直接设置这些变量来解锁选项
+
+### 6.2 具体修改目标
+
+基于IFR分析，以下是推荐的修改目标:
+
+- **Access Level检查** (Line 116-122): 移除访问级别限制可显示大量隐藏选项
+- **PCI Express Configuration** (Line 424-426): 当前被SuppressIf隐藏
+- **Serial Port Setup** (Line 411-413): 当前被SuppressIf隐藏
+- **Parallel Port Setup** (Line 415-417): 当前被SuppressIf隐藏
+- **各种DEBUG配置**: 大量DEBUG选项被隐藏
+
+### 6.3 修改步骤示例
+
+以解锁'PCI Express Configuration'为例:
+
+1. 在setup.bin中找到对应IFR偏移
+2. 查找SuppressIf操作码 (0x0A) 及其条件
+3. 将条件替换为恒假 (如 EqIdVal 比较一个不存在的问题ID)
+4. 重新计算并更新校验和
+5. 将修改后的模块刷回BIOS
+
+### 6.4 风险提示
+
+⚠️ 修改BIOS固件有风险，可能导致:
+- 系统无法启动
+- 硬件损坏
+- 保修失效
+- 数据丢失
+建议在修改前备份原始BIOS，并准备好恢复方法 (如编程器)。

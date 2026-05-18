@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: GnbSocRavenDxe
+Offset: 6DC28h
+Full size: 936h (2358)
+Header size: 18h (24)
+Body size: 91Eh (2334)
+File GUID: 42363877-5513-4019-BDFE-CC075B6467FD
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 21h, valid
+Data checksum: AAh, valid

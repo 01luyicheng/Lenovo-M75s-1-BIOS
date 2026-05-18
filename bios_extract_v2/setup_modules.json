@@ -1,0 +1,335 @@
+[
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "CbsSetupDxeZP",
+    "guid": "A5E369C8-ABF9-4B43-B212-FF1BFD35666D",
+    "offset": 24,
+    "size": 28,
+    "data_present": true,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///CbsSetupDxeZP"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "CbsSetupDxeRV",
+    "guid": "3E7788CA-2BFC-4FCE-8122-5176CA492D9F",
+    "offset": 24,
+    "size": 28,
+    "data_present": true,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///CbsSetupDxeRV"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdPbsSetupDxe",
+    "guid": "BBB77CB9-762D-436C-AC40-8EE4901C3446",
+    "offset": 24,
+    "size": 30,
+    "data_present": true,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdPbsSetupDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "Setup",
+    "guid": "899407D7-99FE-43D8-9A21-79EC328CAC21",
+    "offset": 24,
+    "size": 12,
+    "data_present": true,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///Setup"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "PciDynamicSetup",
+    "guid": "2CE5604F-A982-4D2E-8FD0-D1600C2E1515",
+    "offset": 24,
+    "size": 32,
+    "data_present": true,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///PciDynamicSetup"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "NetworkStackSetupScreen",
+    "guid": "21891A9E-763E-4377-8841-8D5C90D88C51",
+    "offset": 24,
+    "size": 48,
+    "data_present": true,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///NetworkStackSetupScreen"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "NvmeDynamicSetup",
+    "guid": "668706B2-BCFC-4AD4-A185-75E79F3FE169",
+    "offset": 24,
+    "size": 34,
+    "data_present": true,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///NvmeDynamicSetup"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "SetupItemLinkageDxe",
+    "guid": "19AFD36B-F501-4446-9C9E-0457DB6E7888",
+    "offset": 24,
+    "size": 40,
+    "data_present": true,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///SetupItemLinkageDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "SetupDataChecksumErr",
+    "guid": "DB41E01B-A8B0-4E15-B619-4463975B357B",
+    "offset": 24,
+    "size": 42,
+    "data_present": true,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///SetupDataChecksumErr"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "SetupLoadDefaultDxe",
+    "guid": "B1EE7CB1-5D00-467F-9E60-24CD8341937A",
+    "offset": 24,
+    "size": 40,
+    "data_present": true,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///SetupLoadDefaultDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "SetupLoadDefault",
+    "guid": "A46D9EE7-C6B4-42C0-8378-6E4BDC50406B",
+    "offset": 24,
+    "size": 34,
+    "data_present": true,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///SetupLoadDefault"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "SetupItemLinkageSmm",
+    "guid": "AE73630A-022D-4884-A696-F728CBF53AEF",
+    "offset": 24,
+    "size": 40,
+    "data_present": true,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///SetupItemLinkageSmm"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AodSetupDxe",
+    "guid": "07D279A1-34E4-4168-993B-178B3ACC68EF",
+    "offset": 24,
+    "size": 24,
+    "data_present": true,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AodSetupDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "TcgPlatformSetupPolicy",
+    "guid": "196CA3D8-9A5A-4735-B328-8FFC1D93D188",
+    "offset": 24,
+    "size": 46,
+    "data_present": true,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///TcgPlatformSetupPolicy"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AMITSE",
+    "guid": "EE4E5898-3914-4259-9D6E-DC7BD79403CF",
+    "offset": 48,
+    "size": 14,
+    "data_present": true,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf/////AMITSE"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AMITSESetupData",
+    "guid": "EE4E5898-3914-4259-9D6E-DC7BD79403CF",
+    "offset": 48,
+    "size": 32,
+    "data_present": true,
+    "path": "7008296//////ee4e5898-3914-4259-9d6e-dc7bd79403cf/////AMITSESetupData"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "TcgPlatformSetupPeiPolicy",
+    "guid": "0FE9DA53-043D-4265-A94D-FD77FEDE2EB4",
+    "offset": 0,
+    "size": 52,
+    "data_present": true,
+    "path": "13500456///TcgPlatformSetupPeiPolicy"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "SetupCheckSumPei",
+    "guid": "76D1059D-2E22-40EF-A31F-C49DBBC0DBCE",
+    "offset": 0,
+    "size": 34,
+    "data_present": true,
+    "path": "13500456///SetupCheckSumPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "CbsSetupDxeSSP",
+    "guid": "8E38A88A-C267-4131-A8CD-C0BC80A24CB5",
+    "offset": 24,
+    "size": 30,
+    "data_present": true,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///CbsSetupDxeSSP"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AmdPbsSetupDxe",
+    "guid": "BBB77CB9-762D-436C-AC40-8EE4901C3446",
+    "offset": 24,
+    "size": 30,
+    "data_present": true,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AmdPbsSetupDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "Setup",
+    "guid": "899407D7-99FE-43D8-9A21-79EC328CAC21",
+    "offset": 24,
+    "size": 12,
+    "data_present": true,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///Setup"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "PciDynamicSetup",
+    "guid": "2CE5604F-A982-4D2E-8FD0-D1600C2E1515",
+    "offset": 24,
+    "size": 32,
+    "data_present": true,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///PciDynamicSetup"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "NetworkStackSetupScreen",
+    "guid": "21891A9E-763E-4377-8841-8D5C90D88C51",
+    "offset": 24,
+    "size": 48,
+    "data_present": true,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///NetworkStackSetupScreen"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "NvmeDynamicSetup",
+    "guid": "668706B2-BCFC-4AD4-A185-75E79F3FE169",
+    "offset": 24,
+    "size": 34,
+    "data_present": true,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///NvmeDynamicSetup"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "SetupItemLinkageDxe",
+    "guid": "19AFD36B-F501-4446-9C9E-0457DB6E7888",
+    "offset": 24,
+    "size": 40,
+    "data_present": true,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///SetupItemLinkageDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "SetupDataChecksumErr",
+    "guid": "DB41E01B-A8B0-4E15-B619-4463975B357B",
+    "offset": 24,
+    "size": 42,
+    "data_present": true,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///SetupDataChecksumErr"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "SetupLoadDefaultDxe",
+    "guid": "B1EE7CB1-5D00-467F-9E60-24CD8341937A",
+    "offset": 24,
+    "size": 40,
+    "data_present": true,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///SetupLoadDefaultDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "SetupLoadDefault",
+    "guid": "A46D9EE7-C6B4-42C0-8378-6E4BDC50406B",
+    "offset": 24,
+    "size": 34,
+    "data_present": true,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///SetupLoadDefault"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "SetupItemLinkageSmm",
+    "guid": "AE73630A-022D-4884-A696-F728CBF53AEF",
+    "offset": 24,
+    "size": 40,
+    "data_present": true,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///SetupItemLinkageSmm"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AodSetupDxe",
+    "guid": "A2702A3C-62FD-402D-B8C3-1D18F6C6FDE5",
+    "offset": 24,
+    "size": 24,
+    "data_present": true,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///AodSetupDxe"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "TcgPlatformSetupPolicy",
+    "guid": "196CA3D8-9A5A-4735-B328-8FFC1D93D188",
+    "offset": 24,
+    "size": 46,
+    "data_present": true,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf///TcgPlatformSetupPolicy"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AMITSE",
+    "guid": "EE4E5898-3914-4259-9D6E-DC7BD79403CF",
+    "offset": 48,
+    "size": 14,
+    "data_present": true,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf/////AMITSE"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "AMITSESetupData",
+    "guid": "EE4E5898-3914-4259-9D6E-DC7BD79403CF",
+    "offset": 48,
+    "size": 32,
+    "data_present": true,
+    "path": "20910120//////ee4e5898-3914-4259-9d6e-dc7bd79403cf/////AMITSESetupData"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "TcgPlatformSetupPeiPolicy",
+    "guid": "0FE9DA53-043D-4265-A94D-FD77FEDE2EB4",
+    "offset": 0,
+    "size": 52,
+    "data_present": true,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///TcgPlatformSetupPeiPolicy"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "SetupCheckSumPei",
+    "guid": "76D1059D-2E22-40EF-A31F-C49DBBC0DBCE",
+    "offset": 0,
+    "size": 34,
+    "data_present": true,
+    "path": "30277672////147923ce-d0e9-4c4f-9b7b-ac02f8bd2763///SetupCheckSumPei"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "TcgPlatformSetupPeiPolicy",
+    "guid": "0FE9DA53-043D-4265-A94D-FD77FEDE2EB4",
+    "offset": 0,
+    "size": 52,
+    "data_present": true,
+    "path": "30285864///TcgPlatformSetupPeiPolicy"
+  },
+  {
+    "type": "FirmwareFileSystemSection",
+    "name": "SetupCheckSumPei",
+    "guid": "76D1059D-2E22-40EF-A31F-C49DBBC0DBCE",
+    "offset": 0,
+    "size": 34,
+    "data_present": true,
+    "path": "30285864///SetupCheckSumPei"
+  }
+]

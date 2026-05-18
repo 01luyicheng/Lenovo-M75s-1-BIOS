@@ -1,0 +1,7 @@
+Type: Section
+Subtype: Raw
+Offset: 18h
+Full size: BEAh (3050)
+Header size: 4h (4)
+Body size: BE6h (3046)
+Type: 19h

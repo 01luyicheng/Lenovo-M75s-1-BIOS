@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: NvmeDynamicSetup
+Offset: 40D0F0h
+Full size: 74FEh (29950)
+Header size: 18h (24)
+Body size: 74E6h (29926)
+File GUID: 668706B2-BCFC-4AD4-A185-75E79F3FE169
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 62h, valid
+Data checksum: AAh, valid

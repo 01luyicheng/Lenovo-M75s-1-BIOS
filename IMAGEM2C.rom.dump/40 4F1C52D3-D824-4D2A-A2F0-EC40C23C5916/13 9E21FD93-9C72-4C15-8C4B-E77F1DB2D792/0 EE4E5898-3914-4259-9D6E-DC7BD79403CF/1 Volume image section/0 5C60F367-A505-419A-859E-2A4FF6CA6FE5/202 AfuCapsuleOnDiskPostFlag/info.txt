@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AfuCapsuleOnDiskPostFlag
+Offset: 5BF250h
+Full size: 6EAh (1770)
+Header size: 18h (24)
+Body size: 6D2h (1746)
+File GUID: 11799AA2-1C5D-4E5B-8A5D-32D20C39B9D3
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 65h, valid
+Data checksum: AAh, valid

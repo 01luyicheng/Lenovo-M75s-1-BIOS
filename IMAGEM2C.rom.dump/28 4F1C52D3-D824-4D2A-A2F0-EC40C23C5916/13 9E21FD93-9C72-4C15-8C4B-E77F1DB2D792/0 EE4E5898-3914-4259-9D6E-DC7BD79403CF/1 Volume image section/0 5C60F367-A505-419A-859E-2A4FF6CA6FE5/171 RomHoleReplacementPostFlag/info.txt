@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: RomHoleReplacementPostFlag
+Offset: 63DC18h
+Full size: 62Eh (1582)
+Header size: 18h (24)
+Body size: 616h (1558)
+File GUID: F82E90F8-5C19-4128-BA8B-0EEABF7F32EF
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 9Dh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: HdpEraseUnitAppDxe
+Offset: 680DC0h
+Full size: AF2h (2802)
+Header size: 18h (24)
+Body size: ADAh (2778)
+File GUID: 3A6A1473-13E0-4795-BA9F-22891277D74D
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 52h, valid
+Data checksum: AAh, valid

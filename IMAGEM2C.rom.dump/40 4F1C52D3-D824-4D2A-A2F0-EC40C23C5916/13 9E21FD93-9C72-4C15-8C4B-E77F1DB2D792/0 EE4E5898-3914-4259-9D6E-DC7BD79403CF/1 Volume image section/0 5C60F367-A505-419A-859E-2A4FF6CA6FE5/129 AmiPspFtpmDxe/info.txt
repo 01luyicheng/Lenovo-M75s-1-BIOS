@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmiPspFtpmDxe
+Offset: 376BF8h
+Full size: 6A2h (1698)
+Header size: 18h (24)
+Body size: 68Ah (1674)
+File GUID: A77C8452-0821-4544-AE47-257489855F91
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 1Ah, valid
+Data checksum: AAh, valid

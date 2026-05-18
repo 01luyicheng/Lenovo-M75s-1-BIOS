@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: RomHoleReplacementPpi
+Base: 1DB8058h
+Header address: FFDB8058h
+Data address: FFDB8070h
+Offset: B6058h
+Full size: 492h (1170)
+Header size: 18h (24)
+Body size: 47Ah (1146)
+File GUID: 321BBE0C-3560-4BDF-8310-235CD7C173C0
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: B1h, valid
+Data checksum: AAh, valid

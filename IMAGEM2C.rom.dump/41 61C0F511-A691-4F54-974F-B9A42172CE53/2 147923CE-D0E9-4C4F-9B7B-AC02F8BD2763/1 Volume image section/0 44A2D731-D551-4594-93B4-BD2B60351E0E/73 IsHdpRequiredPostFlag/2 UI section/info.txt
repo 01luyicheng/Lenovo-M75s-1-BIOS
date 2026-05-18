@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: 1D87708h
+Header address: FFD87708h
+Data address: FFD8770Ch
+Offset: 298h
+Full size: 30h (48)
+Header size: 4h (4)
+Body size: 2Ch (44)
+Type: 15h
+Text: IsHdpRequiredPostFlag

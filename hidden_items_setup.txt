@@ -1,0 +1,1344 @@
+================================================================================
+HIDDEN SETTINGS IN SETUP MODULE
+================================================================================
+
+Line 118: [Text] 'Access Level'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 122: [Text] 'Access Level'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 133: [OneOf] 'System Language'
+  QuestionId: 0x8, VarStoreId: 0x2, VarOffset: 0x0
+  Conditions: SuppressIf
+
+Line 176: [Text] 'OA2.1 Marker'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 184: [OneOf] 'Language'
+  QuestionId: 0xC, VarStoreId: 0x2, VarOffset: 0x0
+  Conditions: SuppressIf, GrayOutIf
+
+Line 201: [OneOf] 'Setup mode select'
+  QuestionId: 0xD, VarStoreId: 0x1, VarOffset: 0x1EC
+  Conditions: SuppressIf, GrayOutIf
+
+Line 216: [Ref] 'Main'
+  QuestionId: 0xE, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 230: [Text] 'CPU Fan'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 234: [Text] 'CPU Fan 2'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 238: [Text] 'System Fan'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 242: [Text] 'System Fan 2'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 246: [Text] 'Aux Fan'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 257: [Text] 'Front Fan'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 261: [Text] 'Front Fan 2'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 265: [Text] 'Rear Fan'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 269: [Text] 'Rear Fan 2'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 273: [Text] 'Odd Fan'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 277: [Text] 'Odd Fan 2'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 281: [Text] 'Dimm Fan'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 285: [Text] 'Dimm Fan 2'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 289: [Text] 'M.2 Drive 0'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 293: [Text] 'M.2 Drive 1'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 297: [Text] 'M.2 Drive 2'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 301: [Text] 'M.2 Drive 3'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 305: [Text] 'M.2 Drive 4'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 309: [Text] 'M.2 Drive 5'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 313: [Text] 'M.2 Drive 6'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 317: [Text] 'M.2 Drive 7'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 321: [Text] 'M.2 Drive 8'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 325: [Text] 'M.2 Drive 9'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 329: [Text] 'M.2 Drive 10'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 333: [Text] 'M.2 Drive 11'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 337: [Text] 'M.2 Drive 12'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 341: [Text] 'SATA Drive 0'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 345: [Text] 'SATA Drive 1'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 349: [Text] 'SATA Drive 2'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 353: [Text] 'SATA Drive 3'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 357: [Text] 'SATA Drive 4'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 361: [Text] 'SATA Drive 5'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 365: [Text] 'SATA Drive 6'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 369: [Text] 'SATA Drive 7'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 373: [Text] 'SATA Drive 8'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 377: [Text] 'SATA Drive 9'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 381: [Text] 'SATA Drive 10'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 385: [Text] 'SATA Drive 11'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 389: [Text] 'SATA Drive 12'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 413: [Ref] 'Serial Port Setup'
+  QuestionId: 0x14, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 417: [Ref] 'Parallel Port Setup'
+  QuestionId: 0x15, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 426: [Ref] 'PCI Express Configuration'
+  QuestionId: 0x1B, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 437: [OneOf] 'Card Reader'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 449: [OneOf] 'Bluetooth'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf, GrayOutIf
+
+Line 465: [Ref] 'Chipset'
+  QuestionId: 0x1C, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 554: [OneOf] 'OnChip SATA Channel'
+  QuestionId: 0x2A, VarStoreId: 0x1, VarOffset: 0xA3
+  Conditions: GrayOutIf
+
+Line 561: [OneOf] 'OnChip SATA Type'
+  QuestionId: 0x2B, VarStoreId: 0x1, VarOffset: 0xA4
+  Conditions: SuppressIf
+
+Line 594: [OneOf] 'XHCI Controller 1'
+  QuestionId: 0x2D, VarStoreId: 0x1, VarOffset: 0xA8
+  Conditions: GrayOutIf
+
+Line 601: [OneOf] 'XHCI0 Port 0 '
+  QuestionId: 0x2E, VarStoreId: 0x1, VarOffset: 0xB1
+  Conditions: SuppressIf
+
+Line 627: [OneOf] 'USB Internal Port 0 '
+  QuestionId: 0x33, VarStoreId: 0x1, VarOffset: 0xAB
+  Conditions: SuppressIf
+
+Line 633: [OneOf] '  HUB Port 0 '
+  QuestionId: 0x34, VarStoreId: 0x1, VarOffset: 0xAD
+  Conditions: SuppressIf
+
+Line 660: [OneOf] 'XHCI0 Port 0 '
+  QuestionId: 0x39, VarStoreId: 0x1, VarOffset: 0xB1
+  Conditions: GrayOutIf
+
+Line 666: [OneOf] 'XHCI0 Port 1 '
+  QuestionId: 0x3A, VarStoreId: 0x1, VarOffset: 0xB2
+  Conditions: SuppressIf
+
+Line 684: [OneOf] 'XHCI0 Port 0 '
+  QuestionId: 0x3D, VarStoreId: 0x1, VarOffset: 0xB1
+  Conditions: GrayOutIf
+
+Line 715: [OneOf] 'XHCI0 Port 0 '
+  QuestionId: 0x43, VarStoreId: 0x1, VarOffset: 0xB1
+  Conditions: GrayOutIf
+
+Line 744: [OneOf] 'XHCI0 Port 0 '
+  QuestionId: 0x49, VarStoreId: 0x1, VarOffset: 0xB1
+  Conditions: GrayOutIf
+
+Line 767: [OneOf] 'IR Config'
+  QuestionId: 0x4D, VarStoreId: 0x1, VarOffset: 0xBA
+  Conditions: GrayOutIf
+
+Line 778: [OneOf] 'SD Mode'
+  QuestionId: 0x4E, VarStoreId: 0x1, VarOffset: 0xBB
+  Conditions: GrayOutIf
+
+Line 805: [OneOf] 'Uart 0 Enable'
+  QuestionId: 0x51, VarStoreId: 0x1, VarOffset: 0xC7
+  Conditions: GrayOutIf
+
+Line 809: [OneOf] 'Uart 1 Enable'
+  QuestionId: 0x52, VarStoreId: 0x1, VarOffset: 0xC8
+  Conditions: GrayOutIf
+
+Line 821: [OneOf] 'I2C 0 Enable'
+  QuestionId: 0x53, VarStoreId: 0x1, VarOffset: 0xC3
+  Conditions: GrayOutIf
+
+Line 825: [OneOf] 'I2C 1 Enable'
+  QuestionId: 0x54, VarStoreId: 0x1, VarOffset: 0xC4
+  Conditions: GrayOutIf
+
+Line 843: [OneOf] 'AB Clock Gating'
+  QuestionId: 0x57, VarStoreId: 0x1, VarOffset: 0xC9
+  Conditions: GrayOutIf
+
+Line 865: [OneOf] 'Restore On AC Power Loss'
+  QuestionId: 0x5E, VarStoreId: 0x1, VarOffset: 0x11F
+  Conditions: GrayOutIf
+
+Line 885: [OneOf] 'ESATA Port On Port 0'
+  QuestionId: 0x60, VarStoreId: 0x1, VarOffset: 0xCB
+  Conditions: SuppressIf
+
+Line 1143: [OneOf] 'SPI Read Mode'
+  QuestionId: 0x91, VarStoreId: 0x1, VarOffset: 0xFD
+  Conditions: GrayOutIf
+
+Line 1184: [OneOf] 'I2C 0 D3 Support'
+  QuestionId: 0x96, VarStoreId: 0x1, VarOffset: 0x102
+  Conditions: GrayOutIf
+
+Line 1283: [OneOf] 'SB Clock Spread Spectrum Option'
+  QuestionId: 0xA7, VarStoreId: 0x1, VarOffset: 0x11E
+  Conditions: SuppressIf
+
+Line 1455: [Ref] 'Memory Configuration'
+  QuestionId: 0xBC, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 1512: [OneOf] 'Serial Port1 Address'
+  QuestionId: 0x2884, VarStoreId: 0x1, VarOffset: 0x4
+  Conditions: GrayOutIf
+
+Line 1521: [OneOf] 'Serial Port2 Address'
+  QuestionId: 0x2885, VarStoreId: 0x1, VarOffset: 0x3
+  Conditions: SuppressIf
+
+Line 1534: [OneOf] 'Parallel Port Address'
+  QuestionId: 0xC2, VarStoreId: 0x1, VarOffset: 0x7
+  Conditions: GrayOutIf
+
+Line 1544: [OneOf] 'Parallel Port Mode'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 1553: [OneOf] 'ECP Mode DMA Channel'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 1569: [OneOf] 'USB Port Access'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 1579: [OneOf] 'USB BIOS Support'
+  QuestionId: 0xC6, VarStoreId: 0x4D, VarOffset: 0x1
+  Conditions: SuppressIf, GrayOutIf
+
+Line 1592: [OneOf] 'USB Enumeration Delay'
+  QuestionId: 0xC7, VarStoreId: 0x1, VarOffset: 0x49
+  Conditions: GrayOutIf
+
+Line 1602: [OneOf] 'USB Debug Support'
+  QuestionId: 0xC8, VarStoreId: 0x1, VarOffset: 0x13
+  Conditions: SuppressIf, GrayOutIf
+
+Line 1615: [OneOf] 'Front USB Ports'
+  QuestionId: 0x2889, VarStoreId: 0x1, VarOffset: 0x11
+  Conditions: GrayOutIf
+
+Line 1630: [OneOf] '  USB Port 1'
+  QuestionId: 0xC9, VarStoreId: 0x1, VarOffset: 0x129
+  Conditions: GrayOutIf
+
+Line 1650: [OneOf] '  USB Port 11'
+  QuestionId: 0xCD, VarStoreId: 0x1, VarOffset: 0x131
+  Conditions: SuppressIf
+
+Line 1654: [OneOf] '  USB Port 12'
+  QuestionId: 0xCE, VarStoreId: 0x1, VarOffset: 0x132
+  Conditions: SuppressIf
+
+Line 1669: [OneOf] 'Rear USB Ports'
+  QuestionId: 0x288A, VarStoreId: 0x1, VarOffset: 0x12
+  Conditions: GrayOutIf
+
+Line 1684: [OneOf] '  USB Port 5'
+  QuestionId: 0xCF, VarStoreId: 0x1, VarOffset: 0x133
+  Conditions: GrayOutIf
+
+Line 1726: [OneOf] '  USB Port 9'
+  QuestionId: 0xD5, VarStoreId: 0x1, VarOffset: 0x12E
+  Conditions: SuppressIf
+
+Line 1741: [OneOf] 'SATA Controller'
+  QuestionId: 0x288C, VarStoreId: 0x1, VarOffset: 0x139
+  Conditions: GrayOutIf
+
+Line 1816: [OneOf] 'Hard Disk Pre-delay'
+  QuestionId: 0xDB, VarStoreId: 0x1, VarOffset: 0x1
+  Conditions: SuppressIf, GrayOutIf
+
+Line 1843: [OneOf] 'UMA Frame Buffer Size'
+  QuestionId: 0x2890, VarStoreId: 0x1, VarOffset: 0x1D4
+  Conditions: GrayOutIf
+
+Line 1886: [OneOf] 'Surround View'
+  QuestionId: 0xDC, VarStoreId: 0x1, VarOffset: 0x18
+  Conditions: SuppressIf
+
+Line 1897: [OneOf] 'Onboard Audio Controller'
+  QuestionId: 0x2894, VarStoreId: 0x1, VarOffset: 0xE
+  Conditions: GrayOutIf
+
+Line 1917: [OneOf] 'Onboard Ethernet Controller'
+  QuestionId: 0xDE, VarStoreId: 0x1, VarOffset: 0x160
+  Conditions: GrayOutIf
+
+Line 1926: [OneOf] 'PXE Option ROM'
+  QuestionId: 0xDF, VarStoreId: 0x1, VarOffset: 0x1E8
+  Conditions: SuppressIf, GrayOutIf
+
+Line 1938: [OneOf] 'Wireless LAN Access'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf, GrayOutIf
+
+Line 1950: [OneOf] 'Wireless LAN Access'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf, GrayOutIf
+
+Line 1962: [OneOf] 'Network Stack'
+  QuestionId: 0xE2, VarStoreId: 0x36, VarOffset: 0x0
+  Conditions: SuppressIf
+
+Line 1971: [OneOf] 'PXE IPV4 Network Stack'
+  QuestionId: 0xE3, VarStoreId: 0x36, VarOffset: 0x1
+  Conditions: SuppressIf, GrayOutIf
+
+Line 1981: [OneOf] 'PXE IPV6 Network Stack'
+  QuestionId: 0xE4, VarStoreId: 0x36, VarOffset: 0x2
+  Conditions: SuppressIf, GrayOutIf
+
+Line 1991: [OneOf] 'ASPM Support'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 2004: [OneOf] 'PCIe 1x Slot 1 Speed'
+  QuestionId: 0xE6, VarStoreId: 0x1, VarOffset: 0xC
+  Conditions: SuppressIf
+
+Line 2034: [Ref] 'AMI Graphic Output Protocol Policy'
+  QuestionId: 0xF3, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 2047: [Ref] ''
+  QuestionId: 0xFA, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 2053: [Ref] 'Driver Health'
+  QuestionId: 0xFB, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 2067: [Ref] 'DASH Configuration'
+  QuestionId: 0xFD, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 2080: [OneOf] 'Dust Shield Alert'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 2092: [OneOf] 'Hard Disk Pre-delay'
+  QuestionId: 0xFF, VarStoreId: 0x1, VarOffset: 0x1
+  Conditions: SuppressIf, GrayOutIf
+
+Line 2110: [Ref] 'Advanced'
+  QuestionId: 0x100, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 2122: [Text] 'RTL8111 ID'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 2127: [OneOf] 'RealManage Firmware Control'
+  QuestionId: 0x101, VarStoreId: 0x37, VarOffset: 0x1
+  Conditions: SuppressIf
+
+Line 2135: [OneOf] 'DASH Support'
+  QuestionId: 0x102, VarStoreId: 0x37, VarOffset: 0x2
+  Conditions: SuppressIf
+
+Line 2155: [Text] 'BROADCOM ID'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 2184: [OneOf] 'PLDM for SMBIOS'
+  QuestionId: 0x106, VarStoreId: 0x38, VarOffset: 0x2
+  Conditions: SuppressIf
+
+Line 2192: [OneOf] 'PLDM for BIOS Control and Config'
+  QuestionId: 0x107, VarStoreId: 0x38, VarOffset: 0x3
+  Conditions: SuppressIf
+
+Line 2199: [OneOf] 'PLDM for Platform Monitoring'
+  QuestionId: 0x108, VarStoreId: 0x38, VarOffset: 0x4
+  Conditions: SuppressIf
+
+Line 2240: [OneOf] 'ACPI Sleep State'
+  QuestionId: 0x10D, VarStoreId: 0x1, VarOffset: 0x9C
+  Conditions: SuppressIf, GrayOutIf
+
+Line 2279: [Text] 'SATA Port6'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 2280: [Text] 'SATA Port7'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 2391: [OneOf] 'USB30 PORT1'
+  QuestionId: 0x11F, VarStoreId: 0x1, VarOffset: 0x129
+  Conditions: SuppressIf
+
+Line 2415: [OneOf] 'USB30 PORT4'
+  QuestionId: 0x122, VarStoreId: 0x1, VarOffset: 0x12C
+  Conditions: SuppressIf
+
+Line 2526: [Numeric] 'PCIE PORT 7'
+  QuestionId: 0x132, VarStoreId: 0x3B, VarOffset: 0x0
+  Conditions: SuppressIf
+
+Line 2638: [OneOf] 'Device0'
+  QuestionId: 0x147, VarStoreId: 0x1, VarOffset: 0x177
+  Conditions: SuppressIf
+
+Line 2645: [OneOf] '  ASPM Mode Control'
+  QuestionId: 0x148, VarStoreId: 0x1, VarOffset: 0x17F
+  Conditions: SuppressIf
+
+Line 2664: [OneOf] 'Device1'
+  QuestionId: 0x14A, VarStoreId: 0x1, VarOffset: 0x178
+  Conditions: SuppressIf
+
+Line 2671: [OneOf] '  ASPM Mode Control'
+  QuestionId: 0x14B, VarStoreId: 0x1, VarOffset: 0x180
+  Conditions: SuppressIf
+
+Line 2690: [OneOf] 'Device2'
+  QuestionId: 0x14D, VarStoreId: 0x1, VarOffset: 0x179
+  Conditions: SuppressIf
+
+Line 2697: [OneOf] '  ASPM Mode Control'
+  QuestionId: 0x14E, VarStoreId: 0x1, VarOffset: 0x181
+  Conditions: SuppressIf
+
+Line 2716: [OneOf] 'Device3'
+  QuestionId: 0x150, VarStoreId: 0x1, VarOffset: 0x17A
+  Conditions: SuppressIf
+
+Line 2723: [OneOf] '  ASPM Mode Control'
+  QuestionId: 0x151, VarStoreId: 0x1, VarOffset: 0x182
+  Conditions: SuppressIf
+
+Line 2742: [OneOf] 'Device4'
+  QuestionId: 0x153, VarStoreId: 0x1, VarOffset: 0x17B
+  Conditions: SuppressIf
+
+Line 2749: [OneOf] '  ASPM Mode Control'
+  QuestionId: 0x154, VarStoreId: 0x1, VarOffset: 0x183
+  Conditions: SuppressIf
+
+Line 2768: [OneOf] 'Device5'
+  QuestionId: 0x156, VarStoreId: 0x1, VarOffset: 0x17C
+  Conditions: SuppressIf
+
+Line 2775: [OneOf] '  ASPM Mode Control'
+  QuestionId: 0x157, VarStoreId: 0x1, VarOffset: 0x184
+  Conditions: SuppressIf
+
+Line 2794: [OneOf] 'Device6'
+  QuestionId: 0x159, VarStoreId: 0x1, VarOffset: 0x17D
+  Conditions: SuppressIf
+
+Line 2801: [OneOf] '  ASPM Mode Control'
+  QuestionId: 0x15A, VarStoreId: 0x1, VarOffset: 0x185
+  Conditions: SuppressIf
+
+Line 2820: [OneOf] 'Device7'
+  QuestionId: 0x15C, VarStoreId: 0x1, VarOffset: 0x17E
+  Conditions: SuppressIf
+
+Line 2827: [OneOf] '  ASPM Mode Control'
+  QuestionId: 0x15D, VarStoreId: 0x1, VarOffset: 0x186
+  Conditions: SuppressIf
+
+Line 2859: [OneOf] 'ASF BIOS Mode'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 2870: [OneOf] 'ASF WatchDog Timer'
+  QuestionId: 0x161, VarStoreId: 0x1, VarOffset: 0x192
+  Conditions: SuppressIf
+
+Line 2879: [Numeric] ' WatchDog Timer : BIOS'
+  QuestionId: 0x162, VarStoreId: 0x1, VarOffset: 0x193
+  Conditions: SuppressIf, GrayOutIf
+
+Line 2888: [Numeric] ' WatchDog Timer : OS'
+  QuestionId: 0x163, VarStoreId: 0x1, VarOffset: 0x195
+  Conditions: SuppressIf, GrayOutIf
+
+Line 2902: [Ref] 'Serial Port 1 Configuration'
+  QuestionId: 0x164, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 2906: [Ref] 'Serial Port 2 Configuration'
+  QuestionId: 0x165, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 2910: [Ref] 'Parallel Port Configuration'
+  QuestionId: 0x166, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 2924: [Text] 'Device Settings'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 2930: [OneOf] 'Change Settings'
+  QuestionId: 0x168, VarStoreId: 0x42, VarOffset: 0x1
+  Conditions: SuppressIf
+
+Line 2953: [Text] 'Device Settings'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 2959: [OneOf] 'Change Settings'
+  QuestionId: 0x16A, VarStoreId: 0x44, VarOffset: 0x1
+  Conditions: SuppressIf
+
+Line 2982: [Text] 'Device Settings'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 3018: [OneOf] 'Device Mode'
+  QuestionId: 0x16E, VarStoreId: 0x3E, VarOffset: 0x2
+  Conditions: SuppressIf
+
+Line 3063: [Text] 'Console Redirection'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 3080: [Ref] 'Console Redirection Settings'
+  QuestionId: 0x170, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf, GrayOutIf
+
+Line 3100: [Ref] 'Console Redirection Settings'
+  QuestionId: 0x173, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 3106: [OneOf] 'Out-of-Band Mgmt Port'
+  QuestionId: 0x174, VarStoreId: 0x1, VarOffset: 0x1A5
+  Conditions: SuppressIf
+
+Line 3113: [OneOf] 'Terminal Type'
+  QuestionId: 0x175, VarStoreId: 0x1, VarOffset: 0x1A6
+  Conditions: GrayOutIf
+
+Line 3128: [OneOf] 'Bits per second'
+  QuestionId: 0x176, VarStoreId: 0x1, VarOffset: 0x1A7
+  Conditions: GrayOutIf
+
+Line 3143: [OneOf] 'Flow Control'
+  QuestionId: 0x177, VarStoreId: 0x1, VarOffset: 0x1A8
+  Conditions: GrayOutIf
+
+Line 3157: [Text] 'Data Bits'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 3161: [Text] 'Parity'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 3165: [Text] 'Stop Bits'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 3294: [OneOf] 'PSS Support'
+  QuestionId: 0x185, VarStoreId: 0x1, VarOffset: 0x1AD
+  Conditions: GrayOutIf
+
+Line 3300: [OneOf] 'PSTATE Adjustment'
+  QuestionId: 0x186, VarStoreId: 0x1, VarOffset: 0x1AE
+  Conditions: SuppressIf
+
+Line 3429: [OneOf] 'CPB Mode'
+  QuestionId: 0x191, VarStoreId: 0x1, VarOffset: 0x1B4
+  Conditions: SuppressIf
+
+Line 3436: [OneOf] 'C6 Support'
+  QuestionId: 0x192, VarStoreId: 0x1, VarOffset: 0x1B3
+  Conditions: SuppressIf
+
+Line 3608: [OneOf] 'USB Support'
+  QuestionId: 0x196, VarStoreId: 0x4D, VarOffset: 0x0
+  Conditions: SuppressIf, GrayOutIf
+
+Line 3618: [OneOf] 'Legacy USB Support'
+  QuestionId: 0x197, VarStoreId: 0x4D, VarOffset: 0x1
+  Conditions: SuppressIf, GrayOutIf
+
+Line 3629: [OneOf] 'USB 2.0 Controller Mode'
+  QuestionId: 0x198, VarStoreId: 0x4D, VarOffset: 0x2E
+  Conditions: SuppressIf, GrayOutIf
+
+Line 3639: [OneOf] 'XHCI Legacy Support'
+  QuestionId: 0x199, VarStoreId: 0x4D, VarOffset: 0x2A
+  Conditions: SuppressIf, GrayOutIf
+
+Line 3652: [OneOf] 'XHCI Hand-off'
+  QuestionId: 0x19A, VarStoreId: 0x4D, VarOffset: 0x2B
+  Conditions: GrayOutIf
+
+Line 3667: [OneOf] 'EHCI Hand-off'
+  QuestionId: 0x19B, VarStoreId: 0x4D, VarOffset: 0x2
+  Conditions: GrayOutIf
+
+Line 3686: [OneOf] 'USB Mass Storage Driver Support'
+  QuestionId: 0x19C, VarStoreId: 0x4D, VarOffset: 0x2F
+  Conditions: GrayOutIf
+
+Line 3708: [OneOf] 'USB transfer time-out'
+  QuestionId: 0x19D, VarStoreId: 0x4D, VarOffset: 0x9
+  Conditions: GrayOutIf
+
+Line 3729: [OneOf] 'Device reset time-out'
+  QuestionId: 0x19E, VarStoreId: 0x4D, VarOffset: 0x8
+  Conditions: GrayOutIf
+
+Line 3766: [Numeric] 'Device power-up delay in seconds'
+  QuestionId: 0x1A0, VarStoreId: 0x4D, VarOffset: 0x2D
+  Conditions: GrayOutIf
+
+Line 4406: [OneOf] 'CSM Support'
+  QuestionId: 0x27B4, VarStoreId: 0x1, VarOffset: 0x1E1
+  Conditions: SuppressIf
+
+Line 4438: [OneOf] 'HDD Connection Order'
+  QuestionId: 0x1C4, VarStoreId: 0x1, VarOffset: 0x1E5
+  Conditions: SuppressIf
+
+Line 4514: [OneOf] 'C1E Support'
+  QuestionId: 0x1CA, VarStoreId: 0x1, VarOffset: 0x11D
+  Conditions: SuppressIf, GrayOutIf
+
+Line 4522: [OneOf] 'AMD Secure Virtual Machine'
+  QuestionId: 0x1CB, VarStoreId: 0x1, VarOffset: 0x1B1
+  Conditions: GrayOutIf
+
+Line 4529: [OneOf] 'IOMMU'
+  QuestionId: 0x2899, VarStoreId: 0x1, VarOffset: 0x1F6
+  Conditions: GrayOutIf
+
+Line 4550: [OneOf] 'AMD Memory Guard'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf, GrayOutIf
+
+Line 4574: [OneOf] 'AMD Memory Guard'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf, GrayOutIf
+
+Line 4587: [OneOf] 'CPB Mode'
+  QuestionId: 0x1CC, VarStoreId: 0x1, VarOffset: 0x1B4
+  Conditions: SuppressIf, GrayOutIf
+
+Line 4599: [OneOf] 'CPB Mode'
+  QuestionId: 0x289C, VarStoreId: 0x1, VarOffset: 0x1B4
+  Conditions: GrayOutIf
+
+Line 4627: [OneOf] 'C6 Support'
+  QuestionId: 0x1CD, VarStoreId: 0x1, VarOffset: 0x1B3
+  Conditions: SuppressIf, GrayOutIf
+
+Line 4639: [OneOf] 'Global C-state Control'
+  QuestionId: 0x289F, VarStoreId: 0x1, VarOffset: 0x1ED
+  Conditions: GrayOutIf
+
+Line 4676: [OneOf] 'DASH Support'
+  QuestionId: 0x28A3, VarStoreId: 0x1, VarOffset: 0x1F4
+  Conditions: GrayOutIf
+
+Line 4683: [OneOf] 'Console Redirection Terminal Type'
+  QuestionId: 0x1CE, VarStoreId: 0x1, VarOffset: 0x19D
+  Conditions: GrayOutIf
+
+Line 4696: [Ref] ''
+  QuestionId: 0x1CF, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 4702: [Ref] ''
+  QuestionId: 0x1D0, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 4708: [OneOf] 'After Power Loss'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 4720: [OneOf] 'Enhanced Power Saving Mode'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 4731: [OneOf] 'Smart Power On'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf, GrayOutIf
+
+Line 4746: [OneOf] 'PSU Over load Warning'
+  QuestionId: 0x1D3, VarStoreId: 0x1, VarOffset: 0x24
+  Conditions: GrayOutIf
+
+Line 4754: [Ref] 'Intelligent Cooling Engine (ICE)'
+  QuestionId: 0x1D4, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 4761: [OneOf] 'ICE Performance Mode'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 4771: [OneOf] 'ICE Thermal Alert'
+  QuestionId: 0x1D7, VarStoreId: 0x1, VarOffset: 0x27
+  Conditions: GrayOutIf
+
+Line 4823: [OneOf] 'Wake from PCI Modem'
+  QuestionId: 0x1DA, VarStoreId: 0x1, VarOffset: 0x21
+  Conditions: SuppressIf, GrayOutIf
+
+Line 4835: [OneOf] 'Wake from Serial Port Ring'
+  QuestionId: 0x1DB, VarStoreId: 0x1, VarOffset: 0x22
+  Conditions: SuppressIf, GrayOutIf
+
+Line 4848: [OneOf] 'Wake from PCI Device'
+  QuestionId: 0x1DC, VarStoreId: 0x1, VarOffset: 0x23
+  Conditions: SuppressIf, GrayOutIf
+
+Line 4858: [OneOf] 'Wake Up on Alarm'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 4878: [OneOf] '  Startup Sequence'
+  QuestionId: 0x1DE, VarStoreId: 0x1B, VarOffset: 0xC
+  Conditions: GrayOutIf
+
+Line 4942: [Ref] 'User Defined Alarm'
+  QuestionId: 0x1E2, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 5111: [OneOf] 'STIBP Status'
+  QuestionId: 0x1ED, VarStoreId: 0x1, VarOffset: 0x1B7
+  Conditions: SuppressIf
+
+Line 5122: [Text] 'HDD Security Configuration:'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 5126: [Ref] ''
+  QuestionId: 0x1EE, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 5140: [Text] 'Administrator Password'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 5150: [Text] 'Power-On Password'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 5174: [OneOf] 'Custom Password Mode'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 5185: [OneOf] 'Max Password Attempts'
+  QuestionId: 0x1F0, VarStoreId: 0x1, VarOffset: 0x2D
+  Conditions: SuppressIf, GrayOutIf
+
+Line 5197: [OneOf] 'Password Change Time'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf, GrayOutIf
+
+Line 5229: [OneOf] 'Secure Roll Back Prevention'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf, GrayOutIf
+
+Line 5237: [OneOf] 'Require Admin. Pass. when Flashing'
+  QuestionId: 0x1F3, VarStoreId: 0x1, VarOffset: 0x30
+  Conditions: GrayOutIf
+
+Line 5247: [OneOf] 'Windows UEFI Firmware Update'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf, GrayOutIf
+
+Line 5257: [OneOf] 'BIOS Password At Unattended Boot'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 5265: [OneOf] 'BIOS Password At Reboot'
+  QuestionId: 0x1F6, VarStoreId: 0x1, VarOffset: 0x32
+  Conditions: GrayOutIf
+
+Line 5277: [OneOf] 'POP Changeable by User'
+  QuestionId: 0x1F7, VarStoreId: 0x1, VarOffset: 0x33
+  Conditions: GrayOutIf
+
+Line 5287: [OneOf] 'BIOS Password At Boot Device List'
+  QuestionId: 0x1F8, VarStoreId: 0x1, VarOffset: 0x34
+  Conditions: SuppressIf, GrayOutIf
+
+Line 5294: [OneOf] 'Smart USB Protection'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 5305: [OneOf] 'To diagnose hardware'
+  QuestionId: 0x1FA, VarStoreId: 0x1, VarOffset: 0x41
+  Conditions: SuppressIf
+
+Line 5312: [OneOf] 'Setup Load default'
+  QuestionId: 0x1FB, VarStoreId: 0x11, VarOffset: 0x0
+  Conditions: SuppressIf
+
+Line 5323: [Ref] 'Hard Disk Password'
+  QuestionId: 0x274C, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 5336: [Ref] 'TCG Feature Setup'
+  QuestionId: 0x1FC, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 5343: [Ref] 'System Event Log'
+  QuestionId: 0x1FE, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 5353: [Ref] 'Computrace'
+  QuestionId: 0x1FF, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 5379: [OneOf] 'Device Guard'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 5393: [OneOf] 'Credential Guard'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 5405: [OneOf] 'Cover Tamper Detected'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 5417: [OneOf] 'Configuration Change Detection'
+  QuestionId: 0x201, VarStoreId: 0x1, VarOffset: 0x3A
+  Conditions: SuppressIf, GrayOutIf
+
+Line 5427: [OneOf] 'Password Count Exceeded Error'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf, GrayOutIf
+
+Line 5436: [OneOf] 'Block SID Authentication'
+  QuestionId: 0x203, VarStoreId: 0x1, VarOffset: 0x1F1
+  Conditions: SuppressIf
+
+Line 5447: [Ref] 'Security'
+  QuestionId: 0x204, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 5457: [Text] 'TCG Security Device State'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 5468: [OneOf] '  Security Chip 1.2'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 5488: [OneOf] '  Clear TCG Security Feature'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 5504: [OneOf] '  Physical Presence for Provisioning'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 5521: [OneOf] '  Physical Presence for Clear'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 5535: [OneOf] '  Security Device Support'
+  QuestionId: 0x209, VarStoreId: 0x1, VarOffset: 0x77
+  Conditions: SuppressIf, GrayOutIf
+
+Line 5545: [OneOf] '  Security Device Support'
+  QuestionId: 0x20A, VarStoreId: 0x1, VarOffset: 0x77
+  Conditions: SuppressIf, GrayOutIf
+
+Line 5686: [OneOf] 'TCG Security Device'
+  QuestionId: 0x20C, VarStoreId: 0x1, VarOffset: 0x99
+  Conditions: GrayOutIf
+
+Line 5699: [OneOf] '  Security Chip 2.0'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 5715: [OneOf] '  Clear TCG Security Feature'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 5729: [OneOf] '  Physical Presence for Clear'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 5744: [Text] '  Active PCR banks'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 5748: [Text] '  Available PCR banks'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 5759: [OneOf] '  SHA-1 PCR Bank'
+  QuestionId: 0x210, VarStoreId: 0x1, VarOffset: 0x8B
+  Conditions: GrayOutIf
+
+Line 5819: [OneOf] '  Platform Hierarchy'
+  QuestionId: 0x215, VarStoreId: 0x1, VarOffset: 0x80
+  Conditions: SuppressIf
+
+Line 5850: [OneOf] '  TPM 20 InterfaceType'
+  QuestionId: 0x21A, VarStoreId: 0x1, VarOffset: 0x83
+  Conditions: SuppressIf, GrayOutIf
+
+Line 5862: [OneOf] '  Device Select'
+  QuestionId: 0x21C, VarStoreId: 0x1, VarOffset: 0x84
+  Conditions: SuppressIf
+
+Line 5870: [OneOf] '  Disable Block Sid'
+  QuestionId: 0x21D, VarStoreId: 0x1, VarOffset: 0x92
+  Conditions: SuppressIf
+
+Line 5906: [Text] 'Security Supported :'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 5910: [Text] 'Security Supported :'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 5914: [Text] 'Security Enabled   :'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 5918: [Text] 'Security Enabled   :'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 5922: [Text] 'Security Locked    :'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 5926: [Text] 'Security Locked    :'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 5930: [Text] 'Security Frozen    :'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 5934: [Text] 'Security Frozen    :'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 5938: [Text] 'HDD User Pwd Status:'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 5942: [Text] 'HDD User Pwd Status:'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 5946: [Text] 'HDD Master Pwd Status :'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 5950: [Text] 'HDD Master Pwd Status :'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 5983: [OneOf] 'Require HDP on System Boot'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 5991: [Ref] 'Security Erase HDD Data'
+  QuestionId: 0x2971, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 5997: [Text] 'Secure Boot Status'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 6001: [Text] 'Secure Boot Status'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 6020: [Ref] 'Reset To Setup Mode'
+  QuestionId: 0x2974, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf, GrayOutIf
+
+Line 6027: [Ref] 'Restore Factory Keys'
+  QuestionId: 0x2975, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf, GrayOutIf
+
+Line 6032: [OneOf] 'Factory Key Provision'
+  QuestionId: 0x2976, VarStoreId: 0x4F, VarOffset: 0x2
+  Conditions: SuppressIf
+
+Line 6056: [OneOf] 'Current Setting'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 6069: [Text] 'Current State'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 6073: [Text] 'Current State'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 6082: [Ref] 'Clear System Event Log'
+  QuestionId: 0x222, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf, GrayOutIf
+
+Line 6090: [Text] ''
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 6123: [OneOf] 'Access Security Settings'
+  QuestionId: 0x224, VarStoreId: 0x1, VarOffset: 0x29
+  Conditions: GrayOutIf
+
+Line 6127: [OneOf] 'Remote Set SMP'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 6173: [OneOf] 'Secure Boot'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf, GrayOutIf
+
+Line 6203: [Text] ''
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 6229: [Ref] 'Reset Platform to Setup Mode'
+  QuestionId: 0x2A56, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 6268: [Text] 'Vendor Keys'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 6286: [Ref] 'Reset Platform to Setup Mode'
+  QuestionId: 0x2A5E, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 6311: [Ref] 'Remove 'UEFI CA' from DB'
+  QuestionId: 0x2A61, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 6403: [OneOf] 'Boot Option #%d'
+  QuestionId: 0x229, VarStoreId: 0x9, VarOffset: 0x0
+  Conditions: SuppressIf
+
+Line 6419: [OneOf] ' SATA Support'
+  QuestionId: 0x22B, VarStoreId: 0x1, VarOffset: 0x66
+  Conditions: SuppressIf, GrayOutIf
+
+Line 6430: [OneOf] ' NVMe Support'
+  QuestionId: 0x22C, VarStoreId: 0x1, VarOffset: 0x6C
+  Conditions: SuppressIf, GrayOutIf
+
+Line 6439: [OneOf] ' VGA Support'
+  QuestionId: 0x22D, VarStoreId: 0x1, VarOffset: 0x67
+  Conditions: SuppressIf
+
+Line 6449: [OneOf] ' USB Support'
+  QuestionId: 0x22E, VarStoreId: 0x1, VarOffset: 0x68
+  Conditions: SuppressIf, GrayOutIf
+
+Line 6461: [OneOf] ' PS2 Devices Support'
+  QuestionId: 0x22F, VarStoreId: 0x1, VarOffset: 0x69
+  Conditions: SuppressIf, GrayOutIf
+
+Line 6472: [OneOf] ' Network Stack Driver Support'
+  QuestionId: 0x230, VarStoreId: 0x1, VarOffset: 0x6B
+  Conditions: SuppressIf, GrayOutIf
+
+Line 6481: [OneOf] 'Redirection Support'
+  QuestionId: 0x231, VarStoreId: 0x1, VarOffset: 0x6A
+  Conditions: SuppressIf
+
+Line 6496: [OneOf] 'Driver Option #%d'
+  QuestionId: 0x232, VarStoreId: 0x48, VarOffset: 0x0
+  Conditions: SuppressIf
+
+Line 6505: [Ref] 'Add New Boot Option'
+  QuestionId: 0x233, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 6516: [Ref] 'Automatic Boot Sequence'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 6523: [Ref] 'Error Boot Sequence'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 6530: [Ref] 'Manufacturing Boot Sequence'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 6545: [OneOf] 'CSM'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 6565: [OneOf] 'Boot Mode'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf, GrayOutIf
+
+Line 6587: [Text] 'Boot Mode'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 6607: [OneOf] 'Boot Priority '
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 6619: [OneOf] 'Quiet Boot'
+  QuestionId: 0x23B, VarStoreId: 0x1, VarOffset: 0x4E
+  Conditions: SuppressIf, GrayOutIf
+
+Line 6629: [OneOf] 'Quick Boot'
+  QuestionId: 0x23C, VarStoreId: 0x1, VarOffset: 0x46
+  Conditions: SuppressIf, GrayOutIf
+
+Line 6637: [OneOf] 'Boot Up Num-Lock Status'
+  QuestionId: 0x23D, VarStoreId: 0x1, VarOffset: 0x0
+  Conditions: GrayOutIf
+
+Line 6664: [OneOf] 'USB Enumeration Delay'
+  QuestionId: 0x240, VarStoreId: 0x1, VarOffset: 0x49
+  Conditions: SuppressIf, GrayOutIf
+
+Line 6676: [OneOf] 'Option Keys Display'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: SuppressIf, GrayOutIf
+
+Line 6685: [OneOf] 'Option Keys Display Style'
+  QuestionId: 0x242, VarStoreId: 0x1, VarOffset: 0x4C
+  Conditions: SuppressIf, GrayOutIf
+
+Line 6692: [OneOf] 'Startup Device Menu Prompt'
+  QuestionId: 0x243, VarStoreId: 0x1, VarOffset: 0x4D
+  Conditions: SuppressIf
+
+Line 6701: [OneOf] 'Serial Number Style'
+  QuestionId: 0x244, VarStoreId: 0x1, VarOffset: 0x4F
+  Conditions: SuppressIf
+
+Line 6721: [OneOf] 'OEM Logo Feature Support'
+  QuestionId: 0x245, VarStoreId: 0x1, VarOffset: 0x53
+  Conditions: SuppressIf
+
+Line 6727: [OneOf] 'Display Logo'
+  QuestionId: 0x246, VarStoreId: 0x1, VarOffset: 0x50
+  Conditions: SuppressIf
+
+Line 6734: [OneOf] 'Resolution'
+  QuestionId: 0x247, VarStoreId: 0x1, VarOffset: 0x52
+  Conditions: SuppressIf
+
+Line 6752: [Ref] 'Boot'
+  QuestionId: 0x249, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 6764: [Ref] 'Path for boot option'
+  QuestionId: 0x24B, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 6768: [String] 'Boot option File Path'
+  QuestionId: 0x24C, VarStoreId: 0xA, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 6773: [Ref] 'Create'
+  QuestionId: 0x24D, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 6783: [OneOf] 'Delete Boot Option'
+  QuestionId: 0x24E, VarStoreId: 0xB, VarOffset: 0x0
+  Conditions: SuppressIf
+
+Line 6897: [Ref] 'Save Changes and Exit'
+  QuestionId: 0x257, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 6901: [Ref] 'Discard Changes and Exit'
+  QuestionId: 0x258, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 6907: [Ref] 'Save Changes and Reset'
+  QuestionId: 0x259, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 6911: [Ref] 'Discard Changes and Reset'
+  QuestionId: 0x25A, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 6917: [Ref] 'Save Changes'
+  QuestionId: 0x25B, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 6921: [Ref] 'Discard Changes'
+  QuestionId: 0x25C, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 6929: [Ref] 'Restore Defaults'
+  QuestionId: 0x25D, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 6933: [Ref] 'Save as User Defaults'
+  QuestionId: 0x25E, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 6937: [Ref] 'Restore User Defaults'
+  QuestionId: 0x25F, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 6945: [Ref] ''
+  QuestionId: 0x260, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 6953: [Ref] 'Save Changes and Exit'
+  QuestionId: 0x261, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf, GrayOutIf
+
+Line 6958: [Ref] 'Discard Changes and Exit'
+  QuestionId: 0x262, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 6966: [Ref] 'Load Optimal Defaults'
+  QuestionId: 0x263, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf, GrayOutIf
+
+Line 6983: [OneOf] 'OS Optimized Defaults'
+  QuestionId: N/A, VarStoreId: N/A, VarOffset: N/A
+  Conditions: GrayOutIf
+
+Line 6999: [Ref] 'Save & Exit'
+  QuestionId: 0x264, VarStoreId: 0x0, VarOffset: N/A
+  Conditions: SuppressIf
+
+Line 7003: [Numeric] ''
+  QuestionId: 0x265, VarStoreId: 0x2F, VarOffset: 0x0
+  Conditions: DisableIf
+

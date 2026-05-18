@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E0BF50h
+Header address: FEE0BF50h
+Data address: FEE0BF54h
+Offset: 918h
+Full size: 1Ah (26)
+Header size: 4h (4)
+Body size: 16h (22)
+Type: 15h
+Text: SmbiosPeim

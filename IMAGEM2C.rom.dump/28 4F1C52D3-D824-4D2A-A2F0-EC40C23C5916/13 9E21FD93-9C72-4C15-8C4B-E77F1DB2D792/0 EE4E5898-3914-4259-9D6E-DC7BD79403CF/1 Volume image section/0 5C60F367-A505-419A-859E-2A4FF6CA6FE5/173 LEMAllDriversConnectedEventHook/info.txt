@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: LEMAllDriversConnectedEventHook
+Offset: 63F348h
+Full size: 2EAAh (11946)
+Header size: 18h (24)
+Body size: 2E92h (11922)
+File GUID: 9A595246-6F53-4526-B856-3C0667F4DA67
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 7Dh, valid
+Data checksum: AAh, valid

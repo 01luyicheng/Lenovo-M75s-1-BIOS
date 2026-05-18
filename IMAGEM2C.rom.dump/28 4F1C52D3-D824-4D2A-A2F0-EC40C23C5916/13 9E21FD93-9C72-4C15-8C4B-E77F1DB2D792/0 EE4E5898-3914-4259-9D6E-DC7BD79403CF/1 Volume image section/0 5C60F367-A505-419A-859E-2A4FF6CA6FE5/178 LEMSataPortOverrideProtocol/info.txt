@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: LEMSataPortOverrideProtocol
+Offset: 64D1C0h
+Full size: 315Eh (12638)
+Header size: 18h (24)
+Body size: 3146h (12614)
+File GUID: E30C62E1-8CB1-4D98-B535-436BCD5F4566
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: A7h, valid
+Data checksum: AAh, valid

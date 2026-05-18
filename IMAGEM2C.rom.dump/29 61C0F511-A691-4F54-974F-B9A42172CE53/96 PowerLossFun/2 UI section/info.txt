@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E1F138h
+Header address: FEE1F138h
+Data address: FEE1F13Ch
+Offset: 498h
+Full size: 1Eh (30)
+Header size: 4h (4)
+Body size: 1Ah (26)
+Type: 15h
+Text: PowerLossFun

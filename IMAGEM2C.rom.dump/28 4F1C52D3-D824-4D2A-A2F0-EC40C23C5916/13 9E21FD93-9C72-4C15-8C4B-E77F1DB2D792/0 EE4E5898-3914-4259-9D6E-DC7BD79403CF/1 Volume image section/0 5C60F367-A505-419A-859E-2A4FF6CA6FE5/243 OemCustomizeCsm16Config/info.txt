@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: OemCustomizeCsm16Config
+Offset: 6908A0h
+Full size: 656h (1622)
+Header size: 18h (24)
+Body size: 63Eh (1598)
+File GUID: 46A2DC1D-6D2A-4558-BC0E-86B4B54B4236
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 0Ch, valid
+Data checksum: AAh, valid

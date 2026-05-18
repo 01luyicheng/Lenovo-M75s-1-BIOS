@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: RamDiskDxe
+Offset: D016C0h
+Full size: 771Ah (30490)
+Header size: 18h (24)
+Body size: 7702h (30466)
+File GUID: 28A03FF4-12B3-4305-A417-BB1A4F94081E
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: C7h, valid
+Data checksum: AAh, valid

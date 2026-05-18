@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdCpmSocAm4SmbRDxe
+Offset: 1E2D88h
+Full size: 56Eh (1390)
+Header size: 18h (24)
+Body size: 556h (1366)
+File GUID: 2C6FF095-525C-4128-BD00-B8DA5E52A76E
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 3Bh, valid
+Data checksum: AAh, valid

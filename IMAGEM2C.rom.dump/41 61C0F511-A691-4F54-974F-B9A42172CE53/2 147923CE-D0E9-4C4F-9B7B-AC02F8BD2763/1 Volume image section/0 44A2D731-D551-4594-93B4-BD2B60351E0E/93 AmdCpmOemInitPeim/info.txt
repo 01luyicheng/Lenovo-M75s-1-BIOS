@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdCpmOemInitPeim
+Base: 1D97520h
+Header address: FFD97520h
+Data address: FFD97538h
+Offset: 95520h
+Full size: 3BFAh (15354)
+Header size: 18h (24)
+Body size: 3BE2h (15330)
+File GUID: 038EF9A9-5969-4793-964F-FF12FA18393E
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 77h, valid
+Data checksum: AAh, valid

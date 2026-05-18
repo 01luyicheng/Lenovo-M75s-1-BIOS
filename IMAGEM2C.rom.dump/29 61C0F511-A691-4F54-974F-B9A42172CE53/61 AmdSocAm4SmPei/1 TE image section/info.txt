@@ -1,0 +1,19 @@
+Type: Section
+Subtype: TE image
+Base: DF160Ch
+Header address: FEDF160Ch
+Data address: FEDF1610h
+Offset: 54h
+Full size: 59CCh (22988)
+Header size: 4h (4)
+Body size: 59C8h (22984)
+Type: 12h
+Signature: 5A56h
+Machine type: x86
+Number of sections: 3
+Subsystem: 0Bh
+Stripped size: 1C0h (448)
+Base of code: 240h
+Address of entry point: 380h
+Image base: FFDF1478h
+Adjusted image base: FFDF1610h

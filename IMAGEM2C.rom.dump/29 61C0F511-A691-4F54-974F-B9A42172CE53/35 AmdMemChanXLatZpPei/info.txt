@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdMemChanXLatZpPei
+Base: D46370h
+Header address: FED46370h
+Data address: FED46388h
+Offset: 46370h
+Full size: 472h (1138)
+Header size: 18h (24)
+Body size: 45Ah (1114)
+File GUID: F19071B5-B2F6-4A9C-B2E2-FBF56DA5B229
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: DEh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: ThirdPartyNvme
+Offset: 5734F8h
+Full size: 8C6h (2246)
+Header size: 18h (24)
+Body size: 8AEh (2222)
+File GUID: 3E9FF4C8-A355-4063-A487-610360C0ACCE
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: CEh, valid
+Data checksum: AAh, valid

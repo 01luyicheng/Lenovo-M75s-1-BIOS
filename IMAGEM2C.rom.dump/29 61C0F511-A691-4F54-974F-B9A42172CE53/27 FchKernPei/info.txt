@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: FchKernPei
+Base: D2D210h
+Header address: FED2D210h
+Data address: FED2D228h
+Offset: 2D210h
+Full size: 4992h (18834)
+Header size: 18h (24)
+Body size: 497Ah (18810)
+File GUID: 127D4E48-85C0-4FBA-B678-B14E9492AADF
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: D0h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: DC3DD0h
+Header address: FEDC3DD0h
+Data address: FEDC3DD4h
+Offset: B270h
+Full size: 26h (38)
+Header size: 4h (4)
+Body size: 22h (34)
+Type: 15h
+Text: AmdNbioPcieRVPei

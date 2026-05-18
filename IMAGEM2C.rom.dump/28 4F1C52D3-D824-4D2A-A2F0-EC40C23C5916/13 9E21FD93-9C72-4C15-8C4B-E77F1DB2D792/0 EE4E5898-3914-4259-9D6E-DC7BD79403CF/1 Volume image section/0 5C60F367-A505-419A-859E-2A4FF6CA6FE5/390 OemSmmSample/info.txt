@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: OemSmmSample
+Offset: A98790h
+Full size: 182Ah (6186)
+Header size: 18h (24)
+Body size: 1812h (6162)
+File GUID: 82594D34-85DC-49D4-992E-238E622F6152
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 1Eh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: GnbBristolRouting
+Offset: 66888h
+Full size: DAAh (3498)
+Header size: 18h (24)
+Body size: D92h (3474)
+File GUID: 1C0D835F-C0C5-4848-B42B-95FEDBCC815C
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 2Ch, valid
+Data checksum: AAh, valid

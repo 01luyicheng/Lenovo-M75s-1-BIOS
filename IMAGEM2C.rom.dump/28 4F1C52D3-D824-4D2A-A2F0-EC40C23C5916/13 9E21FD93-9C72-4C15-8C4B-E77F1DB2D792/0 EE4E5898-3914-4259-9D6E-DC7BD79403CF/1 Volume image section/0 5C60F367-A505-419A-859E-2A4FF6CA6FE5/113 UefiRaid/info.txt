@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: UefiRaid
+Offset: 28B950h
+Full size: 4AABAh (305850)
+Header size: 18h (24)
+Body size: 4AAA2h (305826)
+File GUID: C74F06D2-ED92-489B-879C-C0E428A22167
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 28h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E202C8h
+Header address: FEE202C8h
+Data address: FEE202CCh
+Offset: 560h
+Full size: 26h (38)
+Header size: 4h (4)
+Body size: 22h (34)
+Type: 15h
+Text: SetupCheckSumPei

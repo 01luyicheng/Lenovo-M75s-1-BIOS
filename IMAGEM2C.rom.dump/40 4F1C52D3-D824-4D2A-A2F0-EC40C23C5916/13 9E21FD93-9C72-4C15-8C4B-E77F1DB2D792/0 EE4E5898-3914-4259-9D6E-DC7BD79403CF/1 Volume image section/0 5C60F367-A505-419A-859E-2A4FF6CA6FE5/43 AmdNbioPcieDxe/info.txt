@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmdNbioPcieDxe
+Offset: B8190h
+Full size: D88Eh (55438)
+Header size: 18h (24)
+Body size: D876h (55414)
+File GUID: E1DB609A-D413-4791-C6EE-093D8BC047A4
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: EEh, valid
+Data checksum: AAh, valid

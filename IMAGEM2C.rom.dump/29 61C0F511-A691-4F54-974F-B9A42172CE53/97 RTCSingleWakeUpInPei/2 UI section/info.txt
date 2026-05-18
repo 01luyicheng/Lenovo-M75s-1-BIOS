@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E1F880h
+Header address: FEE1F880h
+Data address: FEE1F884h
+Offset: 718h
+Full size: 2Eh (46)
+Header size: 4h (4)
+Body size: 2Ah (42)
+Type: 15h
+Text: RTCSingleWakeUpInPei

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: FchKernDxe
+Offset: C8338h
+Full size: 9F92h (40850)
+Header size: 18h (24)
+Body size: 9F7Ah (40826)
+File GUID: 4A2F3948-C40A-469D-86E7-4EDC54133B46
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 9Eh, valid
+Data checksum: AAh, valid

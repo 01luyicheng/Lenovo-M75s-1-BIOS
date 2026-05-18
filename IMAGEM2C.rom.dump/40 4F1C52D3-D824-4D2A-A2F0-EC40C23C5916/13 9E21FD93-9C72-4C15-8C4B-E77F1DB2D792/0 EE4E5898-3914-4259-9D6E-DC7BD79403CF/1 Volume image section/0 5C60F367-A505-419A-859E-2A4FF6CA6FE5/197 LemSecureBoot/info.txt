@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: LemSecureBoot
+Offset: 5BB6D0h
+Full size: 712h (1810)
+Header size: 18h (24)
+Body size: 6FAh (1786)
+File GUID: A1B8C9FD-3D04-43AA-8399-720A629EBF3F
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: FDh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: LEMComputraceApiSmm
+Offset: 9C79A0h
+Full size: 18B2h (6322)
+Header size: 18h (24)
+Body size: 189Ah (6298)
+File GUID: 73852F31-9834-4EC7-97EE-41E584DC3C49
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 63h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: UsbRtSmm
+Offset: 930550h
+Full size: 2C9AEh (182702)
+Header size: 18h (24)
+Body size: 2C996h (182678)
+File GUID: 04EAAAA1-29A1-11D7-8838-00500473D4EB
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 4Ch, valid
+Data checksum: AAh, valid

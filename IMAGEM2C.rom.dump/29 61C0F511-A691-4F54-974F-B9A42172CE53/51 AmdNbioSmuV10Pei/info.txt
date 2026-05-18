@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AmdNbioSmuV10Pei
+Base: DCF140h
+Header address: FEDCF140h
+Data address: FEDCF158h
+Offset: CF140h
+Full size: 2D82h (11650)
+Header size: 18h (24)
+Body size: 2D6Ah (11626)
+File GUID: 7307BD0F-8B7A-4BA5-9AF6-3997D1E32786
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 4Fh, valid
+Data checksum: AAh, valid

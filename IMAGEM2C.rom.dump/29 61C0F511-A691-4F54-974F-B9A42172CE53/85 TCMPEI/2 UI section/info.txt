@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: E1C2C0h
+Header address: FEE1C2C0h
+Data address: FEE1C2C4h
+Offset: F38h
+Full size: 12h (18)
+Header size: 4h (4)
+Body size: Eh (14)
+Type: 15h
+Text: TCMPEI

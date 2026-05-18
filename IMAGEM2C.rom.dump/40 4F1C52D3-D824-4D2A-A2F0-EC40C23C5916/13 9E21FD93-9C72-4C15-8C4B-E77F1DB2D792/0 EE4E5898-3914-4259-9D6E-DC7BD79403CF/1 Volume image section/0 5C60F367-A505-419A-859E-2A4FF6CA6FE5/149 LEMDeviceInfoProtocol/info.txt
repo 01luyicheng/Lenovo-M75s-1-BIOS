@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: LEMDeviceInfoProtocol
+Offset: 58B380h
+Full size: C52h (3154)
+Header size: 18h (24)
+Body size: C3Ah (3130)
+File GUID: CCB16BA4-B0D5-401A-B047-E091B1C6467B
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 90h, valid
+Data checksum: AAh, valid

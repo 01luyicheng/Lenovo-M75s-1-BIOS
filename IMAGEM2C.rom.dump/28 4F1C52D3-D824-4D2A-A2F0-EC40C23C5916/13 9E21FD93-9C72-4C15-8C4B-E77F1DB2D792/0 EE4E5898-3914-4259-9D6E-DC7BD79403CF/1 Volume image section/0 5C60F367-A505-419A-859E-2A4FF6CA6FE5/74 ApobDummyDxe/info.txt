@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: ApobDummyDxe
+Offset: 18C678h
+Full size: 6D2h (1746)
+Header size: 18h (24)
+Body size: 6BAh (1722)
+File GUID: 32F93C9E-83A0-4EE4-B66B-C704615D9895
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: F0h, valid
+Data checksum: AAh, valid

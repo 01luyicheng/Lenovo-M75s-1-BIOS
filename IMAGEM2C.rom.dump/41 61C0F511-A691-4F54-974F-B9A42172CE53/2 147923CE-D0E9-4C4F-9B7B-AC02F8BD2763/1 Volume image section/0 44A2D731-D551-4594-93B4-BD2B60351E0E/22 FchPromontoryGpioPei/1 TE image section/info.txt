@@ -1,0 +1,19 @@
+Type: Section
+Subtype: TE image
+Base: 1D270E0h
+Header address: FFD270E0h
+Data address: FFD270E4h
+Offset: 78h
+Full size: 1604h (5636)
+Header size: 4h (4)
+Body size: 1600h (5632)
+Type: 12h
+Signature: 5A56h
+Machine type: x86
+Number of sections: 3
+Subsystem: 0Bh
+Stripped size: 1A8h (424)
+Base of code: 220h
+Address of entry point: 27Dh
+Image base: 9D26F64h
+Adjusted image base: 9D270E4h
