@@ -1,0 +1,40 @@
+https://www.52pojie.cn/thread-1375370-1-1.html
+
+汉化说明：
+
+NeoProgrammer 2.2.0.10 是基于 Asprogrammer 2.1.0.13 的一个增强修改版。新版本支持的芯片数量达1629个。
+此最新版本内置了我翻译的中文语言包（笑），不过新加的检测功能还没翻译，我继续翻译，欢迎作者继续使用我的语言包。新的完整外挂语言包，请选择“中文简体（新）”。另外翻译了新增的改造说明：“黑色”CH341编程器3.3伏修改（简单）。
+
+支持的芯片如下：（详细列表见devicelist.txt）
+SPI NOR 闪存
+SPI NAND 闪存
+SPI EEProms（25xxx，95xxx）
+SPI EEProms（45xxx）*
+SPI F-RAM，FRAM
+I2C EEProms（24Cxx ）
+MicroWire EEProms（93Cxx 8/16位）* M93S46、M93S56、M93S66、ER5911、ER5912、ER5922、MSM16911、93C57、M811P ...（参见 devicelist.txt 中的 DIV_59x 和 OKI）。
+AVR MCU （ATmega， ATtiny）* 
+NUVOTON MCU （N76E003）*
+ENE KB90xx *
+
+特殊组件：
+I2C：
+AT24RF08 / PCA24S08 / BUL08 / LE26CAP08（已测试）*
+PCF8582C（已测试）*
+M34E02/AT34C02（已测试）* 
+M34E04/AT34C04（已测试）*
+CT1C08（已测试）*
+CT1C16 *
+
+SPI EEprom：
+M35080，M351xx（读，写，清空）
+ST95P08（已测试）*
+
+标注的*号：这些组件中的许多组件都需要将适配器连接到CH341。适配器图直接在软件中可用。
+
+
+安装软件，请执行以下操作：
+将NeoProgrammer 2.2.0.10 绿色版压缩文件解压缩到所需的位置。
+旧的chiplist.xml 与2.2.0 以上版本不兼容，如果存在请删除。
+如果从未安装过CH341的驱动程序，请转到NeoProgrammer \ Drivers \ CH341A目录并运行setup.exe文件，该驱动程序与所有版本的Windows兼容。请勿安装其他驱动程序。
+

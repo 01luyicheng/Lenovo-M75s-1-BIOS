@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <detectopt AVRDet="1" MCUDet="1" KB90Det="1" MWActiveDet="1" I2CActiveDet="1" MWPassiveDet="1" I2CPassiveDet="1" EEPromActiveDet="1" EEPromPassiveDet="1"/>
+  <locale lang="CHS"/>
+  <options hw="ch341_black" clear="0" skipff="1" unprot="1" verify="0" chipname="W25Q128JVSQ" SPIExpert="1" ShowLinks="1" spi_speed="1_5Mhz" InitialDir="d:\Users\17633\Desktop\" blankcheck="0" LoadLastDev="1" SaveFhistory="1"/>
+  <Windows DPI="96" Top="537" Left="687" LogH="287" Width="886" Height="489"/>
+  <ChipHistory list="W25Q128JVSQ [3.3V],AT45DB011D_page256 [3.3V],S-24CS16A [3.3V],ZX298100A0 [3.3V],S35ML01G3-128B [3.3V],S35ML01G3 [3.3V],F50L1G41LB [3.3V],W25Q32 [3.3V],W25Q16 [3.3V],W25P80 [3.3V],MX25L512 [3.3V],FM25Q04 [3.3V],FM25Q08A [3.3V],W25X40BL [3.3V],PN26G01AWSIUG [3.3V]"/>
+  <FileHistory/>
+</settings>
