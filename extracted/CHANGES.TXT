@@ -1,0 +1,92 @@
+
+                                 BIOS Changes History
+      
+
+General Information:
+
+        M2CJ9xxUSA is Flash CD ROM image.
+        M2CJTxxUSA is Flash in UEFI Shell zip package.
+        M2CJYxxUSA is Flash in Windows utility.
+        NOTE: All changes carry forward.  That is, if a change is added in 01, it is also in 02, 03 etc.
+
+This file will be updated from the beginning with first Production BIOS release
+CHANGES for M2CKT53A
+    - Enhancement to address security vulnerability.
+
+CHANGES for M2CKT52A
+    - Enhancement to address security vulnerability.
+    - Autopilot marker fix
+
+CHANGES for M2CKT51A
+    - Enhancement to address security vulnerability.
+    - Update BIOS Build Package Tool v4.0.5
+
+CHANGES for M2CKT50A
+    - Enhancement to address security vulnerability.
+
+CHANGES for M2CKT4FA
+    - Enhancement to address security vulnerability.
+
+CHANGES for M2CKT4EA
+    - Enhancement to address security vulnerability.
+
+CHANGES for M2CKT4DA
+    - Enhancement to address security vulnerability.
+
+CHANGES for M2CKT4CA
+    - Enhancement to address security vulnerability.
+    - Fix SMBIOS type3 string issue.
+
+CHANGES for M2CKT4BA
+    - Enhancement to address security vulnerability.
+
+CHANGES for M2CKT4AA
+    - Security Improvement.
+
+CHANGES for M2CKT43A
+    - fix M75s-1 possible BIOS bug.
+
+CHANGES for M2CKT42A
+    - Security improvement.
+
+CHANGES for M2CKT41A
+    - Support TPM FW update
+
+CHANGES for M2CKT39A
+    - Security improvement. 
+
+CHANGES for M2CKT38A
+    - Security improvement. 
+
+CHANGES for M2CKT37A
+    - Optimized Smart USB Protection function. 
+
+CHANGES for M2CKT36A
+    - Security improvement. 
+    - Add TSME support.
+
+CHANGES for M2CKT34A
+    - Fix no display problem in M2CKT32A after changing to legacy mode. 
+    - Support Athlon 300GE CPU.
+    - Improve PCIE slot compatible function.
+    - Add Setup Mode switch item in BIOS.
+    - Adjust setup string for save and reset.
+    - Adjust SMBIOS Type 13.
+    - Implement WFLASH2.EXE flash logo function.
+    - Upgrade UEFI Diag to 04.12.001.
+
+CHANGES for M2CKT29A
+    - Upgrade UEFI Diag to 04.09.000.
+
+CHANGES for M2CKT28A
+    - Adjust M.2 string in WMI list.
+
+CHANGES for M2CKT27A
+    - Adjust Boot Priority setting.
+
+CHANGES for M2CKT26A
+    - Fix DASH function issue.
+    - Fix Mattise CPU base frequency display abnormal issue.
+
+CHANGES for M2CKT25A
+    - Initial release.

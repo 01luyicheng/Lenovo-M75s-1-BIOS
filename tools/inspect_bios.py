@@ -194,8 +194,10 @@ def main() -> int:
         rendered = ", ".join(hex(x) for x in offsets[:12]) or "none"
         print(f"  {term.decode('latin1')}: {rendered}")
 
+    rom_data = rom.read_bytes()
+
     print("\nFirmware volumes:")
-    for base, length, hdr_len in firmware_volumes(rom):
+    for base, length, hdr_len in firmware_volumes(rom_data):
         print(f"  base={base:#010x} length={length:#x} header={hdr_len:#x}")
 
     print("\nTagged FFS files:")
